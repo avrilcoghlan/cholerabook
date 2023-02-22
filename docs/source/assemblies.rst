@@ -52,7 +52,24 @@ On the Pathogenwatch website, click on 'Upload' at the top right of the website:
 
 .. image:: Picture1.png
   :width: 650
-  :alt: Alternative text
+  
+You will need to now sign into the Pathogenwatch website. To upload data to the Pathogenwatch website, it's necessary
+to make an account first, for example, using your email address as your login. 
+
+This will bring you to a webpage saying 'What would you like to upload?', and you need to click on 'FASTQ':
+
+.. image:: Picture2.png
+  :width: 650
+
+You then need to click on the '+' button at the bottom right of the screen to upload your zipped fastq files:
+
+.. image:: Picture3.png
+  :width: 650
+  
+Then select all the zipped fastq files that you want to upload, for example, if you want to upload fastq files for 9 isolates:
+
+.. image:: Picture4.png
+  :width: 650
 
 Creating recipes
 ----------------
