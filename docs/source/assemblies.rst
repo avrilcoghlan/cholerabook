@@ -50,7 +50,7 @@ Once your files have names ending in ``_R1.fastq.gz`` and ``_R2.fastq.gz``, you 
 
 On the Pathogenwatch website, click on ``Upload`` at the top right of the website:
 
-.. image:: images/Picture1.png
+.. image:: Picture1.png
   :width: 400
   :alt: Alternative text
 
