@@ -13,12 +13,12 @@ Vibriowatch's home is the `PathogenWatch`_ website.
 
 In this tutorial, we will describe how users can use Vibriowatch to:
 
-* upload reads or assembled genomes (see :doc:`assemblies` section for further information).
-* verifying that their isolate's species is *V. cholerae* (see :doc:`assemblies` section for further information).
-* view the statistics for their assembly (see :doc:`assemblies` section for further information).
-* carry out MLST analysis of their isolate (see :doc:`mlst` section for further information).
-* compare their isolate to Vibriowatch's *V. cholerae* reference genomes (see :doc:`mlst` section for further information).
-* build a phylogenetic tree to check if their isolate belongs to the pandemic lineage (see :doc:`mlst` section for further information).
+* upload reads or assembled genomes (which we'll explain in :doc:`assemblies`).
+* verifying that their isolate's species is *V. cholerae* (see :doc:`assemblies`).
+* view the statistics for their assembly (see :doc:`assemblies`).
+* carry out MLST analysis of their isolate (see :doc:`mlst`).
+* compare their isolate to Vibriowatch's *V. cholerae* reference genomes (see :doc:`mlst`).
+* build a phylogenetic tree to check if their isolate belongs to the pandemic lineage (see :doc:`mlst`).
 * use cgMLST to find closely related isolates.
 * build a phylogenetic tree of their isolate and its closest relatives.
 * predict virulence genes.
