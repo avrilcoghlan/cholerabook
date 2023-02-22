@@ -1,5 +1,5 @@
-Usage
-=====
+Uploading reads or assembled genomes
+====================================
 
 .. _installation:
 
