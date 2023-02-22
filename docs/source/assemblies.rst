@@ -23,9 +23,9 @@ You will see something like this in your terminal window:
    $ 160M    sample1_R1.fastq.gz
    $ 176M    sample1_R2.fastq.gz
 
-If the zipped fastq files are each `<`500 Mbyte in size, then they are fine for Vibriowatch to accept.
+If the zipped fastq files are each :math:`< 500` Mbyte in size, then they are fine for Vibriowatch to accept.
 
-If your zipped fastq files of reads are `>`500 Mbyte in size, you could either (i) sample a smaller set of the reads in the files to give to Vibriowatch to make an assembly (the easier option), or (ii) alternatively you can make an assembly outside Vibriowatch using an assembly software (a more difficult option).
+If your zipped fastq files of reads are :math:`> 500` Mbyte in size, you could either (i) sample a smaller set of the reads in the files to give to Vibriowatch to make an assembly (the easier option), or (ii) alternatively you can make an assembly outside Vibriowatch using an assembly software (a more difficult option).
 
 Uploading reads to Vibriowatch, to make an assembly 
 ---------------------------------------------------
