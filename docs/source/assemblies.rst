@@ -1,6 +1,12 @@
 Assemblies and assembly quality
 ===============================
 
+In this section, we will describe how users can use Vibriowatch to:
+
+* upload reads or assembled genomes.
+* verifying that their isolate's species is *V. cholerae*.
+* view the statistics for their assembly.
+
 If you have fastq files of reads for an isolate, you can upload them to Vibriowatch to make an assembly for your isolate.
 
 Alternatively, if you already have an assembly for your isolate, you can upload the assembly to Vibriowatch.
