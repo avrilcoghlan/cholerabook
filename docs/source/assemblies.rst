@@ -144,12 +144,12 @@ You can see in the column on the far right that the 'Access' for each of the iso
 Note that you can also find the full list of genomes in your private Vibriowatch account by clicking on the three small horizontal bars at the top left of the Pathogenwatch website:
 
 .. image:: Picture9.png
-  :width: 100
+  :width: 150
   
 This will bring up a menu:
 
 .. image:: Picture10.png
-  :width: 100
+  :width: 150
   
 If you click on 'My Genomes' in this menu, it will give you the list of genomes that you have just uploaded (or have been assembled from fastq files that you just uploaded), as well as any genomes that you uploaded on previous days:
 
@@ -171,7 +171,7 @@ To find the assembly statistics for your isolate, you need to look at the bottom
 At the bottom of the report page for your isolate, you will see some assembly statistics, for example:
 
 .. image:: Picture12.png
-  :width: 650
+  :width: 500
 
 In the example above, the isolate has a genome size of about 4.0 Megabases, and GC content of 47.5%. This is consistent with the reference genome for *Vibrio cholerae* strain N16961, which has a genome size of about 4.0 Megabases and GC content of 47.5% (see  `Heidelberg et al 2000`_).
 
