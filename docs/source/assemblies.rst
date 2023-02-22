@@ -36,22 +36,22 @@ If your zipped fastq files of reads are :math:`>` 500 Mbyte in size, you could e
 Uploading reads to Vibriowatch, to make an assembly 
 ---------------------------------------------------
 
-To upload files to Vibriowatch, they need to have file-names ending in ``_R1.fastq.gz`` and ``_R2.fastq.gz``.
+To upload files to Vibriowatch, they need to have file-names ending in '_R1.fastq.gz' and '_R2.fastq.gz'.
 
-If your files do not have file-names ending in ``_R1.fastq.gz`` and ``_R2.fastq.gz``, you will need to rename them using the Linux ``mv`` command. For example, you can rename a file ``S1_R1_001.fastq.gz`` to be called ``S1_R1.fastq.gz`` by typing:
+If your files do not have file-names ending in '_R1.fastq.gz' and '_R2.fastq.gz', you will need to rename them using the Linux 'mv' command. For example, you can rename a file 'S1_R1_001.fastq.gz' to be called 'S1_R1.fastq.gz' by typing:
 
 .. code-block:: console
 
    $ mv S1_R1_001.fastq.gz S1_R1.fastq.gz
 
-Once your files have names ending in ``_R1.fastq.gz`` and ``_R2.fastq.gz``, you can upload them to Vibriowatch by going to the `Pathogenwatch`_ website.
+Once your files have names ending in '_R1.fastq.gz' and '_R2.fastq.gz', you can upload them to Vibriowatch by going to the `Pathogenwatch`_ website.
 
 .. _Pathogenwatch: https://pathogen.watch/
 
-On the Pathogenwatch website, click on ``Upload`` at the top right of the website:
+On the Pathogenwatch website, click on 'Upload' at the top right of the website:
 
 .. image:: Picture1.png
-  :width: 400
+  :width: 650
   :alt: Alternative text
 
 Creating recipes
