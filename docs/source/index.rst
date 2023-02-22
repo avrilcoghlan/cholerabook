@@ -1,5 +1,5 @@
-Welcome to Lumache's documentation!
-===================================
+Genomic surveillance for Vibrio cholerae using Vibriowatch
+==========================================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
