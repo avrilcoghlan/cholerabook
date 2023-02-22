@@ -85,13 +85,13 @@ As soon as some of the genomes have been assembled, the piechart will show which
   
 We call the *Vibrio cholerae* component of Pathogenwatch 'Vibriowatch'. Vibriowatch carries out eight different analyses for each assembly:
 
-#. Species identification.
+#. Species identification (see :doc:`assemblies` section for further information).
 #. AMR gene analysis.
 #. cgMLST.
 #. Core gene summary.
 #. Inctyper (to find plasmids).
-#. MLST.
-#. Assembly statistics.
+#. MLST (see :doc:`mlst` section for further information).
+#. Assembly statistics (see :doc:`assemblies` section for further information).
 #. Virulence gene identification using the 'Vista' software.
 
 We will explain all of these analyses later in the tutorial.
