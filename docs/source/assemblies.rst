@@ -124,8 +124,8 @@ For example, the piechart below shows that one isolate was identified as phiX174
   
 In the example above, there were also seven isolates that were assembled that were identified by Pathogenwatch as *Vibrio cholerae*. 
 
-Viewing the Vibriowatch 'report page' for your isolate
-------------------------------------------------------
+Viewing the Vibriowatch report page for your isolate
+----------------------------------------------------
 
 Once you have uploaded reads and Pathogenwatch has made an assembly for you (or once you have uploaded your own assembly to Pathogenwatch), the Pathogenwatch website will make a 'report page' for your isolate with more information on its genome. 
 
@@ -166,6 +166,24 @@ Viewing the assembly statistics for your isolate
 
 Once you have uploaded reads and Pathogenwatch has made an assembly for you (or once you have uploaded your own assembly to Pathogenwatch), it is a good idea to have a closer look at the assembly statistics for your isolates.
 
+To find the assembly statistics for your isolate, you need to look at the bottom of the report page for that isolate (see `Viewing the Vibriowatch report page for your isolate`_ above for how to find the report page).
+
+At the bottom of the report page for your isolate, you will see some assembly statistics, for example:
+
+.. image:: Picture12.png
+  :width: 650
+
+In the example above, the isolate has a genome size of about 4.0 Megabases, and GC content of 47.5%. This is consistent with the reference genome for *Vibrio cholerae* strain N16961, which has a genome size of about 4.0 Megabases and GC content of 47.5% (see  `Heidelberg et al 2000`_).
+
+.. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
+
+As a very rough 'rule of thumb', we would consider that an assembly size of between about 3.3 and 5.3 Megabase, and a GC content of between about 41.3% and 48.6%, is reasonable for a *Vibrio cholerae* genome. However, note that this an extremely rough rule of thumb, and may need to be revised in future when more is known about the diversity found in the species *Vibrio cholerae*.
+
+If your assembly has a genome size or GC content far outside these ranges, it would probably be a good idea to investigate whether your assembly likely contains contamination from another species' DNA (see below).
+
+Other commonly used measures of assembly quality are the number of contigs and the number of non-ATCG characters. We would usually consider that an assembly is of relatively good quality if it consists of :math:`<` 700 contigs, and contains :math:`<` 50,000 non-ATCG characters. If the assembly for your isolate has more contigs, or more ATCG characters, it is relatively poor quality and so this may introduce errors into further bioinformatic analyses that you carry out using Vibriowatch.
+
+In the example above, the genome for the isolate has 62 contigs and 695 non-ATCG characters, so is relatively good quality.
 
 Creating recipes
 ----------------
