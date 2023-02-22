@@ -70,7 +70,32 @@ Then select all the zipped fastq files that you want to upload, for example, if 
 
 .. image:: Picture4.png
   :width: 200
+  
+The Pathogenwatch website will then tell you that it is uploading your data, and when it has finished uploading it all, it will tell you that it is making assemblies for your isolates. The assembly process takes quite a while (e.g. roughly one hour for 10 isolates), and while it is running the website will give you a piechart showing its progress, for example:
 
+.. image:: Picture5.png
+  :width: 650
+  
+As soon as some of the genomes have been assembled, the piechart will show which species they have been recognised to be, and also will show how many analyses have been carried out on the assemblies (see to the left of the piechart), for example:
+
+.. image:: Picture6.png
+  :width: 650
+  
+We call the *Vibrio cholerae* component of Pathogenwatch 'Vibriowatch'. Vibriowatch carries out eight different analyses for each assembly:
+# 1. Species identification.
+# 2. Assembly statistics.
+# 3. MLST.
+# 4. cgMLST.
+# 5. Virulence gene identification using the 'Vista' software.
+# 6. AMR gene analysis.
+# 7. Inctyper (to find plasmids).
+# 8. Core gene summary.
+
+When Pathogenwatch has finished the analyses on all the isolates that it has assembled genomes for, the piechart will look something like this:
+
+.. image:: Picture7.png
+  :width: 650
+  
 Creating recipes
 ----------------
 
