@@ -59,17 +59,17 @@ to make an account first, for example, using your email address as your login.
 This will bring you to a webpage saying 'What would you like to upload?', and you need to click on 'FASTQ':
 
 .. image:: Picture2.png
-  :width: 650
+  :width: 500
 
 You then need to click on the '+' button at the bottom right of the screen to upload your zipped fastq files:
 
 .. image:: Picture3.png
-  :width: 650
+  :width: 500
   
 Then select all the zipped fastq files that you want to upload, for example, if you want to upload fastq files for 9 isolates:
 
 .. image:: Picture4.png
-  :width: 650
+  :width: 200
 
 Creating recipes
 ----------------
