@@ -25,9 +25,6 @@ In this tutorial, we will describe how users can use Vibriowatch to:
 * predict antimicrobial resistance genes.
 * predict plasmids.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
 .. note::
 
    This project is under active development.
@@ -37,5 +34,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   assemblies
+   mlst
