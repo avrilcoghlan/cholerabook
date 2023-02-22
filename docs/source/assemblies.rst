@@ -5,6 +5,8 @@ If you have fastq files of reads for an isolate, you can upload them to Vibriowa
 
 Alternatively, if you already have an assembly for your isolate, you can upload the assembly to Vibriowatch.
 
+When you upload fastq files or assemblies to Vibriowatch, they are stored in your private Vibriowatch account, and can only be viewed or analysed by you and nobody else.
+
 Checking if your fastq files of reads are suitable for Vibriowatch
 ------------------------------------------------------------------
 
@@ -121,6 +123,49 @@ For example, the piechart below shows that one isolate was identified as phiX174
   :width: 650
   
 In the example above, there were also seven isolates that were assembled that were identified by Pathogenwatch as *Vibrio cholerae*. 
+
+Viewing the Vibriowatch 'report page' for your isolate
+------------------------------------------------------
+
+Once you have uploaded reads and Pathogenwatch has made an assembly for you (or once you have uploaded your own assembly to Pathogenwatch), the Pathogenwatch website will make a 'report page' for your isolate with more information on its genome. 
+
+To view the report pages for your isolates, you need to click on the 'View genomes' link in the middle of the piechart:
+
+.. image:: Picture7.png
+  :width: 650
+  
+This will bring up a list of the assemblies that have just been made for you in Vibriowatch, looking something like this:
+
+.. image:: Picture8.png
+  :width: 650
+  
+You can see in the column on the far right that the 'Access' for each of the isolates is 'Private', which means that only you (and nobody else) can see or analyse these assemblies in Vibriowatch.
+
+Note that you can also find the full list of genomes in your private Vibriowatch account by clicking on the three small horizontal bars at the top left of the Pathogenwatch website:
+
+.. image:: Picture9.png
+  :width: 100
+  
+This will bring up a menu:
+
+.. image:: Picture10.png
+  :width: 100
+  
+If you click on 'My Genomes' in this menu, it will give you the list of genomes that you have just uploaded (or have been assembled from fastq files that you just uploaded), as well as any genomes that you uploaded on previous days:
+
+.. image:: Picture8.png
+  :width: 650
+  
+To see more information on a particular isolate's assembly, click on the link on the left in the 'Name' column, e.g. '1_S1_L001'. This will bring you to a Vibriowatch 'report page' for that genome, which will look something like this (just showing the top of the report page):
+
+.. image:: Picture11.png
+  :width: 650
+
+Viewing the assembly statistics for your isolate
+------------------------------------------------
+
+Once you have uploaded reads and Pathogenwatch has made an assembly for you (or once you have uploaded your own assembly to Pathogenwatch), it is a good idea to have a closer look at the assembly statistics for your isolates.
+
 
 Creating recipes
 ----------------
