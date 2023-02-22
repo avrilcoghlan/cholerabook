@@ -1,5 +1,5 @@
-Uploading reads or assembled genomes
-====================================
+Assemblies and assembly quality
+===============================
 
 If you have fastq files of reads for an isolate, you can upload them to Vibriowatch to make an assembly for your isolate.
 
