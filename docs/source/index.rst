@@ -7,10 +7,6 @@ Vibriowatch contains `>4000` published *V. cholerae* genomes, and manually-curat
 
 Vibriowatch is aimed for use by clinicians and public health workers studying cholera outbreaks, as well as for research biologists investigating *V. cholerae* genomic variation and evolution.
 
-Get the latest news at `CNN`_.
-
-.. _CNN: http://cnn.com/
-
 Vibriowatch's home is the `PathogenWatch`_ website.
 
 .. _PathogenWatch: https://pathogen.watch/
