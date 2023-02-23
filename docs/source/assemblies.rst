@@ -101,13 +101,9 @@ We call the *Vibrio cholerae* component of Pathogenwatch 'Vibriowatch'. Vibriowa
 #. cgMLST.
 #. Core gene summary.
 #. Inctyper (to find plasmids).
-#. MLST (see :doc:`mlst.rst` or :doc:`/mlst.rst` or :doc:`../mlst.rst` for further information).
+#. MLST (see `Lineage information <mlst.rst>`__ for further information).
 #. Assembly statistics (see `View the assembly statistics for your isolate`_).
 #. Virulence gene identification using the 'Vista' software.
-
-`This <other.rst#section>`__ is a reference to a section in another file, which works on github. 
-
-`This <mlst.rst>`__ is a reference to a section in another file, which works on github. 
 
 We will explain all of these analyses later in the tutorial.
 
