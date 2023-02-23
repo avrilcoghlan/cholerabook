@@ -3,7 +3,7 @@ Assemblies and assembly quality
 
 In this section, we will describe how users can use Vibriowatch to:
 
-* :ref:`upload reads to make an assembly for an isolate<target to paragraph1>`.
+* `Upload reads`_ to make an assembly for an isolate.
 * upload an assembled genome for an isolate.
 * verifying that their isolate's species is *V. cholerae*.
 * view the statistics for their assembly.
@@ -13,20 +13,6 @@ If you have fastq files of reads for an isolate, you can upload them to Vibriowa
 Alternatively, if you already have an assembly for your isolate, you can upload the assembly to Vibriowatch.
 
 When you upload fastq files or assemblies to Vibriowatch, they are stored in your private Vibriowatch account, and can only be viewed or analysed by you and nobody else.
-
-.. _My target:
-
-Explicit targets
-~~~~~~~~~~~~~~~~
-
-Reference `My target`_.
-
-.. _target to paragraph:
-
-An easy way is just to use the final link of the page/section.
-This works, but it has :ref:`some disadvantages <target to paragraph>`:
-
-.. _target to paragraph1:
 
 Checking if your fastq files of reads are suitable for Vibriowatch
 ------------------------------------------------------------------
@@ -55,6 +41,8 @@ The sizes of the files in Mbyte are given in the left column.
 If the zipped fastq files are each :math:`<` 500 Mbyte in size, then they are fine for Vibriowatch to accept.
 
 If your zipped fastq files of reads are :math:`>` 500 Mbyte in size, you could either (i) sample a smaller set of the reads in the files to give to Vibriowatch to make an assembly (the easier option), or (ii) alternatively you can make an assembly outside Vibriowatch using an assembly software (a more difficult option).
+
+.. _Upload reads:
 
 Uploading reads to Vibriowatch, to make an assembly 
 ---------------------------------------------------
