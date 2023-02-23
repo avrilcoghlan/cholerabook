@@ -105,6 +105,10 @@ We call the *Vibrio cholerae* component of Pathogenwatch 'Vibriowatch'. Vibriowa
 #. Assembly statistics (see `View the assembly statistics for your isolate`_).
 #. Virulence gene identification using the 'Vista' software.
 
+`This <other.rst#section>`__ is a reference to a section in another file, which works on github. 
+
+`This <mlst.rst>`__ is a reference to a section in another file, which works on github. 
+
 We will explain all of these analyses later in the tutorial.
 
 When Pathogenwatch has finished the analyses on all the isolates that it has assembled genomes for, the piechart will look something like this:
