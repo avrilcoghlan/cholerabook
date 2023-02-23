@@ -14,6 +14,11 @@ Alternatively, if you already have an assembly for your isolate, you can upload 
 
 When you upload fastq files or assemblies to Vibriowatch, they are stored in your private Vibriowatch account, and can only be viewed or analysed by you and nobody else.
 
+.. _target to paragraph:
+
+An easy way is just to use the final link of the page/section.
+This works, but it has :ref:`some disadvantages <target to paragraph>`:
+
 .. _target to paragraph1:
 
 Checking if your fastq files of reads are suitable for Vibriowatch
