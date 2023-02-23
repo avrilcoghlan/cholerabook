@@ -101,7 +101,7 @@ We call the *Vibrio cholerae* component of Pathogenwatch 'Vibriowatch'. Vibriowa
 #. cgMLST.
 #. Core gene summary.
 #. Inctyper (to find plasmids).
-#. MLST (see :doc:`mlst` for further information).
+#. MLST (see :doc:`mlst` or :doc:`/mlst` or :doc:`../mlst` for further information).
 #. Assembly statistics (see `View the assembly statistics for your isolate`_).
 #. Virulence gene identification using the 'Vista' software.
 
