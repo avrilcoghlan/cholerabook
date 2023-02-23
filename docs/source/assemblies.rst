@@ -101,7 +101,7 @@ We call the *Vibrio cholerae* component of Pathogenwatch 'Vibriowatch'. Vibriowa
 #. cgMLST.
 #. Core gene summary.
 #. Inctyper (to find plasmids).
-#. MLST (see :docs:`mlst` for further information).
+#. MLST (see :doc:`mlst` for further information).
 #. Assembly statistics (see `View the assembly statistics for your isolate`_).
 #. Virulence gene identification using the 'Vista' software.
 
@@ -119,9 +119,9 @@ Upload an assembly for an isolate
 
 If you already have an assembly for an isolate, you can upload your assembly to Vibriowatch.
 
-The steps are very similar to uploading reads (see `Uploading reads to Vibriowatch, to make an assembly`_ above), except that on the webpage saying 'What would you like to upload?', you need to click on 'Single genome FASTAs' (instead of 'FASTQ').
+The steps are very similar to uploading reads (see `Upload reads to Vibriowatch, to make an assembly`_), except that on the webpage saying 'What would you like to upload?', you need to click on 'Single genome FASTAs' (instead of 'FASTQ').
 
-Pathogenwatch will carry out eight different analyses for each assembly, as it does after making assemblies from reads (see `Uploading reads to Vibriowatch, to make an assembly`_ above).
+Pathogenwatch will carry out eight different analyses for each assembly, as it does after making assemblies from reads (see `Upload reads to Vibriowatch, to make an assembly`_).
 
 Verify that your isolate is Vibrio cholerae
 -------------------------------------------
@@ -177,7 +177,7 @@ View the assembly statistics for your isolate
 
 Once you have uploaded reads and Pathogenwatch has made an assembly for you (or once you have uploaded your own assembly to Pathogenwatch), it is a good idea to have a closer look at the assembly statistics for your isolates.
 
-To find the assembly statistics for your isolate, you need to look at the bottom of the report page for that isolate (see `Viewing the Vibriowatch report page for your isolate`_ above for how to find the report page).
+To find the assembly statistics for your isolate, you need to look at the bottom of the report page for that isolate (see `View the Vibriowatch report page for your isolate`_).
 
 At the bottom of the report page for your isolate, you will see some assembly statistics, for example:
 
