@@ -6,7 +6,7 @@ In this section, we will describe how you can:
 * `Check if your fastq files of reads are suitable for Vibriowatch`_.
 * `Upload reads to Vibriowatch, to make an assembly`_.
 * `Upload an assembly for an isolate`_.
-* `Verify that your isolate is *Vibrio cholerae*`_.
+* `Verify that your isolate is Vibrio cholerae`_.
 * `View the Vibriowatch report page for your isolate`_.
 * `View the assembly statistics for your isolate`_.
 * `Download the assembly for your isolate`_.
@@ -123,8 +123,8 @@ The steps are very similar to uploading reads (see `Uploading reads to Vibriowat
 
 Pathogenwatch will carry out eight different analyses for each assembly, as it does after making assemblies from reads (see `Uploading reads to Vibriowatch, to make an assembly`_ above).
 
-Verify that your isolate is *Vibrio cholerae*
----------------------------------------------
+Verify that your isolate is Vibrio cholerae
+-------------------------------------------
 
 It can sometimes happen that a researcher thinks they have isolated *Vibrio cholerae*, but the reads that they have sequenced come from another species, either due to mis-identification of *V. cholerae* or contamination of their sample. 
 
