@@ -1,12 +1,16 @@
 Assemblies and assembly quality
 ===============================
 
-In this section, we will describe how users can use Vibriowatch to:
+In this section, we will describe how you can:
 
+* `Check if your fastq files of reads are suitable for Vibriowatch`_.
 * `Upload reads to Vibriowatch, to make an assembly`_.
-* upload an assembled genome for an isolate.
-* verifying that their isolate's species is *V. cholerae*.
-* view the statistics for their assembly.
+* `Upload an assembly for an isolate`_.
+* `Verify that your isolate is *Vibrio cholerae*`_.
+* `View the Vibriowatch report page for your isolate`_.
+* `View the assembly statistics for your isolate`_.
+* `Download the assembly for your isolate`_.
+* `Run CheckM to check if the assembly for your isolated is contaminated`_.
 
 If you have fastq files of reads for an isolate, you can upload them to Vibriowatch to make an assembly for your isolate.
 
@@ -14,8 +18,8 @@ Alternatively, if you already have an assembly for your isolate, you can upload 
 
 When you upload fastq files or assemblies to Vibriowatch, they are stored in your private Vibriowatch account, and can only be viewed or analysed by you and nobody else.
 
-Checking if your fastq files of reads are suitable for Vibriowatch
-------------------------------------------------------------------
+Check if your fastq files of reads are suitable for Vibriowatch
+---------------------------------------------------------------
 
 If you have fastq files of reads for your isolate, you can upload the fastq files to Vibriowatch to make an assembly.
 
@@ -110,8 +114,8 @@ When Pathogenwatch has finished the analyses on all the isolates that it has ass
   
 The piechart above shows that one isolate had failed the assembly process (labelled 'Error'). This can happen if there is something wrong with the fastq files, for example, if they are empty files. 
   
-Uploading an assembly for an isolate
-------------------------------------
+Upload an assembly for an isolate
+---------------------------------
 
 If you already have an assembly for an isolate, you can upload your assembly to Vibriowatch.
 
@@ -119,8 +123,8 @@ The steps are very similar to uploading reads (see `Uploading reads to Vibriowat
 
 Pathogenwatch will carry out eight different analyses for each assembly, as it does after making assemblies from reads (see `Uploading reads to Vibriowatch, to make an assembly`_ above).
 
-Verifying that your isolate’s species is *Vibrio cholerae*
-----------------------------------------------------------
+Verify that your isolate is *Vibrio cholerae*
+---------------------------------------------
 
 It can sometimes happen that a researcher thinks they have isolated *Vibrio cholerae*, but the reads that they have sequenced come from another species, either due to mis-identification of *V. cholerae* or contamination of their sample. 
 
@@ -131,8 +135,8 @@ For example, the piechart below shows that one isolate was identified as phiX174
   
 In the example above, there were also seven isolates that were assembled that were identified by Pathogenwatch as *Vibrio cholerae*. 
 
-Viewing the Vibriowatch report page for your isolate
-----------------------------------------------------
+View the Vibriowatch report page for your isolate
+-------------------------------------------------
 
 Once you have uploaded reads and Pathogenwatch has made an assembly for you (or once you have uploaded your own assembly to Pathogenwatch), the Pathogenwatch website will make a 'report page' for your isolate with more information on its genome. 
 
@@ -168,8 +172,8 @@ To see more information on a particular isolate's assembly, click on the link on
 .. image:: Picture11.png
   :width: 650
 
-Viewing the assembly statistics for your isolate
-------------------------------------------------
+View the assembly statistics for your isolate
+---------------------------------------------
 
 Once you have uploaded reads and Pathogenwatch has made an assembly for you (or once you have uploaded your own assembly to Pathogenwatch), it is a good idea to have a closer look at the assembly statistics for your isolates.
 
@@ -192,23 +196,22 @@ Other commonly used measures of assembly quality are the number of contigs and t
 
 In the example above, the genome for the isolate has 62 contigs and 695 non-ATCG characters, so is relatively good quality.
 
-Creating recipes
-----------------
+Download the assembly for your isolate
+--------------------------------------
 
-To retrieve a list of random ingredients,
-you can use the ``Vibriowatch.get_random_ingredients()`` function:
+Bla bla
 
-.. autofunction:: Vibriowatch.get_random_ingredients
+Run CheckM to check if the assembly for your isolated is contaminated
+---------------------------------------------------------------------
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`Vibriowatch.get_random_ingredients`
-will raise an exception.
+Bla bla
 
-.. autoexception:: Vibriowatch.InvalidKindError
+Contact
+-------
 
-For example:
+I will be grateful if you will send me (Avril Coghlan) corrections or suggestions for improvements to my email address alc@sanger.ac.uk
 
->>> import Vibriowatch
->>> Vibriowatch.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+
+
+
 
