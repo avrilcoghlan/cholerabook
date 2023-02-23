@@ -98,7 +98,7 @@ We call the *Vibrio cholerae* component of Pathogenwatch 'Vibriowatch'. Vibriowa
 
 #. Species identification (see `Verify that your isolate is Vibrio cholerae`_).
 #. AMR gene analysis (see `Predicting virulence genes, antimicrobial resistance genes, and plasmids <virulenceAMR.rst>`__).
-#. cgMLST.
+#. cgMLST (see `Finding closely related isolates <closerelatives.rst>`__).
 #. Core gene summary.
 #. Predicting plasmids using Inctyper (see `Predicting virulence genes, antimicrobial resistance genes, and plasmids <virulenceAMR.rst>`__).
 #. MLST (see `Lineage information <mlst.rst>`__).
