@@ -3,7 +3,8 @@ Assemblies and assembly quality
 
 In this section, we will describe how users can use Vibriowatch to:
 
-* upload reads or assembled genomes.
+* :ref:`upload reads to make an assembly for an isolate<target to paragraph1>`.
+* upload an assembled genome for an isolate.
 * verifying that their isolate's species is *V. cholerae*.
 * view the statistics for their assembly.
 
@@ -13,6 +14,7 @@ Alternatively, if you already have an assembly for your isolate, you can upload 
 
 When you upload fastq files or assemblies to Vibriowatch, they are stored in your private Vibriowatch account, and can only be viewed or analysed by you and nobody else.
 
+.. _target to paragraph1:
 Checking if your fastq files of reads are suitable for Vibriowatch
 ------------------------------------------------------------------
 
