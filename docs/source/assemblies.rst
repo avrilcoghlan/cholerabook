@@ -197,12 +197,40 @@ In the example above, the genome for the isolate has 62 contigs and 695 non-ATCG
 Download the assembly for your isolate
 --------------------------------------
 
-Bla bla
+If you have uploaded reads for your isolate to Vibriowatch, and Vibriowatch has made an assembly for your isolate, you can then download the assembly to your computer. This is useful to do if you want to do further analysis of your isolate's assembly outside Vibriowatch (e.g. running CheckM; see (see `Run CheckM to check if the assembly for your isolated is contaminated`_). 
 
+To find the list of assemblies that you have made using Vibriowatch, you can click on the three horizontal small horizontal bars at the top left of the Vibriowatch website:
+
+.. image:: Picture9.png
+  :width: 150
+  
+This will bring up a menu:
+
+.. image:: Picture10.png
+  :width: 150
+  
+If you click on 'My Genomes' in this menu, it will give you the list of genomes that have been assembled from fastq files that you just uploaded (or for which you uploaded the ready-made assemblies), as well as any genomes that you uploaded on previous days:
+
+.. image:: Picture8.png
+  :width: 650
+  
+Tick the boxes for the isolates whose assemblies you want to download, e.g. isolates 1, 2, 3, 4, 5, 7 and 8 in this example:
+
+.. image:: Picture13.png
+  :width: 650
+  
+At the top right of the screen, you will see something like '7 Selected Genomes' appear in a purple button (see above). To download the assemblies, click on the purple '7 Selected Genomes' button, and choose 'Download data' from the menu that appears, and then choose 'FASTA files' from the next menu that appears. This will give you a file 'genomes.zip' containing the assemblies (e.g. 7 assemblies in this example). When you unzip that file, you will find assembly files inside it, called something like '1_S1_L001.fasta', '2_S2_L001.fasta', and so on.
+  
 Run CheckM to check if the assembly for your isolated is contaminated
 ---------------------------------------------------------------------
 
-Bla bla
+If you suspect that the assembly for your isolate may be contaminated with DNA from another species, for example because it has an unusual genome size and/or GC content for *V. cholerae*, you could try running a 'contamination scan' software such as CheckM by `Parks et al 2015`_.  
+
+.. _Parks et al 2015: https://pubmed.ncbi.nlm.nih.gov/25977477/
+
+CheckM is part of Vibriowatch, and to run it you will need to install it on a computer that runs Linux. The latest version of CheckM is version 2. You can find instructions on how to install it on the `CheckM github page`_.  
+
+.. _CheckM github page: https://github.com/Ecogenomics/CheckM/wiki
 
 Contact
 -------
