@@ -217,7 +217,7 @@ If you click on 'My Genomes' in this menu, it will give you the list of genomes 
 Tick the boxes for the isolates whose assemblies you want to download, e.g. isolates 1, 2, 3, 4, 5, 7 and 8 in this example:
 
 .. image:: Picture13.png
-  :width: 650
+  :width: 700
   
 At the top right of the screen, you will see something like '7 Selected Genomes' appear in a purple button (see above). To download the assemblies, click on the purple '7 Selected Genomes' button, and choose 'Download data' from the menu that appears, and then choose 'FASTA files' from the next menu that appears. This will give you a file 'genomes.zip' containing the assemblies (e.g. 7 assemblies in this example). When you unzip that file, you will find assembly files inside it, called something like '1_S1_L001.fasta', '2_S2_L001.fasta', and so on.
   
@@ -232,6 +232,23 @@ CheckM is part of Vibriowatch, and to run it you will need to install it on a co
 
 .. _CheckM github page: https://github.com/Ecogenomics/CheckM/wiki
 
+To run CheckM on the assembly for your isolate, you will need to copy the assembly for that isolate to a computer that runs Linux and has CheckM installed. 
+
+You can run CheckM on several isolates at once, for example, to run CheckM on the assemblies for 7 isolates, you need to type on the Linux command line:
+
+.. code-block:: console
+
+   $ checkM2 predict --threads 8 -x fasta --input folder_with_fasta --output checkm2_output
+   
+where 'folder_with_fasta' is the path to the directory where you have put the fasta files for the 7 assemblies, and 'checkm2_output' is the name you want CheckM to give to the directory where it puts its output files.
+
+When CheckM has finished running, the output folder will contain a report called 'checkm2.collated.report', which will look something like this:
+
+.. image:: Picture14.png
+  :width: 650
+  
+In this example, the 'checkm2.collated.report' file shows that isolates 1, 2, 3, 5, 7 and 8 had very little contamination (<0.05% of each of those assemblies was classified as contamination). However, 29.5% of the assembly for isolate 4 was classified by CheckM as contamination, which is quite high. This means that we can use Vibriowatch to do some analyses of the assembly for isolate 4 (e.g. predicting virulence genes), but need to bear in mind that the assembly is probably partially contaminated with some DNA from another species, so that might introduce some errors into the results.
+   
 Contact
 -------
 
