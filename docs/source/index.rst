@@ -1,17 +1,17 @@
 Genomic surveillance for *Vibrio cholerae* using Vibriowatch
 ============================================================
 
-**Vibriowatch** is a database of high quality genomes and metadata for *Vibrio cholerae*, with robust bioinformatics capability for virulence, antimicrobial resistance, and finding related isolates.
+By Avril Coghlan, Thomson group, Wellcome Sanger Institute, Cambridge, U.K. Email: alc@sanger.ac.uk
 
-Vibriowatch contains `>4000` published *V. cholerae* genomes, and manually-curated metadata from the literature, including strain names; place, date and source of isolation; and phenotypic data for biotype, serogroup, serotype and antimicrobial resistance.
+Hello, my name is Avril. I am a bioinformatician in Nick Thomson's group, and myself and my colleagues are going to tell you *Vibrio cholerae* genomic data, and how you can analyse it using **Vibriowatch**. 
 
-Vibriowatch is aimed for use by clinicians and public health workers studying cholera outbreaks, as well as for research biologists investigating *V. cholerae* genomic variation and evolution.
+Vibriowatch is a database of high quality genomes and metadata for *Vibrio cholerae*, with robust bioinformatics capability for virulence, antimicrobial resistance, and finding related isolates. Vibriowatch contains `>4000` published *V. cholerae* genomes, and manually-curated metadata from the literature, including strain names; place, date and source of isolation; and phenotypic data for biotype, serogroup, serotype and antimicrobial resistance. Vibriowatch is aimed for use by clinicians and public health workers studying cholera outbreaks, as well as for research biologists investigating *V. cholerae* genomic variation and evolution.
 
-Vibriowatch's home is the `PathogenWatch`_ website.
+First, a brief overview of this tutorial: we'll introduce the *Vibrio cholerae* reference genome, and explain what other genomic data is available for *V. cholerae*. We'll introduce `PathogenWatch`_ and its *V. cholerae* component Vibriowatch. We'll then explain how you can upload your own reads or genome to Vibriowatch, and analyses that you can carry out using Vibriowatch on your genome, as well as the genomes that we have already uploaded into Vibriowatch. 
 
 .. _PathogenWatch: https://pathogen.watch/
 
-In this tutorial, we will describe how users can use Vibriowatch to:
+That is, in this tutorial, we will describe how users can use Vibriowatch to:
 
 * upload reads or assembled genomes.
 * verifying that their isolate's species is *V. cholerae*.
@@ -30,6 +30,7 @@ Contents
 
 .. toctree::
 
+   vibriogenomes
    assemblies
    mlst
    closerelatives
