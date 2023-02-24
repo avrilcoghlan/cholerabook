@@ -94,16 +94,16 @@ As soon as some of the genomes have been assembled, the piechart will show which
 .. image:: Picture6.png
   :width: 650
   
-We call the *Vibrio cholerae* component of Pathogenwatch 'Vibriowatch'. Vibriowatch carries out eight different analyses for each assembly. We will explain all of these analyses later in the tutorial, but have provided links here in case you'd like a quick look:
+We call the *Vibrio cholerae* component of Pathogenwatch 'Vibriowatch'. Vibriowatch carries out eight different analyses for each assembly. We will explain all of these analyses later in the tutorial:
 
-#. Species identification (see `Verify that your isolate is Vibrio cholerae`_).
-#. AMR gene analysis (see `Predicting virulence genes, antimicrobial resistance genes, and plasmids <virulenceAMR.rst>`__).
-#. cgMLST (see `Finding closely related isolates <closerelatives.rst>`__).
+#. Species identification.
+#. AMR gene analysis.
+#. cgMLST.
 #. Core gene summary.
-#. Predicting plasmids using Inctyper (see `Predicting virulence genes, antimicrobial resistance genes, and plasmids <virulenceAMR.rst>`__).
-#. MLST (see `Lineage information <mlst.rst>`__).
-#. Assembly statistics (see `View the assembly statistics for your isolate`_).
-#. Predicting virulence genes using 'Vista' (see `Predicting virulence genes, antimicrobial resistance genes, and plasmids <virulenceAMR.rst>`__).
+#. Predicting plasmids using Inctyper.
+#. MLST.
+#. Assembly statistics.
+#. Predicting virulence genes using 'Vista'.
 
 When Pathogenwatch has finished the analyses on all the isolates that it has assembled genomes for, the piechart will look something like this:
 
