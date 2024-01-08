@@ -3,8 +3,7 @@ Genomic surveillance for *Vibrio cholerae* using Vibriowatch
 
 Vibriowatch is a database with high quality genomes and metadata for *Vibrio cholerae*, with robust bioinformatics capability.
 
-Read the tutorial here:
+Please see the latest version at `Vibriowatch`_
 
-https://genomic-surveillance-for-vibrio-cholerae-using-vibriowatch.readthedocs.io/en/latest/
-
+.. _Vibriowatch: https://vibriowatch.readthedocs.io/en/latest/
 
