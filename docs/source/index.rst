@@ -13,7 +13,7 @@ Theoretical material on topics relevant to cholera genomics includes:
 
 * The disease cholera and its epidemiology.
 * The species *Vibrio cholerae*, and its geographic distribution. 
-* Thistory of cholera, and the history of global spread of the current pandemic lineage (7PET lineage).
+* The history of cholera, and the history of global spread of the current pandemic lineage (7PET lineage).
 * Strategies for sample collection and sequencing of *V. cholerae*.
 * Isolates, lineages and sublineages of *V. cholerae*, their geographic distribution and role in cholera and diarrhoeal illness.
 * Principal features of the *V. cholerae* genome.
