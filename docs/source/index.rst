@@ -1,5 +1,5 @@
-Vibriowatch
-===========
+Vibriowatch analysis
+====================
 
 Please see the latest version at `Vibriowatch`_
 
