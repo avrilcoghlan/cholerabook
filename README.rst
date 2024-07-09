@@ -1,6 +1,6 @@
-Genomic surveillance for *V. cholerae* using Vibriowatch
-========================================================
+Cholera genomics
+================
 
-Vibriowatch is a database with high quality genomes and metadata for *Vibrio cholerae*, with robust bioinformatics capability.
+
 
 
