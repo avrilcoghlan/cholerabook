@@ -11,20 +11,55 @@ and that a 7PET outbreak requires a rapid and large public health response.
 Acute Watery Diarrhoea, the Disease Cholera and its Epidemiology
 ----------------------------------------------------------------
 
+Cholera is a disease characterised by acute watery diarrhoea. It is an infection caused by a water-borne bacterium
+called *Vibrio cholerae*. People usually catch cholera by eating food or drinking water that has been contaminated
+with human faeces containing *V. cholerae*. Cholera outbreaks typically occur in places where there is poor access
+to clean water and poor sewage infrastructure. These often include low-income settings in which there is poor water sanitation infrastructure, 
+and places in which there is a humanitarian crisis that has disrupted the water sanitation infrastructure (e.g. an earthquake or 
+war). As well as poor water sanitation infrastructure, other conditions that increase the likelihood of large cholera outbreaks
+are poor healthcare infrastruture, displacement of people, mass gatherings, malnutrition, and extreme weather events (e.g. caused
+by climiate change). 
+
+
+-definition of cholera the disease, and brief mention of cholera toxin as causing diarrhoea in cholera; 
+-brief mention of role of sewage & contaminated drinking water in spreading cholera during an outbreak, also other transmission routes such as person-to-person contact, contaminated food (note: we will come back to this topic in the seminar on 7PET transmission on the Monday morning);
+-brief mention of factors affecting cholera outbreaks such as lack of clean water & sanitation, seasonal weather, overcrowding, poor hygiene practices, poor access to healthcare, host immunity, etc. (see ‘Cholera Outbreaks in Africa’ chapter of Cholera Outbreaks book and section on African cholera in Deen et al 2020 PMID:31395455);
+-brief mention of other pathogens that cause acute watery diarrhoea
+
+
+
 The Species *Vibrio cholerae* and its Geographic Distribution
 -------------------------------------------------------------
 
 The History of Cholera
 ----------------------
 
+(e.g. the 7 historically recorded pandemics) 
+
 Introduction to the *V. cholerae* Genome
 ----------------------------------------
+
+-brief mention that the V. cholerae genome was first published in 2000 by Heidelberg et al PMID:10952301;
+-brief mention of the genome size, 2 chromosomes (see Fig. 1 of Mutreja & Dougan 2000), number of genes, possible presence of the cholera toxin genes that are found as part of the cholera prophage region, possible presence of plasmids containing AMR genes
+
 
 Lineages of *V. cholerae*
 -------------------------
 
+-clear explanation of tree for the V. cholerae species (Domman et al 2017 Americas paper) showing the lineages ( explain trees)
+-brief mention of the lineages’ geographic distribution (non-7PET lineages found in coastal and fresh water around the world, 7PET found in humans) and role in cholera and diarrhoeal illness; brief mention that epidemic/pandemic cholera is caused by 7PET and spread by human travel & poor sanitation, and that non-7PET lineages only cause very small outbreaks that don’t reach large numbers and so are only of minor public health concern;
+
+
 7PET
 ----
+
+-its emergence in the 1960s, its very high virulence & very high transmissibility; its causing the 7th pandemic and causing all large cholera outbreaks & epidemics since the 1960s; brief mention of the need for a rapid public health response (WASH, treatment centres, contact tracing, public information campaign, vaccination, etc.) as soon as possible at the start of a 7PET outbreak, to contain/reduce/stop it;
+-brief mention of serogroup as a likely virulence factor, and that 7PET usually has O1 (mostly) or O139 serogroup (sometimes), but that some other lineages are also O1 or O139;
+-a brief history of the global spread of the current pandemic lineage (7PET), including mention of the Bay of Bengal being a region where cholera is endemic and from where 7PET has spread around the world, and brief history of introductions of 7PET into Africa; brief mention of countries worldwide where 7PET is now endemic;
+-brief mention of how 7PET has split into sublineages, and brief mention that new sublineages have arisen over time in the Bay of Bengal region and spread around the world; brief mention of names of sublineages previously or currently found in Africa;
+-the recently revised GTFCC definitions of cholera cases and ‘cholera-free’ country statuses;
+-brief mention that 7PET can be controlled by vaccination; that vaccines have high efficiency against 7PET but are in short supply and that genomic information has great potential to help us decide who to vaccine (e.g. populations exposed to 7PET, especially those exposed to multi-drug resistant 7PET sublineages)
+
 
 Brief Summary of Take-home Messages
 -----------------------------------
