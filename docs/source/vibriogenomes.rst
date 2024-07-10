@@ -78,8 +78,7 @@ cholera patients in the earlier 6th pandemic. Because of that, the 7th pandemic 
 the 'Classical biotype'. These biotypes are based on a set of laboratory tests, for example, a test for the ability to lyse red blood cells, 
 a biochemical test called the Voges-Proskaeur reaction that tests for the presence of a specific fermentation pathway, and
 a laboratory test for resistance to an antibiotic called polymyxin B, amongst other tests (see `CDC 1994`_). What all
-this revealed was the 7th pandemic was caused by a lineage of *V. cholerae* that was substantially different at the genetic level c
-ompared to the *V. cholerae* that caused the earlier 6th pandemic. 
+this revealed was the 7th pandemic was caused by a lineage of *V. cholerae* that was substantially different at the genetic level compared to the *V. cholerae* that caused the earlier 6th pandemic. 
 
 .. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
 
