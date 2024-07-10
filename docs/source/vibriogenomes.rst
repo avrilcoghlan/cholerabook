@@ -36,7 +36,7 @@ or places in which there is a humanitarian crisis (e.g. an earthquake or war) th
   Children playing in a waste water drainage area that was found to be contaminated with *V. cholerae*. Image credit: Amibola Aman-Oloniyo, Nigeria.
 
 Once ingested by a human host, the *V. cholerae* bacteria multiply in the human intestine. The
-bacteria attach to the epithelial cells of the intestine and release cholera toxin. Cholera toxin
+bacteria attach to the epithelial cells of the intestine and release **cholera toxin**. Cholera toxin
 binds to the intestinal epithelial cell surface, and stimulates the cells to secrete ions and water into
 the intestinal lumen, resulting in acute watery diarrhoea. 
 
@@ -53,32 +53,50 @@ The Species *Vibrio cholerae* and its Geographic Distribution
 
 The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages. Importantly, at present there is actually
 only one lineage of *V. cholerae* which causes epidemic cholera, and we will discuss this lineage (known as
-'7PET') in more detail below. There are many other lineages of *V. cholerae* found around the world that do not cause epidemic
-cholera. These other lineages are often found in brackish water or saltwater in association with shellfish
-such as crabs and shrimp, or in rivers or freshwater lakes (see `Nasreen et al 2020`_). 
+**'7PET'**) in more detail below. There are many other lineages of *V. cholerae* found around the world that do not cause epidemic
+cholera. While 7PET appears to have evolved to become a human pathogen,
+these other lineages of *V. cholerae* are often found in brackish water or saltwater in association with shellfish
+such as crabs and shrimp, or in rivers or freshwater lakes (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutreja & Dougan 2020`_). 
 
-.. _Nasreen et al 2020: https://pubmed.ncbi.nlm.nih.gov/33339261/
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+.. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
+
+.. _Hu et al 2016: https://pubmed.ncbi.nlm.nih.gov/27849586/
+
+.. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
 The History of Cholera
 ----------------------
 
 A disease that sounds like cholera was recorded in ancient India and China. Since the early 1800s there have
 been seven historically recorded cholera pandemics caused by *Vibrio cholerae*. The 7th pandemic is the current
-and ongoing cholera pandemic. There were six previous historically recorded pandemics since the early 1800s.
+and ongoing cholera pandemic, and has been caused by the *V. cholerae* lineage known as 7PET, which we
+will discuss below. There were six previous historically recorded pandemics since the early 1800s.
 The 6th pandemic occurred from 1899 to 1923, after which there were only localised outbreaks in Asia for several decades,
-and then the 7th pandemic started in 1961 and continues at present (see `Feng et al 2008`_). 
+and then the 7th pandemic started in 1961 and continues at present (`Feng et al 2008`_). 
 
-.. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
+.. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/  
 
-A key difference between the 6th pandemic and the 7th pandemic was in a laboratory phenotype known as the 'biotype', which
-is based on particular laboratory tests. *V. cholerae* isolates collected from cholera patients at the start of the 7th pandemic
-in the early 1960s were found to differ in the results of these biochemical laboratory tests compared to *V. cholerae* isolates collected from
-cholera patients in the earlier 6th pandemic. Because of that, the 7th pandemic isolates were described as having the
-'El Tor biotype', to distinguish them from earlier form of *V. cholerae* causing the 6th pandemic, which were described to as having
-the 'Classical biotype'. These biotypes are based on a set of laboratory tests, for example, a test for the ability to lyse red blood cells, 
-a biochemical test called the Voges-Proskaeur reaction that tests for the presence of a specific fermentation pathway, and
-a laboratory test for resistance to an antibiotic called polymyxin B, amongst other tests (see `CDC 1994`_). What all
-this revealed was the 7th pandemic was caused by a lineage of *V. cholerae* that was substantially different at the genetic level compared to the *V. cholerae* that caused the earlier 6th pandemic. 
+The 7th pandemic isolates are described as having the 'El Tor biotype', to distinguish them from earlier form of *V. cholerae* that caused 
+the 6th pandemic, which were described to as having the 'Classical biotype'. These biotypes are based on a set of laboratory tests, which test 
+things like susceptibility to infection by particular bacteriophages, susceptibility to a particular antibiotic, presence of a particular 
+biochemical pathway, and effect on red blood cells (`CDC 1994`_). For many year these laboratory tests were used to predict whether the *V. cholerae*
+causing an outbreak were El Tor biotype, so were likely to be pandemic-causing *V. cholerae* (7PET). Note however that although the 
+lineage causing the 7th pandemic, 7PET, shows the El Tor biotype in laboratory tests, it's now known that some other
+lineages of *V. cholerae* also show the El Tor biotype in laboratory tests (see Fig. 1. in `Chun et al 2009`_), so biotype is not a perfect predictor of
+whether an isolate belongs to the pandemic-causing lineage. As we will discuss later in this course, whole genome sequencing
+tells us far more accurately whether isolates from an outbreak are pandemic-causing *V. cholerae* (7PET). 
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+Interestingly, we now know that the biotype phenotype is determined by several 
+different genes (`Dorman 2020`_). The difference in biotype between isolates from the 6th and 7th pandemic therefore
+reflects that there are quite a lot of genetic differences between the *V. cholerae* that caused these two pandemics. 
+Indeed, it turns out that the 6th pandemic was actually caused by a different lineage of *V. cholerae* than the 7th pandemic,
+which we call the **'Classical lineage'**. 
+
+.. _Dorman 2020: https://www.sanger.ac.uk/theses/md25-thesis.pdf
 
 .. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
 
