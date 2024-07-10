@@ -5,8 +5,6 @@ Introduction
 ------------
 
 This chapter will give you an overview of cholera, the species *Vibrio cholerae*, the main lineages of *V. cholerae*, and the most current pandemic lineage of *V. cholerae*, 7PET.
-You will learn how 7PET is the high-risk lineage of *Vibrio cholerae*, how whole genome sequencing can be used to determine whether a new outbreak of diarrhoeal illness is 7PET or not,
-and that a 7PET outbreak requires a rapid and large public health response. 
 
 Acute Watery Diarrhoea, the Disease Cholera and its Epidemiology
 ----------------------------------------------------------------
@@ -26,7 +24,7 @@ with human faeces containing *V. cholerae*.
 .. figure:: FaecalOralRoute.jpg
   :width: 450
 
-  The faecal-oral route for disease transmission. The orange lines represent barrier, ie. toilets, safe water, hygiene and handwashing. Image credit: Howard G., Bartam J., Williams A., Overbo A., Fuente D., Geere J.A. Domestic water quantity, service level and health, second edition. Geneva: World Health Organization; 2020.
+  The faecal-oral route for disease transmission. The orange lines represent barriers, ie. toilets, safe water, hygiene and handwashing. Image credit: Howard G., Bartam J., Williams A., Overbo A., Fuente D., Geere J.A. Domestic water quantity, service level and health, second edition. Geneva: World Health Organization; 2020.
 
 Cholera outbreaks typically occur in places where there is poor access
 to clean water and poor sewage infrastructure. These include low-income settings in which there is poor water sanitation infrastructure, 
@@ -47,19 +45,43 @@ the intestinal lumen, resulting in acute watery diarrhoea.
 
   Cholera toxin (Ctx) consists of one CtxA subunit bound to five CtxB subunits. This image shows the structure of the CtxB pentamer. Image credit: Wikipedia user Astrojan.
 
-Note that *V. cholerae* is not the only pathogen that can cause acute watery diarrhoea; it can also be caused by other bacteria
+Note that *V. cholerae* is not the only pathogen that can cause acute watery diarrhoea; similar symptoms also be caused by other bacteria
 such as enterotoxigenic *E. coli* (ETEC). 
 
 The Species *Vibrio cholerae* and its Geographic Distribution
 -------------------------------------------------------------
 
+The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages. Importantly, at present there is actually
+only one lineage of *V. cholerae* which causes epidemic cholera, and we will discuss this lineage (known as
+'7PET') in more detail below. There are many other lineages of *V. cholerae* found around the world that do not cause epidemic
+cholera. These other lineages are often found in brackish water or saltwater in association with shellfish
+such as crabs and shrimp, or in rivers or freshwater lakes (see `Nasreen et al 2020`_). 
 
-
+.. _Nasreen et al 2020: https://pubmed.ncbi.nlm.nih.gov/33339261/
 
 The History of Cholera
 ----------------------
 
-(e.g. the 7 historically recorded pandemics) 
+A disease that sounds like cholera was recorded in ancient India and China. Since the early 1800s there have
+been seven historically recorded cholera pandemics caused by *Vibrio cholerae*. The 7th pandemic is the current
+and ongoing cholera pandemic. There were six previous historically recorded pandemics since the early 1800s.
+The 6th pandemic occurred from 1899 to 1923, after which there were only localised outbreaks in Asia for several decades,
+and then the 7th pandemic started in 1961 and continues at present (see `Feng et al 2008`_). 
+
+.. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
+
+A key difference between the 6th pandemic and the 7th pandemic was in a laboratory phenotype known as the 'biotype', which
+is based on particular laboratory tests. *V. cholerae* isolates collected from cholera patients at the start of the 7th pandemic
+in the early 1960s were found to differ in the results of these biochemical laboratory tests compared to *V. cholerae* isolates collected from
+cholera patients in the earlier 6th pandemic. Because of that, the 7th pandemic isolates were described as having the
+'El Tor biotype', to distinguish them from earlier form of *V. cholerae* causing the 6th pandemic, which were described to as having
+the 'Classical biotype'. These biotypes are based on a set of laboratory tests, for example, a test for the ability to lyse red blood cells, 
+a biochemical test called the Voges-Proskaeur reaction that tests for the presence of a specific fermentation pathway, and
+a laboratory test for resistance to an antibiotic called polymyxin B, amongst other tests (see `CDC 1994`_). What all
+this revealed was the 7th pandemic was caused by a lineage of *V. cholerae* that was substantially different at the genetic level c
+ompared to the *V. cholerae* that caused the earlier 6th pandemic. 
+
+.. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
 
 Introduction to the *V. cholerae* Genome
 ----------------------------------------
@@ -88,6 +110,8 @@ Lineages of *V. cholerae*
 
 Brief Summary of Take-home Messages
 -----------------------------------
+
+The key take-home messages of this chapter are that 7PET is the high-risk lineage of *Vibrio cholerae*; that whole genome sequencing can be used to determine whether a new outbreak of diarrhoeal illness is 7PET or not; and that a 7PET outbreak requires a rapid and large public health response. 
 
 Suggested Further Reading
 -------------------------
