@@ -15,22 +15,32 @@ Cholera is a disease characterised by acute watery diarrhoea. It is an infection
 called *Vibrio cholerae*, a curved Gram-negative rod.
 
 .. figure:: Vibrio_cholerae.jpg
-  :width: 250
+  :width: 450
 
-  Image credit: Tom Kirn, Ron Taylor, Louisa Howard - Dartmouth Electron Microscope Facility.
+  The bacterium *V. cholerae*. Image credit: Tom Kirn, Ron Taylor, Louisa Howard - Dartmouth Electron Microscope Facility.
 
 The *V. cholerae* bacterium is usually tranmitted by the faecal-oral route, that is, 
 people usually catch cholera by eating food or drinking water that has been contaminated
-with human faeces containing *V. cholerae*. 
+with human faeces containing *V. cholerae*.
+
+.. figure:: FaecalOralRoute.jpg
+  :width: 450
+
+  The faecal-oral route for disease transmission. The vertical blue lines represent barrier, ie. toilets, safe water, hygiene and handwashing. Image credit: UNICEF Philippines and Luis Gatmaitan / 2014 / Gilbert F. Lavides.
 
 Cholera outbreaks typically occur in places where there is poor access
-to clean water and poor sewage infrastructure. These often include low-income settings in which there is poor water sanitation infrastructure, 
-or places in which there is a humanitarian crisis that has disrupted the water sanitation infrastructure (e.g. an earthquake or 
-war). 
+to clean water and poor sewage infrastructure. These include low-income settings in which there is poor water sanitation infrastructure, 
+or places in which there is a humanitarian crisis (e.g. an earthquake or war) that has disrupted the water sanitation infrastructure.
+
+.. figure:: wastewater.jpg
+  :width: 450
+
+  Children playing in a waste water drainage area that was found to be contaminated with *V. cholerae*. Image credit: Amibola Aman-Oloniyo, Nigeria.
+
+
 
 -definition of cholera the disease, and brief mention of cholera toxin as causing diarrhoea in cholera; 
 
--brief mention of factors affecting cholera outbreaks such as lack of clean water & sanitation, seasonal weather, overcrowding, poor hygiene practices, poor access to healthcare, host immunity, etc. (see ‘Cholera Outbreaks in Africa’ chapter of Cholera Outbreaks book and section on African cholera in Deen et al 2020 PMID:31395455);
 -brief mention of other pathogens that cause acute watery diarrhoea
 
 The Species *Vibrio cholerae* and its Geographic Distribution
