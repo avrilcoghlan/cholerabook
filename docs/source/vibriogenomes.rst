@@ -66,8 +66,8 @@ such as crabs and shrimp, or in rivers or freshwater lakes (`Feng et al 2008`_, 
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
-The History of Cholera
-----------------------
+The History of Cholera: the Seven Historically Recorded Pandemics
+-----------------------------------------------------------------
 
 A disease that sounds like cholera was recorded in ancient India and China. Since the early 1800s there have
 been seven historically recorded cholera pandemics caused by *Vibrio cholerae*. The 7th pandemic is the current
@@ -78,8 +78,11 @@ and then the 7th pandemic started in 1961 and continues at present (`Feng et al 
 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/  
 
-The 7th pandemic isolates are described as having the 'El Tor biotype', to distinguish them from earlier form of *V. cholerae* that caused 
-the 6th pandemic, which were described to as having the 'Classical biotype'. These biotypes are based on a set of laboratory tests, which test 
+The Classical Biotype and the El Tor Biotype
+--------------------------------------------
+
+The 7th pandemic isolates are described as having the **'El Tor biotype'**, to distinguish them from earlier form of *V. cholerae* that caused 
+the 6th pandemic, which were described to as having the **'Classical biotype'**. These biotypes are based on a set of laboratory tests, which test 
 things like susceptibility to infection by particular bacteriophages, susceptibility to a particular antibiotic, presence of a particular 
 biochemical pathway, and effect on red blood cells (`CDC 1994`_). For many year these laboratory tests were used to predict whether the *V. cholerae*
 causing an outbreak were El Tor biotype, so were likely to be pandemic-causing *V. cholerae* (7PET). Note however that although the 
@@ -89,6 +92,9 @@ whether an isolate belongs to the pandemic-causing lineage. As we will discuss l
 tells us far more accurately whether isolates from an outbreak are pandemic-causing *V. cholerae* (7PET). 
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+The Classical Lineage
+---------------------
 
 Interestingly, we now know that the biotype phenotype is determined by several 
 different genes (`Dorman 2020`_). The difference in biotype between isolates from the 6th and 7th pandemic therefore
@@ -100,19 +106,11 @@ which we call the **'Classical lineage'**.
 
 .. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
 
-Introduction to the *V. cholerae* Genome
-----------------------------------------
-
--brief mention that the V. cholerae genome was first published in 2000 by Heidelberg et al PMID:10952301;
--brief mention of the genome size, 2 chromosomes (see Fig. 1 of Mutreja & Dougan 2000), number of genes, possible presence of the cholera toxin genes that are found as part of the cholera prophage region, possible presence of plasmids containing AMR genes
-
-
 Lineages of *V. cholerae*
 -------------------------
 
 -clear explanation of tree for the V. cholerae species (Domman et al 2017 Americas paper) showing the lineages ( explain trees)
 -brief mention of the lineages’ geographic distribution (non-7PET lineages found in coastal and fresh water around the world, 7PET found in humans) and role in cholera and diarrhoeal illness; brief mention that epidemic/pandemic cholera is caused by 7PET and spread by human travel & poor sanitation, and that non-7PET lineages only cause very small outbreaks that don’t reach large numbers and so are only of minor public health concern;
-
 
 7PET
 ----
@@ -124,6 +122,11 @@ Lineages of *V. cholerae*
 -the recently revised GTFCC definitions of cholera cases and ‘cholera-free’ country statuses;
 -brief mention that 7PET can be controlled by vaccination; that vaccines have high efficiency against 7PET but are in short supply and that genomic information has great potential to help us decide who to vaccine (e.g. populations exposed to 7PET, especially those exposed to multi-drug resistant 7PET sublineages)
 
+Introduction to the *V. cholerae* Genome
+----------------------------------------
+
+-brief mention that the V. cholerae genome was first published in 2000 by Heidelberg et al PMID:10952301;
+-brief mention of the genome size, 2 chromosomes (see Fig. 1 of Mutreja & Dougan 2000), number of genes, possible presence of the cholera toxin genes that are found as part of the cholera prophage region, possible presence of plasmids containing AMR genes
 
 Brief Summary of Take-home Messages
 -----------------------------------
