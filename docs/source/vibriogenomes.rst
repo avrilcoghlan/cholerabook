@@ -12,24 +12,31 @@ Acute Watery Diarrhoea, the Disease Cholera and its Epidemiology
 ----------------------------------------------------------------
 
 Cholera is a disease characterised by acute watery diarrhoea. It is an infection caused by a water-borne bacterium
-called *Vibrio cholerae*. People usually catch cholera by eating food or drinking water that has been contaminated
-with human faeces containing *V. cholerae*. Cholera outbreaks typically occur in places where there is poor access
-to clean water and poor sewage infrastructure. These often include low-income settings in which there is poor water sanitation infrastructure, 
-and places in which there is a humanitarian crisis that has disrupted the water sanitation infrastructure (e.g. an earthquake or 
-war). As well as poor water sanitation infrastructure, other conditions that increase the likelihood of large cholera outbreaks
-are poor healthcare infrastruture, displacement of people, mass gatherings, malnutrition, and extreme weather events (e.g. caused
-by climiate change). 
+called *Vibrio cholerae*, a curved Gram-negative rod.
 
+.. image:: Vibrio_cholerae.jpg
+  :width: 650
+  :alt: Image credit: Tom Kirn, Ron Taylor, Louisa Howard - Dartmouth Electron Microscope Facility.
+
+The *V. cholerae* bacterium is usually tranmitted by the faecal-oral route, that is, 
+people usually catch cholera by eating food or drinking water that has been contaminated
+with human faeces containing *V. cholerae*. 
+
+Cholera outbreaks typically occur in places where there is poor access
+to clean water and poor sewage infrastructure. These often include low-income settings in which there is poor water sanitation infrastructure, 
+or places in which there is a humanitarian crisis that has disrupted the water sanitation infrastructure (e.g. an earthquake or 
+war). 
 
 -definition of cholera the disease, and brief mention of cholera toxin as causing diarrhoea in cholera; 
--brief mention of role of sewage & contaminated drinking water in spreading cholera during an outbreak, also other transmission routes such as person-to-person contact, contaminated food (note: we will come back to this topic in the seminar on 7PET transmission on the Monday morning);
+
 -brief mention of factors affecting cholera outbreaks such as lack of clean water & sanitation, seasonal weather, overcrowding, poor hygiene practices, poor access to healthcare, host immunity, etc. (see ‘Cholera Outbreaks in Africa’ chapter of Cholera Outbreaks book and section on African cholera in Deen et al 2020 PMID:31395455);
 -brief mention of other pathogens that cause acute watery diarrhoea
 
-
-
 The Species *Vibrio cholerae* and its Geographic Distribution
 -------------------------------------------------------------
+
+
+
 
 The History of Cholera
 ----------------------
