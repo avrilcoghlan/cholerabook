@@ -24,7 +24,7 @@ people usually catch cholera by eating food or drinking water that has been cont
 with human faeces containing *V. cholerae*.
 
 .. figure:: FaecalOralRoute.jpg
-  :width: 1150
+  :width: 450
 
   The faecal-oral route for disease transmission. The orange lines represent barrier, ie. toilets, safe water, hygiene and handwashing. Image credit: Howard G., Bartam J., Williams A., Overbo A., Fuente D., Geere J.A. Domestic water quantity, service level and health, second edition. Geneva: World Health Organization; 2020.
 
@@ -45,7 +45,7 @@ the intestinal lumen, resulting in acute watery diarrhoea.
 .. figure:: CholeraToxin.jpg
   :width: 450
 
-  Cholera toxin (Ctx) consists of one CtxA subunit bound to five CtxB subunits. This image shows the structure of the CtxB pentamer. Image credit: Astrojan (via Wikipedia).
+  Cholera toxin (Ctx) consists of one CtxA subunit bound to five CtxB subunits. This image shows the structure of the CtxB pentamer. Image credit: Wikipedia user Astrojan.
 
 Note that *V. cholerae* is not the only pathogen that can cause acute watery diarrhoea; it can also be caused by other bacteria
 such as enterotoxigenic *E. coli* (ETEC). 
