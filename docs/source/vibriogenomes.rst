@@ -24,7 +24,7 @@ people usually catch cholera by eating food or drinking water that has been cont
 with human faeces containing *V. cholerae*.
 
 .. figure:: FaecalOralRoute.jpg
-  :width: 450
+  :width: 650
 
   The faecal-oral route for disease transmission. The vertical blue lines represent barrier, ie. toilets, safe water, hygiene and handwashing. Image credit: UNICEF Philippines and Luis Gatmaitan / 2014 / Gilbert F. Lavides.
 
@@ -32,8 +32,8 @@ Cholera outbreaks typically occur in places where there is poor access
 to clean water and poor sewage infrastructure. These include low-income settings in which there is poor water sanitation infrastructure, 
 or places in which there is a humanitarian crisis (e.g. an earthquake or war) that has disrupted the water sanitation infrastructure.
 
-.. figure:: wastewater.jpg
-  :width: 450
+.. figure:: Wastewater.jpg
+  :width: 650
 
   Children playing in a waste water drainage area that was found to be contaminated with *V. cholerae*. Image credit: Amibola Aman-Oloniyo, Nigeria.
 
