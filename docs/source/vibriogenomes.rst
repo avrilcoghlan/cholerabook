@@ -24,7 +24,7 @@ people usually catch cholera by eating food or drinking water that has been cont
 with human faeces containing *V. cholerae*.
 
 .. figure:: FaecalOralRoute.jpg
-  :width: 850
+  :width: 1050
 
   The faecal-oral route for disease transmission. The vertical blue lines represent barrier, ie. toilets, safe water, hygiene and handwashing. Image credit: UNICEF Philippines and Luis Gatmaitan / 2014 / Gilbert F. Lavides.
 
@@ -33,22 +33,22 @@ to clean water and poor sewage infrastructure. These include low-income settings
 or places in which there is a humanitarian crisis (e.g. an earthquake or war) that has disrupted the water sanitation infrastructure.
 
 .. figure:: Wastewater.jpg
-  :width: 450
+  :width: 350
 
   Children playing in a waste water drainage area that was found to be contaminated with *V. cholerae*. Image credit: Amibola Aman-Oloniyo, Nigeria.
 
 Once ingested by a human host, the *V. cholerae* bacteria multiply in the human intestine. The
 bacteria attach to the epithelial cells of the intestine and release cholera toxin. Cholera toxin
 binds to the intestinal epithelial cell surface, and stimulates the cells to secrete ions and water into
-the intestinal lumen, resulting in diarrhoea. 
+the intestinal lumen, resulting in acute watery diarrhoea. 
 
 .. figure:: CholeraToxin.jpg
-  :width: 450
+  :width: 350
 
   Cholera toxin (Ctx) consists of one CtxA subunit bound to five CtxB subunits. This image shows the structure of the CtxB pentamer. Image credit: Astrojan (via Wikipedia).
 
-
--brief mention of other pathogens that cause acute watery diarrhoea
+Note that *V. cholerae* is not the only pathogen that can cause acute watery diarrhoea; it can also be caused by other bacteria
+such as enterotoxigenic *E. coli* (ETEC). 
 
 The Species *Vibrio cholerae* and its Geographic Distribution
 -------------------------------------------------------------
