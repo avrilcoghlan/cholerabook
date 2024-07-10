@@ -14,9 +14,10 @@ Acute Watery Diarrhoea, the Disease Cholera and its Epidemiology
 Cholera is a disease characterised by acute watery diarrhoea. It is an infection caused by a water-borne bacterium
 called *Vibrio cholerae*, a curved Gram-negative rod.
 
-.. image:: Vibrio_cholerae.jpg
-  :width: 650
-  :alt: Image credit: Tom Kirn, Ron Taylor, Louisa Howard - Dartmouth Electron Microscope Facility.
+.. figure:: Vibrio_cholerae.jpg
+  :width: 250
+
+  Image credit: Tom Kirn, Ron Taylor, Louisa Howard - Dartmouth Electron Microscope Facility.
 
 The *V. cholerae* bacterium is usually tranmitted by the faecal-oral route, that is, 
 people usually catch cholera by eating food or drinking water that has been contaminated
