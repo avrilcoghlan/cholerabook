@@ -15,7 +15,7 @@ Cholera is a disease characterised by acute watery diarrhoea. It is an infection
 called *Vibrio cholerae*, a curved Gram-negative rod.
 
 .. figure:: Vibrio_cholerae.jpg
-  :width: 450
+  :width: 350
 
   The bacterium *V. cholerae*. Image credit: Tom Kirn, Ron Taylor, Louisa Howard - Dartmouth Electron Microscope Facility.
 
@@ -24,9 +24,9 @@ people usually catch cholera by eating food or drinking water that has been cont
 with human faeces containing *V. cholerae*.
 
 .. figure:: FaecalOralRoute.jpg
-  :width: 1050
+  :width: 1150
 
-  The faecal-oral route for disease transmission. The vertical blue lines represent barrier, ie. toilets, safe water, hygiene and handwashing. Image credit: UNICEF Philippines and Luis Gatmaitan / 2014 / Gilbert F. Lavides.
+  The faecal-oral route for disease transmission. The orange lines represent barrier, ie. toilets, safe water, hygiene and handwashing. Image credit: Howard G., Bartam J., Williams A., Overbo A., Fuente D., Geere J.A. Domestic water quantity, service level and health, second edition. Geneva: World Health Organization; 2020.
 
 Cholera outbreaks typically occur in places where there is poor access
 to clean water and poor sewage infrastructure. These include low-income settings in which there is poor water sanitation infrastructure, 
@@ -43,7 +43,7 @@ binds to the intestinal epithelial cell surface, and stimulates the cells to sec
 the intestinal lumen, resulting in acute watery diarrhoea. 
 
 .. figure:: CholeraToxin.jpg
-  :width: 350
+  :width: 450
 
   Cholera toxin (Ctx) consists of one CtxA subunit bound to five CtxB subunits. This image shows the structure of the CtxB pentamer. Image credit: Astrojan (via Wikipedia).
 
