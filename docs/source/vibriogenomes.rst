@@ -162,7 +162,7 @@ from the 7PET lineage (`Heidelberg 2000`_).
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
 .. figure:: Chromosomes.jpg
-  :width: 550
+  :width: 600
 
   A diagram showing the two circular chromosomes of *V. cholerae*, for a typical isolate of the current pandemic lineage (7PET lineage). The outside circles in blue represent genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical isolate from the 7PET lineage. The innermost circle shows below average (purple) and above average (mustard) GC content along the chromosomes. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the region containing the two genes that encode the A and B subunits of the cholera toxin. Image source: `Mutreja & Dougan 2020`_.
 
@@ -174,10 +174,10 @@ on Chromosome 1. These two genes are called the *ctxA* and *ctxB* genes. If we c
 of *V. cholerae*. In other words, surprisingly, the two genes that encode the cholera toxin are actually part of a bacteriophage, a virus that infects *V. cholerae*.
 As we will discuss later in the course, this means that the cholera toxin genes are part of a mobile genetic element, and 
 can be transferred from one *V. cholerae* lineage or sublineage to another *V. cholerae* lineage or subineage, by means of infection 
-by the CTX phage, which is a virus of *V. cholerae*. 
+by the CTX phage, which is a virus of *V. cholerae*. This has important implications for public health, which we will return to later in this course. 
 
 .. figure:: CtxProphage.jpg
-  :width: 550
+  :width: 700
 
   A diagram showing just the CTX prophage region of Chromosome 1 of a typical isolate of the current pandemic lineage (7PET lineage), as well as a typical isolate of the lineage that caused the previous pandemic (i.e. Classical lineage). The arrows represent genes, and the *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: `Pant et al 2020`_.
 
