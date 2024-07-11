@@ -174,14 +174,14 @@ on Chromosome 1. These two genes are called the *ctxA* and *ctxB* genes. If we c
 of *V. cholerae*. In other words, surprisingly, the two genes that encode the cholera toxin are actually part of a bacteriophage, a virus that infects *V. cholerae*.
 As we will discuss later in the course, this means that the cholera toxin genes are part of a mobile genetic element, and 
 can be transferred from one *V. cholerae* lineage or sublineage to another *V. cholerae* lineage or subineage, by means of infection 
-by the CTX phage, which is a virus of *V. cholerae*.
+by the CTX phage, which is a virus of *V. cholerae*. 
 
 .. figure:: CtxProphage.jpg
   :width: 350
 
-  A diagram showing just the CTX prophage region of Chromosome 1 of a typical isolate of the current pandemic lineage (7PET lineage). The arrows represent genes, and the *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: `Ceccarelli et al 2007`_.
+  A diagram showing just the CTX prophage region of Chromosome 1 of a typical isolate of the current pandemic lineage (7PET lineage), as well as a typical isolate of the lineage that caused the previous pandemic (i.e. Classical lineage). The arrows represent genes, and the *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: `Pant et al 2020`_.
 
-.. _Ceccarelli et al 2007: https://pubmed.ncbi.nlm.nih.gov/21668969/
+.. _Pant et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272871/
 
 -Discuss possible presence of the cholera toxin genes that are found as part of the cholera prophage region, possible presence of plasmids containing AMR genes.
 N16961 is the “reference strain”
