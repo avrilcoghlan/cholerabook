@@ -165,20 +165,18 @@ from the 7PET lineage (`Heidelberg 2000`_).
 .. figure:: Chromosomes.jpg
   :width: 600
 
-  A diagram showing the two circular chromosomes of *V. cholerae*, for a typical isolate of the current pandemic lineage (7PET lineage). The outside circles in blue represent genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical isolate from the 7PET lineage. The innermost circle shows below average (purple) and above average (mustard) GC content along the chromosomes. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the region containing the two genes that encode the A and B subunits of the cholera toxin. This region is known as the 'CTX prophage region'. Image source: `Mutreja & Dougan 2020`_.
+  A diagram showing the two circular chromosomes of *V. cholerae*, for a typical isolate of the current pandemic lineage (7PET lineage). The outside circles in blue represent genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical isolate from the 7PET lineage. The innermost circle shows below average (purple) and above average (mustard) GC content along the chromosomes. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the region containing the two genes that encode the A and B subunits of the cholera toxin. This region is known as the 'CTX region'. Image source: `Mutreja & Dougan 2020`_.
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
 In isolates of the current pandemic lineage (7PET lineage), we usually see the two genes that encode the A and B subunits of the cholera toxin close together
 on Chromosome 1. These two genes are called the *ctxA* and *ctxB* genes. If we could zoom in a lot on chromosome 1, we would be able to see the
-*ctxA* and *ctxB* genes close together in a region known as the **CTX prophage**, which is actually a piece of viral DNA that has inserted into the chromosome
-of *V. cholerae*. Practically 100% of isolates of the current pandemic lineage (7PET) contain the CTX prophage inserted in their chromosome, and so produce cholera toxin, and therefore
-cause a human host to suffer acute watery diarrhoea. 
+*ctxA* and *ctxB* genes close together in a region known as the **CTX regione**. Practically 100% of isolates of the current pandemic lineage (7PET) contain the CTX region in their chromosome, and so produce cholera toxin, and therefore cause a human host to suffer acute watery diarrhoea. 
 
 .. figure:: CtxProphage.jpg
   :width: 800
 
-  A diagram showing just the CTX prophage region of Chromosome 1 of a typical isolate of the current pandemic lineage (7PET lineage), isolate N16961, as well as a typical isolate of the lineage that caused the previous pandemic (i.e. Classical lineage), isolate O395. The arrows represent genes, and the *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: `Pant et al 2020`_.
+  A diagram showing just the CTX region of Chromosome 1 of a typical isolate of the current pandemic lineage (7PET lineage), isolate N16961, as well as a typical isolate of the lineage that caused the previous pandemic (i.e. Classical lineage), isolate O395. The arrows represent genes, and the *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: `Pant et al 2020`_.
 
 .. _Pant et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272871/
 
