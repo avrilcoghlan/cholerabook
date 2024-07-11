@@ -92,6 +92,11 @@ and then the 7th pandemic started in 1961 and continues at present (`Feng et al 
 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/  
 
+.. figure:: SevenPandemics.png
+  :width: 350
+
+  A timeline of the seven historically recorded pandemics. The current pandemic is the 7th pandemic and is caused by the 7PET lineage of *V. cholerae*. 
+
 .. figure:: SnowCholeraMap.jpg
   :width: 500
   
@@ -110,7 +115,7 @@ susceptibility to a particular antibiotic, presence of a particular biochemical 
 .. figure:: LabTests.png
   :width: 350
 
-  A set of about four or five laboratory tests are used to determine the biotype of *V. cholerae*, which is a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae causing a particular outbreak are from the 7th pandemic (i.e. belong to the 7PET lineage). Image credit: DynV at openclipart.org.
+  A set of about four or five laboratory tests are used to determine the biotype of *V. cholerae*, which is a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak are from the 7th pandemic (i.e. belong to the 7PET lineage). Image credit: DynV at openclipart.org.
 
 For many years these laboratory tests were used to predict whether the *V. cholerae*
 causing an outbreak were El Tor biotype, so were likely to be pandemic-causing/epidemic-causing *V. cholerae* (7PET). These biotype-determining tests
@@ -132,6 +137,8 @@ reflects that there are genetic differences in these biotype-determining genes b
 Indeed, we now know, based on whole genome sequencing data, that the 6th pandemic is actually genetically quite different from the 7th pandemic and 
 was actually caused by a different **lineage** (a genetically different subtype) of *V. cholerae* than the 7th pandemic.
 We call the lineage that caused the 6th pandemic the **'Classical lineage'**. 
+That is, the current pandemic, the 7th pandemic, is caused by the 7PET lineage of *V. cholerae*, which has the El Tor biotype, while
+the previous pandemic, the 6th pandemic, was caused by the Classical lineage of *V. cholerae* and had the Classical biotype. 
 Before talking more about the Classical lineage and other lineages of *V. cholerae*, we will take a brief
 digression to talk about the *V. cholerae* genome and whole genome sequencing for *V. cholerae*. 
 
