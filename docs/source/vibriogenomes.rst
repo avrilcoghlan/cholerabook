@@ -172,9 +172,8 @@ In isolates of the current pandemic lineage (7PET lineage), we usually see the t
 on Chromosome 1. These two genes are called the *ctxA* and *ctxB* genes. If we could zoom in a lot on chromosome 1, we would be able to see the
 *ctxA* and *ctxB* genes close together in a region known as the **CTX prophage**, which is actually a piece of viral DNA that has inserted into the chromosome
 of *V. cholerae*. In other words, surprisingly, the two genes that encode the cholera toxin are actually part of a bacteriophage, a virus that infects *V. cholerae*.
-As we will discuss later in the course, this means that the cholera toxin genes are part of a mobile genetic element, and 
-can be transferred from one *V. cholerae* lineage or sublineage to another *V. cholerae* lineage or subineage, by means of infection 
-by the CTX phage, which is a virus of *V. cholerae*. This has important implications for public health, which we will return to later in this course. 
+Practically 100% of isolates of the current pandemic lineage (7PET) contain the CTX prophage inserted in their chromosome, and so produce cholera toxin, and therefore
+cause a human host to suffer acute watery diarrhoea. 
 
 .. figure:: CtxProphage.jpg
   :width: 800
