@@ -22,7 +22,7 @@ people usually catch cholera by eating food or drinking water that has been cont
 with human faeces containing *V. cholerae*.
 
 .. figure:: FaecalOralRoute.jpg
-  :width: 550
+  :width: 500
 
   The faecal-oral route for disease transmission. The orange lines represent barriers, ie. toilets, safe water, hygiene and handwashing. Image credit: Howard G., Bartam J., Williams A., Overbo A., Fuente D., Geere J.A. Domestic water quantity, service level and health, second edition. Geneva: World Health Organization; 2020.
 
@@ -79,7 +79,7 @@ and then the 7th pandemic started in 1961 and continues at present (`Feng et al 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/  
 
 .. figure:: SnowCholeraMap.jpg
-  :width: 650
+  :width: 500
   
   Map of cholera cases in London in 1854 made by the doctor John Snow during the third historically recorded cholera pandemic. Cholera cases are highlighted in black. Image credit: Original map made by John Snow in 1854.
 
