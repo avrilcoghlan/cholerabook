@@ -57,9 +57,9 @@ only one lineage of *V. cholerae* which causes epidemic cholera, and we will dis
 cholera.
 
 .. figure:: GlobalDistribution.jpg
-  :width: 550
+  :width: 650
 
-  The global distribution of the bacterium *V. cholerae*, including representatives of many different lineages of *V. cholerae*, including both the current pandemic lineage (7PET), as well as other many other lineages, which are not pandemic-causing/epidemic-causing. The studies shown here are actually only a small fraction of the studies published for certain areas and should guide as an example. Image credit: `Lutz et al 2013`_.
+  The global distribution of the bacterium *V. cholerae*, including representatives of many different lineages of *V. cholerae*, including both the current pandemic lineage (7PET), as well as other many other lineages, which are not pandemic-causing/epidemic-causing. Triangles indicate where *V. cholerae* was detected. The studies shown here are actually only a small fraction of the studies published for certain areas and should guide as an example. Image credit: `Lutz et al 2013`_.
 
 While 7PET appears to have evolved to become a human pathogen (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutreja & Dougan 2020`_),
 the other current lineages of *V. cholerae* are non-pandemic/non-epidemic lineages. These non-pandemic/non-epidemic lineages of *V. cholerae* are often found in brackish water or saltwater in association with shellfish
@@ -74,7 +74,7 @@ such as crabs and shrimp, or in rivers or freshwater lakes.
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
 .. figure:: VibrioCholeraeInSea.jpg
-  :width: 550
+  :width: 650
 
   Non-pandemic/non-epidemic lineages of *V. cholerae* are part of the bacterioplankton in aquatic environments. Image credit: `Lutz et al 2013`_.
 
