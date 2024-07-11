@@ -139,8 +139,7 @@ Indeed, we now know, based on whole genome sequencing data, that the 6th pandemi
 was actually caused by a different **lineage** (a genetically different subtype) of *V. cholerae* than the 7th pandemic. You can
 think of these different lineages as being different branches of the family tree of *V. cholerae*. 
 We call the lineage that caused the 6th pandemic the **'Classical lineage'**. 
-That is, the current pandemic, the 7th pandemic, is caused by the 7PET lineage of *V. cholerae*, which has the El Tor biotype, while
-the previous pandemic, the 6th pandemic, was caused by the Classical lineage of *V. cholerae* and had the Classical biotype. 
+
 The Classical lineage of *V. cholerae* caused the 6th pandemic, which ended in 1923, and the Classical lineage has
 more or less died out since then and is very rarely seen nowadays (although a Classical lineage isolate 
 from Ghana in 2010 was reported by `Adade et al 2022`_). 
@@ -154,7 +153,40 @@ digression to talk about the *V. cholerae* genome and whole genome sequencing fo
 Introduction to the *V. cholerae* Genome 
 ----------------------------------------
 
--brief mention of the genome size, 2 chromosomes (see Fig. 1 of Mutreja & Dougan 2000), number of genes, possible presence of the cholera toxin genes that are found as part of the cholera prophage region, possible presence of plasmids containing AMR genes
+The genetic material of *V. cholerae* is usually found in two circular chromosomes. The larger chromosome is known as Chromosome 1
+and the smaller chromosome as Chromosome 2. These two chromosomes each contain a long (circular) molecular of DNA. In total
+these circular chromosomes contain about 4 million base-pairs (4 Mb) of base-pairs, where Chromosome 1 is about 3 Mb and Chromosome 2 about 1 Mb.
+Each of these chromosomes includes many hundred of genes, and in total the two chromosomes contain almost 4000 genes in a typical isolate
+from the 7PET lineage (`Heidelberg 2000`_). 
+
+.. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
+
+.. figure:: Chromosomes.png
+  :width: 350
+
+  A diagram showing the two circular chromosomes of *V. cholerae*, for a typical isolate of the current pandemic lineage (7PET lineage). The outside circles in blue represent genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical isolate from the 7PET lineage. The innermost circle shows below average (purple) and above average (mustard) GC content along the chromosomes. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the region containing the two genes that encode the A and B subunits of the cholera toxin. Image source: `Mutreja & Dougan 2020`_.
+
+.. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
+
+In isolates of the current pandemic lineage (7PET lineage), we usually see the two genes that encode the A and B subunits of the cholera toxin close together
+on Chromosome 1. These two genes are called the *ctxA* and *ctxB* genes. If we could zoom in a lot on chromosome 1, we would be able to see the
+*ctxA* and *ctxB* genes close together in a region known as the **CTX prophage**, which is actually a piece of viral DNA that has inserted into the chromosome
+of *V. cholerae*. In other words, surprisingly, the two genes that encode the cholera toxin are actually part of a bacteriophage, a virus that infects *V. cholerae*.
+As we will discuss later in the course, this means that the cholera toxin genes are part of a mobile genetic element, and 
+can be transferred from one *V. cholerae* lineage or sublineage to another *V. cholerae* lineage or subineage, by means of infection 
+by the CTX phage, which is a virus of *V. cholerae*.
+
+.. figure:: CtxProphage.jpg
+  :width: 350
+
+  A diagram showing just the CTX prophage region of Chromosome 1 of a typical isolate of the current pandemic lineage (7PET lineage). The arrows represent genes, and the *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: `Ceccarelli et al 2007`_.
+
+.. _Ceccarelli et al 2007: https://pubmed.ncbi.nlm.nih.gov/21668969/
+
+-Discuss possible presence of the cholera toxin genes that are found as part of the cholera prophage region, possible presence of plasmids containing AMR genes.
+N16961 is the “reference strain”
+Rare V. cholerae non-O1/O139 have the two chromosomes fused into one (Johnson et al 2015) 
+Rare V. cholerae O1 El Tor have an additional 0.9-Mb replicon; genome size 5.0 Mb (Okada et al 2015)
 
 Introduction to Whole Genome Sequencing for *V. cholerae*
 ---------------------------------------------------------
