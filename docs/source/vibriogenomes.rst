@@ -76,7 +76,7 @@ such as crabs and shrimp, or in rivers or freshwater lakes.
 .. figure:: VibrioCholeraeInSea.jpg
   :width: 350
 
-  *V. cholerae* is part of the bacterioplankton in aquatic environments. Image credit: `Lutz et al 2013`_.
+  Non-pandemic/non-epidemic lineages of *V. cholerae* are part of the bacterioplankton in aquatic environments. Image credit: `Lutz et al 2013`_.
 
 .. _Lutz et al 2013: https://pubmed.ncbi.nlm.nih.gov/24379807/
 
