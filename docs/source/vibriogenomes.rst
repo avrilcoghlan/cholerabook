@@ -54,9 +54,16 @@ The Species *Vibrio cholerae* and its Geographic Distribution
 The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages. Importantly, at present there is actually
 only one lineage of *V. cholerae* which causes epidemic cholera, and we will discuss this lineage (known as
 **'7PET'**) in more detail below. There are many other non-pandemic/non-epidemic lineages of *V. cholerae* found around the world that do not cause epidemic
-cholera. While 7PET appears to have evolved to become a human pathogen,
-these other non-pandemic/non-epidemic lineages of *V. cholerae* are often found in brackish water or saltwater in association with shellfish
-such as crabs and shrimp, or in rivers or freshwater lakes (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutreja & Dougan 2020`_). 
+cholera.
+
+.. figure:: GlobalDistribution.jpg
+  :width: 350
+
+  The global distribution of the bacterium *V. cholerae*, including representatives of many different lineages of *V. cholerae*, including both the current pandemic lineage (7PET), as well as other many other lineages, which are not pandemic-causing/epidemic-causing. The studies shown here are actually only a small fraction of the studies published for certain areas and should guide as an example. Image credit: `Lutz et al 2013`_.
+
+While 7PET appears to have evolved to become a human pathogen (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutreja & Dougan 2020`_),
+the other current lineages of *V. cholerae* are non-pandemic/non-epidemic lineages. These non-pandemic/non-epidemic lineages of *V. cholerae* are often found in brackish water or saltwater in association with shellfish
+such as crabs and shrimp, or in rivers or freshwater lakes. 
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
@@ -65,6 +72,13 @@ such as crabs and shrimp, or in rivers or freshwater lakes (`Feng et al 2008`_, 
 .. _Hu et al 2016: https://pubmed.ncbi.nlm.nih.gov/27849586/
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
+
+.. figure:: VibrioCholeraeInSea.jpg
+  :width: 350
+
+  *V. cholerae* is part of the bacterioplankton in aquatic environments. Image credit: `Lutz et al 2013`_.
+
+.. _Lutz et al 2013: https://pubmed.ncbi.nlm.nih.gov/24379807/
 
 The History of Cholera: the Seven Historically Recorded Pandemics
 -----------------------------------------------------------------
