@@ -177,9 +177,9 @@ can be transferred from one *V. cholerae* lineage or sublineage to another *V. c
 by the CTX phage, which is a virus of *V. cholerae*. This has important implications for public health, which we will return to later in this course. 
 
 .. figure:: CtxProphage.jpg
-  :width: 700
+  :width: 800
 
-  A diagram showing just the CTX prophage region of Chromosome 1 of a typical isolate of the current pandemic lineage (7PET lineage), as well as a typical isolate of the lineage that caused the previous pandemic (i.e. Classical lineage). The arrows represent genes, and the *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: `Pant et al 2020`_.
+  A diagram showing just the CTX prophage region of Chromosome 1 of a typical isolate of the current pandemic lineage (7PET lineage), isolate N16961, as well as a typical isolate of the lineage that caused the previous pandemic (i.e. Classical lineage), isolate O395. The arrows represent genes, and the *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: `Pant et al 2020`_.
 
 .. _Pant et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272871/
 
