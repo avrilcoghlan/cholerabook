@@ -43,7 +43,7 @@ the intestinal lumen, resulting in acute watery diarrhoea.
 .. figure:: CholeraToxin.jpg
   :width: 450
 
-  Cholera toxin (Ctx) consists of one CtxA subunit bound to five CtxB subunits. This image shows the structure of the CtxB pentamer. Image credit: Wikipedia user Astrojan.
+  Cholera toxin (Ctx) is a protein complex that consists of one CtxA subunit bound to five CtxB subunits. This image shows the structure of the CtxB pentamer. Image credit: Wikipedia user Astrojan.
 
 Note that *V. cholerae* is not the only pathogen that can cause acute watery diarrhoea; similar symptoms also be caused by other bacteria
 such as enterotoxigenic *E. coli* (ETEC). 
@@ -103,14 +103,14 @@ The Classical Biotype and the El Tor Biotype
 The 7th pandemic isolates are described as having the **'El Tor biotype'**, to distinguish them from earlier form of *V. cholerae* that caused 
 the 6th pandemic, which were described to as having the **'Classical biotype'**. These biotypes are based on a particular set of laboratory tests (about four
 or five laboratory tests, depending on the version of the protocol), which test things like susceptibility to infection by particular bacteriophages, 
-susceptibility to a particular antibiotic, presence of a particular biochemical pathway, and effect on red blood cells (`CDC 1994`_). 
+susceptibility to a particular antibiotic, presence of a particular biochemical pathway, and effect on red blood cells (`CDC 1994`_).  
 
 .. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
 
 .. figure:: LabTests.png
   :width: 350
 
-  A set of about four or five laboratory tests are used to determine the biotype of *V. cholerae*, which is a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae causing a particular outbreak belong to the pandemic-causing/epidemic-causing lineage of *V. cholerae* (7PET lineage). Image credit: DynV at openclipart.org.
+  A set of about four or five laboratory tests are used to determine the biotype of *V. cholerae*, which is a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae causing a particular outbreak are from the 7th pandemic (i.e. belong to the 7PET lineage). Image credit: DynV at openclipart.org.
 
 For many years these laboratory tests were used to predict whether the *V. cholerae*
 causing an outbreak were El Tor biotype, so were likely to be pandemic-causing/epidemic-causing *V. cholerae* (7PET). These biotype-determining tests
