@@ -53,9 +53,9 @@ The Species *Vibrio cholerae* and its Geographic Distribution
 
 The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages. Importantly, at present there is actually
 only one lineage of *V. cholerae* which causes epidemic cholera, and we will discuss this lineage (known as
-**'7PET'**) in more detail below. There are many other lineages of *V. cholerae* found around the world that do not cause epidemic
+**'7PET'**) in more detail below. There are many other non-pandemic/non-epidemic lineages of *V. cholerae* found around the world that do not cause epidemic
 cholera. While 7PET appears to have evolved to become a human pathogen,
-these other lineages of *V. cholerae* are often found in brackish water or saltwater in association with shellfish
+these other non-pandemic/non-epidemic lineages of *V. cholerae* are often found in brackish water or saltwater in association with shellfish
 such as crabs and shrimp, or in rivers or freshwater lakes (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutreja & Dougan 2020`_). 
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
@@ -78,40 +78,59 @@ and then the 7th pandemic started in 1961 and continues at present (`Feng et al 
 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/  
 
+.. figure:: SnowCholeraMap.jpg
+  :width: 450
+
+   Map of cholera cases in London in 1854 made by the doctor John Snow during the third historically recorded cholera pandemic. Image credit: Original map made by John Snow in 1854.
+
 The Classical Biotype and the El Tor Biotype
 --------------------------------------------
 
 The 7th pandemic isolates are described as having the **'El Tor biotype'**, to distinguish them from earlier form of *V. cholerae* that caused 
-the 6th pandemic, which were described to as having the **'Classical biotype'**. These biotypes are based on a set of laboratory tests, which test 
-things like susceptibility to infection by particular bacteriophages, susceptibility to a particular antibiotic, presence of a particular 
-biochemical pathway, and effect on red blood cells (`CDC 1994`_). For many year these laboratory tests were used to predict whether the *V. cholerae*
-causing an outbreak were El Tor biotype, so were likely to be pandemic-causing *V. cholerae* (7PET). Note however that although the 
-lineage causing the 7th pandemic, 7PET, shows the El Tor biotype in laboratory tests, it's now known that some other
-lineages of *V. cholerae* also show the El Tor biotype in laboratory tests (see Fig. 1. in `Chun et al 2009`_), so biotype is not a perfect predictor of
-whether an isolate belongs to the pandemic-causing lineage. As we will discuss later in this course, whole genome sequencing
-tells us far more accurately whether isolates from an outbreak are pandemic-causing *V. cholerae* (7PET). 
+the 6th pandemic, which were described to as having the **'Classical biotype'**. These biotypes are based on a particular set of laboratory tests (about four
+or five laboratory tests, depending on the version of the protocol), which test things like susceptibility to infection by particular bacteriophages, 
+susceptibility to a particular antibiotic, presence of a particular biochemical pathway, and effect on red blood cells (`CDC 1994`_). 
+
+.. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
+
+.. figure:: LabTests.png
+  :width: 450
+
+  A set of about four or five laboratory tests are used to determine the biotype of *V. cholerae*, which is a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae causing a particular outbreak belong to the pandemic-causing/epidemic-causing lineage of *V. cholerae* (7PET lineage).
+
+For many years these laboratory tests were used to predict whether the *V. cholerae*
+causing an outbreak were El Tor biotype, so were likely to be pandemic-causing/epidemic-causing *V. cholerae* (7PET). These biotype-determining tests
+are sometimes still used for this purpose (`CDC 1994`_). However, the biotype is not a perfect predictor of whether isolates of 
+the *V. cholerae* causing an outbreak belong to the pandemic-causing/epidemic-causing lineage of *V. cholerae* (7PET lineage). That is, 
+although the lineage causing the 7th pandemic, 7PET, shows the El Tor biotype in laboratory tests, some other
+lineages of *V. cholerae* also show the El Tor biotype in laboratory tests (see Fig. 1. in `Chun et al 2009`_). 
+As we will discuss later in this course, whole genome sequencing
+tells us far more accurately whether isolates from an outbreak are pandemic-causing/epidemic-causing *V. cholerae* (i.e. are 7PET). 
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
 The Classical Lineage
 ---------------------
 
-Interestingly, we now know that the biotype phenotype is determined by several 
-different genes (`Dorman 2020`_). The difference in biotype between isolates from the 6th and 7th pandemic therefore
-reflects that there are quite a lot of genetic differences between the *V. cholerae* that caused these two pandemics. 
-Indeed, we now know, based on whole genome sequencing data, that the 6th pandemic was actually caused by a different lineage of *V. cholerae* than the 7th pandemic,
-which we call the **'Classical lineage'**. Before talking more about the Classical lineage, and other lineages of *V. cholerae*, we will take a brief
+Interestingly, we now know that, at the genetic level, the biotype phenotype is determined by several 
+different genes (`Dorman 2020`_). The difference in biotype between isolates from the 6th and 7th pandemic 
+reflects that there are genetic differences in these biotype-determining genes between the *V. cholerae* that caused these two pandemics (`Dorman 2020`_). 
+Indeed, we now know, based on whole genome sequencing data, that the 6th pandemic is actually genetically quite different from the 7th pandemic and 
+was actually caused by a different **lineage** (a genetically different subtype) of *V. cholerae* than the 7th pandemic.
+We call the lineage that caused the 6th pandemic the **'Classical lineage'**. 
+Before talking more about the Classical lineage and other lineages of *V. cholerae*, we will take a brief
 digression to talk about the *V. cholerae* genome and whole genome sequencing for *V. cholerae*. 
 
 .. _Dorman 2020: https://www.sanger.ac.uk/theses/md25-thesis.pdf
 
-.. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
-
-Introduction to the *V. cholerae* Genome and Whole Genome Sequencing for *V. cholerae*
---------------------------------------------------------------------------------------
+Introduction to the *V. cholerae* Genome 
+----------------------------------------
 
 -brief mention that the V. cholerae genome was first published in 2000 by Heidelberg et al PMID:10952301;
 -brief mention of the genome size, 2 chromosomes (see Fig. 1 of Mutreja & Dougan 2000), number of genes, possible presence of the cholera toxin genes that are found as part of the cholera prophage region, possible presence of plasmids containing AMR genes
+
+Introduction to Whole Genome Sequencing for *V. cholerae*
+---------------------------------------------------------
 
 Lineages of *V. cholerae*
 -------------------------
