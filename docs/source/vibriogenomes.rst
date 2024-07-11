@@ -99,12 +99,19 @@ The Classical Lineage
 Interestingly, we now know that the biotype phenotype is determined by several 
 different genes (`Dorman 2020`_). The difference in biotype between isolates from the 6th and 7th pandemic therefore
 reflects that there are quite a lot of genetic differences between the *V. cholerae* that caused these two pandemics. 
-Indeed, it turns out that the 6th pandemic was actually caused by a different lineage of *V. cholerae* than the 7th pandemic,
-which we call the **'Classical lineage'**. 
+Indeed, we now know, based on whole genome sequencing data, that the 6th pandemic was actually caused by a different lineage of *V. cholerae* than the 7th pandemic,
+which we call the **'Classical lineage'**. Before talking more about the Classical lineage, and other lineages of *V. cholerae*, we will take a brief
+digression to talk about the *V. cholerae* genome and whole genome sequencing for *V. cholerae*. 
 
 .. _Dorman 2020: https://www.sanger.ac.uk/theses/md25-thesis.pdf
 
 .. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
+
+Introduction to the *V. cholerae* Genome and Whole Genome Sequencing for *V. cholerae*
+--------------------------------------------------------------------------------------
+
+-brief mention that the V. cholerae genome was first published in 2000 by Heidelberg et al PMID:10952301;
+-brief mention of the genome size, 2 chromosomes (see Fig. 1 of Mutreja & Dougan 2000), number of genes, possible presence of the cholera toxin genes that are found as part of the cholera prophage region, possible presence of plasmids containing AMR genes
 
 Lineages of *V. cholerae*
 -------------------------
@@ -121,12 +128,6 @@ Lineages of *V. cholerae*
 -brief mention of how 7PET has split into sublineages, and brief mention that new sublineages have arisen over time in the Bay of Bengal region and spread around the world; brief mention of names of sublineages previously or currently found in Africa;
 -the recently revised GTFCC definitions of cholera cases and ‘cholera-free’ country statuses;
 -brief mention that 7PET can be controlled by vaccination; that vaccines have high efficiency against 7PET but are in short supply and that genomic information has great potential to help us decide who to vaccine (e.g. populations exposed to 7PET, especially those exposed to multi-drug resistant 7PET sublineages)
-
-Introduction to the *V. cholerae* Genome
-----------------------------------------
-
--brief mention that the V. cholerae genome was first published in 2000 by Heidelberg et al PMID:10952301;
--brief mention of the genome size, 2 chromosomes (see Fig. 1 of Mutreja & Dougan 2000), number of genes, possible presence of the cholera toxin genes that are found as part of the cholera prophage region, possible presence of plasmids containing AMR genes
 
 Brief Summary of Take-home Messages
 -----------------------------------
