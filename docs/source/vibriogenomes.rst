@@ -79,9 +79,9 @@ and then the 7th pandemic started in 1961 and continues at present (`Feng et al 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/  
 
 .. figure:: SnowCholeraMap.jpg
-  :width: 550
+  :width: 650
   
-  Map of cholera cases in London in 1854 made by the doctor John Snow during the third historically recorded cholera pandemic. Image credit: Original map made by John Snow in 1854.
+  Map of cholera cases in London in 1854 made by the doctor John Snow during the third historically recorded cholera pandemic. Cholera cases are highlighted in black. Image credit: Original map made by John Snow in 1854.
 
 The Classical Biotype and the El Tor Biotype
 --------------------------------------------
@@ -94,7 +94,7 @@ susceptibility to a particular antibiotic, presence of a particular biochemical 
 .. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
 
 .. figure:: LabTests.png
-  :width: 250
+  :width: 350
 
   A set of about four or five laboratory tests are used to determine the biotype of *V. cholerae*, which is a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae causing a particular outbreak belong to the pandemic-causing/epidemic-causing lineage of *V. cholerae* (7PET lineage). Image credit: DynV at openclipart.org.
 
