@@ -154,7 +154,8 @@ Introduction to the *V. cholerae* Genome
 ----------------------------------------
 
 The genetic material of *V. cholerae* is usually found in two circular chromosomes. The larger chromosome is known as Chromosome 1
-and the smaller chromosome as Chromosome 2. These two chromosomes each contain a long (circular) molecular of DNA. In total
+and the smaller chromosome as Chromosome 2. These two chromosomes each contain a long (circular) molecular of DNA, and together these
+two long pieces of DNA are called the **genome** of *V. cholerae*. In total
 these circular chromosomes contain about 4 million base-pairs (4 Mb) of base-pairs, where Chromosome 1 is about 3 Mb and Chromosome 2 about 1 Mb.
 Each of these chromosomes includes many hundred of genes, and in total the two chromosomes contain almost 4000 genes in a typical isolate
 from the 7PET lineage (`Heidelberg 2000`_). 
@@ -171,8 +172,7 @@ from the 7PET lineage (`Heidelberg 2000`_).
 In isolates of the current pandemic lineage (7PET lineage), we usually see the two genes that encode the A and B subunits of the cholera toxin close together
 on Chromosome 1. These two genes are called the *ctxA* and *ctxB* genes. If we could zoom in a lot on chromosome 1, we would be able to see the
 *ctxA* and *ctxB* genes close together in a region known as the **CTX prophage**, which is actually a piece of viral DNA that has inserted into the chromosome
-of *V. cholerae*. In other words, surprisingly, the two genes that encode the cholera toxin are actually part of a bacteriophage, a virus that infects *V. cholerae*.
-Practically 100% of isolates of the current pandemic lineage (7PET) contain the CTX prophage inserted in their chromosome, and so produce cholera toxin, and therefore
+of *V. cholerae*. Practically 100% of isolates of the current pandemic lineage (7PET) contain the CTX prophage inserted in their chromosome, and so produce cholera toxin, and therefore
 cause a human host to suffer acute watery diarrhoea. 
 
 .. figure:: CtxProphage.jpg
@@ -181,6 +181,9 @@ cause a human host to suffer acute watery diarrhoea.
   A diagram showing just the CTX prophage region of Chromosome 1 of a typical isolate of the current pandemic lineage (7PET lineage), isolate N16961, as well as a typical isolate of the lineage that caused the previous pandemic (i.e. Classical lineage), isolate O395. The arrows represent genes, and the *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: `Pant et al 2020`_.
 
 .. _Pant et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272871/
+
+Genetic Variation in *V. cholerae*
+----------------------------------
 
 -Discuss possible presence of the cholera toxin genes that are found as part of the cholera prophage region, possible presence of plasmids containing AMR genes.
 N16961 is the “reference strain”
