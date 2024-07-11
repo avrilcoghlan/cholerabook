@@ -22,7 +22,7 @@ people usually catch cholera by eating food or drinking water that has been cont
 with human faeces containing *V. cholerae*.
 
 .. figure:: FaecalOralRoute.jpg
-  :width: 450
+  :width: 550
 
   The faecal-oral route for disease transmission. The orange lines represent barriers, ie. toilets, safe water, hygiene and handwashing. Image credit: Howard G., Bartam J., Williams A., Overbo A., Fuente D., Geere J.A. Domestic water quantity, service level and health, second edition. Geneva: World Health Organization; 2020.
 
@@ -79,9 +79,9 @@ and then the 7th pandemic started in 1961 and continues at present (`Feng et al 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/  
 
 .. figure:: SnowCholeraMap.jpg
-  :width: 450
-
-   Map of cholera cases in London in 1854 made by the doctor John Snow during the third historically recorded cholera pandemic. Image credit: Original map made by John Snow in 1854.
+  :width: 550
+  
+  Map of cholera cases in London in 1854 made by the doctor John Snow during the third historically recorded cholera pandemic. Image credit: Original map made by John Snow in 1854.
 
 The Classical Biotype and the El Tor Biotype
 --------------------------------------------
@@ -94,9 +94,9 @@ susceptibility to a particular antibiotic, presence of a particular biochemical 
 .. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
 
 .. figure:: LabTests.png
-  :width: 450
+  :width: 250
 
-  A set of about four or five laboratory tests are used to determine the biotype of *V. cholerae*, which is a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae causing a particular outbreak belong to the pandemic-causing/epidemic-causing lineage of *V. cholerae* (7PET lineage).
+  A set of about four or five laboratory tests are used to determine the biotype of *V. cholerae*, which is a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae causing a particular outbreak belong to the pandemic-causing/epidemic-causing lineage of *V. cholerae* (7PET lineage). Image credit: DynV at openclipart.org.
 
 For many years these laboratory tests were used to predict whether the *V. cholerae*
 causing an outbreak were El Tor biotype, so were likely to be pandemic-causing/epidemic-causing *V. cholerae* (7PET). These biotype-determining tests
@@ -126,11 +126,12 @@ digression to talk about the *V. cholerae* genome and whole genome sequencing fo
 Introduction to the *V. cholerae* Genome 
 ----------------------------------------
 
--brief mention that the V. cholerae genome was first published in 2000 by Heidelberg et al PMID:10952301;
 -brief mention of the genome size, 2 chromosomes (see Fig. 1 of Mutreja & Dougan 2000), number of genes, possible presence of the cholera toxin genes that are found as part of the cholera prophage region, possible presence of plasmids containing AMR genes
 
 Introduction to Whole Genome Sequencing for *V. cholerae*
 ---------------------------------------------------------
+
+-brief mention that the V. cholerae genome was first published in 2000 by Heidelberg et al PMID:10952301;
 
 Lineages of *V. cholerae*
 -------------------------
