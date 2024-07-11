@@ -74,7 +74,7 @@ such as crabs and shrimp, or in rivers or freshwater lakes.
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
 .. figure:: VibrioCholeraeInSea.jpg
-  :width: 650
+  :width: 750
 
   Non-pandemic/non-epidemic lineages of *V. cholerae* are part of the bacterioplankton in aquatic environments. Image credit: `Lutz et al 2013`_.
 
@@ -93,7 +93,7 @@ and then the 7th pandemic started in 1961 and continues at present (`Feng et al 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/  
 
 .. figure:: SevenPandemics.png
-  :width: 350
+  :width: 650
 
   A timeline of the seven historically recorded pandemics. The current pandemic is the 7th pandemic and is caused by the 7PET lineage of *V. cholerae*. 
 
@@ -123,7 +123,8 @@ are sometimes still used for this purpose (`CDC 1994`_). However, the biotype is
 the *V. cholerae* causing an outbreak belong to the pandemic-causing/epidemic-causing lineage of *V. cholerae* (7PET lineage). That is, 
 although the lineage causing the 7th pandemic, 7PET, shows the El Tor biotype in laboratory tests, some other
 lineages of *V. cholerae* also show the El Tor biotype in laboratory tests (see Fig. 1. in `Chun et al 2009`_). 
-As we will discuss later in this course, whole genome sequencing
+This means that, if you find that an isolate from an outbreak has the El Tor biotype, the outbreak is not necessarily caused by pandemic-causing/epidemic-causing *V. cholerae*
+(i.e. is not necessarily 7PET). As we will discuss later in this course, whole genome sequencing
 tells us far more accurately whether isolates from an outbreak are pandemic-causing/epidemic-causing *V. cholerae* (i.e. are 7PET). 
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
@@ -135,14 +136,20 @@ Interestingly, we now know that, at the genetic level, the biotype phenotype is 
 different genes (`Dorman 2020`_). The difference in biotype between isolates from the 6th and 7th pandemic 
 reflects that there are genetic differences in these biotype-determining genes between the *V. cholerae* that caused these two pandemics (`Dorman 2020`_). 
 Indeed, we now know, based on whole genome sequencing data, that the 6th pandemic is actually genetically quite different from the 7th pandemic and 
-was actually caused by a different **lineage** (a genetically different subtype) of *V. cholerae* than the 7th pandemic.
+was actually caused by a different **lineage** (a genetically different subtype) of *V. cholerae* than the 7th pandemic. You can
+think of these different lineages as being different branches of the family tree of *V. cholerae*. 
 We call the lineage that caused the 6th pandemic the **'Classical lineage'**. 
 That is, the current pandemic, the 7th pandemic, is caused by the 7PET lineage of *V. cholerae*, which has the El Tor biotype, while
 the previous pandemic, the 6th pandemic, was caused by the Classical lineage of *V. cholerae* and had the Classical biotype. 
+The Classical lineage of *V. cholerae* caused the 6th pandemic, which ended in 1923, and the Classical lineage has
+more or less died out since then and is very rarely seen nowadays (although a Classical lineage isolate 
+from Ghana in 2010 was reported by `Adade et al 2022`_). 
 Before talking more about the Classical lineage and other lineages of *V. cholerae*, we will take a brief
 digression to talk about the *V. cholerae* genome and whole genome sequencing for *V. cholerae*. 
 
 .. _Dorman 2020: https://www.sanger.ac.uk/theses/md25-thesis.pdf
+
+.. _Adade et al 2022: https://pubmed.ncbi.nlm.nih.gov/36312941/
 
 Introduction to the *V. cholerae* Genome 
 ----------------------------------------
