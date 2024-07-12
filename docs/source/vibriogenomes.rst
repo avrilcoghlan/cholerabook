@@ -227,14 +227,14 @@ The key take-home messages of this chapter are:
 * *V. cholerae* is distributed globally, and is a very diverse species with many different lineages 
 * Most lineages of *V. cholerae* do not cause pandemic/epidemic cholera
 * At present there is only one lineage that causes pandemic/epidemic cholera: 7PET 
-* 7PET is the only high-risk lineage of *V. cholerae* at present: it is extremely infectious and virulent
+* **7PET is the only high-risk lineage of *V. cholerae* at present: it is extremely infectious and virulent**
 * Biotype is a laboratory phenotype used to predict whether *V. cholerae* isolates are epidemic-causing/pandemic-causing (i.e. 7PET)
 * Biotype is not a perfect predictor of 7PET, because a small % of non-pandemic/non-epidemic lineages have the El Tor biotype
 * The genome of a 7PET isolate has 4 Mb split over two chromosomes, and contains about 4000 genes
 * Practically all 7PET isolates have genes for cholera toxin (*ctxAB* genes)
 * Presence of *ctxAB* is not a perfect predictor of 7PET, because a small % of non-pandemic/non-epidemic lineages have *ctxAB* 
-* Whole genome sequencing is the most accurate way to determine whether an outbreak is 7PET (pandemic-causing/epidemic-causing) 
-* A 7PET outbreak requires a rapid and large public health response
+* **Whole genome sequencing is the most accurate way to determine whether an outbreak is 7PET (and so pandemic-causing/epidemic-causing)**
+* **A 7PET outbreak requires a rapid and large public health response**
 
 Suggested Further Reading
 -------------------------
