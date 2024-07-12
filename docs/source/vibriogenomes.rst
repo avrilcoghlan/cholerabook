@@ -75,7 +75,7 @@ such as crabs and shrimp, or in rivers or freshwater lakes.
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
 .. figure:: VibrioCholeraeInSea.jpg
-  :width: 750
+  :width: 800
 
   Non-pandemic/non-epidemic lineages of *V. cholerae* are part of the bacterioplankton in aquatic environments. Image credit: `Lutz et al 2013`_.
 
@@ -219,7 +219,7 @@ Brief Summary of Take-home Messages
 The key take-home messages of this chapter are:
 
 * Cholera is characterised by acute watery diarrhoea
-* Cholera is caused by ingestion of *Vibrio cholerae**
+* Cholera is caused by ingestion of *Vibrio cholerae*
 * The acute water diarrhoea is triggered by cholera toxin produced by *V. cholerae*
 * Cholera toxin is the key virulence factor of *V. cholerae* 
 * *V. cholerae* is distributed globally, and is a very diverse species with many different lineages 
