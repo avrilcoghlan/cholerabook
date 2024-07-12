@@ -116,7 +116,7 @@ stands for '7th pandemic El Tor'.
 .. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
 
 .. figure:: LabTests.png
-  :width: 300
+  :width: 250
 
   A set of about four or five laboratory tests are used to determine the biotype of *V. cholerae*, which is a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak are from the 7th pandemic (i.e. belong to the 7PET lineage). Image credit: DynV at openclipart.org.
 
@@ -163,7 +163,7 @@ from the 7PET lineage (`Heidelberg 2000`_).
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
 .. figure:: Chromosomes.jpg
-  :width: 650
+  :width: 700
 
   A diagram showing the two circular chromosomes of *V. cholerae*, for a typical isolate of the current pandemic lineage (7PET lineage). The outside circles in blue represent genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical isolate from the 7PET lineage. The innermost circle shows below average (purple) and above average (mustard) GC content along the chromosomes. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the region containing the two genes that encode the A and B subunits of the cholera toxin. This region is known as the 'CTX region'. Image source: `Mutreja & Dougan 2020`_.
 
@@ -178,7 +178,7 @@ of which are relatively closely related to 7PET, sometimes do have *ctxA* and *c
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
 .. figure:: CtxProphage.jpg
-  :width: 800
+  :width: 850
 
   A diagram showing just the CTX region of Chromosome 1 of a typical isolate of the current pandemic lineage (7PET lineage), isolate N16961 (bottom row), as well as a typical isolate of the lineage that caused the previous pandemic (i.e. Classical lineage), isolate O395 (top row). The arrows represent genes, and the *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: `Pant et al 2020`_.
 
@@ -218,21 +218,21 @@ Brief Summary of Take-home Messages
 
 The key take-home messages of this chapter are:
 
-#. Cholera is a disease characterised by acute watery diarrhoea
-#. Cholera is caused by ingestion of the bacterium *Vibrio cholerae**
-#. The acute water diarrhoea is triggered by cholera toxin, a protein complex produced by *V. cholerae*
-#. Therefore, cholera toxin is the key virulence factor of *V. cholerae* 
-#. The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages (genetically distinct subtypes of *V. cholerae*)
-#. Most lineages of *V. cholerae* do not cause pandemic/epidemic cholera
-#. At present there is actually only one lineage of *V. cholerae* which causes pandemic/epidemic cholera, known as the '7PET' (7th pandemic El Tor) lineage
-#. 7PET is the only high-risk lineage of *V. cholerae* at present
-#. The biotype is a laboratory phenotype that is used to predict whether *V. cholerae* isolates from an outbreak are epidemic-causing/pandemic-causing (i.e. whether they're 7PET)
-#. However, biotype is not a perfect predictor of 7PET, because a small fraction non-pandemic/non-epidemic lineages of *V. cholerae* have the El Tor biotype
-#. The V. cholerae genome of a typical 7PET isolate consists has 4 million base-pairs (Mb) split over two chromosomes, and contains about 4000 genes
-#. Practically all 7PET isolates have genes for cholera toxin (the *ctxA* and *ctxB* genes) and so produce cholera toxin
-#. However, presence of *ctxAB* genes is not a perfect predictor of 7PET, because a small fraction of non-pandemic/non-epidemic lineages of *V. cholerae* have *ctxAB* genes
-#. Whole genome sequencing is the most accurate way to determine whether a new outbreak of diarrhoeal illness is 7PET (pandemic-causing/epidemic-causing) or not
-#. A 7PET outbreak requires a rapid and large public health response
+* Cholera is characterised by acute watery diarrhoea
+* Cholera is caused by ingestion of *Vibrio cholerae**
+* The acute water diarrhoea is triggered by cholera toxin produced by *V. cholerae*
+* Cholera toxin is the key virulence factor of *V. cholerae* 
+* *V. cholerae* is distributed globally, and is a very diverse species with many different lineages 
+* Most lineages of *V. cholerae* do not cause pandemic/epidemic cholera
+* At present there is only one lineage that causes pandemic/epidemic cholera: 7PET 
+* 7PET is the only high-risk lineage of *V. cholerae* at present
+* Biotype is a laboratory phenotype used to predict whether *V. cholerae* isolates are epidemic-causing/pandemic-causing (i.e. 7PET)
+* Biotype is not a perfect predictor of 7PET, because a small fraction of non-pandemic/non-epidemic lineages have the El Tor biotype
+* The genome of a 7PET isolate has 4 Mb split over two chromosomes, and contains about 4000 genes
+* Practically all 7PET isolates have genes for cholera toxin (*ctxAB* genes)
+* However, presence of *ctxAB* genes is not a perfect predictor of 7PET, because a small fraction of non-pandemic/non-epidemic lineages have *ctxAB* genes
+* Whole genome sequencing is the most accurate way to determine whether an outbreak is 7PET (pandemic-causing/epidemic-causing) or not
+* A 7PET outbreak requires a rapid and large public health response
 
 Suggested Further Reading
 -------------------------
