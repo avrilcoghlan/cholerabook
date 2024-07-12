@@ -60,7 +60,7 @@ There are many other non-pandemic/non-epidemic lineages of *V. cholerae* found a
 cholera.
 
 .. figure:: GlobalDistribution.jpg
-  :width: 800
+  :width: 700
 
   The global distribution of the bacterium *V. cholerae*, including representatives of many different lineages of *V. cholerae*, including both the current pandemic lineage (7PET), as well as other many other lineages, which are not pandemic-causing/epidemic-causing. Triangles indicate where *V. cholerae* was detected. The studies shown here are actually only a small fraction of the studies published for certain areas and should guide as an example. Image credit: `Lutz et al 2013`_.
 
