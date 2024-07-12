@@ -53,8 +53,10 @@ The Species *Vibrio cholerae* and its Geographic Distribution
 -------------------------------------------------------------
 
 The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages. Importantly, at present there is actually
-only one lineage of *V. cholerae* which causes pandemic/epidemic cholera, and we will discuss this lineage (known as
-**'7PET'**) in more detail below. There are many other non-pandemic/non-epidemic lineages of *V. cholerae* found around the world that do not cause pandemic/epidemic
+only one lineage of *V. cholerae* which causes pandemic/epidemic cholera, and we will discuss this lineage, which known as
+**'7PET'**, in more detail below. The 7PET lineage is an extremely infectious and virulent lineage of *V. cholerae*. 
+
+There are many other non-pandemic/non-epidemic lineages of *V. cholerae* found around the world that do not cause pandemic/epidemic
 cholera.
 
 .. figure:: GlobalDistribution.jpg
