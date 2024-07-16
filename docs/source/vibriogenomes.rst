@@ -125,57 +125,47 @@ from Ghana in 2010 was reported by `Adade et al 2022`_).
   
   Map of cholera cases in London in 1854 made by the doctor John Snow during the 3rd historically recorded cholera pandemic. Cholera cases are highlighted in black. Image credit: Original map made by John Snow in 1854.
 
-The *V. cholerae* Genome 
-------------------------
+The *V. cholerae* Genome and Whole-Genome Sequencing (WGS) of *V. cholerae*
+---------------------------------------------------------------------------
 
-Just as for us humans, the genetic material or 'genome' of *V. cholerae* consists of DNA.
+Just as for us humans, the genetic material of *V. cholerae* consists of DNA.
 The DNA of *V. cholerae* contains all the genetic instructions specifying the development of a *V. cholerae* cell. 
 
-You may be already familiar with the structure of DNA, a famous molecule with a double helix structure that was
-proposed by Francis Crick and James Watson in 1953. DNA molecules consist of two chains (also known as 'strands') of
+You may be already familiar with the structure of DNA, a famous molecule with a double helix structure. DNA molecules consist of two chains (also known as 'strands') of
 smaller molecules called 'nucleotides'. Each nucleotide consists of three parts: a sugar called deoxyribose,
 a phosphate group, and one of four 'bases'. The bases are thymine (abbreviated as 'T'), adenine ('A'), guanine ('G')
-and cytosine ('C'). The bases in the two strands of a DNA double helix are complementary to each other: T pairs with
-A and G pairs with C. Thus, if one strand has the sequence of bases TACG, the other strand must have the sequence
-of bases ATGC. For convenience, one strand in a DNA double helix is called the 'forward' or '+' ('plus') strand,
-and by convention we write a DNA sequence as the sequence for the '+' strand. 
+and cytosine ('C'). 
 
 .. figure:: DNA_structure.jpg
-  :width: 500
+  :width: 200
 
   A diagram of the structure of DNA, showing the sugar phosphate backbone and base-pairs. The sugars and phosphates form the backbone of the double helix. Image credit: National Human Genome Research Institute, Public domain, via Wikimedia Commons.
+
+When we talk about 'sequencing the genome' of an organism, we mean figuring out the sequence of
+bases on the strands of its DNA molecules. We actually only need to figure out the sequence of one the strands of each of its DNA molecules,
+because the bases in the two strands of a DNA double helix are 'complementary' to each other: that is, T pairs with
+A and G pairs with C. Thus, if one strand has the sequence of bases TACGA, the other strand must have the sequence
+of bases ATGCT.
+
+The 'genome' of *V. cholerae* is the name we give to the set of all DNA in a *V. cholerae* cell.
+The first time that a *V. cholerae* isolate's genome was sequenced was in the year 2000, for a *V. cholerae* 7PET strain called N16961 
+(`Heidelberg et al 2000`_). The *V. cholerae* genome is organised into two circular chromosomes, each containing a long DNA molecule. 
+In total its two circular chromosomes contain about 4 million base-pairs (4 Mb) of base-pairs, where Chromosome 1 is about 3 Mb and Chromosome 2 about 1 Mb
+(`Heidelberg et al 2000`_). 
+
+.. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
+
+Since the year 2000 the genomes of thousands of other *V. cholerae* isolates have been sequenced. There are some differences
+between different *V. cholerae* isolates' genomes (that is, some genetic variation), but the majority of *V. cholerae*
+isolates have two circular chromosomes that together contain about 4 Mb of DNA. 
 
 Other 
 -----
 
+  A diagram showing the two circular chromosomes of *V. cholerae*, for a typical isolate of the current pandemic lineage (7PET lineage). The outside circles in blue represent genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical isolate from the 7PET lineage. The innermost circle shows below average (purple) and above average (mustard) GC content along the chromosomes. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the region containing the two genes that encode the A and B subunits of the cholera toxin. This region is known as the 'CTX region'. Image source: `Mutreja & Dougan 2020`_.
 
+.. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
-
-The DNA of humans is organised into twenty-three linear chromosomes, where each chromosome contains one long section of our DNA.
-
-.. figure:: Chromosome_DNA_Gene.png
-  :width: 500
-
-  Each human chromosome consists of a long strand of DNA. Each chromosome contains thousands of 'genes', where a gene is a region of the DNA
-molecule that has a particular function. 
-
-In contrast to the human genome, the *V. cholerae* genome is organised into two circular chromosome, each containing a long section of *V. cholerae* DNA. 
-
-
-
-
-
-
-The **genome* of *V. cholerae* is what we call its genetic material, which consists of DNA and contains all its genes, and is passed down from generation to generation.
-As we will discuss below, while for us humans, our genome is organised into twenty-three pairs of linear chromosomes (where each chromosome one long section of our DNA), 
-for *V. cholerae* its genome is organised into two circular chromosomes. Because 
-
-
-
-The genetic material of *V. cholerae* is usually found in two circular chromosomes. The larger chromosome is known as Chromosome 1
-and the smaller chromosome as Chromosome 2. These two chromosomes each contain a long (circular) molecular of DNA, and together these
-two long pieces of DNA are called the **genome** of *V. cholerae*. In total
-these circular chromosomes contain about 4 million base-pairs (4 Mb) of base-pairs, where Chromosome 1 is about 3 Mb and Chromosome 2 about 1 Mb.
 Each of these chromosomes includes many hundred of genes, and in total the two chromosomes contain almost 4000 genes in a typical isolate
 from the 7PET lineage (`Heidelberg 2000`_). 
 
@@ -184,9 +174,6 @@ from the 7PET lineage (`Heidelberg 2000`_).
 .. figure:: Chromosomes.jpg
   :width: 800
 
-  A diagram showing the two circular chromosomes of *V. cholerae*, for a typical isolate of the current pandemic lineage (7PET lineage). The outside circles in blue represent genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical isolate from the 7PET lineage. The innermost circle shows below average (purple) and above average (mustard) GC content along the chromosomes. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the region containing the two genes that encode the A and B subunits of the cholera toxin. This region is known as the 'CTX region'. Image source: `Mutreja & Dougan 2020`_.
-
-.. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
 In isolates of the current pandemic lineage (7PET lineage), we usually see the two genes that encode the A and B subunits of the cholera toxin close together
 on Chromosome 1. These two genes are called the *ctxA* and *ctxB* genes. If we could zoom in a lot on chromosome 1, we would be able to see the
