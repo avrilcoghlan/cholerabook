@@ -66,8 +66,7 @@ cholera. The vast majority of these non-pandemic/non-epidemic lineages do not pr
 .. figure:: GlobalDistribution.jpg
   :width: 650
 
-  The global distribution of the bacterium *V. cholerae*, including representatives of many different lineages of *V. cholerae*, including the current pandemic lineage (7PET) and many other lineages. 
-Triangles indicate where *V. cholerae* was detected. The studies shown here are actually only a small fraction of the studies published for certain areas. √`Lutz et al 2013`_.
+  The global distribution of the bacterium *V. cholerae*, including representatives of many different lineages of *V. cholerae*, including the current pandemic lineage (7PET) and many other lineages. Triangles indicate where *V. cholerae* was detected. The studies shown here are actually only a small fraction of the studies published for certain areas. Image credit: `Lutz et al 2013`_.
 
 These non-pandemic/non-epidemic lineages of *V. cholerae* are often found in brackish water or in saltwater in association with shellfish such as crabs and shrimp, or in rivers or freshwater lakes. 
 
