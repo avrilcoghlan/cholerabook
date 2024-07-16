@@ -141,12 +141,7 @@ and cytosine ('C').
 
   A diagram of the structure of DNA, showing the sugar phosphate backbone and base-pairs. The sugars and phosphates form the backbone of the double helix. Image credit: National Human Genome Research Institute, Public domain, via Wikimedia Commons.
 
-When we talk about 'sequencing the genome' of an organism, we mean figuring out the sequence of
-bases on the strands of its DNA molecules. 
-Later in this course we will talk about different methods for sequencing DNA.
-
-When sequencing an organism's genome, we actually only need to figure out the sequence of one the strands of each of its DNA molecules,
-because the bases in the two strands of a DNA double helix are 'complementary' to each other: that is, T pairs with
+The bases in the two strands of a DNA double helix are 'complementary' to each other: that is, T pairs with
 A and G pairs with C. Thus, if one strand has the sequence of bases TACGA, the other strand must have the sequence
 of bases ATGCT. For convenience, one strand in a DNA double helix is called the 'forward' or '+' ('plus') strand, and the 
 other strand the 'reverse' or '-' ('minus') strand.
@@ -165,13 +160,26 @@ and Chromosome 2 about 1 million base-pairs (1 Mb; `Heidelberg et al 2000`_).
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
+When we talk about 'sequencing the genome' of an organism, we mean figuring out the sequence of
+bases on the strands of its DNA molecules. 
+Later in this course we will talk about different methods for sequencing DNA.
+
+The first time that a *V. cholerae* isolate's genome was sequenced was in the year 2000, for a *V. cholerae* 7PET strain called N16961 
+that was originally isolated in Bangladesh (`Heidelberg et al 2000`_).
+Since the year 2000, the genomes of thousands of other *V. cholerae* isolates have been sequenced. There are quite a lot of small differences
+between different *V. cholerae* isolates' genomes (that is, there is genetic variation within *V. cholerae*), 
+but the majority of *V. cholerae* isolates have two circular chromosomes that together contain about 4 Mb of DNA. 
+
+Genes of *V. cholerae*
+----------------------
+
 Each of the two chromosomes of *V. cholerae* includes many hundred of genes. In 
 Each gene comprises a segment of its DNA, typically hundreds or thousands
 of base-pairs in length. A very common type of gene is a protein-coding gene, which is a stretch of
 DNA which encodes (specifies the production of) particular proteins. For example,
 *ctxA* and *ctxB* are two *V. cholerae* genes that encode the CtxA and CtxB proteins, the two
 proteins that form cholera toxin. In total the two *V. cholerae* chromosomes contain almost 4000 genes in a typical isolate
-from the 7PET lineage (`Heidelberg 2000`_). 
+from the 7PET lineage (`Heidelberg et al 2000`_). 
 
 The *ctxA* and *ctxB* genes are usually found close together in the *V. cholerae* genome, in a region known as the **CTX region**. 
 Practically 100% of 7PET isolates contain the CTX region in their chromosome, and so produce cholera toxin, and therefore cause a human 
@@ -182,18 +190,12 @@ of which are relatively closely related to 7PET, have *ctxA* and *ctxB* genes (`
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
-.. figure:: CtxRegion.jpg
+.. figure:: CtxRegion.png
   :width: 850
 
   A diagram showing the CTX region of Chromosome 1 of 7PET strain N16961. The blue arrows represent genes. The *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: A. Coghlan, inspired by `Pant et al 2020`_.
 
 .. _Pant et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272871/
-
-The first time that a *V. cholerae* isolate's genome was sequenced was in the year 2000, for a *V. cholerae* 7PET strain called N16961 
-that was originally isolated in Bangladesh (`Heidelberg et al 2000`_).
-Since the year 2000, the genomes of thousands of other *V. cholerae* isolates have been sequenced. There are quite a lot of small differences
-between different *V. cholerae* isolates' genomes (that is, there is genetic variation within *V. cholerae*), 
-but the majority of *V. cholerae* isolates have two circular chromosomes that together contain about 4 Mb of DNA. 
 
 Lineages of *V. cholerae*
 -------------------------
@@ -201,9 +203,6 @@ Lineages of *V. cholerae*
 
 -clear explanation of tree for the V. cholerae species (Domman et al 2017 Americas paper) showing the lineages ( explain trees)
 -brief mention of the lineages’ geographic distribution (non-7PET lineages found in coastal and fresh water around the world, 7PET found in humans) and role in cholera and diarrhoeal illness; brief mention that epidemic/pandemic cholera is caused by 7PET and spread by human travel & poor sanitation, and that non-7PET lineages only cause very small outbreaks that don’t reach large numbers and so are only of minor public health concern;
-
-
-
 
 The Classical Biotype and the El Tor Biotype
 --------------------------------------------
