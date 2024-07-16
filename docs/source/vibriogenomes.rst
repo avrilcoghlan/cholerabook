@@ -130,26 +130,33 @@ Lineages of *V. cholerae*
 
 The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
 recorded pandemic, are only the two pandemic/epidemic-causing lineages of *V. cholerae*. The many other
-lineages of *V. cholerae* are not pandemic/epidemic-causing; they sometimes cause relatively small outbreaks of mild diarrhoea
-but not large epidemics or pandemics (`Glenn Morris 1990`_; `Mutreja & Dougan 2020`_). In general, these small
-outbreaks caused by non-pandemic/epidemic-causing lineages of *V. cholerae* involve about X cases of diarrhoea.
-In contrast, 7PET has caused 
+lineages of *V. cholerae* are not pandemic/epidemic-causing; they sometimes cause relatively small outbreaks of mild diarrhoeal illness
+but not large epidemics or pandemics (`Glenn Morris 1990`_; `Mutreja & Dougan 2020`_). A typical example of an outbreak
+caused by a non-pandemic/epidemic lineage of *V. cholerae* was an outbreak of 11 diagnosed cases of diarrhoeal illness in Florida, USA in
+2010-2011 (`Haley et al 2014`_). An unusually large outbreak caused by a non-pandemic/epidemic lineage of *V. cholerae* was
+that in Sudan in 1968, which involved approximately 70 cases of diarrhoeal illness.
+In contrast, the cholera epidemic in Yemen that began in 2016 (and is still continuing) has included
+around 2.4 million suspected cases (`Lassalle et al 2023`_). As a result, the 7PET lineage is of major public health concern,
+while the other non-pandemic/epidemic lineages of *V. cholerae* are in comparison only of relatively minor public health concern.
+
+.. _Haley et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699521/
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
 .. _Glenn Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
 
+.. _Lassalle et al 2023: https://pubmed.ncbi.nlm.nih.gov/37770747/
+
 The figure below represents the 'family tree' of some of the known lineages of *V. cholerae*. It is actually a 'phylogenetic tree', that
 is, a family tree based on the genetic information (DNA data) for representatives of the lineages. 
 
 .. figure:: Lineages.png
-  :width: 300
+  :width: 350
   
   A phylogenetic tree of some of the known lineages of *V. cholerae*.
 
 -clear explanation of tree for the V. cholerae species (Domman et al 2017 Americas paper) showing the lineages ( explain trees)
-
--brief mention of the lineages’ geographic distribution (non-7PET lineages found in coastal and fresh water around the world, 7PET found in humans) and role in cholera and diarrhoeal illness; brief mention that epidemic/pandemic cholera is caused by 7PET and spread by human travel & poor sanitation, and that non-7PET lineages only cause very small outbreaks that don’t reach large numbers and so are only of minor public health concern;
+-brief mention that epidemic/pandemic cholera is caused by 7PET and spread by human travel & poor sanitation, 
 
 The *V. cholerae* Genome and Whole-Genome Sequencing (WGS) of *V. cholerae*
 ---------------------------------------------------------------------------
