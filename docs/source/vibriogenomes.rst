@@ -142,57 +142,58 @@ and cytosine ('C').
   A diagram of the structure of DNA, showing the sugar phosphate backbone and base-pairs. The sugars and phosphates form the backbone of the double helix. Image credit: National Human Genome Research Institute, Public domain, via Wikimedia Commons.
 
 When we talk about 'sequencing the genome' of an organism, we mean figuring out the sequence of
-bases on the strands of its DNA molecules. We actually only need to figure out the sequence of one the strands of each of its DNA molecules,
+bases on the strands of its DNA molecules. 
+Later in this course we will talk about different methods for sequencing DNA.
+
+When sequencing an organism's genome, we actually only need to figure out the sequence of one the strands of each of its DNA molecules,
 because the bases in the two strands of a DNA double helix are 'complementary' to each other: that is, T pairs with
 A and G pairs with C. Thus, if one strand has the sequence of bases TACGA, the other strand must have the sequence
-of bases ATGCT.
+of bases ATGCT. For convenience, one strand in a DNA double helix is called the 'forward' or '+' ('plus') strand, and the 
+other strand the 'reverse' or '-' ('minus') strand.
 
-The 'genome' of *V. cholerae* is the name we give to the set of all DNA in a *V. cholerae* cell.
-The first time that a *V. cholerae* isolate's genome was sequenced was in the year 2000, for a *V. cholerae* 7PET strain called N16961 
-(`Heidelberg et al 2000`_). The *V. cholerae* genome is organised into two circular chromosomes, each containing a long DNA molecule. 
-In total its two circular chromosomes contain about 4 million base-pairs (4 Mb) of base-pairs, where Chromosome 1 is about 3 Mb and Chromosome 2 about 1 Mb
-(`Heidelberg et al 2000`_). 
-
-.. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
-
-Since the year 2000 the genomes of thousands of other *V. cholerae* isolates have been sequenced. There are some differences
-between different *V. cholerae* isolates' genomes (that is, some genetic variation), but the majority of *V. cholerae*
-isolates have two circular chromosomes that together contain about 4 Mb of DNA. 
-
-Other 
------
-
-  A diagram showing the two circular chromosomes of *V. cholerae*, for a typical isolate of the current pandemic lineage (7PET lineage). The outside circles in blue represent genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical isolate from the 7PET lineage. The innermost circle shows below average (purple) and above average (mustard) GC content along the chromosomes. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the region containing the two genes that encode the A and B subunits of the cholera toxin. This region is known as the 'CTX region'. Image source: `Mutreja & Dougan 2020`_.
-
-.. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
-
-Each of these chromosomes includes many hundred of genes, and in total the two chromosomes contain almost 4000 genes in a typical isolate
-from the 7PET lineage (`Heidelberg 2000`_). 
+The 'genome' of *V. cholerae* is the name we give to the set of all DNA molecules in a *V. cholerae* cell.
+In each cell, the *V. cholerae* genome is organised into two circular 'chromosomes', each consisting of a long circular DNA molecule. 
+In total the two circular chromosomes contain about 4 million base-pairs (4 Mb) of base-pairs, where Chromosome 1 is about 3 Mb 
+and Chromosome 2 about 1 million base-pairs (1 Mb; `Heidelberg et al 2000`_). 
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
 .. figure:: Chromosomes.jpg
   :width: 800
 
+  A diagram showing the two circular chromosomes of *V. cholerae*, for a typical 7PET isolate. The outside circles in blue represent protein-coding genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical 7PET isolate from the 7PET lineage. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the 'CTX region' containing the two genes *ctxA* and *ctxB*, which encode the A and B subunits of the cholera toxin, respectively. Image source: `Mutreja & Dougan 2020`_.
 
-In isolates of the current pandemic lineage (7PET lineage), we usually see the two genes that encode the A and B subunits of the cholera toxin close together
-on Chromosome 1. These two genes are called the *ctxA* and *ctxB* genes. If we could zoom in a lot on chromosome 1, we would be able to see the
-*ctxA* and *ctxB* genes close together in a region known as the **CTX regione**. Practically 100% of isolates of the current pandemic lineage (7PET) contain the CTX region in their chromosome, and so produce cholera toxin, and therefore cause a human host to suffer acute watery diarrhoea. Most non-pandemic/non-epidemic lineages
-of *V. cholerae* do not have the *ctxA* and *ctxB* genes, and so do not produce cholera toxin. However, a small number of non-pandemic/non-epidemic lineages of *V. cholerae*, most
-of which are relatively closely related to 7PET, sometimes do have *ctxA* and *ctxB* genes (`Chun et al 2009`_).
+.. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
+
+Each of the two chromosomes of *V. cholerae* includes many hundred of genes. In 
+Each gene comprises a segment of its DNA, typically hundreds or thousands
+of base-pairs in length. A very common type of gene is a protein-coding gene, which is a stretch of
+DNA which encodes (specifies the production of) particular proteins. For example,
+*ctxA* and *ctxB* are two *V. cholerae* genes that encode the CtxA and CtxB proteins, the two
+proteins that form cholera toxin. In total the two *V. cholerae* chromosomes contain almost 4000 genes in a typical isolate
+from the 7PET lineage (`Heidelberg 2000`_). 
+
+The *ctxA* and *ctxB* genes are usually found close together in the *V. cholerae* genome, in a region known as the **CTX region**. 
+Practically 100% of 7PET isolates contain the CTX region in their chromosome, and so produce cholera toxin, and therefore cause a human 
+host to suffer acute watery diarrhoea. Only a small number of non-pandemic/non-epidemic lineages of *V. cholerae*, most
+of which are relatively closely related to 7PET, have *ctxA* and *ctxB* genes (`Chun et al 2009`_).
+
+.. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
-.. figure:: CtxProphage.jpg
+.. figure:: CtxRegion.jpg
   :width: 850
 
-  A diagram showing just the CTX region of Chromosome 1 of a typical isolate of the current pandemic lineage (7PET lineage), isolate N16961 (bottom row), as well as a typical isolate of the lineage that caused the previous pandemic (i.e. Classical lineage), isolate O395 (top row). The arrows represent genes, and the *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: `Pant et al 2020`_.
+  A diagram showing the CTX region of Chromosome 1 of 7PET strain N16961. The blue arrows represent genes. The *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: A. Coghlan, inspired by `Pant et al 2020`_.
 
 .. _Pant et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272871/
 
-
-
-
+The first time that a *V. cholerae* isolate's genome was sequenced was in the year 2000, for a *V. cholerae* 7PET strain called N16961 
+that was originally isolated in Bangladesh (`Heidelberg et al 2000`_).
+Since the year 2000, the genomes of thousands of other *V. cholerae* isolates have been sequenced. There are quite a lot of small differences
+between different *V. cholerae* isolates' genomes (that is, there is genetic variation within *V. cholerae*), 
+but the majority of *V. cholerae* isolates have two circular chromosomes that together contain about 4 Mb of DNA. 
 
 Lineages of *V. cholerae*
 -------------------------
@@ -243,11 +244,6 @@ Genetic Variation in *V. cholerae*
 N16961 is the “reference strain”
 Rare V. cholerae non-O1/O139 have the two chromosomes fused into one (Johnson et al 2015) 
 Rare V. cholerae O1 El Tor have an additional 0.9-Mb replicon; genome size 5.0 Mb (Okada et al 2015)
-
-Introduction to Whole Genome Sequencing for *V. cholerae*
----------------------------------------------------------
-
--brief mention that the V. cholerae genome was first published in 2000 by Heidelberg et al PMID:10952301;
 
 7PET
 ----
