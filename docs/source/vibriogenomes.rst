@@ -125,6 +125,30 @@ from Ghana in 2010 was reported by `Adade et al 2022`_).
   
   Map of cholera cases in London in 1854 made by the doctor John Snow during the 3rd historically recorded cholera pandemic. Cholera cases are highlighted in black. Image credit: Original map made by John Snow in 1854.
 
+Lineages of *V. cholerae*
+-------------------------
+
+The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
+recorded pandemic, are only the two pandemic/epidemic-causing lineages of *V. cholerae*. As mentioned above, the many other
+lineages of *V. cholerae are not pandemic/epidemic-causing; they sometimes cause small outbreaks of mild diarrhoea
+but not large epidemics or pandemics (`Glenn Morris 1990`_; `Mutreja & Dougan 2020`_). 
+
+.. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
+
+.. _Glenn Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
+
+The figure below represents the 'family tree' of some of the known lineages of *V. cholerae*. It is actually a 'phylogenetic tree', that
+is, a family tree based on the genetic information (DNA data) for representatives of the lineages. 
+
+.. figure:: Lineages.png
+  :width: 500
+  
+  A phylogenetic tree of some of the known lineages of *V. cholerae*.
+
+-clear explanation of tree for the V. cholerae species (Domman et al 2017 Americas paper) showing the lineages ( explain trees)
+
+-brief mention of the lineages’ geographic distribution (non-7PET lineages found in coastal and fresh water around the world, 7PET found in humans) and role in cholera and diarrhoeal illness; brief mention that epidemic/pandemic cholera is caused by 7PET and spread by human travel & poor sanitation, and that non-7PET lineages only cause very small outbreaks that don’t reach large numbers and so are only of minor public health concern;
+
 The *V. cholerae* Genome and Whole-Genome Sequencing (WGS) of *V. cholerae*
 ---------------------------------------------------------------------------
 
@@ -178,7 +202,7 @@ Each gene comprises a segment of its DNA, typically hundreds or thousands
 of base-pairs in length. A very common type of gene is a protein-coding gene, which is a stretch of
 DNA which encodes (specifies the production of) particular proteins. For example,
 *ctxA* and *ctxB* are two *V. cholerae* genes that encode the CtxA and CtxB proteins, the two
-proteins that form cholera toxin. In total the two *V. cholerae* chromosomes contain almost 4000 genes in a typical isolate
+proteins that form cholera toxin. In total the two *V. cholerae* chromosomes contain almost 4000 protein-coding genes in a typical isolate
 from the 7PET lineage (`Heidelberg et al 2000`_). 
 
 The *ctxA* and *ctxB* genes are usually found close together in the *V. cholerae* genome, in a region known as the **CTX region**. 
@@ -196,13 +220,6 @@ of which are relatively closely related to 7PET, have *ctxA* and *ctxB* genes (`
   A diagram showing the CTX region of Chromosome 1 of 7PET strain N16961. The blue arrows represent genes. The *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: A. Coghlan, inspired by `Pant et al 2020`_.
 
 .. _Pant et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272871/
-
-Lineages of *V. cholerae*
--------------------------
-
-
--clear explanation of tree for the V. cholerae species (Domman et al 2017 Americas paper) showing the lineages ( explain trees)
--brief mention of the lineages’ geographic distribution (non-7PET lineages found in coastal and fresh water around the world, 7PET found in humans) and role in cholera and diarrhoeal illness; brief mention that epidemic/pandemic cholera is caused by 7PET and spread by human travel & poor sanitation, and that non-7PET lineages only cause very small outbreaks that don’t reach large numbers and so are only of minor public health concern;
 
 The Classical Biotype and the El Tor Biotype
 --------------------------------------------
