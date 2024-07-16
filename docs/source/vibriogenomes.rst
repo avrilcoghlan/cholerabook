@@ -64,7 +64,7 @@ There are many other non-pandemic/non-epidemic lineages of *V. cholerae* found a
 cholera. The vast majority of these non-pandemic/non-epidemic lineages do not produce cholera toxin.
 
 .. figure:: GlobalDistribution.jpg
-  :width: 700
+  :width: 650
 
   The global distribution of the bacterium *V. cholerae*, including representatives of many different lineages of *V. cholerae*, including the current pandemic lineage (7PET) and many other lineages. 
 Triangles indicate where *V. cholerae* was detected. The studies shown here are actually only a small fraction of the studies published for certain areas. √`Lutz et al 2013`_.
@@ -80,7 +80,7 @@ These non-pandemic/non-epidemic lineages of *V. cholerae* are often found in bra
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
 .. figure:: VibrioCholeraeInSea.jpg
-  :width: 800
+  :width: 750
 
   Non-pandemic/non-epidemic lineages of *V. cholerae* are part of the bacterioplankton in aquatic environments. Image credit: `Lutz et al 2013`_.
 
