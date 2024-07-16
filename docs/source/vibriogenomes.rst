@@ -191,7 +191,7 @@ of which are relatively closely related to 7PET, have *ctxA* and *ctxB* genes (`
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
 .. figure:: CtxRegion.png
-  :width: 850
+  :width: 550
 
   A diagram showing the CTX region of Chromosome 1 of 7PET strain N16961. The blue arrows represent genes. The *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: A. Coghlan, inspired by `Pant et al 2020`_.
 
