@@ -52,7 +52,8 @@ such as enterotoxigenic *E. coli* (ETEC).
 The Species *Vibrio cholerae* and its Geographic Distribution
 -------------------------------------------------------------
 
-The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages. 
+The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages (i.e. many different
+genetically different subtypes of *V. cholerae*, forming different branches of the family tree of the species *V. cholerae*). 
 
 There is there is only one lineage of *V. cholerae* which causes pandemic/epidemic cholera at present.
 This lineage is known as the **'7PET'** lineage. 
@@ -96,6 +97,21 @@ and ongoing cholera pandemic, and has been caused by the 7PET lineage.
 
 The 6th pandemic occurred from 1899 to 1923, after which there were only localised outbreaks in parts of Asia for several decades,
 and then the 7th pandemic started in 1961 and continues at present (`Feng et al 2008`_). 
+We now know that the 6th pandemic  
+was actually caused by completely a different **lineage** of *V. cholerae* than the 7th pandemic. 
+We call the lineage that caused the 6th pandemic the **'Classical lineage'** (`Chun et al 2009`_, `Domman et al 2017`_). 
+
+.. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+The Classical lineage has more or less died out since the end of the 6th pandemic (in 1923) 
+and is very rarely seen nowadays (e.g. a rare Classical lineage isolate 
+from Ghana in 2010 was reported by `Adade et al 2022`_). 
+
+.. _Dorman 2020: https://www.sanger.ac.uk/theses/md25-thesis.pdf
+
+.. _Adade et al 2022: https://pubmed.ncbi.nlm.nih.gov/36312941/
 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/  
 
@@ -109,55 +125,52 @@ and then the 7th pandemic started in 1961 and continues at present (`Feng et al 
   
   Map of cholera cases in London in 1854 made by the doctor John Snow during the 3rd historically recorded cholera pandemic. Cholera cases are highlighted in black. Image credit: Original map made by John Snow in 1854.
 
-The Classical Biotype and the El Tor Biotype
---------------------------------------------
+The *V. cholerae* Genome 
+------------------------
 
-The 7th pandemic isolates are described as having the **'El Tor biotype'**, to distinguish them from earlier form of *V. cholerae* that caused 
-the 6th pandemic, which were described to as having the **'Classical biotype'**. These biotypes are based on a particular set of laboratory tests (about four
-or five laboratory tests, depending on the version of the protocol), which test things like susceptibility to infection by particular bacteriophages, 
-susceptibility to a particular antibiotic, presence of a particular biochemical pathway, and effect on red blood cells (`CDC 1994`_).  
-The current pandemic lineage of *V. cholerae* is called '7PET' because it shows the El Tor biotype: '7PET'
-stands for '7th pandemic El Tor'. 
+Just as for us humans, the genetic material or 'genome' of *V. cholerae* consists of DNA.
+The DNA of *V. cholerae* contains all the genetic instructions specifying the development of a *V. cholerae* cell. 
 
-.. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
+You may be already familiar with the structure of DNA, a famous molecule with a double helix structure that was
+proposed by Francis Crick and James Watson in 1953. DNA molecules consist of two chains (also known as 'strands') of
+smaller molecules called 'nucleotides'. Each nucleotide consists of three parts: a sugar called deoxyribose,
+a phosphate group, and one of four 'bases'. The bases are thymine (abbreviated as 'T'), adenine ('A'), guanine ('G')
+and cytosine ('C'). The bases in the two strands of a DNA double helix are complementary to each other: T pairs with
+A and G pairs with C. Thus, if one strand has the sequence of bases TACG, the other strand must have the sequence
+of bases ATGC. For convenience, one strand in a DNA double helix is called the 'forward' or '+' ('plus') strand,
+and by convention we write a DNA sequence as the sequence for the '+' strand. 
 
-.. figure:: LabTests.png
-  :width: 250
+.. figure:: DNA_structure.jpg
+  :width: 500
 
-  A set of about four or five laboratory tests are used to determine the biotype of *V. cholerae*, which is a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak are from the 7th pandemic (i.e. belong to the 7PET lineage). Image credit: DynV at openclipart.org.
+  A diagram of the structure of DNA, showing the sugar phosphate backbone and base-pairs. The sugars and phosphates form the backbone of the double helix. Image credit: National Human Genome Research Institute, Public domain, via Wikimedia Commons.
 
-For many decades these laboratory tests have been used to find out whether the *V. cholerae*
-causing an outbreak have the El Tor biotype (`CDC 1994`_), so to predict whether they are likely to be pandemic-causing/epidemic-causing *V. cholerae* (7PET). 
-However, although the lineage causing the 7th pandemic, 7PET, shows the El Tor biotype in laboratory tests, some other
-lineages of *V. cholerae* also show the El Tor biotype in laboratory tests (see Fig. 1. in `Chun et al 2009`_). 
-As we will discuss later in this course, whole genome sequencing tells us far more accurately whether isolates from an 
-outbreak are pandemic-causing/epidemic-causing *V. cholerae* (i.e. are 7PET). 
+Other 
+-----
 
-.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
-The Classical Lineage
----------------------
 
-Interestingly, we now know that, at the genetic level, the biotype phenotype is determined by several 
-different genes (`Dorman 2020`_). The difference in biotype between isolates from the 6th and 7th pandemic 
-reflects that there are genetic differences in these biotype-determining genes between the *V. cholerae* that caused these two pandemics (`Dorman 2020`_). 
-Indeed, we now know, based on whole genome sequencing data, that the 6th pandemic is actually genetically quite different from the 7th pandemic and 
-was actually caused by a different **lineage** (a genetically different subtype) of *V. cholerae* than the 7th pandemic. You can
-think of these different lineages as being different branches of the family tree of *V. cholerae*. 
-We call the lineage that caused the 6th pandemic the **'Classical lineage'**. 
 
-The Classical lineage of *V. cholerae* caused the 6th pandemic, which ended in 1923, and the Classical lineage has
-more or less died out since then and is very rarely seen nowadays (although a Classical lineage isolate 
-from Ghana in 2010 was reported by `Adade et al 2022`_). 
-Before talking more about the Classical lineage and other lineages of *V. cholerae*, we will take a brief
-digression to talk about the *V. cholerae* genome and whole genome sequencing for *V. cholerae*. 
+The DNA of humans is organised into twenty-three linear chromosomes, where each chromosome contains one long section of our DNA.
 
-.. _Dorman 2020: https://www.sanger.ac.uk/theses/md25-thesis.pdf
+.. figure:: Chromosome_DNA_Gene.png
+  :width: 500
 
-.. _Adade et al 2022: https://pubmed.ncbi.nlm.nih.gov/36312941/
+  Each human chromosome consists of a long strand of DNA. Each chromosome contains thousands of 'genes', where a gene is a region of the DNA
+molecule that has a particular function. 
 
-Introduction to the *V. cholerae* Genome 
-----------------------------------------
+In contrast to the human genome, the *V. cholerae* genome is organised into two circular chromosome, each containing a long section of *V. cholerae* DNA. 
+
+
+
+
+
+
+The **genome* of *V. cholerae* is what we call its genetic material, which consists of DNA and contains all its genes, and is passed down from generation to generation.
+As we will discuss below, while for us humans, our genome is organised into twenty-three pairs of linear chromosomes (where each chromosome one long section of our DNA), 
+for *V. cholerae* its genome is organised into two circular chromosomes. Because 
+
+
 
 The genetic material of *V. cholerae* is usually found in two circular chromosomes. The larger chromosome is known as Chromosome 1
 and the smaller chromosome as Chromosome 2. These two chromosomes each contain a long (circular) molecular of DNA, and together these
@@ -190,6 +203,52 @@ of which are relatively closely related to 7PET, sometimes do have *ctxA* and *c
 
 .. _Pant et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272871/
 
+
+
+
+
+Lineages of *V. cholerae*
+-------------------------
+
+
+-clear explanation of tree for the V. cholerae species (Domman et al 2017 Americas paper) showing the lineages ( explain trees)
+-brief mention of the lineages’ geographic distribution (non-7PET lineages found in coastal and fresh water around the world, 7PET found in humans) and role in cholera and diarrhoeal illness; brief mention that epidemic/pandemic cholera is caused by 7PET and spread by human travel & poor sanitation, and that non-7PET lineages only cause very small outbreaks that don’t reach large numbers and so are only of minor public health concern;
+
+
+
+
+The Classical Biotype and the El Tor Biotype
+--------------------------------------------
+
+The 7th pandemic isolates are described as having the **'El Tor biotype'**, to distinguish them from earlier form of *V. cholerae* that caused 
+the 6th pandemic, which were described to as having the **'Classical biotype'**. These biotypes are based on a particular set of laboratory tests (about four
+or five laboratory tests, depending on the version of the protocol), which test things like susceptibility to infection by particular bacteriophages, 
+susceptibility to a particular antibiotic, presence of a particular biochemical pathway, and effect on red blood cells (`CDC 1994`_).  
+The current pandemic lineage of *V. cholerae* is called '7PET' because it shows the El Tor biotype: '7PET'
+stands for '7th pandemic El Tor'. 
+
+.. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
+
+.. figure:: LabTests.png
+  :width: 250
+
+  A set of about four or five laboratory tests are used to determine the biotype of *V. cholerae*, which is a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak are from the 7th pandemic (i.e. belong to the 7PET lineage). Image credit: DynV at openclipart.org.
+
+For many decades these laboratory tests have been used to find out whether the *V. cholerae*
+causing an outbreak have the El Tor biotype (`CDC 1994`_), so to predict whether they are likely to be pandemic-causing/epidemic-causing *V. cholerae* (7PET). 
+However, although the lineage causing the 7th pandemic, 7PET, shows the El Tor biotype in laboratory tests, some other
+lineages of *V. cholerae* also show the El Tor biotype in laboratory tests (see Fig. 1. in `Chun et al 2009`_). 
+As we will discuss later in this course, whole genome sequencing tells us far more accurately whether isolates from an 
+outbreak are pandemic-causing/epidemic-causing *V. cholerae* (i.e. are 7PET). 
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+Interestingly, we now know that, at the genetic level, the biotype phenotype is determined by several 
+different genes (`Dorman 2020`_). The difference in biotype between isolates from the 6th and 7th pandemic 
+reflects that there are genetic differences in these biotype-determining genes between the *V. cholerae* that caused these two pandemics (`Dorman 2020`_). 
+
+
+
 Genetic Variation in *V. cholerae*
 ----------------------------------
 
@@ -202,12 +261,6 @@ Introduction to Whole Genome Sequencing for *V. cholerae*
 ---------------------------------------------------------
 
 -brief mention that the V. cholerae genome was first published in 2000 by Heidelberg et al PMID:10952301;
-
-Lineages of *V. cholerae*
--------------------------
-
--clear explanation of tree for the V. cholerae species (Domman et al 2017 Americas paper) showing the lineages ( explain trees)
--brief mention of the lineages’ geographic distribution (non-7PET lineages found in coastal and fresh water around the world, 7PET found in humans) and role in cholera and diarrhoeal illness; brief mention that epidemic/pandemic cholera is caused by 7PET and spread by human travel & poor sanitation, and that non-7PET lineages only cause very small outbreaks that don’t reach large numbers and so are only of minor public health concern;
 
 7PET
 ----
