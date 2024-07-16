@@ -4,21 +4,21 @@ Cholera, *Vibrio cholerae*, and *V. cholerae* Lineages
 Introduction
 ------------
 
-This chapter will give you an overview of cholera, the species *Vibrio cholerae*, the main lineages of *V. cholerae*, and the most current pandemic lineage of *V. cholerae*, 7PET.
+This chapter will give you an overview of cholera, the species *Vibrio cholerae*, the main lineages of *V. cholerae*, and the current pandemic lineage of *V. cholerae*, 7PET.
 
 Acute Watery Diarrhoea, the Disease Cholera and its Epidemiology
 ----------------------------------------------------------------
 
 Cholera is a disease characterised by acute watery diarrhoea. It is an infection caused by a water-borne bacterium
-called *Vibrio cholerae*, a curved Gram-negative rod.
+called *Vibrio cholerae*, a curved Gram-negative rod-shaped bacterium.
 
 .. figure:: Vibrio_cholerae.jpg
   :width: 350
 
   The bacterium *V. cholerae*. Image credit: Tom Kirn, Ron Taylor, Louisa Howard - Dartmouth Electron Microscope Facility.
 
-The *V. cholerae* bacterium is usually tranmitted by the faecal-oral route, that is, 
-people usually catch cholera by eating food or drinking water that has been contaminated
+The *V. cholerae* bacterium is usually transmitted by the faecal-oral route, that is, 
+people usually catch cholera by eating food or by drinking water that has been contaminated
 with human faeces containing *V. cholerae*.
 
 .. figure:: FaecalOralRoute.jpg
@@ -38,13 +38,13 @@ or places in which there is a humanitarian crisis (e.g. an earthquake or war) th
 Once ingested by a human host, the *V. cholerae* bacteria multiply in the human intestine. The
 bacteria attach to the epithelial cells of the intestine and release **cholera toxin**. Cholera toxin
 binds to the intestinal epithelial cell surface, and stimulates the cells to secrete ions and water into
-the intestinal lumen, resulting in acute watery diarrhoea. Therefore, cholera toxin is the key **virulence factor** 
+the intestinal lumen, resulting in acute watery diarrhoea. Cholera toxin is therefore the key **virulence factor** 
 of *V. cholerae*. 
 
 .. figure:: CholeraToxin.jpg
   :width: 450
 
-  Cholera toxin (Ctx) is a protein complex that consists of one CtxA subunit bound to five CtxB subunits. This image shows the structure of the CtxB pentamer. Image credit: Wikipedia user Astrojan.
+  Cholera toxin (Ctx) is a protein complex that consists of one CtxA protein bound to five CtxB proteins. This image shows the structure formed by the five CtxB proteins. Image credit: Wikipedia user Astrojan.
 
 Note that *V. cholerae* is not the only pathogen that can cause acute watery diarrhoea; similar symptoms also be caused by other bacteria
 such as enterotoxigenic *E. coli* (ETEC). 
@@ -52,21 +52,24 @@ such as enterotoxigenic *E. coli* (ETEC).
 The Species *Vibrio cholerae* and its Geographic Distribution
 -------------------------------------------------------------
 
-The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages. Importantly, at present there is actually
-only one lineage of *V. cholerae* which causes pandemic/epidemic cholera, and we will discuss this lineage, which known as
-**'7PET'**, in more detail below. The 7PET lineage is an extremely infectious and virulent lineage of *V. cholerae*. 
+The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages. 
+
+There is there is only one lineage of *V. cholerae* which causes pandemic/epidemic cholera at present.
+This lineage is known as the **'7PET'** lineage. 
+The 7PET lineage is an extremely infectious and virulent lineage of *V. cholerae*, which produces
+cholera toxin. Since it arose in the 1960s, 7PET appears to have evolved to become a 
+human pathogen (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutreja & Dougan 2020`_).
 
 There are many other non-pandemic/non-epidemic lineages of *V. cholerae* found around the world that do not cause pandemic/epidemic
-cholera.
+cholera. The vast majority of these non-pandemic/non-epidemic lineages do not produce cholera toxin.
 
 .. figure:: GlobalDistribution.jpg
   :width: 700
 
-  The global distribution of the bacterium *V. cholerae*, including representatives of many different lineages of *V. cholerae*, including both the current pandemic lineage (7PET), as well as other many other lineages, which are not pandemic-causing/epidemic-causing. Triangles indicate where *V. cholerae* was detected. The studies shown here are actually only a small fraction of the studies published for certain areas and should guide as an example. Image credit: `Lutz et al 2013`_.
+The global distribution of the bacterium *V. cholerae*, including representatives of many different lineages of *V. cholerae*, including the current pandemic lineage (7PET) and many other lineages. 
+Triangles indicate where *V. cholerae* was detected. The studies shown here are actually only a small fraction of the studies published for certain areas. Image credit: `Lutz et al 2013`_.
 
-While 7PET appears to have evolved to become a human pathogen (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutreja & Dougan 2020`_),
-the other current lineages of *V. cholerae* are non-pandemic/non-epidemic lineages. These non-pandemic/non-epidemic lineages of *V. cholerae* are often found in brackish water or saltwater in association with shellfish
-such as crabs and shrimp, or in rivers or freshwater lakes. 
+These non-pandemic/non-epidemic lineages of *V. cholerae* are often found in brackish water or in saltwater in association with shellfish such as crabs and shrimp, or in rivers or freshwater lakes. 
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
