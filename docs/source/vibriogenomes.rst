@@ -129,9 +129,11 @@ Lineages of *V. cholerae*
 -------------------------
 
 The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
-recorded pandemic, are only the two pandemic/epidemic-causing lineages of *V. cholerae*. As mentioned above, the many other
-lineages of *V. cholerae are not pandemic/epidemic-causing; they sometimes cause small outbreaks of mild diarrhoea
-but not large epidemics or pandemics (`Glenn Morris 1990`_; `Mutreja & Dougan 2020`_). 
+recorded pandemic, are only the two pandemic/epidemic-causing lineages of *V. cholerae*. The many other
+lineages of *V. cholerae* are not pandemic/epidemic-causing; they sometimes cause relatively small outbreaks of mild diarrhoea
+but not large epidemics or pandemics (`Glenn Morris 1990`_; `Mutreja & Dougan 2020`_). In general, these small
+outbreaks caused by non-pandemic/epidemic-causing lineages of *V. cholerae* involve about X cases of diarrhoea.
+In contrast, 7PET has caused 
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
@@ -141,7 +143,7 @@ The figure below represents the 'family tree' of some of the known lineages of *
 is, a family tree based on the genetic information (DNA data) for representatives of the lineages. 
 
 .. figure:: Lineages.png
-  :width: 500
+  :width: 300
   
   A phylogenetic tree of some of the known lineages of *V. cholerae*.
 
