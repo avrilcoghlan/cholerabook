@@ -67,7 +67,7 @@ cholera. The vast majority of these non-pandemic/non-epidemic lineages do not pr
   :width: 700
 
   The global distribution of the bacterium *V. cholerae*, including representatives of many different lineages of *V. cholerae*, including the current pandemic lineage (7PET) and many other lineages. 
-Triangles indicate where *V. cholerae* was detected. The studies shown here are actually only a small fraction of the studies published for certain areas. Image credit: `Lutz et al 2013`_.
+Triangles indicate where *V. cholerae* was detected. The studies shown here are actually only a small fraction of the studies published for certain areas. √`Lutz et al 2013`_.
 
 These non-pandemic/non-epidemic lineages of *V. cholerae* are often found in brackish water or in saltwater in association with shellfish such as crabs and shrimp, or in rivers or freshwater lakes. 
 
@@ -89,11 +89,13 @@ These non-pandemic/non-epidemic lineages of *V. cholerae* are often found in bra
 The History of Cholera: the Seven Historically Recorded Pandemics
 -----------------------------------------------------------------
 
-A disease that sounds like cholera was recorded in ancient India and China. Since the early 1800s there have
-been seven historically recorded cholera pandemics caused by *Vibrio cholerae*. The 7th pandemic is the current
-and ongoing cholera pandemic, and has been caused by the *V. cholerae* lineage known as 7PET, which we
-will discuss below. There were six previous historically recorded pandemics since the early 1800s.
-The 6th pandemic occurred from 1899 to 1923, after which there were only localised outbreaks in Asia for several decades,
+A disease with symptoms like cholera was recorded in ancient texts from ancient India and China, but we have
+little information about those ancient outbreaks.
+Since the early 1800s there have been seven historically recorded cholera pandemics (epidemics covering a very wide
+area of our planet). The 7th pandemic is the current
+and ongoing cholera pandemic, and has been caused by the 7PET lineage.
+
+The 6th pandemic occurred from 1899 to 1923, after which there were only localised outbreaks in parts of Asia for several decades,
 and then the 7th pandemic started in 1961 and continues at present (`Feng et al 2008`_). 
 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/  
@@ -101,12 +103,12 @@ and then the 7th pandemic started in 1961 and continues at present (`Feng et al 
 .. figure:: SevenPandemics.png
   :width: 650
 
-  A timeline of the seven historically recorded pandemics. The current pandemic is the 7th pandemic and is caused by the 7PET lineage of *V. cholerae*. 
+  A timeline of the seven historically recorded pandemics. The current pandemic is the 7th pandemic and is caused by the 7PET lineage. Image credit: A. Coghlan.
 
 .. figure:: SnowCholeraMap.jpg
   :width: 500
   
-  Map of cholera cases in London in 1854 made by the doctor John Snow during the third historically recorded cholera pandemic. Cholera cases are highlighted in black. Image credit: Original map made by John Snow in 1854.
+  Map of cholera cases in London in 1854 made by the doctor John Snow during the 3rd historically recorded cholera pandemic. Cholera cases are highlighted in black. Image credit: Original map made by John Snow in 1854.
 
 The Classical Biotype and the El Tor Biotype
 --------------------------------------------
