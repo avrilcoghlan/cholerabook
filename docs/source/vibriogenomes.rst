@@ -137,7 +137,7 @@ a phosphate group, and one of four 'bases'. The bases are thymine (abbreviated a
 and cytosine ('C'). 
 
 .. figure:: DNA_structure.jpg
-  :width: 200
+  :width: 300
 
   A diagram of the structure of DNA, showing the sugar phosphate backbone and base-pairs. The sugars and phosphates form the backbone of the double helix. Image credit: National Human Genome Research Institute, Public domain, via Wikimedia Commons.
 
