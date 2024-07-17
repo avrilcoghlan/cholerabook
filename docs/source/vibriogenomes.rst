@@ -224,6 +224,9 @@ milder diarrhoeal illness than 7PET, so they are of minor public health importan
 
 .. _Hao et al 2023: https://pubmed.ncbi.nlm.nih.gov/37146742/
 
+We will talk a lot more about building and interpreting phylogenetic trees later in this course, in particular focussing on using trees
+to understand relationships between isolates from 7PET outbreaks.
+
 The History of 7PET's Global Spread
 -----------------------------------
 
