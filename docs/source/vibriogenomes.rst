@@ -148,7 +148,7 @@ Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal ill
 .. _Smith et al 2021: https://pubmed.ncbi.nlm.nih.gov/34670657/
 
 .. figure:: L3b_Hangzhou.png
-  :width: 500
+  :width: 600
 
   Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2001 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. Image credit: `Hao et al 2023`_.
 
