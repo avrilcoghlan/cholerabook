@@ -142,7 +142,7 @@ cases as seen in the Yemen cholera epidemic from 2016-present (`Mutreja & Dougan
 .. _Lassalle et al 2023: https://pubmed.ncbi.nlm.nih.gov/37770747/
 
 Of the non-pandemic/non-epidemic *V. cholerae* lineages, the two lineages that have caused the most cases of diarrhoeal illness
-in the last decade are thought to lineages 'L3b' and 'L9' (`Hao et al 2023`_). For example, these two non-pandemic/non-epidemic lineages
+since 2000 are thought to be lineages 'L3b' and 'L9' (`Hao et al 2023`_). For example, these two non-pandemic/non-epidemic lineages
 have caused several hundred cases of relatively mild diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_).
 Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal illness in South Africa (`Smith et al 2021`_). 
 
@@ -184,9 +184,49 @@ is, a family tree for *V. cholerae* built by `Domman et al 2017`_ based on genet
 .. figure:: Lineages.png
   :width: 250
   
-  A phylogenetic tree of some of the known lineages of *V. cholerae*. Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
+  A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
 
--clear explanation of tree for the V. cholerae species (Domman et al 2017 Americas paper) showing the lineages ( explain trees)
+The phylogenetic tree represents our best guess at the relationships between different lineages of *V. cholerae*, based on similarities and
+differences between their DNA. Time is represented along from left to right, with the left-hand side of the tree being the furthest back in the time and the
+right-hand side of the tree being the most recent. Some of the known lineages of *V. cholerae* are represented by triangles at the ends of the branches, on the
+right-hand side of the tree. If you start at two of the triangles at the ends of the branches, e.g. the triangles representing 7PET and Classical, and follow 
+back along two branches from right to left, you will reach an 'internal node' further to the left in the tree where those branches meet. This internal 
+node represents the last common ancestor of the lineages represented by the two triangles, e.g.
+the last common ancestor of 7PET and Classical, which is estimated to have existed about 1880 (`Feng et al 2008`_).
+
+.. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
+
+You may notice that if you start at the triangles representing 7PET and Classical, and trace back in the tree to find the internal node representing their common ancestor, you will
+it more quickly than if you start at the triangles representing 7PET and ELA-3. This tells us that 7PET and Classical shared a more common ancestor more recently than 7PET shared
+a common ancestor with ELA-3. This is similar to how we can see relationships in a family tree; 7PET and Classical can be thought of closer relatives in the family tree because
+they shared an ancestor fairly recently (something like human cousins, which share grandparents in common) compared to 7PET and ELA-3 (something like human second cousins, 
+which share great-grandparents in common). 
+
+As mentioned above, it's estimated that ancestral lineage of 7PET and Classical split into two lineages (i.e. 7PET and Classical) around 1880. 
+The tree tells us that, maybe 10s or 100s of years before 1880, the ancestral lineage of 7PET and ELA-3 split into two lineages, one of which gave rise to ELA-3 and the other of which
+gave rise to 7PET (and also, as you can see from the tree, to close relatives of 7PET including Classical, Gulf Coast and MX-3).
+
+You hopefully are getting used to reading the tree now, and can see that the closest relatives of 7PET in the tree
+are Gulf Coast and MX-2 (part of the L3b lineage, that we mentioned above), and that the next closest relatives of 7PET
+is Classical, and then after that, the next closest relative is ELA-3 (part of the L9 lineage mentioned above). 
+This set of relatively close relatives of 7PET (Gulf Coast, MX-2, Classical, and ELA-3) are sometimes known as
+the 'phylocore genome' lineages of *V. cholerae* (`Chun et al 2009`_). 
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+The phylocore genome lineages are worthy of some public health interest for two reasons. 
+Firstly, the two non-pandemic/non-epidemic lineages of *V. cholerae* that cause the most
+cases of diarrhoeal illness since 2000 are thought to be members of the phylocore genome lineages, L3b and L9 (`Hao et al 2023`_).
+Secondly, while practically 100% of 7PET isolates produce cholera toxin, the key virulence factor of 7PET that triggers acute watery diarrhoea,
+some isolates of phylocore genome lineages are predicted to also be able to produce cholera toxin (`Hao et al 2023`_).
+However, the phylocore genome lineages do not produce large epidemics/pandemics, and appear to give rise to far
+milder diarrhoeal illness than 7PET, so they are of minor public health importance compared to 7PET.
+
+.. _Hao et al 2023: https://pubmed.ncbi.nlm.nih.gov/37146742/
+
+The History of 7PET's Global Spread
+-----------------------------------
+
 -brief mention that epidemic/pandemic cholera is caused by 7PET and spread by human travel & poor sanitation, 
 
 The *V. cholerae* Genome and Whole-Genome Sequencing (WGS) of *V. cholerae*
@@ -248,11 +288,14 @@ from the 7PET lineage (`Heidelberg et al 2000`_).
 The *ctxA* and *ctxB* genes are usually found close together in the *V. cholerae* genome, in a region known as the **CTX region**. 
 Practically 100% of 7PET isolates contain the CTX region in their chromosome, and so produce cholera toxin, and therefore cause a human 
 host to suffer acute watery diarrhoea. Only a small number of non-pandemic/non-epidemic lineages of *V. cholerae*, most
-of which are relatively closely related to 7PET, have *ctxA* and *ctxB* genes (`Chun et al 2009`_).
+of which are relatively closely related to 7PET (i.e. belong to the phylocore genome lineages; see above), have *ctxA* and *ctxB* genes (`Chun et al 2009`_, 
+`Hao et al 2023`_).
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+.. _Hao et al 2023: https://pubmed.ncbi.nlm.nih.gov/37146742/
 
 .. figure:: CtxRegion.png
   :width: 550
