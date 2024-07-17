@@ -156,8 +156,6 @@ However, compared cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L
 *V. cholerae* lineages are far smaller and in general involve milder symptoms and
 rarely cause deaths. For example, the cholera epidemic in Yemen that began in 2016 (and is still continuing) has included
 approximately million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`WHO 2020`_).
-As a result, the 7PET lineage is of major public health concern,
-while the other non-pandemic/epidemic lineages of *V. cholerae* are in comparison only of relatively minor public health concern.
 
 .. _WHO 2020: https://applications.emro.who.int/docs/WHOEMCSR314E-eng.pdf
 
@@ -167,6 +165,9 @@ while the other non-pandemic/epidemic lineages of *V. cholerae* are in compariso
   Number of suspected cases of cholera per week, during the cholera epidemic caused by 7PET in Yemen, between 2016 and 2020. Image credit: (`WHO 2020`_). 
 
 .. _WHO 2020: https://applications.emro.who.int/docs/WHOEMCSR314E-eng.pdf
+
+Due to its virulence and pandemic/epidemic-causing potential, the 7PET lineage is of major public health concern,
+while the other non-pandemic/epidemic lineages of *V. cholerae* are in comparison only of relatively minor public health concern.
 
 Relationships between lineages of *V. cholerae*
 -----------------------------------------------
