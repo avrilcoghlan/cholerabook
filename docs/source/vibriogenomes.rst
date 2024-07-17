@@ -188,8 +188,8 @@ is, a family tree for *V. cholerae* built by `Domman et al 2017`_ based on genet
 
 The phylogenetic tree represents our best guess at the relationships between different lineages of *V. cholerae*, based on similarities and
 differences between their DNA. Time is represented along from left to right, with the left-hand side of the tree being the furthest back in the time and the
-right-hand side of the tree being the most recent. Some of the known lineages of *V. cholerae* are represented by triangles at the ends of the branches, on the
-right-hand side of the tree. If you start at two of the triangles at the ends of the branches, e.g. the triangles representing 7PET and Classical, and follow
+right-hand side of the tree being the most recent. 
+If you start at two of the triangles (representing lineages) at the ends of the branches, e.g. the triangles representing 7PET and Classical, and follow
 back along two branches from right to left, you will reach an 'internal node' further to the left in the tree where those branches meet. This internal
 node (represented by a red circle in the tree) represents the last common ancestor of the lineages represented by the two triangles, e.g.
 the last common ancestor of 7PET and Classical, which is estimated to have existed about 1880 (`Feng et al 2008`_). On the other hand,
@@ -198,7 +198,7 @@ the last common ancestor of 7PET and ELA-3 (represented by a yellow circle in th
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
 
 From the point of view of public health, a key feature of the tree is that there are many lineages of *V. cholerae*, and that
-only two of them, Classical (which is thought to be very rare nowadays) and 7PET, are pandemic-causing/epidemic-causing.
+only one of them, 7PET, is currently pandemic-causing/epidemic-causing.
 
 The History of 7PET's Global Spread
 -----------------------------------
