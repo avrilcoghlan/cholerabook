@@ -131,12 +131,15 @@ Diarrhoeal illness caused by different lineages of *V. cholerae*
 The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
 recorded pandemic, are only the two pandemic/epidemic-causing lineages of *V. cholerae*. The many other
 lineages of *V. cholerae* are not pandemic/epidemic-causing; they sometimes cause relatively small outbreaks of diarrhoeal illness in
-tens or even a hundred or so people, but not large epidemics or pandemics of hundreds of thousands of cases or even millions of 
-cases (`Glenn Morris 1990`_; `Mutreja & Dougan 2020`_). 
+tens or even a hundred or so people (`Glenn Morris 1990`_). In contrast, 7PET is the only current *V. cholerae* lineage
+that cuases large epidemics or pandemics of hundreds of thousands of cases, or even millions of 
+cases as seen in the Yemen cholera epidemic from 2016-present (`Mutreja & Dougan 2020`_, `Lassalle et al 2023`_). 
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
 .. _Glenn Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
+
+.. _Lassalle et al 2023: https://pubmed.ncbi.nlm.nih.gov/37770747/
 
 Of the non-pandemic/non-epidemic *V. cholerae* lineages, the two lineages that have caused the most cases of diarrhoeal illness
 in the last decade are thought to lineages 'L3b' and 'L9' (`Hao et al 2023`_). For example, these two non-pandemic/non-epidemic lineages
