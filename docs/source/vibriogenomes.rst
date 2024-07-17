@@ -177,7 +177,7 @@ Relationships between lineages of *V. cholerae*
 
 We have mentioned above some known lineages of *V. cholerae*, such as 7PET, Classical, L3b and L9. 
 The figure below represents the 'family tree' of some of the known lineages of *V. cholerae*. It is actually a 'phylogenetic tree', that
-is, a family tree for *V. cholerae* built by `Domman et al 2017`_ based on genetic information (DNA sequence data) for representatives of the lineages. 
+is, a family tree for *V. cholerae* built by `Domman et al 2017`_ based on genetic information (DNA sequence data) for representatives of the lineages.
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
