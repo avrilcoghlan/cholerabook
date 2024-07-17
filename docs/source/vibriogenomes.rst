@@ -179,7 +179,7 @@ The figure below represents the 'family tree' of some of the known lineages of *
 is, a family tree based on the genetic information (DNA data) for representatives of the lineages. 
 
 .. figure:: Lineages.png
-  :width: 350
+  :width: 250
   
   A phylogenetic tree of some of the known lineages of *V. cholerae*.
 
