@@ -125,26 +125,18 @@ from Ghana in 2010 was reported by `Adade et al 2022`_).
   
   Map of cholera cases in London in 1854 made by the doctor John Snow during the 3rd historically recorded cholera pandemic. Cholera cases are highlighted in black. Image credit: Original map made by John Snow in 1854.
 
-Lineages of *V. cholerae*
--------------------------
+Diarrhoeal illness caused by different lineages of *V. cholerae*
+----------------------------------------------------------------
 
 The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
 recorded pandemic, are only the two pandemic/epidemic-causing lineages of *V. cholerae*. The many other
-lineages of *V. cholerae* are not pandemic/epidemic-causing; they sometimes cause relatively small outbreaks of mild diarrhoeal illness
-but not large epidemics or pandemics (`Glenn Morris 1990`_; `Mutreja & Dougan 2020`_). 
+lineages of *V. cholerae* are not pandemic/epidemic-causing; they sometimes cause relatively small outbreaks of diarrhoeal illness in
+tens or even a hundred or so people, but not large epidemics or pandemics of hundreds of thousands of cases or even millions of 
+cases (`Glenn Morris 1990`_; `Mutreja & Dougan 2020`_). 
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
 .. _Glenn Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
-
- An unusually large outbreak caused by a non-pandemic/epidemic lineage of *V. cholerae* was
-that in Sudan in 1968, which involved approximately 70 cases of diarrhoeal illness (`Dorman & Thomson 2023`_).
-Most outbreaks caused by non-pandemic/epidemic lineages of *V. cholerae* are smaller, for example, an outbreak
-of 11 cases in Florida, USA in 2010-2011 (`Haley et al 2014`_).
-
-.. _Dorman & Thomson 2023: https://pubmed.ncbi.nlm.nih.gov/37043377/
-
-.. _Haley et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699521/
 
 Of the non-pandemic/non-epidemic *V. cholerae* lineages, the two lineages that have caused the most cases of diarrhoeal illness
 in the last decade are thought to lineages 'L3b' and 'L9' (`Hao et al 2023`_). For example, these two non-pandemic/non-epidemic lineages
@@ -158,45 +150,26 @@ Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal ill
 .. figure:: L3bHangzhou.jpg
   :width: 500
 
-  Cases of diarrhoeal illness caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2001 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. Image credit: `Hao et al 2023`_.
+  Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2001 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. Image credit: `Hao et al 2023`_.
 
-However, compared cholera outbreaks/epidemics caused by 7PET, L3b/L9 outbreaks far smaller and in general involve milder symptoms and
-rarely cause deaths. 
-
-
-We
-
-Some of the L3b isolates have the cholera toxin genes *ctxA* and *ctxB*
-
-
-Compared to 7PET, these L3b/L9 outbreaks are far smaller and in general involve milder symptoms than cholera caused by 7PET, 
-so L3b/L9 are not currently considered a major public health threat. However, they are a subject of ongoing scientific
-
-
-Although these L3b/L9 outbreaks are far smaller and in general involve milder symptoms than cholera caused by 7PET, so
-compared to 7PET, they are not currently. considered a major public health threat. However, 
-
-some of the
-L3b isolates have the cholera toxin genes *ctxA* and *ctxB*, so the L3b/L9 lineages are a subject of ongoing research. That
-is, compared to 7PET, they are not considered a major public health threat, but 
-
-better understanding of their symptoms and spread
-co(`Hao et al 2023`_, `Smith et al 2021`_). 
-
-
-worth monitoring as
-a potential future threat to public health. 
-
-
-
-In contrast, the cholera epidemic in Yemen that began in 2016 (and is still continuing) has included
-around 2.4 million suspected cases (`Lassalle et al 2023`_). As a result, the 7PET lineage is of major public health concern,
+However, compared cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L9 and other non-pandemic/non-epidemic
+*V. cholerae* lineages are far smaller and in general involve milder symptoms and
+rarely cause deaths. For example, the cholera epidemic in Yemen that began in 2016 (and is still continuing) has included
+approximately million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`WHO 2020`_).
+As a result, the 7PET lineage is of major public health concern,
 while the other non-pandemic/epidemic lineages of *V. cholerae* are in comparison only of relatively minor public health concern.
 
+.. _WHO 2020: https://applications.emro.who.int/docs/WHOEMCSR314E-eng.pdf
 
+.. figure:: YemenCholera.png
+  :width: 500
 
+  Number of suspected cases of cholera per week, during the cholera epidemic caused by 7PET in Yemen, between 2016 and 2020. Image credit: (`WHO 2020`_). 
 
-.. _Lassalle et al 2023: https://pubmed.ncbi.nlm.nih.gov/37770747/
+.. _WHO 2020: https://applications.emro.who.int/docs/WHOEMCSR314E-eng.pdf
+
+Relationships between lineages of *V. cholerae*
+-----------------------------------------------
 
 The figure below represents the 'family tree' of some of the known lineages of *V. cholerae*. It is actually a 'phylogenetic tree', that
 is, a family tree based on the genetic information (DNA data) for representatives of the lineages. 
