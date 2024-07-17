@@ -182,7 +182,7 @@ is, a family tree for *V. cholerae* built by `Domman et al 2017`_ based on genet
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
 .. figure:: Lineages.png
-  :width: 650
+  :width: 350
 
   A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
 
@@ -263,7 +263,7 @@ from the 7PET lineage (`Heidelberg et al 2000`_).
 The *ctxA* and *ctxB* genes are usually found close together in the *V. cholerae* genome, in a region known as the **CTX region**. 
 Practically 100% of 7PET isolates contain the CTX region in their chromosome, and so produce cholera toxin, and therefore cause a human 
 host to suffer acute watery diarrhoea. Only a small number of non-pandemic/non-epidemic lineages of *V. cholerae*, most
-of which are relatively closely related to 7PET (i.e. belong to the phylocore genome lineages; see above), have *ctxA* and *ctxB* genes (`Chun et al 2009`_, 
+of which are relatively closely related to 7PET (e.g. L3, L9, Gulf Coast, Classical; see above), have *ctxA* and *ctxB* genes (`Chun et al 2009`_, 
 `Hao et al 2023`_).
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
