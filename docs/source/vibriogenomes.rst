@@ -198,7 +198,7 @@ the last common ancestor of 7PET and ELA-3 (represented by a yellow circle in th
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
 
 From the point of view of public health, a key feature of the tree is that there are many lineages of *V. cholerae*, and that
-only one of them, 7PET, is currently pandemic-causing/epidemic-causing.
+only two of them are pandemic-causing/epidemic-causing, Classical (which appears to have almost died out) and 7PET.
 
 The History of 7PET's Global Spread
 -----------------------------------
