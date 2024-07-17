@@ -163,7 +163,7 @@ approximately million suspected cholera cases and appproximately 4000 deaths fro
 .. _WHO 2020: https://applications.emro.who.int/docs/WHOEMCSR314E-eng.pdf
 
 .. figure:: YemenCholera.png
-  :width: 600
+  :width: 800
 
   Number of suspected cases of cholera per week, during the cholera epidemic caused by 7PET in Yemen, between 2016 and 2020. Image credit: (`WHO 2020`_). 
 
