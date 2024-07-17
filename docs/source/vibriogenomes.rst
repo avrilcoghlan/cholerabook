@@ -175,13 +175,16 @@ while the other non-pandemic/epidemic lineages of *V. cholerae* are in compariso
 Relationships between lineages of *V. cholerae*
 -----------------------------------------------
 
+We have mentioned above some known lineages of *V. cholerae*, such as 7PET, Classical, L3b and L9. 
 The figure below represents the 'family tree' of some of the known lineages of *V. cholerae*. It is actually a 'phylogenetic tree', that
-is, a family tree based on the genetic information (DNA data) for representatives of the lineages. 
+is, a family tree for *V. cholerae* built by `Domman et al 2017`_ based on genetic information (DNA sequence data) for representatives of the lineages. 
+
+.. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
 .. figure:: Lineages.png
   :width: 250
   
-  A phylogenetic tree of some of the known lineages of *V. cholerae*.
+  A phylogenetic tree of some of the known lineages of *V. cholerae*. Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
 
 -clear explanation of tree for the V. cholerae species (Domman et al 2017 Americas paper) showing the lineages ( explain trees)
 -brief mention that epidemic/pandemic cholera is caused by 7PET and spread by human travel & poor sanitation, 
@@ -254,7 +257,7 @@ of which are relatively closely related to 7PET, have *ctxA* and *ctxB* genes (`
 .. figure:: CtxRegion.png
   :width: 550
 
-  A diagram showing the CTX region of Chromosome 1 of 7PET strain N16961. The blue arrows represent genes. The *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: A. Coghlan, inspired by `Pant et al 2020`_.
+  A diagram showing the CTX region of Chromosome 1 of 7PET strain N16961. The blue arrows represent genes. The *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: A. Coghlan, based on information in `Pant et al 2020`_.
 
 .. _Pant et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272871/
 
