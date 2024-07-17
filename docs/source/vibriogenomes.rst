@@ -191,8 +191,9 @@ differences between their DNA. Time is represented along from left to right, wit
 right-hand side of the tree being the most recent. Some of the known lineages of *V. cholerae* are represented by triangles at the ends of the branches, on the
 right-hand side of the tree. If you start at two of the triangles at the ends of the branches, e.g. the triangles representing 7PET and Classical, and follow
 back along two branches from right to left, you will reach an 'internal node' further to the left in the tree where those branches meet. This internal
-node represents the last common ancestor of the lineages represented by the two triangles, e.g.
-the last common ancestor of 7PET and Classical, which is estimated to have existed about 1880 (`Feng et al 2008`_).
+node (represented by a red circle in the tree) represents the last common ancestor of the lineages represented by the two triangles, e.g.
+the last common ancestor of 7PET and Classical, which is estimated to have existed about 1880 (`Feng et al 2008`_). On the other hand,
+the last common ancestor of 7PET and ELA-3 (represented by a yellow circle in the tree) lived even longer ago, probably 10s or 100s of years before that.
 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
 
