@@ -357,12 +357,17 @@ The key take-home messages of this chapter are:
 * The genome of a typical 7PET isolate has 4 million base-pairs (4 Mb) of DNA, and contains about 4000 genes
 * Practically all 7PET isolates have genes for cholera toxin (*ctxAB* genes)
 
-Suggested Further Reading
--------------------------
+Suggested Further Reading and Videos
+------------------------------------
 
-Suggested further reading to go with this chapter is the nice review by `Mutreja & Dougan 2020`_ on "Molecular epidemiology and intercontinental spread of cholera". 
+Suggested further reading to go with this chapter is the nice review by `Mutreja & Dougan 2020`_ on 'Molecular epidemiology and intercontinental spread of cholera'. 
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
+
+You can also watch a nice talk by Prof. Nick Thomson (Wellcome Sanger Institute, Cambridge, UK) on `Demystifying cholera genomic epidemiology`_, which he
+presented at a conference in 2019.
+
+.. _Demystifying cholera genomic epidemiology: https://www.youtube.com/watch?v=4Z_M8J8RfTs
 
 Contact
 -------
