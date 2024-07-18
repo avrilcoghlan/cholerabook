@@ -364,7 +364,7 @@ Suggested further reading to go with this chapter is the nice review by `Mutreja
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
-You can also watch a nice talk by Prof. Nick Thomson (Wellcome Sanger Institute, Cambridge, UK) on `Demystifying cholera genomic epidemiology`_, which he
+You can also watch a talk by Prof. Nick Thomson (Wellcome Sanger Institute, Cambridge, UK) on `Demystifying cholera genomic epidemiology`_, which he
 presented at a conference in 2019.
 
 .. _Demystifying cholera genomic epidemiology: https://www.youtube.com/watch?v=4Z_M8J8RfTs
