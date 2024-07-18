@@ -182,7 +182,7 @@ is, a family tree for *V. cholerae* built by `Domman et al 2017`_ based on genet
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
 .. figure:: Lineages.png
-  :width: 1050
+  :width: 750
 
   A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
 
@@ -191,9 +191,9 @@ differences between their DNA. Time is represented along from left to right, wit
 right-hand side of the tree being the most recent. 
 If you start at two of the triangles (representing lineages) at the ends of the branches, e.g. the triangles representing 7PET and Classical, and follow
 back along two branches from right to left, you will reach an 'internal node' further to the left in the tree where those branches meet. This internal
-node (represented by a red circle in the tree) represents the last common ancestor of the lineages represented by the two triangles, e.g.
-the last common ancestor of 7PET and Classical, which is estimated to have existed about 1880 (`Feng et al 2008`_). On the other hand,
-the last common ancestor of 7PET and ELA-3 (represented by a yellow circle in the tree) lived even longer ago, probably 10s or 100s of years before that.
+node (represented by a red circle in the tree) represents the most recent common ancestor of the lineages represented by the two triangles, e.g.
+the most recent common ancestor of 7PET and Classical, which is estimated to have existed about 1880 (`Feng et al 2008`_). On the other hand,
+the most recent common ancestor of 7PET and ELA-3 (represented by a yellow circle in the tree) lived even longer ago, probably 10s or 100s of years before that.
 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
 
