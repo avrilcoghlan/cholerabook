@@ -158,7 +158,7 @@ What the tree tells us is that 7PET and Classical, the two lineages that have ca
 
 Later in the course you will be learning a lot about how to build phylogenetic trees yourself, and how to interpret
 them to understand about the relationships between different subtypes of 7PET that have caused different 7PET outbreaks, and to
-give insights into how 7PET is spreading regionally and globally. 
+gain insights into how 7PET is spreading regionally and globally. 
 
 Diarrhoeal illness caused by different lineages of *V. cholerae*
 ----------------------------------------------------------------
