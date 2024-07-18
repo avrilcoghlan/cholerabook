@@ -125,6 +125,45 @@ from Ghana in 2010 was reported by `Adade et al 2022`_).
   
   Map of cholera cases in London in 1854 made by the doctor John Snow during the 3rd historically recorded cholera pandemic. Cholera cases are highlighted in black. Image credit: Original map made by John Snow in 1854.
 
+Relationships between lineages of *V. cholerae*
+-----------------------------------------------
+
+The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
+recorded pandemic, are relatively closely related. We know this by making a 'phylogenetic tree' for *V. cholerae*, that is, a
+'family tree' of the different lineages (genetically different subtypes) of *V. cholerae*. 
+The phylogenetic tree represents our best guess at the relationships between different lineages of *V. cholerae*, based on similarities and
+differences between their DNA.
+
+.. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
+
+.. figure:: Lineages.png
+  :width: 400
+
+  A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
+
+You may have encountered phylogenetic trees before, but if not, don't worry, we will be discussing them a lot in this course.
+In this tree, the arrow of time goes from left to right, with the left-hand side of the tree being the furthest back in history and the
+very right-hand side of the tree being the present time. The triangles at the right-hand side of the tree different current lineages of *V. cholerae*.
+
+If you look at two of the triangles (representing lineages) at the ends of the branches, e.g. the triangles representing 7PET and Classical, and trace
+back along two branches from right to left, you will eventually reach an 'internal node' where those branches meet, further to the left in the tree. This internal
+node represents the most recent common ancestor of the two lineages, e.g.
+the most recent common ancestor of 7PET and Classical (red circle), which is estimated to have lived about 1880 (`Feng et al 2008`_). On the other hand,
+the most recent common ancestor of 7PET and ELA-3 (yellow circle) lived even longer ago, probably 10s or 100s of years before 1880.
+
+.. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
+
+What the tree tells us is that 7PET and Classical, the two lineages that have caused pandemics, are relatively closely related *V. cholerae* lineages. 
+7PET is also relatively closely related to non-pandemic/non-epidemic-causing lineages of *V. cholerae*, including MX-2, Gulf Coast and ELA-3. 
+As we will discuss below, these non-pandemic/non-epidemic-causing lineages of *V. cholerae* are of relatively minor public health importance,
+compared to the extremely infectious and virulent 7PET lineage. 
+
+You have seen here that a phylogenetic tree is a useful way to represent relationships between different lineages (genetic subtypes) of the
+species *V. cholerae*. Later in the course you will be learning a lot about how to build phylogenetic trees yourself, and how to interpret
+them to understand about the relationships between the subtypes of 7PET that caused different 7PET outbreaks. This may sound difficult, but
+we will show you how to do it step-by-step using easy-to-use tools. Phylogenetic trees can give deep insights
+into how 7PET is spreading regionally and globally, and those insights can be used to inform public health decision-making for cholera control.
+
 Diarrhoeal illness caused by different lineages of *V. cholerae*
 ----------------------------------------------------------------
 
@@ -132,7 +171,7 @@ The 7PET lineage, which has caused the current pandemic, and the Classical linea
 recorded pandemic, are only the two pandemic/epidemic-causing lineages of *V. cholerae*. The many other
 lineages of *V. cholerae* are not pandemic/epidemic-causing; they sometimes cause relatively small outbreaks of diarrhoeal illness in
 tens or even a hundred or so people (`Glenn Morris 1990`_). In contrast, 7PET is the only current *V. cholerae* lineage
-that cuases large epidemics or pandemics of hundreds of thousands of cases, or even millions of 
+that causes large epidemics or pandemics of hundreds of thousands of cases, or even millions of 
 cases as seen in the Yemen cholera epidemic from 2016-present (`Mutreja & Dougan 2020`_, `Lassalle et al 2023`_). 
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
@@ -143,8 +182,10 @@ cases as seen in the Yemen cholera epidemic from 2016-present (`Mutreja & Dougan
 
 Of the non-pandemic/non-epidemic *V. cholerae* lineages, the two lineages that have caused the most cases of diarrhoeal illness
 since 2000 are thought to be lineages 'L3b' and 'L9' (`Hao et al 2023`_). For example, these two non-pandemic/non-epidemic lineages
-have caused several hundred cases of relatively mild diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_).
+have caused several hundred cases of diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_).
 Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal illness in South Africa (`Smith et al 2021`_). 
+Note that L3b and L9 correspond to lineages labelled MX-2 and ELA-3, respectively, in the tree above (they are just alternative names used 
+for the same lineages).  
 
 .. _Hao et al 2023: https://pubmed.ncbi.nlm.nih.gov/37146742/
 
@@ -156,9 +197,13 @@ Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal ill
   Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2001 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. Image credit: `Hao et al 2023`_.
 
 However, compared cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L9 and other non-pandemic/non-epidemic
-*V. cholerae* lineages are far smaller and in general involve milder symptoms and
-rarely cause deaths. For example, the cholera epidemic in Yemen that began in 2016 (and is still continuing) has included
+*V. cholerae* lineages are far smaller and in general cause relatively milder diarrhoeal illness (`Glenn Morris 1990`_, `Glenn Morris 2003`_).
+In contrast, the cholera epidemic in Yemen that began in 2016 (and is still continuing) has included
 approximately million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`WHO 2020`_).
+
+.. _Glenn Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
+
+.. _Glenn Morris 2003: https://pubmed.ncbi.nlm.nih.gov/12856219/
 
 .. _WHO 2020: https://applications.emro.who.int/docs/WHOEMCSR314E-eng.pdf
 
@@ -169,37 +214,15 @@ approximately million suspected cholera cases and appproximately 4000 deaths fro
 
 .. _WHO 2020: https://applications.emro.who.int/docs/WHOEMCSR314E-eng.pdf
 
-Due to its virulence and pandemic/epidemic-causing potential, the 7PET lineage is of major public health concern,
-while the other non-pandemic/epidemic lineages of *V. cholerae* are in comparison only of relatively minor public health concern.
+Due to its high virulence (ability to cause acute watery diarrhoea) and pandemic/epidemic-causing potential, the 7PET lineage is of major public health concern,
+while the other non-pandemic/non-epidemic lineages of *V. cholerae* are in comparison currently only of relatively minor public health concern.
+Therefore our focus in this course will be primarily on 7PET, and not the non-pandemic/non-epidemic lineages of *V. cholerae*. 
+However, some epidemiologists are monitoring these other non-pandemic/non-epidemic lineages, in case at some point in future they 
+do evolve to be become far more infectious and/or far more virulent (e.g. `Hao et al 2023`_, `Smith et al 2021`_).
 
-Relationships between lineages of *V. cholerae*
------------------------------------------------
+.. _Hao et al 2023: https://pubmed.ncbi.nlm.nih.gov/37146742/
 
-We have mentioned above some known lineages of *V. cholerae*, such as 7PET, Classical, L3b and L9. 
-The figure below represents the 'family tree' of some of the known lineages of *V. cholerae*. It is actually a 'phylogenetic tree', that
-is, a family tree for *V. cholerae* built by `Domman et al 2017`_ based on genetic information (DNA sequence data) for representatives of the lineages.
-
-.. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
-
-.. figure:: Lineages.png
-  :width: 400
-
-  A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
-
-The phylogenetic tree represents our best guess at the relationships between different lineages of *V. cholerae*, based on similarities and
-differences between their DNA. Time is represented along from left to right, with the left-hand side of the tree being the furthest back in the time and the
-right-hand side of the tree being the most recent. 
-If you start at two of the triangles (representing lineages) at the ends of the branches, e.g. the triangles representing 7PET and Classical, and follow
-back along two branches from right to left, you will reach an 'internal node' further to the left in the tree where those branches meet. This internal
-node (represented by a red circle in the tree) represents the most recent common ancestor of the lineages represented by the two triangles, e.g.
-the most recent common ancestor of 7PET and Classical, which is estimated to have existed about 1880 (`Feng et al 2008`_). On the other hand,
-the most recent common ancestor of 7PET and ELA-3 (represented by a yellow circle in the tree) lived even longer ago, probably 10s or 100s of years before that.
-
-.. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
-
-From the point of view of public health, a key feature of the tree is that there are many lineages of *V. cholerae*, and that
-only two of them are pandemic-causing/epidemic-causing, Classical (which appears to have almost died out and no longer
-is causing large epidemics/pandemics) and 7PET.
+.. _Smith et al 2021: https://pubmed.ncbi.nlm.nih.gov/34670657/
 
 The History of 7PET's Global Spread
 -----------------------------------
