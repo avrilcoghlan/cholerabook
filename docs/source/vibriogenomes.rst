@@ -225,6 +225,15 @@ The History of 7PET's Global Spread
 
 -brief mention that epidemic/pandemic cholera is caused by 7PET and spread by human travel & poor sanitation, 
 
+
+-its emergence in the 1960s, its very high virulence & very high transmissibility; its causing the 7th pandemic and causing all large cholera outbreaks & epidemics since the 1960s; brief mention of the need for a rapid public health response (WASH, treatment centres, contact tracing, public information campaign, vaccination, etc.) as soon as possible at the start of a 7PET outbreak, to contain/reduce/stop it;
+-brief mention of serogroup as a likely virulence factor, and that 7PET usually has O1 (mostly) or O139 serogroup (sometimes), but that some other lineages are also O1 or O139;
+-a brief history of the global spread of the current pandemic lineage (7PET), including mention of the Bay of Bengal being a region where cholera is endemic and from where 7PET has spread around the world, and brief history of introductions of 7PET into Africa; brief mention of countries worldwide where 7PET is now endemic;
+-brief mention of how 7PET has split into sublineages, and brief mention that new sublineages have arisen over time in the Bay of Bengal region and spread around the world; brief mention of names of sublineages previously or currently found in Africa;
+-the recently revised GTFCC definitions of cholera cases and ‘cholera-free’ country statuses;
+-brief mention that 7PET can be controlled by vaccination; that vaccines have high efficiency against 7PET but are in short supply and that genomic information has great potential to help us decide who to vaccine (e.g. populations exposed to 7PET, especially those exposed to multi-drug resistant 7PET sublineages)
+
+
 The *V. cholerae* Genome and Whole-Genome Sequencing (WGS) of *V. cholerae*
 ---------------------------------------------------------------------------
 
@@ -300,76 +309,17 @@ of which are relatively closely related to 7PET (e.g. L3, L9, Gulf Coast, Classi
 
 .. _Pant et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272871/
 
-The Classical Biotype and the El Tor Biotype
---------------------------------------------
-
-The 7th pandemic isolates are described as having the **'El Tor biotype'**, to distinguish them from earlier form of *V. cholerae* that caused 
-the 6th pandemic, which were described to as having the **'Classical biotype'**. These biotypes are based on a particular set of laboratory tests (about four
-or five laboratory tests, depending on the version of the protocol), which test things like susceptibility to infection by particular bacteriophages, 
-susceptibility to a particular antibiotic, presence of a particular biochemical pathway, and effect on red blood cells (`CDC 1994`_).  
-The current pandemic lineage of *V. cholerae* is called '7PET' because it shows the El Tor biotype: '7PET'
-stands for '7th pandemic El Tor'. 
-
-.. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
-
-.. figure:: LabTests.png
-  :width: 250
-
-  A set of about four or five laboratory tests are used to determine the biotype of *V. cholerae*, which is a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak are from the 7th pandemic (i.e. belong to the 7PET lineage). Image credit: DynV at openclipart.org.
-
-For many decades these laboratory tests have been used to find out whether the *V. cholerae*
-causing an outbreak have the El Tor biotype (`CDC 1994`_), so to predict whether they are likely to be pandemic-causing/epidemic-causing *V. cholerae* (7PET). 
-However, although the lineage causing the 7th pandemic, 7PET, shows the El Tor biotype in laboratory tests, some other
-lineages of *V. cholerae* also show the El Tor biotype in laboratory tests (see Fig. 1. in `Chun et al 2009`_). 
-As we will discuss later in this course, whole genome sequencing tells us far more accurately whether isolates from an 
-outbreak are pandemic-causing/epidemic-causing *V. cholerae* (i.e. are 7PET). 
-
-.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
-
-Interestingly, we now know that, at the genetic level, the biotype phenotype is determined by several 
-different genes (`Dorman 2020`_). The difference in biotype between isolates from the 6th and 7th pandemic 
-reflects that there are genetic differences in these biotype-determining genes between the *V. cholerae* that caused these two pandemics (`Dorman 2020`_). 
-
-
-
-Genetic Variation in *V. cholerae*
-----------------------------------
-
--Discuss possible presence of the cholera toxin genes that are found as part of the cholera prophage region, possible presence of plasmids containing AMR genes.
-N16961 is the “reference strain”
-Rare V. cholerae non-O1/O139 have the two chromosomes fused into one (Johnson et al 2015) 
-Rare V. cholerae O1 El Tor have an additional 0.9-Mb replicon; genome size 5.0 Mb (Okada et al 2015)
-
-7PET
-----
-
--its emergence in the 1960s, its very high virulence & very high transmissibility; its causing the 7th pandemic and causing all large cholera outbreaks & epidemics since the 1960s; brief mention of the need for a rapid public health response (WASH, treatment centres, contact tracing, public information campaign, vaccination, etc.) as soon as possible at the start of a 7PET outbreak, to contain/reduce/stop it;
--brief mention of serogroup as a likely virulence factor, and that 7PET usually has O1 (mostly) or O139 serogroup (sometimes), but that some other lineages are also O1 or O139;
--a brief history of the global spread of the current pandemic lineage (7PET), including mention of the Bay of Bengal being a region where cholera is endemic and from where 7PET has spread around the world, and brief history of introductions of 7PET into Africa; brief mention of countries worldwide where 7PET is now endemic;
--brief mention of how 7PET has split into sublineages, and brief mention that new sublineages have arisen over time in the Bay of Bengal region and spread around the world; brief mention of names of sublineages previously or currently found in Africa;
--the recently revised GTFCC definitions of cholera cases and ‘cholera-free’ country statuses;
--brief mention that 7PET can be controlled by vaccination; that vaccines have high efficiency against 7PET but are in short supply and that genomic information has great potential to help us decide who to vaccine (e.g. populations exposed to 7PET, especially those exposed to multi-drug resistant 7PET sublineages)
-
-Brief Summary of Take-home Messages
------------------------------------
+Brief Summary
+-------------
 
 The key take-home messages of this chapter are:
 
-* Cholera is characterised by acute watery diarrhoea
-* Cholera is caused by ingestion of *Vibrio cholerae*
-* The acute water diarrhoea is triggered by cholera toxin produced by *V. cholerae*
-* Cholera toxin is the key virulence factor of *V. cholerae* 
+* Cholera, a disease characterised by acute watery diarrhoea, is caused by ingestion of *Vibrio cholerae*
+* Cholera toxin is the most important virulence factor of *V. cholerae*; cholera toxin triggers acute watery diarrhoea
 * *V. cholerae* is distributed globally, and is a very diverse species with many different lineages 
-* Most lineages of *V. cholerae* do not cause pandemic/epidemic cholera
-* At present there is only one lineage that causes pandemic/epidemic cholera: 7PET 
-* **7PET is the only high-risk lineage of Vibrio cholerae at present: it is extremely infectious and virulent**
-* Biotype is a laboratory phenotype used to predict whether *V. cholerae* isolates are epidemic-causing/pandemic-causing (i.e. 7PET)
-* Biotype is not a perfect predictor of 7PET, because a small % of non-pandemic/non-epidemic lineages have the El Tor biotype
-* The genome of a 7PET isolate has 4 Mb split over two chromosomes, and contains about 4000 genes
+* At present there is only one lineage that causes pandemic/epidemic cholera: 7PET, an extremely infectious and virulent lineage
+* The genome of a typical 7PET isolate has 4 million base-pairs (4 Mb) of DNA split over two chromosomes, and contains about 4000 genes
 * Practically all 7PET isolates have genes for cholera toxin (*ctxAB* genes)
-* Presence of *ctxAB* is not a perfect predictor of 7PET, because a small % of non-pandemic/non-epidemic lineages have *ctxAB* 
-* **Whole genome sequencing is the most accurate way to determine whether an outbreak is 7PET (and so pandemic-causing/epidemic-causing)**
-* **A 7PET outbreak requires a rapid and large public health response**
 
 Suggested Further Reading
 -------------------------
