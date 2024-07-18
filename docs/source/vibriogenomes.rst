@@ -155,14 +155,10 @@ the most recent common ancestor of 7PET and ELA-3 (yellow circle) lived even lon
 
 What the tree tells us is that 7PET and Classical, the two lineages that have caused pandemics, are relatively closely related *V. cholerae* lineages. 
 7PET is also relatively closely related to non-pandemic/non-epidemic-causing lineages of *V. cholerae*, including MX-2, Gulf Coast and ELA-3. 
-As we will discuss below, these non-pandemic/non-epidemic-causing lineages of *V. cholerae* are of relatively minor public health importance,
-compared to the extremely infectious and virulent 7PET lineage. 
 
-You have seen here that a phylogenetic tree is a useful way to represent relationships between different lineages (genetic subtypes) of the
-species *V. cholerae*. Later in the course you will be learning a lot about how to build phylogenetic trees yourself, and how to interpret
-them to understand about the relationships between the subtypes of 7PET that caused different 7PET outbreaks. This may sound difficult, but
-we will show you how to do it step-by-step using easy-to-use tools. Phylogenetic trees can give deep insights
-into how 7PET is spreading regionally and globally, and those insights can be used to inform public health decision-making for cholera control.
+Later in the course you will be learning a lot about how to build phylogenetic trees yourself, and how to interpret
+them to understand about the relationships between different subtypes of 7PET that have caused different 7PET outbreaks, and to
+give insights into how 7PET is spreading regionally and globally. 
 
 Diarrhoeal illness caused by different lineages of *V. cholerae*
 ----------------------------------------------------------------
