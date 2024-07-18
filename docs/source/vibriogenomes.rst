@@ -266,7 +266,7 @@ Note that we have use the terms 'cholera case', 'outbreak', 'epidemic' rather lo
 provide precise medical or epidemiological definitions. We recommend that you follow WHO guidelines and definitions;
 the WHO provides detailed guidance on what it considers to be a 'suspected cholera case',
 a 'confirmed cholera case', an 'imported cholera case', a 'locally acquired cholera case', a 'suspected cholera outbreak',
-a 'probable cholera outbreak', a 'confirmed cholera outbreak' (`WHO 2023`_, accessed 18th July 2024).
+a 'probable cholera outbreak', a 'confirmed cholera outbreak' (see `WHO 2023`_).
 
 .. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
 
