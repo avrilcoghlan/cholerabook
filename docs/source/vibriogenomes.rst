@@ -58,7 +58,7 @@ genetically different subtypes of *V. cholerae*, forming different branches of t
 There is there is only one lineage of *V. cholerae* which causes pandemic/epidemic cholera at present.
 This lineage is known as the **'7PET'** lineage. 
 The 7PET lineage is an extremely infectious and virulent lineage of *V. cholerae*, which produces
-cholera toxin. Since it arose in the 1960s, 7PET appears to have evolved to become a 
+cholera toxin. 7PET appears to have evolved to become a 
 human pathogen (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutreja & Dougan 2020`_).
 
 There are many other non-pandemic/non-epidemic lineages of *V. cholerae* found around the world that do not cause pandemic/epidemic
@@ -147,9 +147,9 @@ very right-hand side of the tree being the present time. The triangles at the ri
 
 If you look at two of the triangles (representing lineages) at the ends of the branches, e.g. the triangles representing 7PET and Classical, and trace
 back along two branches from right to left, you will eventually reach an 'internal node' where those branches meet, further to the left in the tree. This internal
-node represents the most recent common ancestor of the two lineages, e.g.
-the most recent common ancestor of 7PET and Classical (red circle), which is estimated to have lived about 1880 (`Feng et al 2008`_). On the other hand,
-the most recent common ancestor of 7PET and ELA-3 (yellow circle) lived even longer ago, probably 10s or 100s of years before 1880.
+node represents the last common ancestor of the two lineages, e.g.
+the last common ancestor of 7PET and Classical (red circle), which is estimated to have lived about 1880 (`Feng et al 2008`_). On the other hand,
+the last common ancestor of 7PET and ELA-3 (yellow circle) lived even longer ago, probably 10s or 100s of years before 1880.
 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
 
@@ -223,16 +223,52 @@ do evolve to be become far more infectious and/or far more virulent (e.g. `Hao e
 The History of 7PET's Global Spread
 -----------------------------------
 
--brief mention that epidemic/pandemic cholera is caused by 7PET and spread by human travel & poor sanitation, 
+Although the 7PET lineage is estimated to have split off from the Classical lineage in around 1880 (`Feng et al 2008`_),
+it wasn't until 1961 that the 7th pandemic began, with many cases of cholera caused by 7PET occurring in Indonesia (`Hu et al 2016`_, `Mutreja & Dougan 2020`_).
+From Indonesia, 7PET spread to the Bay of Bengal region of India and Bangladesh, and from the Bay of Bengal subsequently between the 1960s and 2010 then spread 
+throughout the world in three overlapping waves (`Mutreja et al 2011`_). 
 
+.. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
 
--its emergence in the 1960s, its very high virulence & very high transmissibility; its causing the 7th pandemic and causing all large cholera outbreaks & epidemics since the 1960s; brief mention of the need for a rapid public health response (WASH, treatment centres, contact tracing, public information campaign, vaccination, etc.) as soon as possible at the start of a 7PET outbreak, to contain/reduce/stop it;
--brief mention of serogroup as a likely virulence factor, and that 7PET usually has O1 (mostly) or O139 serogroup (sometimes), but that some other lineages are also O1 or O139;
--a brief history of the global spread of the current pandemic lineage (7PET), including mention of the Bay of Bengal being a region where cholera is endemic and from where 7PET has spread around the world, and brief history of introductions of 7PET into Africa; brief mention of countries worldwide where 7PET is now endemic;
--brief mention of how 7PET has split into sublineages, and brief mention that new sublineages have arisen over time in the Bay of Bengal region and spread around the world; brief mention of names of sublineages previously or currently found in Africa;
--the recently revised GTFCC definitions of cholera cases and ‘cholera-free’ country statuses;
--brief mention that 7PET can be controlled by vaccination; that vaccines have high efficiency against 7PET but are in short supply and that genomic information has great potential to help us decide who to vaccine (e.g. populations exposed to 7PET, especially those exposed to multi-drug resistant 7PET sublineages)
+.. _Hu et al 2016: https://pubmed.ncbi.nlm.nih.gov/27849586/
 
+.. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
+
+.. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
+
+.. figure:: 7PETSpread.png
+  :width: 800
+
+  Between the early 1960s and 2010, 7PET spread outward globally from the Bay of Bengal region (highlighted with a pale blue oval), in three overlapping waves of spread. Image credit: `Mutreja et al 2011`_.
+
+.. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
+
+Since 2010, there have been further spread of 7PET, both within countries and regions, and between countries and continents. 
+As mentioned above, cholera is spread by the faecal-oral route, and so the most likely explanation is that 7PET has been 
+spread by human travel. 
+
+.. figure:: GlobalCholera2023_2024.png
+  :width: 800
+
+  Cholera cases reported worldwide between April 2023 and May 2024. Image source: `ECDC`_ (accessed 18th July 2024).
+
+.. _ECDC: https://www.ecdc.europa.eu/en/all-topics-z/cholera/surveillance-and-disease-data/cholera-monthly
+
+In some regions of Asia and Africa, there are now cholera outbreaks every year, and so cholera is now considered 'endemic'.
+These include countries around the Bay of Bengal such as India and Bangladesh. 
+Note that the WHO has a technical definition of a 'cholera-endemic area': 'an area where confirmed cholera cases were 
+detected during the last 3 years with evidence of local transmission (meaning the cases are not imported from elsewhere)' 
+(`WHO 2024`_, accessed 18th July 2024). 
+
+.. _WHO 2024: https://www.who.int/news-room/fact-sheets/detail/cholera
+
+Note that we have use the terms 'cholera case', 'outbreak', 'epidemic' rather loosely here, and not attempted to
+provide precise medical or epidemiological definitions. We recommend that you follow WHO guidelines and definitions;
+the WHO provides detailed guidance on what it considers to be a 'suspected cholera case',
+a 'confirmed cholera case', an 'imported cholera case', a 'locally acquired cholera case', a 'suspected cholera outbreak',
+a 'probable cholera outbreak', a 'confirmed cholera outbreak' (`WHO 2023`_, accessed 18th July 2024).
+
+.. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
 
 The *V. cholerae* Genome and Whole-Genome Sequencing (WGS) of *V. cholerae*
 ---------------------------------------------------------------------------
