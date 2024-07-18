@@ -364,10 +364,10 @@ Suggested further reading to go with this chapter is the nice review by `Mutreja
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
-You can also watch a talk by Prof. Nick Thomson (Wellcome Sanger Institute, Cambridge, UK) on `Demystifying cholera genomic epidemiology`_, which he
-presented at a conference in 2019.
+You can also watch a talk on cholera and 7PET by Prof. Nick Thomson (Wellcome Sanger Institute, Cambridge, UK), which he
+presented at a conference in January 2024. His talk (14 minutes long) is entitled `Understanding Health and Disease at a Global Scale`_.
 
-.. _Demystifying cholera genomic epidemiology: https://www.youtube.com/watch?v=4Z_M8J8RfTs
+.. _Understanding Health and Disease at a Global Scale: https://www.youtube.com/watch?v=iv0zfqSEFAg
 
 Contact
 -------
