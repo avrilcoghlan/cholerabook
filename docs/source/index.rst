@@ -1,15 +1,15 @@
 Cholera genomics
 ================
 
-Welcome to our free online course on cholera genomics!
+Welcome to our free online course on *Vibrio cholerae* genomics!
 
-The aim of this course is to teach you about cholera genomics, so that you can use genomics to perform analyses relevant to cholera public health, and extract meaningful insights from cholera genomic data. 
+The aim of this course is to teach you about *V. cholerae* genomics, so that you can use genomics to perform analyses relevant to cholera public health, and extract meaningful insights from *V. cholerae* genomic data. 
 
-This course includes all you want to know about sequencing and analyses of cholera genomics, including advanced bioinformatics topics relevant to cholera genomics (e.g. genome assembly, phylogenetics, predicting antimicrobial resistance, etc.). 
+This course includes all you want to know about sequencing and analyses of *V. cholerae* genomes, including advanced bioinformatics topics relevant to *V. cholerae* genomics (e.g. genome assembly, phylogenetics, predicting antimicrobial resistance, etc.). 
 
 The course includes both theoretical material and bioinformatics teachings.
 
-Theoretical material on topics relevant to cholera genomics includes:
+Theoretical material on topics relevant to *V. cholerae* genomics includes:
 
 * The disease cholera and its epidemiology.
 * The species *Vibrio cholerae*, and its geographic distribution. 
@@ -24,7 +24,7 @@ Theoretical material on topics relevant to cholera genomics includes:
 * Spread of antimicrobial resistance in key lineages (7PET), within and between species.
 * How genomics can play a role in public health decisions for cholera, and the potential of genomics as a platform to further refine cholera control strategies (e.g. vaccination strategies).
 
-In each topic, learning will be enriched by examples of cholera genome analysis, and practical bioinformatics exercises for learners, with an emphasis on analysing cholera genome data for public health. 
+In each topic, learning will be enriched by examples of *V. cholerae* genome analysis, and practical bioinformatics exercises for learners, with an emphasis on analysing cholera genome data for public health. 
 
 Contact
 -------
