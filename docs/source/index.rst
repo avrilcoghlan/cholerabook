@@ -34,7 +34,7 @@ I will be grateful if you will send me (Avril Coghlan) corrections or suggestion
 Acknowledgements
 ----------------
 
-Contributors to this course: Avril Coghlan, Nick Thomson. 
+Contributors to this course: Avril Coghlan, Matt Dorman, Ismail Bashir, Nick Thomson. 
 
 Contents
 --------
