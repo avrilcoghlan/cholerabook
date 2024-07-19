@@ -10,11 +10,10 @@ Acute Watery Diarrhoea, the Disease Cholera and its Epidemiology
 ----------------------------------------------------------------
 
 Cholera is a disease characterised by acute watery diarrhoea, leading to rapidly progressing dehydration and shock (`Sack et al 2004`_).
+We will not provide guidance on cholera diagnosis here, but you can find detailed guidance from the
+World Health Organisation, who provide definitions of a 'suspected cholera case' and 'confirmed cholera case' (`WHO 2023`_).
 
 .. _Sack et al 2004: https://pubmed.ncbi.nlm.nih.gov/14738797/
-
-We will not provide the clinical criteria for diagnosing cholera here; the WHO provides detailed guidance on what it considers to be a 'suspected cholera case' and 
-a 'confirmed cholera case' (see `WHO 2023`_).
 
 .. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
 
