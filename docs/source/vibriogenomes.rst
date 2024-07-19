@@ -9,7 +9,16 @@ This chapter will give you an overview of cholera, the species *Vibrio cholerae*
 Acute Watery Diarrhoea, the Disease Cholera and its Epidemiology
 ----------------------------------------------------------------
 
-Cholera is a disease characterised by acute watery diarrhoea. It is an infection caused by a water-borne bacterium
+Cholera is a disease characterised by acute watery diarrhoea, leading to rapidly progressing dehydration and shock (`Sack et al 2004`_).
+
+.. _Sack et al 2004: https://pubmed.ncbi.nlm.nih.gov/14738797/
+
+The WHO provides detailed guidance on what it considers to be a 'suspected cholera case' and 
+a 'confirmed cholera case' (see `WHO 2023`_).
+
+.. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
+
+It is an infection caused by a water-borne bacterium
 called *Vibrio cholerae*, a curved Gram-negative rod-shaped bacterium.
 
 .. figure:: Vibrio_cholerae.jpg
@@ -262,10 +271,9 @@ detected during the last 3 years with evidence of local transmission (meaning th
 
 .. _WHO 2024: https://www.who.int/news-room/fact-sheets/detail/cholera
 
-Note that we have use the terms 'cholera case', 'outbreak', 'epidemic' rather loosely here, and not attempted to
+Note that we have use the terms 'outbreak', 'epidemic' rather loosely here, and not attempted to
 provide precise medical or epidemiological definitions. We recommend that you follow WHO guidelines and definitions;
-the WHO provides detailed guidance on what it considers to be a 'suspected cholera case',
-a 'confirmed cholera case', an 'imported cholera case', a 'locally acquired cholera case', a 'suspected cholera outbreak',
+the WHO provides detailed guidance on what it considers to be an 'imported cholera case', a 'locally acquired cholera case', a 'suspected cholera outbreak',
 a 'probable cholera outbreak', a 'confirmed cholera outbreak' (see `WHO 2023`_).
 
 .. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
@@ -377,6 +385,6 @@ I will be grateful if you will send me (Avril Coghlan) corrections or suggestion
 Acknowledgements
 ----------------
 
-Contributors to this course: Avril Coghlan, Nick Thomson. 
+Contributors to this course: Avril Coghlan, Matt Dorman, Ismail Bashir, Nick Thomson. 
 
 
