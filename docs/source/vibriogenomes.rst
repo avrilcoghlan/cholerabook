@@ -13,13 +13,12 @@ Cholera is a disease characterised by acute watery diarrhoea, leading to rapidly
 
 .. _Sack et al 2004: https://pubmed.ncbi.nlm.nih.gov/14738797/
 
-The WHO provides detailed guidance on what it considers to be a 'suspected cholera case' and 
+We will not provide the clinical criteria for diagnosing cholera here; the WHO provides detailed guidance on what it considers to be a 'suspected cholera case' and 
 a 'confirmed cholera case' (see `WHO 2023`_).
 
 .. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
 
-It is an infection caused by a water-borne bacterium
-called *Vibrio cholerae*, a curved Gram-negative rod-shaped bacterium.
+Cholera is an infection caused by a bacterium called *Vibrio cholerae*, a curved Gram-negative rod-shaped bacterium.
 
 .. figure:: Vibrio_cholerae.jpg
   :width: 350
@@ -33,11 +32,15 @@ with human faeces containing *V. cholerae*.
 .. figure:: FaecalOralRoute.jpg
   :width: 500
 
-  The faecal-oral route for disease transmission. The orange lines represent barriers, ie. toilets, safe water, hygiene and handwashing. Image credit: Howard G., Bartam J., Williams A., Overbo A., Fuente D., Geere J.A. Domestic water quantity, service level and health, second edition. Geneva: World Health Organization; 2020.
+  The faecal-oral route for disease transmission. The orange lines represent barriers, ie. toilets, safe water, hygiene and handwashing. Image credit: Howard G., Bartam J., Williams A., Overbo A., Fuente D., Geere J.A. Domestic water quantity, service level and health, second edition. Geneva: `World Health Organization; 2020`_.
+
+.. _World Health Orgization; 2020: https://iris.who.int/bitstream/handle/10665/338044/9789240015241-eng.pdf
 
 Cholera outbreaks typically occur in places where there is poor access
 to clean water and poor sewage infrastructure. These include low-income settings in which there is poor water sanitation infrastructure, 
 or places in which there is a humanitarian crisis (e.g. an earthquake or war) that has disrupted the water sanitation infrastructure.
+Examples are Haiti, where there was a cholera epidemic from 2010-2019 which began shortly after a massive earthquake occurred in 2010, 
+and Yemen, which has suffered a cholera epidemic from 2016-present during its ongoing civil war. 
 
 .. figure:: Wastewater.jpg
   :width: 350
