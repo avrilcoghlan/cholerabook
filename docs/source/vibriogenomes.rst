@@ -68,7 +68,7 @@ The Species *Vibrio cholerae* and its Geographic Distribution
 Like other bacteria, *V. cholerae* populations reproduce by cell division, with the
 DNA (genetic material) of descendant cells being identical to the DNA of the parent cells. Mutations (changes) in the DNA, are
 the main source of genetic variation in *V. cholerae*; these sometimes occur when DNA is being copied during cell division, but
-can also occur due to other types of DNA damage (e.g. due to UV radiation). 
+can also occur due to other types of DNA damage (e.g. due to ultraviolet (UV) radiation). 
 
 Over evolutionary time, different clones of a species independently accumulate
 mutations, so they become distinguishable at the genetic level and that consider them different **lineages** (Figure 5). 
@@ -87,12 +87,16 @@ usually present similar biological features, such as a specific pattern of virul
 
 The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages (Figure 6).
 
-.. figure:: GlobalDistribution.jpg
+.. figure:: LineageDistributions.png
   :width: 650
 
-  Figure 6. The global distribution of the bacterium *V. cholerae*, including representatives of many different lineages of *V. cholerae*, including the current pandemic lineage (7PET) and many other lineages. Triangles indicate where *V. cholerae* was detected. The studies shown here are actually only a small fraction of the studies published for certain areas. Image credit: `Lutz et al 2013`_.
+  Figure 6. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, probably reflecting the far greater public health importance of 7PET. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image source: A. Coghlan. 
 
-There is there is only one lineage of *V. cholerae* which causes epidemic cholera at present.
+.. _Vibriowatch: https://vibriowatch.readthedocs.io
+
+.. _PopPUNK: https://pubmed.ncbi.nlm.nih.gov/30679308/
+
+There is only one lineage of *V. cholerae* which causes epidemic cholera at present.
 This lineage is known as the **'7PET'** lineage. What do we mean when we say 7PET causes 'epidemic cholera'?
 The word 'epidemic' is defined by the CDC as an unexpected increase in the number of disease cases in a specific geographical area;
 they say that an outbreak is defined in the same way but for a more limited geographic area (see the `CDC website`_).
@@ -106,8 +110,9 @@ cholera toxin. 7PET appears to have evolved to become a
 human pathogen (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutreja & Dougan 2020`_).
 
 There are many other non-epidemic lineages of *V. cholerae* found around the world that do not cause epidemic
-cholera, but sometimes cause small outbreaks of mild diarrhoea. 
-The vast majority of the non-epidemic lineages of *V. cholerae* do not produce cholera toxin.
+cholera, but sometimes cause small outbreaks of mild diarrhoea. An example is lineage MX-2 (Figure 6). 
+The vast majority of the non-epidemic lineages of *V. cholerae* do not produce cholera toxin, but isolates of some
+non-epidemic lineages, including MX-2, are predicted to produce cholera toxin (`Domman et al 2017`_).
 The non-epidemic lineages of *V. cholerae* are often found in brackish water or in saltwater in association with shellfish 
 such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7). 
 
@@ -118,6 +123,8 @@ such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7).
 .. _Hu et al 2016: https://pubmed.ncbi.nlm.nih.gov/27849586/
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
+
+.. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
 .. figure:: VibrioCholeraeInSea.jpg
   :width: 750
@@ -140,11 +147,7 @@ countries (see the `GTFCC website`).
 Because non-epidemic lineages of *V. cholerae* are found in many countries around
 the world, the GTFCC have revised their definition of the disease 'cholera'
 to specifically mention the epidemic-causing lineage 7PET.
-That is, they define cholera as:
- "disease caused by toxigenic Vibrio cholerae O1 or O139,
-carrying the ctxAB genes encoding the cholera toxin (CT),
-linked to the seventh pandemic lineage or any lineage that might
-emerge with similar properties" (`GTFCC 2022`_).
+That is, they define cholera as: "disease caused by toxigenic Vibrio cholerae O1 or O139, carrying the ctxAB genes encoding the cholera toxin (CT), linked to the seventh pandemic lineage or any lineage that might emerge with similar properties" (`GTFCC 2022`_).
 
 .. _GTFCC 2022: https://www.gtfcc.org/wp-content/uploads/2022/06/7th-meeting-of-the-gtfcc-working-group-on-surveillance-2022-report.pdf
 
