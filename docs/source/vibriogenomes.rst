@@ -79,8 +79,9 @@ mutations, and they are now distinguishable at the genetic level, so that we con
 .. figure:: ClonalSpecies.png
   :width: 250
 
-  Figure 5. The population structure of a bacterial species can contain genetically distinguishable lineages. Five different
-lineages are represented by the blue, orange, green, pink, and red circles.
+  Figure 5. The population structure of a bacterial species can contain genetically distinguishable lineages. Five different lineages are represented by the blue, orange, green, pink, and red circles. Image credit: A. Coghlan, inspired by `Bacigalupe 2017`_.
+
+.._Bacigalupe 2017: https://era.ed.ac.uk/handle/1842/31266
 
 The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages.
 The bacteria belonging to one particular *V. cholerae* lineage are all relatively **clonal** (highly similar at the genetic level);  
