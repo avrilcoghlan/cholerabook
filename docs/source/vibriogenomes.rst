@@ -88,7 +88,7 @@ usually present similar biological features, such as a specific pattern of virul
 The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages (Figure 6).
 
 .. figure:: LineageDistributions.png
-  :width: 650
+  :width: 850
 
   Figure 6. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, probably reflecting the far greater public health importance of 7PET. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image source: A. Coghlan. 
 
@@ -112,7 +112,7 @@ human pathogen (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutre
 There are many other non-epidemic lineages of *V. cholerae* found around the world that do not cause epidemic
 cholera, but sometimes cause small outbreaks of mild diarrhoea. An example is lineage MX-2 (Figure 6). 
 The vast majority of the non-epidemic lineages of *V. cholerae* do not produce cholera toxin, but isolates of some
-non-epidemic lineages, including MX-2, are predicted to produce cholera toxin (`Domman et al 2017`_).
+non-epidemic lineages, including some isolates of MX-2, are predicted to produce cholera toxin (`Domman et al 2017`_).
 The non-epidemic lineages of *V. cholerae* are often found in brackish water or in saltwater in association with shellfish 
 such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7). 
 
@@ -223,7 +223,7 @@ differences between their DNA.
 .. figure:: Lineages.png
   :width: 400
 
-  A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
+  A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Practically 100% of 7PET isolates produce cholera toxin. For the non-epidemic lineages indicated with a red diamond containing 'CTX', some isolates also are predicted to produce cholera toxin. Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
 
 You may have encountered phylogenetic trees before, but if not, don't worry, we will be discussing them a lot in this course.
 In this tree, the arrow of time goes from left to right, with the left-hand side of the tree being the furthest back in history and the
