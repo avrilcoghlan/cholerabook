@@ -68,7 +68,7 @@ The Species *Vibrio cholerae* and its Geographic Distribution
 Like other bacteria, *V. cholerae* populations reproduce by cell division, with the
 DNA (genetic material) of descendant cells being identical to the DNA of the parent cells. Mutations (changes) in the DNA, are
 the main source of genetic variation in *V. cholerae*; these sometimes occur when DNA is being copied during cell division, but
-can also occur due to other types of DNA damage (e.g. due to UV radiation).
+can also occur due to other types of DNA damage (e.g. due to UV radiation). 
 
 Over evolutionary time, different clones of a species independently accumulate
 mutations, so they become distinguishable at the genetic level and that consider them different **lineages** (Figure 5). 
@@ -85,22 +85,31 @@ usually present similar biological features, such as a specific pattern of virul
 
 .. _Bacigalupe 2017: https://era.ed.ac.uk/handle/1842/31266
 
-The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages.
-There is there is only one lineage of *V. cholerae* which causes pandemic/epidemic cholera at present.
-This lineage is known as the **'7PET'** lineage. 
-The 7PET lineage is an extremely infectious and virulent lineage of *V. cholerae*, which produces
-cholera toxin. 7PET appears to have evolved to become a 
-human pathogen (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutreja & Dougan 2020`_).
-
-There are many other non-pandemic/non-epidemic lineages of *V. cholerae* found around the world that do not cause pandemic/epidemic
-cholera. The vast majority of these non-pandemic/non-epidemic lineages do not produce cholera toxin.
+The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages (Figure 6).
 
 .. figure:: GlobalDistribution.jpg
   :width: 650
 
-  The global distribution of the bacterium *V. cholerae*, including representatives of many different lineages of *V. cholerae*, including the current pandemic lineage (7PET) and many other lineages. Triangles indicate where *V. cholerae* was detected. The studies shown here are actually only a small fraction of the studies published for certain areas. Image credit: `Lutz et al 2013`_.
+  Figure 6. The global distribution of the bacterium *V. cholerae*, including representatives of many different lineages of *V. cholerae*, including the current pandemic lineage (7PET) and many other lineages. Triangles indicate where *V. cholerae* was detected. The studies shown here are actually only a small fraction of the studies published for certain areas. Image credit: `Lutz et al 2013`_.
 
-These non-pandemic/non-epidemic lineages of *V. cholerae* are often found in brackish water or in saltwater in association with shellfish such as crabs and shrimp, or in rivers or freshwater lakes. 
+There is there is only one lineage of *V. cholerae* which causes epidemic cholera at present.
+This lineage is known as the **'7PET'** lineage. What do we mean when we say 7PET causes 'epidemic cholera'?
+The word 'epidemic' is defined by the CDC as an unexpected increase in the number of disease cases in a specific geographical area;
+they say that an outbreak is defined in the same way but for a more limited geographic area (see the `CDC website`_).
+Thus, when we say 7PET is epidemic-causing, we mean that 7PET cause an unexpectedly big increase in the number
+of cases of diarrhoeal illness in a particular town/city/region. 
+
+.. _CDC website: https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section11.html
+
+The 7PET lineage is an extremely infectious and virulent lineage of *V. cholerae*, which produces
+cholera toxin. 7PET appears to have evolved to become a 
+human pathogen (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutreja & Dougan 2020`_).
+
+There are many other non-epidemic lineages of *V. cholerae* found around the world that do not cause epidemic
+cholera, but sometimes cause small outbreaks of mild diarrhoea. 
+The vast majority of the non-epidemic lineages of *V. cholerae* do not produce cholera toxin.
+The non-epidemic lineages of *V. cholerae* are often found in brackish water or in saltwater in association with shellfish 
+such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7). 
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
@@ -113,18 +122,59 @@ These non-pandemic/non-epidemic lineages of *V. cholerae* are often found in bra
 .. figure:: VibrioCholeraeInSea.jpg
   :width: 750
 
-  Non-pandemic/non-epidemic lineages of *V. cholerae* are part of the bacterioplankton in aquatic environments. Image credit: `Lutz et al 2013`_.
+  Figure 7. Non-epidemic lineages of *V. cholerae* are part of the bacterioplankton in aquatic environments. Image credit: `Lutz et al 2013`_.
 
 .. _Lutz et al 2013: https://pubmed.ncbi.nlm.nih.gov/24379807/
+
+The revised GTFCC definitions of cholera cases and cholera-free country statuses
+--------------------------------------------------------------------------------
+
+The WHO's Global Task Force on Cholera Control (GTFCC) is a partnership of more
+than 50 institutions, including NGOs, academic institutions, and UN agencies,
+that are working together to eliminate cholera. By 2030 they aim to reduce 
+cholera deaths by at least 90%, and to eliminate cholera altogether in 20
+countries (see the `GTFCC website`).
+
+.. _GTFCC website: https://www.gtfcc.org/about-gtfcc/
+
+Because non-epidemic lineages of *V. cholerae* are found in many countries around
+the world, the GTFCC have revised their definition of the disease 'cholera'
+to specifically mention the epidemic-causing lineage 7PET.
+That is, they define cholera as:
+ "disease caused by toxigenic Vibrio cholerae O1 or O139,
+carrying the ctxAB genes encoding the cholera toxin (CT),
+linked to the seventh pandemic lineage or any lineage that might
+emerge with similar properties" (`GTFCC 2022`_).
+
+.. _GTFCC 2022: https://www.gtfcc.org/wp-content/uploads/2022/06/7th-meeting-of-the-gtfcc-working-group-on-surveillance-2022-report.pdf
+
+The WTFCC's definition of 'cholera' mentions the serogroups O1 and O139; we will discuss
+serogroup more later in this course, but for now all you need to know is that these
+are the two serogroups that are seen in the 7PET lineage (`Mutreja et al 2011`_, `Moore et al 2014`_).
+
+.. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
+
+.. _Moore et al 2014: https://pubmed.ncbi.nlm.nih.gov/24575898/
+
+The GTFCC is aiming to eliminate 7PET in 20 countries by 2030,
+not to eliminate all diarrhoeal illness caused by *V. cholerae*. This means that in order to prove that
+a particular country has become 'cholera-free', there will need to be
+sufficient data to show that diarrhoeal illness caused by 7PET has definitely disappeared from that country. 
+One type of data that will be very useful for this purpose is whole-genome sequencing data for *V. cholerae*, which
+can be used to accurately distinguish 7PET from other non-epidemic lineages of *V. cholerae*, as we will discuss
+later in this course. 
 
 The History of Cholera: the Seven Historically Recorded Pandemics
 -----------------------------------------------------------------
 
 A disease with symptoms like cholera was recorded in ancient texts from ancient India and China, but we have
 little information about those ancient outbreaks.
-Since the early 1800s there have been seven historically recorded cholera pandemics (epidemics covering a very wide
-area of our planet). The 7th pandemic is the current
+Since the early 1800s there have been seven historically recorded cholera pandemics (a 'pandemic' is
+an epidemic that has spread over several countries and usually affects many people; `CDC website`_).
+The 7th pandemic is the current
 and ongoing cholera pandemic, and has been caused by the 7PET lineage.
+
+.. _CDC website: https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section11.html
 
 The 6th pandemic occurred from 1899 to 1923, after which there were only localised outbreaks in parts of Asia for several decades,
 and then the 7th pandemic started in 1961 and continues at present (`Feng et al 2008`_). 
@@ -185,7 +235,7 @@ the last common ancestor of 7PET and ELA-3 (yellow circle) lived even longer ago
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
 
 What the tree tells us is that 7PET and Classical, the two lineages that have caused pandemics, are relatively closely related *V. cholerae* lineages. 
-7PET is also relatively closely related to non-pandemic/non-epidemic-causing lineages of *V. cholerae*, including MX-2, Gulf Coast and ELA-3. 
+7PET is also relatively closely related to non-epidemic lineages of *V. cholerae*, including MX-2, Gulf Coast and ELA-3. 
 
 Later in the course you will be learning a lot about how to build phylogenetic trees yourself, and how to interpret
 them to understand about the relationships between different subtypes of 7PET that have caused different 7PET outbreaks, and to
@@ -195,8 +245,8 @@ Diarrhoeal illness caused by different lineages of *V. cholerae*
 ----------------------------------------------------------------
 
 The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
-recorded pandemic, are only the two pandemic/epidemic-causing lineages of *V. cholerae*. The many other
-lineages of *V. cholerae* are not pandemic/epidemic-causing; they sometimes cause relatively small outbreaks of diarrhoeal illness in
+recorded pandemic, are only the two epidemic lineages of *V. cholerae*. The many other
+lineages of *V. cholerae* are not epidemic-causing; they sometimes cause relatively small outbreaks of diarrhoeal illness in
 tens or even a hundred or so people (`Glenn Morris 1990`_). In contrast, 7PET is the only current *V. cholerae* lineage
 that causes large epidemics or pandemics of hundreds of thousands of cases, or even millions of 
 cases as seen in the Yemen cholera epidemic from 2016-present (`Mutreja & Dougan 2020`_, `Lassalle et al 2023`_). 
@@ -207,8 +257,8 @@ cases as seen in the Yemen cholera epidemic from 2016-present (`Mutreja & Dougan
 
 .. _Lassalle et al 2023: https://pubmed.ncbi.nlm.nih.gov/37770747/
 
-Of the non-pandemic/non-epidemic *V. cholerae* lineages, the two lineages that have caused the most cases of diarrhoeal illness
-since 2000 are thought to be lineages 'L3b' and 'L9' (`Hao et al 2023`_). For example, these two non-pandemic/non-epidemic lineages
+Of the non-epidemic *V. cholerae* lineages, the two lineages that have caused the most cases of diarrhoeal illness
+since 2000 are thought to be lineages 'L3b' and 'L9' (`Hao et al 2023`_). For example, these two non-epidemic lineages
 have caused several hundred cases of diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_).
 Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal illness in South Africa (`Smith et al 2021`_). 
 Note that L3b and L9 correspond to lineages labelled MX-2 and ELA-3, respectively, in the tree above (they are just alternative names used 
@@ -223,7 +273,7 @@ for the same lineages).
 
   Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2001 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. Image credit: `Hao et al 2023`_.
 
-However, compared cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L9 and other non-pandemic/non-epidemic
+However, compared cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L9 and other non-epidemic
 *V. cholerae* lineages are far smaller and in general cause relatively milder diarrhoeal illness (`Glenn Morris 1990`_, `Glenn Morris 2003`_).
 In contrast, the cholera epidemic in Yemen that began in 2016 (and is still continuing) has included
 approximately million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`WHO 2020`_).
@@ -241,10 +291,10 @@ approximately million suspected cholera cases and appproximately 4000 deaths fro
 
 .. _WHO 2020: https://applications.emro.who.int/docs/WHOEMCSR314E-eng.pdf
 
-Due to its high virulence (ability to cause acute watery diarrhoea) and pandemic/epidemic-causing potential, the 7PET lineage is of major public health concern,
-while the other non-pandemic/non-epidemic lineages of *V. cholerae* are in comparison currently only of relatively minor public health concern.
-Therefore our focus in this course will be primarily on 7PET, and not the non-pandemic/non-epidemic lineages of *V. cholerae*. 
-However, some epidemiologists are monitoring these other non-pandemic/non-epidemic lineages, in case at some point in future they 
+Due to its high virulence (ability to cause acute watery diarrhoea) and epidemic-causing potential, the 7PET lineage is of major public health concern,
+while the other non-epidemic lineages of *V. cholerae* are in comparison currently only of relatively minor public health concern.
+Therefore our focus in this course will be primarily on 7PET, and not the non-epidemic lineages of *V. cholerae*. 
+However, some epidemiologists are monitoring these other non-epidemic lineages, in case at some point in future they 
 do evolve to be become far more infectious and/or far more virulent (e.g. `Hao et al 2023`_, `Smith et al 2021`_).
 
 .. _Hao et al 2023: https://pubmed.ncbi.nlm.nih.gov/37146742/
@@ -358,7 +408,7 @@ from the 7PET lineage (`Heidelberg et al 2000`_).
 
 The *ctxA* and *ctxB* genes are usually found close together in the *V. cholerae* genome, in a region known as the **CTX region**. 
 Practically 100% of 7PET isolates contain the CTX region in their chromosome, and so produce cholera toxin, and therefore cause a human 
-host to suffer acute watery diarrhoea. Only a small number of non-pandemic/non-epidemic lineages of *V. cholerae*, most
+host to suffer acute watery diarrhoea. Only a small number of non-epidemic lineages of *V. cholerae*, most
 of which are relatively closely related to 7PET (e.g. L3, L9, Gulf Coast, Classical; see above), have *ctxA* and *ctxB* genes (`Chun et al 2009`_, 
 `Hao et al 2023`_).
 
