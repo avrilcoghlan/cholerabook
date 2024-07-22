@@ -30,7 +30,7 @@ with human faeces containing *V. cholerae* (Figure 2). Barriers to disease trans
 handwashing and hygiene, access to toilets, and clean drinking water (e.g. chlorination of stored water) `Nelson et al 2009`_. 
 
 .. figure:: 7PET_Lifecycle.png
-  :width: 500
+  :width: 800
 
   Figure 2. Life cycle of the current pandemic lineage of *V. cholerae*. On ingestion of *V. cholerae* of the current pandemic lineage in 
 contaminated food or water, the *V. cholerae* bacteria colonise the small intestine, multiply, secrete cholera toxin, and are then
