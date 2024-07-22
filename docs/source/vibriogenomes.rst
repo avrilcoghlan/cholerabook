@@ -68,16 +68,18 @@ such as enterotoxigenic *E. coli* (ETEC).
 The Species *Vibrio cholerae* and its Geographic Distribution
 ------------------------------------------------------------- 
 
-Like other bacteria, *V. cholerae* populations are primarily **clonal**, as they reproduce by cell division, with the
+Like other bacteria, *V. cholerae* populations reproduce by cell division, with the
 DNA (genetic material) of descendant cells being identical to the DNA of the parent cells. Mutations (changes) in the DNA, are
 the main source of genetic variation in *V. cholerae*; these sometimes occur when DNA is being copied during cell division, but
 can also occur due to other types of DNA damage (e.g. due to UV radiation).
 
 Over evolutionary time, different clones of a species independently accumulate
 mutations, so they become distinguishable at the genetic level and that consider them different **lineages** (Figure 5). 
-The bacteria belonging to one particular *lineage are all relatively **clonal** (highly similar at the genetic level);  
+The bacteria belonging to one particular lineage are all relatively clonal (highly similar at the genetic level);  
 all descended from a relatively recent common ancestor (although 'recent' in evolutionary time may be hundreds or thousands of years ago!); and
-usually present similar biological features, such as a specific pattern of virulence. 
+usually present similar biological features, such as a specific pattern of virulence (`Bacigalupe 2017`_). 
+
+.. _Bacigalupe 2017: https://era.ed.ac.uk/handle/1842/31266
 
 .. figure:: ClonalSpecies.png
   :width: 150
