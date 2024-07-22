@@ -77,10 +77,10 @@ Over evolutionary time, different clones of *V. cholerae* have independently acc
 mutations, and they are now distinguishable at the genetic level, so that we consider them different **lineages** (Figure 5). 
 
 .. figure:: ClonalSpecies.png
-  :width: 350
+  :width: 250
 
   Figure 5. The population structure of a bacterial species can contain genetically distinguishable lineages. Five different
-lineages are represented by the circles of five different colours (blue, orange, green, pink, red).
+lineages are represented by the blue, orange, green, pink, and red circles.
 
 The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages.
 The bacteria belonging to one particular *V. cholerae* lineage are all relatively **clonal** (highly similar at the genetic level);  
