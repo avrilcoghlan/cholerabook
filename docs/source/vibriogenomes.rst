@@ -41,7 +41,7 @@ state that serves to amplify the outbreak by promoting transmission to further h
 .. _Nelson et al 2009: https://pubmed.ncbi.nlm.nih.gov/19756008/
 
 Cholera outbreaks typically occur in places where there is poor access
-to clean water and poor sewage infrastructure. These include low-income settings in which there is poor water sanitation infrastructure, 
+to clean water and poor sewage infrastructure (Figure 3). These include low-income settings in which there is poor water sanitation infrastructure, 
 or places in which there is a humanitarian crisis (e.g. an earthquake or war) that has disrupted the water sanitation infrastructure.
 Examples are Haiti, where there was a cholera epidemic from 2010-2019 which began shortly after a massive earthquake occurred in 2010, 
 and Yemen, which has suffered a cholera epidemic from 2016-present during its ongoing civil war. 
@@ -49,10 +49,10 @@ and Yemen, which has suffered a cholera epidemic from 2016-present during its on
 .. figure:: Wastewater.jpg
   :width: 350
 
-  Children playing in a waste water drainage area that was found to be contaminated with *V. cholerae*. Image credit: Amibola Aman-Oloniyo, Nigeria.
+  Figure 3. Children playing in a waste water drainage area that was found to be contaminated with *V. cholerae*. Image credit: Amibola Aman-Oloniyo, Nigeria.
 
 Once ingested by a human host, the *V. cholerae* bacteria multiply in the human intestine. The
-bacteria attach to the epithelial cells of the intestine and release **cholera toxin**. Cholera toxin
+bacteria attach to the epithelial cells of the intestine and release **cholera toxin** (abbreviated as Ctx, CTX, or CT; Figure 4). Cholera toxin 
 binds to the intestinal epithelial cell surface, and stimulates the cells to secrete ions and water into
 the intestinal lumen, resulting in acute watery diarrhoea. Cholera toxin is therefore the key **virulence factor** 
 of *V. cholerae*. 
@@ -60,16 +60,32 @@ of *V. cholerae*.
 .. figure:: CholeraToxin.jpg
   :width: 450
 
-  Cholera toxin (Ctx) is a protein complex that consists of one CtxA protein bound to five CtxB proteins. This image shows the structure formed by the five CtxB proteins. Image credit: Wikipedia user Astrojan.
+  Figure 4. Cholera toxin is a protein complex that consists of one CtxA protein bound to five CtxB proteins. This image shows the structure formed by the five CtxB proteins. Image credit: Wikipedia user Astrojan.
 
 Note that *V. cholerae* is not the only pathogen that can cause acute watery diarrhoea; similar symptoms also be caused by other bacteria
 such as enterotoxigenic *E. coli* (ETEC). 
 
 The Species *Vibrio cholerae* and its Geographic Distribution
--------------------------------------------------------------
+------------------------------------------------------------- 
 
-The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages (i.e. many different
-genetically different subtypes of *V. cholerae*, forming different branches of the family tree of the species *V. cholerae*). 
+Like other bacteria, *V. cholerae* populations are primarily **clonal**, as they reproduce by cell division, with the
+DNA (genetic material) of descendant cells being identical to the DNA of the parent cells. Mutations (changes) in the DNA, are
+the main source of genetic variation in *V. cholerae*; these sometimes occur when DNA is being copied during cell division, but
+can also occur due to other types of DNA damage (e.g. due to UV radiation).
+
+Over evolutionary time, different clones of *V. cholerae* have independently accumulated
+mutations, and they are now distinguishable at the genetic level, so that we consider them different **lineages** (Figure 5). 
+
+.. figure:: ClonalSpecies.png
+  :width: 350
+
+  Figure 5. The population structure of a bacterial species can contain genetically distinguishable lineages. Five different
+lineages are represented by the circles of five different colours (blue, orange, green, pink, red).
+
+The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages.
+The bacteria belonging to one particular *V. cholerae* lineage are all relatively **clonal** (highly similar at the genetic level);  
+all descended from a relatively recent common ancestor (probably sometime in the last few centuries); and
+usually present similar biological features, such as specific patterns of virulence. 
 
 There is there is only one lineage of *V. cholerae* which causes pandemic/epidemic cholera at present.
 This lineage is known as the **'7PET'** lineage. 
