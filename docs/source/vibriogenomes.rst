@@ -88,7 +88,7 @@ usually present similar biological features, such as a specific pattern of virul
 The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages (Figure 6).
 
 .. figure:: LineageDistributions.png
-  :width: 850
+  :width: 1050
 
   Figure 6. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, probably reflecting the far greater public health importance of 7PET. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image source: A. Coghlan. 
 
