@@ -17,23 +17,28 @@ precise definitions of what they consider 'a suspected cholera case' and 'a conf
 
 .. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
 
-Cholera is an infection caused by a bacterium called *Vibrio cholerae*, a curved Gram-negative rod-shaped bacterium.
+Cholera is an infection caused by a bacterium called *Vibrio cholerae*, a curved Gram-negative rod-shaped bacterium (Figure 1).
 
 .. figure:: Vibrio_cholerae.jpg
   :width: 350
 
-  The bacterium *V. cholerae*. Image credit: Tom Kirn, Ron Taylor, Louisa Howard - Dartmouth Electron Microscope Facility.
+  Figure 1. The bacterium *V. cholerae*. Image credit: Tom Kirn, Ron Taylor, Louisa Howard - Dartmouth Electron Microscope Facility.
 
 The *V. cholerae* bacterium is usually transmitted by the faecal-oral route, that is, 
 people usually catch cholera by eating food or by drinking water that has been contaminated
-with human faeces containing *V. cholerae*.
+with human faeces containing *V. cholerae* (Figure 2). Barriers to disease transmission include
+handwashing and hygiene, access to toilets, and clean drinking water (e.g. chlorination of stored water) `Nelson et al 2009`_. 
 
-.. figure:: FaecalOralRoute.jpg
+.. figure:: 7PET_Lifecycle.jpg
   :width: 500
 
-  The faecal-oral route for disease transmission. The orange lines represent barriers, ie. toilets, safe water, hygiene and handwashing. Image credit: Howard G., Bartam J., Williams A., Overbo A., Fuente D., Geere J.A. Domestic water quantity, service level and health, second edition. Geneva: `World Health Organization; 2020`_.
+  Figure 2. Life cycle of the current pandemic lineage of *V. cholerae*. On ingestion of *V. cholerae* of the current pandemic lineage in 
+contaminated food or water, the *V. cholerae* bacteria colonise the small intestine, multiply, secrete cholera toxin, and are then
+shed back into the environment by the host in diarrhoea. The *V. cholerae* bacteria shed in the stool are in a transient hyperinfectious
+state that serves to amplify the outbreak by promoting transmission to further human hosts. Image source: A. Coghlan, inspired by
+`Nelson et al 2009`_. 
 
-.. _World Health Orgization; 2020: https://iris.who.int/bitstream/handle/10665/338044/9789240015241-eng.pdf
+.. _Nelson et al 2009: https://pubmed.ncbi.nlm.nih.gov/19756008/
 
 Cholera outbreaks typically occur in places where there is poor access
 to clean water and poor sewage infrastructure. These include low-income settings in which there is poor water sanitation infrastructure, 
