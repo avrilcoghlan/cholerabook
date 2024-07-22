@@ -73,8 +73,11 @@ DNA (genetic material) of descendant cells being identical to the DNA of the par
 the main source of genetic variation in *V. cholerae*; these sometimes occur when DNA is being copied during cell division, but
 can also occur due to other types of DNA damage (e.g. due to UV radiation).
 
-Over evolutionary time, different clones of *V. cholerae* have independently accumulated
-mutations, and they are now distinguishable at the genetic level, so that we consider them different **lineages** (Figure 5). 
+Over evolutionary time, different clones of a species independently accumulate
+mutations, so they become distinguishable at the genetic level and that consider them different **lineages** (Figure 5). 
+The bacteria belonging to one particular *lineage are all relatively **clonal** (highly similar at the genetic level);  
+all descended from a relatively recent common ancestor (although 'recent' in evolutionary time may be hundreds or thousands of years ago!); and
+usually present similar biological features, such as a specific pattern of virulence. 
 
 .. figure:: ClonalSpecies.png
   :width: 150
@@ -84,10 +87,6 @@ mutations, and they are now distinguishable at the genetic level, so that we con
 .. _Bacigalupe 2017: https://era.ed.ac.uk/handle/1842/31266
 
 The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages.
-The bacteria belonging to one particular *V. cholerae* lineage are all relatively **clonal** (highly similar at the genetic level);  
-all descended from a relatively recent common ancestor (probably sometime in the last few centuries); and
-usually present similar biological features, such as specific patterns of virulence. 
-
 There is there is only one lineage of *V. cholerae* which causes pandemic/epidemic cholera at present.
 This lineage is known as the **'7PET'** lineage. 
 The 7PET lineage is an extremely infectious and virulent lineage of *V. cholerae*, which produces
