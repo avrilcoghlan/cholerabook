@@ -139,7 +139,7 @@ The WHO's Global Task Force on Cholera Control (GTFCC) is a partnership of more
 than 50 institutions, including NGOs, academic institutions, and UN agencies,
 that are working together to eliminate cholera. By 2030 they aim to reduce 
 cholera deaths by at least 90%, and to eliminate cholera altogether in 20
-countries (see the `GTFCC website`).
+countries (see the `GTFCC website`_).
 
 .. _GTFCC website: https://www.gtfcc.org/about-gtfcc/
 
