@@ -243,7 +243,7 @@ In contrast, Classical lineage isolates have the Classical biotype.
 .. _Dorman 2020: https://www.sanger.ac.uk/theses/md25-thesis.pdf
 
 .. figure:: Biotype.png
-  :width: 450
+  :width: 750
 
   Figure 10. Laboratory tests used to determine the 'biotype' of *V. cholerae*, a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing Classical or 7PET lineages. Image credit: from Table 1.1 in `Dorman 2020`_.
 
