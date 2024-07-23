@@ -212,7 +212,7 @@ John Snow and the 1854 Broad Street Cholera Outbreak
 
 The third cholera pandemic played a key role in this history of Epidemiology and Public Health. In 1854 during this pandemic there was a large outbreak of cholera around Broad Street in London, and a doctor named John Snow carried out a very through investigation of the outbreak, creating a map of cases (Figure 9). From the data he collected, he was able to figure out that cholera was being transmitted through contaminated water from the Broad Street water pump, and also was being spread by contact with another infected person (or their goods) (`Tulchinksky 2018`_). Snow did not know what was the exact contaminant in the water from the Broad Street pump, just that it contained some contaminant that was causing cholera; we now know that this must have been an epidemic-causing lineage of *V. cholerae*. Snow persuaded the local authorities to remove the handle of the Broad Street pump, and the outbreak ended soon after that. 
 
-.. _Tulchinsky et al 2018: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7150208/
+.. _Tulchinsky 2018: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7150208/
 
 .. figure:: SnowCholeraMap.jpg
   :width: 500
