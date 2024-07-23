@@ -210,7 +210,7 @@ from Ghana in 2010 was reported by `Adade et al 2022`_).
 John Snow and the 1854 Broad Street Cholera Outbreak
 ----------------------------------------------------
 
-The third cholera pandemic played a key role in this history of Epidemiology and Public Health. In 1854 during this pandemic there was a large outbreak of cholera around Broad Street in London, and a doctor named John Snow carried out a very through investigation of the outbreak, creating a map of cases (Figure 9). From the data he collected, he was able to figure out that cholera was being transmitted through contaminated water from the Broad Street water pump, and also was being spread by contact with another infected person (or their goods) (`Tulchinsky 2018`_). Snow did not know what was the exact contaminant in the water from the Broad Street pump, just that it contained some contaminant that was causing cholera; we now know that this must have been an epidemic-causing lineage of *V. cholerae*. Snow persuaded the local authorities to remove the handle of the Broad Street pump, and the outbreak ended soon after that. 
+The third cholera pandemic played a key role in this history of Epidemiology and Public Health. In 1854 during this pandemic there was a large outbreak of cholera around Broad Street in London, and a doctor named John Snow carried out a very through investigation of the outbreak, creating a map of cases (Figure 9). From the data he collected, he was able to figure out that cholera was being transmitted through contaminated water from the Broad Street water pump, and also was being spread by contact with another infected person (or their goods) (`Tulchinsky 2018`_). Snow did not know what was the exact contaminant in the water from the Broad Street pump. We now know that it must have contained an epidemic-causing lineage of *V. cholerae*. Snow persuaded the local authorities to remove the handle of the Broad Street pump, and the outbreak ended soon after that. 
 
 .. _Tulchinsky 2018: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7150208/
 
@@ -219,8 +219,7 @@ The third cholera pandemic played a key role in this history of Epidemiology and
 
   Figure 9. Map of cholera cases in London in 1854 made by the doctor John Snow during the 3rd historically recorded cholera pandemic. Cholera cases are highlighted in black. The Broad Street pump is indicated with a red dot. Image credit: Adapted by A. Coghlan from the original map made by John Snow in 1854, obtained from wikipedia.
 
-Snow's very thorough cholera outbreak investigation, which he published in 1855 (`Snow 1855`_), is still considered an excellent example of how accurate and informative data, and careful data analysis, are extremely important for making good public health decisions. Later in this course, we will be analysing data from more recent cholera outbreaks, using different data sources than John Snow had (e.g. whole genome sequencing data). However, our goals will be the same as those of John Snow, that is, to carefully collect and analyse 
-data to inform good decision-making for cholera public health. 
+Snow's very thorough cholera outbreak investigation, which he published in 1855 (`Snow 1855`_), is still considered an excellent example of how accurate and informative data, and careful data analysis, are extremely important for making good public health decisions. Later in this course, we will be analysing data from more recent cholera outbreaks, using different data sources than John Snow had (e.g. whole genome sequencing data). 
 
 .. _Snow 1855: https://www.gutenberg.org/ebooks/72894
 
@@ -276,8 +275,8 @@ cases as seen in the Yemen cholera epidemic from 2016-present (`Mutreja & Dougan
 .. _Lassalle et al 2023: https://pubmed.ncbi.nlm.nih.gov/37770747/
 
 Of the non-epidemic *V. cholerae* lineages, the two lineages that have caused the most cases of diarrhoeal illness
-since 2000 are thought to be lineages 'L3b' and 'L9' (`Hao et al 2023`_; Figure 11). For example, these two non-epidemic lineages
-have caused several hundred cases of diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_).
+since 2000 are thought to be lineages 'L3b' and 'L9' (`Hao et al 2023`). For example, these two non-epidemic lineages
+have caused several hundred cases of diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_; Figure 11).
 Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal illness in South Africa (`Smith et al 2021`_). 
 Note that L3b and L9 correspond to lineages labelled MX-2 and ELA-3, respectively, in the tree above (they are just alternative names used 
 for the same lineages).  
