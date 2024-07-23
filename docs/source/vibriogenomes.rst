@@ -214,7 +214,7 @@ The third cholera pandemic played a key role in this history of Epidemiology and
 
 .. _Tulchinsky 2018: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7150208/
 
-.. figure:: SnowCholeraMap.jpg
+.. figure:: SnowCholeraMap.png
   :width: 500
 
   Figure 9. Map of cholera cases in London in 1854 made by the doctor John Snow during the 3rd historically recorded cholera pandemic. Cholera cases are highlighted in black. The Broad Street pump is indicated with a red dot. Image credit: Adapted by A. Coghlan from the original map made by John Snow in 1854, obtained from wikipedia.
