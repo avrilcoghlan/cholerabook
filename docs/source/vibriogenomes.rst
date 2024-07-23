@@ -32,7 +32,7 @@ handwashing and hygiene, access to toilets, and clean drinking water (e.g. chlor
 .. figure:: 7PET_Lifecycle.png
   :width: 750
 
-  Figure 2. Life cycle of the current pandemic lineage of *V. cholerae*. On ingestion of *V. cholerae* of the current pandemic lineage in contaminated food or water, the *V. cholerae* bacteria colonise the small intestine, multiply, secrete cholera toxin, and are then shed back into the environment by the host in diarrhoea. The *V. cholerae* bacteria shed in the stool are in a transient hyperinfectious state that serves to amplify the outbreak by promoting transmission to further human hosts. Image source: A. Coghlan, inspired by `Nelson et al 2009`_. 
+  Figure 2. Life cycle of the current pandemic lineage of *V. cholerae*. On ingestion of *V. cholerae* of the current pandemic lineage in contaminated food or water, the *V. cholerae* bacteria colonise the small intestine, multiply, secrete cholera toxin, and are then shed back into the environment by the host in diarrhoea. The *V. cholerae* bacteria shed in the stool are in a transient hyperinfectious state that serves to amplify the outbreak by promoting transmission to further human hosts. Image source: A. Coghlan, inspired by Figure 2 in `Nelson et al 2009`_. 
 
 .. _Nelson et al 2009: https://pubmed.ncbi.nlm.nih.gov/19756008/
 
@@ -80,7 +80,7 @@ usually present similar biological features, such as a specific pattern of virul
 .. figure:: ClonalSpecies.png
   :width: 150
 
-  Figure 5. The population structure of a bacterial species can contain genetically distinguishable lineages. Five different lineages are represented by the blue, orange, green, pink, and red circles. Image credit: A. Coghlan, inspired by `Bacigalupe 2017`_.
+  Figure 5. The population structure of a bacterial species can contain genetically distinguishable lineages. Five different lineages are represented by the blue, orange, green, pink, and red circles. Image credit: A. Coghlan, inspired by Figure 1.2 in `Bacigalupe 2017`_.
 
 .. _Bacigalupe 2017: https://era.ed.ac.uk/handle/1842/31266
 
@@ -201,12 +201,12 @@ from Ghana in 2010 was reported by `Adade et al 2022`_).
 .. figure:: SevenPandemics.png
   :width: 650
 
-  A timeline of the seven historically recorded pandemics. The current pandemic is the 7th pandemic and is caused by the 7PET lineage. Image credit: A. Coghlan.
+  Figure 8. A timeline of the seven historically recorded pandemics. The current pandemic is the 7th pandemic and is caused by the 7PET lineage. Image credit: A. Coghlan.
 
 .. figure:: SnowCholeraMap.jpg
   :width: 500
   
-  Map of cholera cases in London in 1854 made by the doctor John Snow during the 3rd historically recorded cholera pandemic. Cholera cases are highlighted in black. Image credit: Original map made by John Snow in 1854.
+  Figure 9. Map of cholera cases in London in 1854 made by the doctor John Snow during the 3rd historically recorded cholera pandemic. Cholera cases are highlighted in black. Image credit: Original map made by John Snow in 1854.
 
 Relationships between lineages of *V. cholerae*
 -----------------------------------------------
@@ -222,7 +222,7 @@ differences between their DNA.
 .. figure:: Lineages.png
   :width: 400
 
-  A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Practically 100% of 7PET isolates produce cholera toxin. Some isolates from non-epidemic lineages are also predicted to produce cholera toxin (because they have the genes encoding cholera toxin). Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
+  Figure 10. A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Practically 100% of 7PET isolates produce cholera toxin. Some isolates from non-epidemic lineages are also predicted to produce cholera toxin (because they have the genes encoding cholera toxin). Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
 
 You may have encountered phylogenetic trees before, but if not, don't worry, we will be discussing them a lot in this course.
 In this tree, the arrow of time goes from left to right, with the left-hand side of the tree being the furthest back in history and the
@@ -273,7 +273,7 @@ for the same lineages).
 .. figure:: L3b_Hangzhou.png
   :width: 600
 
-  Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2001 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. Image credit: `Hao et al 2023`_.
+  Figure 11. Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2001 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. Image credit: `Hao et al 2023`_.
 
 However, compared cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L9 and other non-epidemic
 *V. cholerae* lineages are far smaller and in general cause relatively milder diarrhoeal illness (`Glenn Morris 1990`_, `Glenn Morris 2003`_).
@@ -289,7 +289,7 @@ approximately million suspected cholera cases and appproximately 4000 deaths fro
 .. figure:: YemenCholera.png
   :width: 800
 
-  Number of suspected cases of cholera per week, during the cholera epidemic caused by 7PET in Yemen, between 2016 and 2020. Image credit: (`WHO 2020`_). 
+  Figure 12. Number of suspected cases of cholera per week, during the cholera epidemic caused by 7PET in Yemen, between 2016 and 2020. Image credit: (`WHO 2020`_). 
 
 .. _WHO 2020: https://applications.emro.who.int/docs/WHOEMCSR314E-eng.pdf
 
@@ -322,7 +322,7 @@ throughout the world in three overlapping waves (`Mutreja et al 2011`_).
 .. figure:: 7PET_Spread.jpg
   :width: 800
 
-  Between the early 1960s and 2010, 7PET spread outward globally from the Bay of Bengal region (highlighted with a pale blue oval), in three overlapping waves of spread. Image credit: `Mutreja et al 2011`_.
+  Figure 13. Between the early 1960s and 2010, 7PET spread outward globally from the Bay of Bengal region (highlighted with a pale blue oval), in three overlapping waves of spread. Image credit: `Mutreja et al 2011`_.
 
 .. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
 
@@ -333,7 +333,7 @@ spread by human travel.
 .. figure:: GlobalCholera2023_2024.png
   :width: 800
 
-  Cholera cases reported worldwide between April 2023 and May 2024. Image source: `ECDC`_ (accessed 18th July 2024).
+  Figure 14. Cholera cases reported worldwide between April 2023 and May 2024. Image source: `ECDC`_ (accessed 18th July 2024).
 
 .. _ECDC: https://www.ecdc.europa.eu/en/all-topics-z/cholera/surveillance-and-disease-data/cholera-monthly
 
@@ -366,7 +366,7 @@ and cytosine ('C').
 .. figure:: DNA_structure.jpg
   :width: 300
 
-  A diagram of the structure of DNA, showing the sugar phosphate backbone and base-pairs. The sugars and phosphates form the backbone of the double helix. Image credit: National Human Genome Research Institute, Public domain, via Wikimedia Commons.
+  Figure 15. A diagram of the structure of DNA, showing the sugar phosphate backbone and base-pairs. The sugars and phosphates form the backbone of the double helix. Image credit: National Human Genome Research Institute, Public domain, via Wikimedia Commons.
 
 The bases in the two strands of a DNA double helix are 'complementary' to each other: that is, T pairs with
 A and G pairs with C. Thus, if one strand has the sequence of bases TACGA, the other strand must have the sequence
@@ -383,7 +383,7 @@ and Chromosome 2 about 1 million base-pairs (1 Mb; `Heidelberg et al 2000`_).
 .. figure:: Chromosomes.png
   :width: 800
 
-  A diagram showing the two circular chromosomes of *V. cholerae*, for a typical 7PET isolate. The outside circles in blue represent protein-coding genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical 7PET isolate from the 7PET lineage. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the 'CTX region' containing the two genes *ctxA* and *ctxB*, which encode the A and B subunits of the cholera toxin, respectively. Image source: `Mutreja & Dougan 2020`_.
+  Figure 16. A diagram showing the two circular chromosomes of *V. cholerae*, for a typical 7PET isolate. The outside circles in blue represent protein-coding genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical 7PET isolate from the 7PET lineage. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the 'CTX region' containing the two genes *ctxA* and *ctxB*, which encode the A and B subunits of the cholera toxin, respectively. Image source: `Mutreja & Dougan 2020`_.
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
@@ -423,7 +423,7 @@ of which are relatively closely related to 7PET (e.g. L3, L9, Gulf Coast, Classi
 .. figure:: CtxRegion.png
   :width: 550
 
-  A diagram showing the CTX region of Chromosome 1 of 7PET strain N16961. The blue arrows represent genes. The *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: A. Coghlan, based on information in `Pant et al 2020`_.
+  Figure 17. A diagram showing the CTX region of Chromosome 1 of 7PET strain N16961. The blue arrows represent genes. The *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: A. Coghlan, inspired by Figure 2 in `Pant et al 2020`_.
 
 .. _Pant et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272871/
 
