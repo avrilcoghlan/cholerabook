@@ -125,7 +125,7 @@ such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7).
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
-.. figure:: VibrioCholeraeInSea.jpg
+.. figure:: VibrioCholeraeInSea.png
   :width: 750
 
   Figure 7. Non-epidemic lineages of *V. cholerae* are part of the bacterioplankton in aquatic environments. The non-epidemic *V. cholerae* are under risk of predation by protozoa and bacteriophages (viruses). These non-epidemic *V. cholerae* can attach to other organisms such as phytoplankton, macroalgae, chitinous zoo plankton, and gelatinous egg masses, which may provide sources of nutrients for the non-epidemic *V. cholerae*. Fish and birds feed on plankton and mussels that might harbour non-epidemic *V. cholerae*. Image credit: Adapted by A. Coghlan from Figure 3 in `Lutz et al 2013`_.
