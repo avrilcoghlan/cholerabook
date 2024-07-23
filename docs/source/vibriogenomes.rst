@@ -233,6 +233,7 @@ described as having the '**Classical biotype**'.
 These biotypes are based on a particular set of laboratory tests (about four
 or five laboratory tests, depending on the version of the protocol), which test things like susceptibility to infection by particular bacteriophages,
 susceptibility to a particular antibiotic, presence of a particular biochemical pathway, and effect on red blood cells (Figure 10; `CDC 1994`_, `Dorman 2020`_).
+You don't need to remember the particular laboratory tests used in biotyping, as they are rarely used nowadays, but just to be aware that they were used historically.
 Isolates of the 7PET lineage have the El Tor biotype, and in fact the name '7PET' stands for '7th pandemic El Tor'.
 In contrast, Classical lineage isolates have the Classical biotype.
 
@@ -245,7 +246,7 @@ In contrast, Classical lineage isolates have the Classical biotype.
 .. figure:: Biotype.png
   :width: 600
 
-  Figure 10. Laboratory tests used to determine the 'biotype' of *V. cholerae*, a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing Classical or 7PET lineages. Image credit: from Table 1.1 in `Dorman 2020`_.
+  Figure 10. Laboratory tests used to determine the 'biotype' of *V. cholerae*, a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing Classical or 7PET lineages. Image credit: from Table 1.1 in `Dorman 2020`_.  
 
 .. _Dorman 2020: https://www.sanger.ac.uk/theses/md25-thesis.pdf
 
@@ -254,15 +255,26 @@ causing an outbreak have the El Tor or Classical biotype, so to predict whether 
 (`Cvjetanovic & Barua 1972`_, `CDC 1994`_). However, as mentioned above, the Classical lineage (and so Classical biotype) is very rarely seen nowadays. 
 Furthermore, although the lineage causing the 7th pandemic, 7PET, shows the El Tor biotype in laboratory tests, some 
 non-epidemic lineages of *V. cholerae* also show the El Tor biotype in laboratory biotyping tests (see Fig. 1. in `Chun et al 2009`_).
-Therefore, the biotype is not very useful for distinguishing 7PET from non-epidemic lineages of *V. cholerae*. 
+Therefore, the biotype is not very useful for distinguishing 7PET from non-epidemic lineages of *V. cholerae*.
 As we will discuss later in this course, whole genome sequencing tells us far more accurately whether isolates from an
-outbreak are 7PET or not.
+outbreak are 7PET or not. In fact, biotyping is not very useful nowadays for cholera public health. We have
+mentioned it here because of its historical importance in cholera public health, 
+and so that you understand that the 7PET lineage has the El Tor biotype,
+but that not all *V. cholerae* with the El Tor biotype are 7PET. 
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
 .. _Cvjetanovic & Barua 1972: https://pubmed.ncbi.nlm.nih.gov/4561957/
 
 .. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
+
+Note that you may see some mention in the literature of variants of the El Tor biotype, such as
+the 'Matlab variants', 'Mozambique variants', 'Haitian variants', 'altered El Tor biotype', 'hybrid El Tor' or 'atypical El Tor' (e.g. in Bhandari et al 2021, `Montero et al 2023`_). Isolates with the Matlab/Mozambique/Haitian variants of El Tor biotype or altered/hybrid/atypical El Tor biotype all belong to the 7PET lineage, but
+just give slightly different results in the biotyping tests (Figure 10) compared to other 7PET isolates. 
+
+.. _Montero et al 2023: https://pubmed.ncbi.nlm.nih.gov/37215733/
+
+.. _Bhandari et al 2021: https://pubmed.ncbi.nlm.nih.gov/33482361/
 
 Serogroups of *V. cholerae*
 ---------------------------
@@ -327,9 +339,12 @@ cases as seen in the Yemen cholera epidemic from 2016-present (`Mutreja & Dougan
 Of the non-epidemic *V. cholerae* lineages, the two lineages that have caused the most cases of diarrhoeal illness
 since 2000 are thought to be lineages 'L3b' and 'L9' (`Hao et al 2023`). For example, these two non-epidemic lineages
 have caused several hundred cases of diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_; Figure 12).
-Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal illness in South Africa (`Smith et al 2021`_). 
+Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal illness in South Africa (`Smith et al 2021`_).
+
 Note that L3b and L9 are alternative names for the lineages labelled MX-2 and ELA-3, respectively, in the tree in Figure 11 above
-(strictly speaking, MX-2 is a part of L3b and ELA-3 is a part of L9).
+(strictly speaking, MX-2 is a part of L3b and ELA-3 is a part of L9). Don't worry about remembering the names of these non-epidemic
+lineages; the key point here is that non-epidemic lineages of *V. cholerae* exist, but are of relatively minor public health importance
+compared to 7PET. 
 
 .. _Hao et al 2023: https://pubmed.ncbi.nlm.nih.gov/37146742/
 
@@ -340,7 +355,7 @@ Note that L3b and L9 are alternative names for the lineages labelled MX-2 and EL
 
   Figure 12. Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2001 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. Image credit: `Hao et al 2023`_.
 
-However, compared cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L9 and other non-epidemic
+Indeed, compared to cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L9 and other non-epidemic
 *V. cholerae* lineages are far smaller and in general cause relatively milder diarrhoeal illness (`Glenn Morris 1990`_, `Glenn Morris 2003`_).
 In contrast, the cholera epidemic in Yemen that began in 2016 (and is still continuing) has included
 approximately million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`WHO 2020`_; Figure 13).
