@@ -264,6 +264,9 @@ outbreak are 7PET or not.
 
 .. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
 
+Serogroups of *V. cholerae*
+---------------------------
+
 Relationships between lineages of *V. cholerae*
 -----------------------------------------------
 
