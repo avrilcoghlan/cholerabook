@@ -222,7 +222,7 @@ differences between their DNA.
 .. figure:: Lineages.png
   :width: 400
 
-  A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Practically 100% of 7PET isolates produce cholera toxin. For the non-epidemic lineages indicated with a red diamond containing 'CTX', some isolates also are predicted to produce cholera toxin. Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
+  A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Practically 100% of 7PET isolates produce cholera toxin. Some isolates from non-epidemic lineages are also predicted to produce cholera toxin (because they have the genes encoding cholera toxin). Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
 
 You may have encountered phylogenetic trees before, but if not, don't worry, we will be discussing them a lot in this course.
 In this tree, the arrow of time goes from left to right, with the left-hand side of the tree being the furthest back in history and the
