@@ -223,6 +223,39 @@ Snow's very thorough cholera outbreak investigation, which he published in 1855 
 
 .. _Snow 1855: https://www.gutenberg.org/ebooks/72894
 
+The Classical Biotype and the El Tor Biotype
+--------------------------------------------
+
+In 1905 the microbiologist Emil Gotschlich described  *V. cholerae* that had a different set of biochemical characteristics, or 'biotype' than
+had been previously observed for *V. cholerae* (reviewed in `Hu et al 2016`_). This novel biotype was first seen in the El Tor Quarantine Station in Egypt,
+and so the new biotype of *V. cholerae* was named the '**El Tor biotype**', to distinguish it from earlier *V. cholerae* isolates, which were
+described as having the '**Classical biotype**'. These biotypes are based on a particular set of laboratory tests (about four
+or five laboratory tests, depending on the version of the protocol), which test things like susceptibility to infection by particular bacteriophages,
+susceptibility to a particular antibiotic, presence of a particular biochemical pathway, and effect on red blood cells (`CDC 1994`_, `Dorman 2020`_).
+Isolates of the 7PET lineage have the El Tor biotype, and in fact the name '7PET' stands for '7th pandemic El Tor'.
+In contrast, Classical lineage isolates have the Classical biotype.
+
+.. _Hu et al 2016: https://pubmed.ncbi.nlm.nih.gov/27849586/
+
+.. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
+
+.. _Dorman 2020: https://www.sanger.ac.uk/theses/md25-thesis.pdf
+
+.. figure:: LabTests.png
+  :width: 250
+
+  A set of about four or five laboratory tests are used to determine the biotype of *V. cholerae*, which is a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak are from the 7th pandemic (i.e. belong to the 7PET lineage). Image credit: DynV at openclipart.org.
+
+In recent decades, the biotyping laboratory tests have often been used to find out whether the *V. cholerae*
+causing an outbreak have the El Tor biotype (`CDC 1994`_), so to predict whether they are likely to be epidemic-causing *V. cholerae* (7PET).
+However, although the lineage causing the 7th pandemic, 7PET, shows the El Tor biotype in laboratory tests, some 
+non-epidemic lineages of *V. cholerae* also show the El Tor biotype in laboratory biotyping tests (see Fig. 1. in `Chun et al 2009`_).
+Therefore, the biotype is not very useful for distinguishing 7PET from non-epidemic lineages of *V. cholerae*. 
+As we will discuss later in this course, whole genome sequencing tells us far more accurately whether isolates from an
+outbreak are 7PET or not.
+
+.. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
 Relationships between lineages of *V. cholerae*
 -----------------------------------------------
 
@@ -247,7 +280,7 @@ If you look at two of the triangles (representing lineages) at the ends of the b
 back along two branches from right to left, you will eventually reach an 'internal node' where those branches meet, further to the left in the tree. This internal
 node represents the last common ancestor of the two lineages, e.g.
 the last common ancestor of 7PET and Classical (red circle), which is estimated to have lived about 1880 (`Feng et al 2008`_). On the other hand,
-the last common ancestor of 7PET and ELA-3 (yellow circle) lived even longer ago, probably 10s or 100s of years before 1880.
+the last common ancestor of 7PET and ELA-3 (yellow circle) lived even longer ago.
 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
 
@@ -278,8 +311,8 @@ Of the non-epidemic *V. cholerae* lineages, the two lineages that have caused th
 since 2000 are thought to be lineages 'L3b' and 'L9' (`Hao et al 2023`). For example, these two non-epidemic lineages
 have caused several hundred cases of diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_; Figure 11).
 Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal illness in South Africa (`Smith et al 2021`_). 
-Note that L3b and L9 correspond to lineages labelled MX-2 and ELA-3, respectively, in the tree above (they are just alternative names used 
-for the same lineages).  
+Note that L3b and L9 are alternative names for the lineages labelled MX-2 and ELA-3, respectively, in the tree in Figure 10 above
+(strictly speaking, MX-2 is a part of L3b and ELA-3 is a part of L9).
 
 .. _Hao et al 2023: https://pubmed.ncbi.nlm.nih.gov/37146742/
 
@@ -425,9 +458,10 @@ from the 7PET lineage (`Heidelberg et al 2000`_).
 
 The *ctxA* and *ctxB* genes are usually found close together in the *V. cholerae* genome, in a region known as the **CTX region** (Figure 17). 
 Practically 100% of 7PET isolates contain the CTX region in their chromosome, and so produce cholera toxin, and therefore cause a human 
-host to suffer acute watery diarrhoea. Only a small number of non-epidemic lineages of *V. cholerae*, most
-of which are relatively closely related to 7PET (e.g. L3, L9, Gulf Coast, Classical), have *ctxA* and *ctxB* genes (`Chun et al 2009`_, 
-`Hao et al 2023`_; see Figure 10 above).
+host to suffer acute watery diarrhoea. Isolates of a small number of non-epidemic lineages of *V. cholerae*, most
+of which are relatively closely related to 7PET (e.g. L3, L9, Gulf Coast, Classical), sometimes have *ctxA* and *ctxB* genes (`Chun et al 2009`_, 
+`Hao et al 2023`_; see Figure 10 above). Occasionally *ctxAB* genes are seen in isolates of non-epidemic lineages of *V. cholerae* that
+are very distantly related to 7PET, but this is very rare (e.g. isolate V51 described in `Chun et al 2009`_). 
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
