@@ -139,9 +139,9 @@ The WHO's Global Task Force on Cholera Control (GTFCC) is a partnership of more
 than 50 institutions, including NGOs, academic institutions, and UN agencies,
 that are working together to eliminate cholera. By 2030 they aim to reduce 
 cholera deaths by at least 90%, and to eliminate cholera altogether in 20
-countries (see the `GTFCC website`_).
+countries (see the `GTFCC Roadmap 2030`_).
 
-.. _GTFCC website: https://www.gtfcc.org/about-gtfcc/
+.. _GTFCC Roadmap 2030: https://www.gtfcc.org/about-cholera/roadmap-2030/
 
 Because non-epidemic lineages of *V. cholerae* are found in many countries around
 the world, the GTFCC have revised their definition of the disease 'cholera'
@@ -181,12 +181,16 @@ and ongoing cholera pandemic, and has been caused by the 7PET lineage.
 The 6th pandemic occurred from 1899 to 1923, after which there were only localised outbreaks in parts of Asia for several decades,
 and then the 7th pandemic started in 1961 and continues at present (`Feng et al 2008`_). 
 We now know that the 6th pandemic  
-was actually caused by completely a different **lineage** of *V. cholerae* than the 7th pandemic. 
+was actually caused by a different **lineage** of *V. cholerae* than the 7th pandemic. 
 We call the lineage that caused the 6th pandemic the **'Classical lineage'** (`Chun et al 2009`_, `Domman et al 2017`_). 
+In fact, evidence from *V. cholerae* DNA extracted from a cholera victim who died in 1849 in Phildelphia, USA during the second
+pandemic suggests that the Classical lineage also caused the 2nd pandemic (`Devault et al 2014`_).
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
+
+.. _Devault et al 2014: https://pubmed.ncbi.nlm.nih.gov/24401020/
 
 The Classical lineage has more or less died out since the end of the 6th pandemic (in 1923) 
 and is very rarely seen nowadays (e.g. a rare Classical lineage isolate 
@@ -203,10 +207,22 @@ from Ghana in 2010 was reported by `Adade et al 2022`_).
 
   Figure 8. A timeline of the seven historically recorded pandemics. The current pandemic is the 7th pandemic and is caused by the 7PET lineage. Image credit: A. Coghlan.
 
+John Snow and the 1854 Broad Street Cholera Outbreak
+----------------------------------------------------
+
+The third cholera pandemic played a key role in this history of Epidemiology and Public Health. In 1854 during this pandemic there was a large outbreak of cholera around Broad Street in London, and a doctor named John Snow carried out a very through investigation of the outbreak, creating a map of cases (Figure 9). From the data he collected, he was able to figure out that cholera was being transmitted through contaminated water from the Broad Street water pump, and also was being spread by contact with another infected person (or their goods) (`Tulchinksky 2018`_). Snow did not know what was the exact contaminant in the water from the Broad Street pump, just that it contained some contaminant that was causing cholera; we now know that this must have been an epidemic-causing lineage of *V. cholerae*. Snow persuaded the local authorities to remove the handle of the Broad Street pump, and the outbreak ended soon after that. 
+
+.. _Tulchinsky et al 2018: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7150208/
+
 .. figure:: SnowCholeraMap.jpg
   :width: 500
-  
-  Figure 9. Map of cholera cases in London in 1854 made by the doctor John Snow during the 3rd historically recorded cholera pandemic. Cholera cases are highlighted in black. Image credit: Original map made by John Snow in 1854.
+
+  Figure 9. Map of cholera cases in London in 1854 made by the doctor John Snow during the 3rd historically recorded cholera pandemic. Cholera cases are highlighted in black. The Broad Street pump is indicated with a red dot. Image credit: Adapted by A. Coghlan from the original map made by John Snow in 1854, obtained from wikipedia.
+
+Snow's very thorough cholera outbreak investigation, which he published in 1855 (`Snow 1855`_), is still considered an excellent example of how accurate and informative data, and careful data analysis, are extremely important for making good public health decisions. Later in this course, we will be analysing data from more recent cholera outbreaks, using different data sources than John Snow had (e.g. whole genome sequencing data). However, our goals will be the same as those of John Snow, that is, to carefully collect and analyse 
+data to inform good decision-making for cholera public health. 
+
+.. _Snow 1855: https://www.gutenberg.org/ebooks/72894
 
 Relationships between lineages of *V. cholerae*
 -----------------------------------------------
