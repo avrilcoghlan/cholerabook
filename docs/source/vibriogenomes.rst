@@ -210,7 +210,7 @@ from Ghana in 2010 was reported by `Adade et al 2022`_).
 John Snow and the 1854 Broad Street Cholera Outbreak
 ----------------------------------------------------
 
-The third cholera pandemic played a key role in this history of Epidemiology and Public Health. In 1854 during this pandemic there was a large outbreak of cholera around Broad Street in London, and a doctor named John Snow carried out a very through investigation of the outbreak, creating a map of cases (Figure 9). From the data he collected, he was able to figure out that cholera was being transmitted through contaminated water from the Broad Street water pump, and also was being spread by contact with another infected person (or their goods) (`Tulchinksky 2018`_). Snow did not know what was the exact contaminant in the water from the Broad Street pump, just that it contained some contaminant that was causing cholera; we now know that this must have been an epidemic-causing lineage of *V. cholerae*. Snow persuaded the local authorities to remove the handle of the Broad Street pump, and the outbreak ended soon after that. 
+The third cholera pandemic played a key role in this history of Epidemiology and Public Health. In 1854 during this pandemic there was a large outbreak of cholera around Broad Street in London, and a doctor named John Snow carried out a very through investigation of the outbreak, creating a map of cases (Figure 9). From the data he collected, he was able to figure out that cholera was being transmitted through contaminated water from the Broad Street water pump, and also was being spread by contact with another infected person (or their goods) (`Tulchinsky 2018`_). Snow did not know what was the exact contaminant in the water from the Broad Street pump, just that it contained some contaminant that was causing cholera; we now know that this must have been an epidemic-causing lineage of *V. cholerae*. Snow persuaded the local authorities to remove the handle of the Broad Street pump, and the outbreak ended soon after that. 
 
 .. _Tulchinsky 2018: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7150208/
 
@@ -294,7 +294,7 @@ for the same lineages).
 However, compared cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L9 and other non-epidemic
 *V. cholerae* lineages are far smaller and in general cause relatively milder diarrhoeal illness (`Glenn Morris 1990`_, `Glenn Morris 2003`_).
 In contrast, the cholera epidemic in Yemen that began in 2016 (and is still continuing) has included
-approximately million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`WHO 2020`_).
+approximately million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`WHO 2020`_; Figure 12).
 
 .. _Glenn Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
 
@@ -427,8 +427,8 @@ from the 7PET lineage (`Heidelberg et al 2000`_).
 The *ctxA* and *ctxB* genes are usually found close together in the *V. cholerae* genome, in a region known as the **CTX region** (Figure 17). 
 Practically 100% of 7PET isolates contain the CTX region in their chromosome, and so produce cholera toxin, and therefore cause a human 
 host to suffer acute watery diarrhoea. Only a small number of non-epidemic lineages of *V. cholerae*, most
-of which are relatively closely related to 7PET (e.g. L3, L9, Gulf Coast, Classical; see above), have *ctxA* and *ctxB* genes (`Chun et al 2009`_, 
-`Hao et al 2023`_).
+of which are relatively closely related to 7PET (e.g. L3, L9, Gulf Coast, Classical), have *ctxA* and *ctxB* genes (`Chun et al 2009`_, 
+`Hao et al 2023`_; see Figure 10 above).
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
