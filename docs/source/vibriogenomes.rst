@@ -32,8 +32,7 @@ handwashing and hygiene, access to toilets, and clean drinking water (e.g. chlor
 .. figure:: 7PET_Lifecycle.png
   :width: 750
 
-  Figure 2. Life cycle of the current pandemic lineage of *V. cholerae*. On ingestion of *V. cholerae* of the current pandemic lineage in contaminated food or water, the *V. cholerae* bacteria colonise the small intestine, multiply, secrete cholera toxin, and are then shed back into the environment by the host in diarrhoea. The *V. cholerae* bacteria shed in the stool are in a transient hyperinfectious state that serves to amplify the outbreak by promoting transmission to further human hosts. Image source: A. Coghlan, inspired by
-`Nelson et al 2009`_. 
+  Figure 2. Life cycle of the current pandemic lineage of *V. cholerae*. On ingestion of *V. cholerae* of the current pandemic lineage in contaminated food or water, the *V. cholerae* bacteria colonise the small intestine, multiply, secrete cholera toxin, and are then shed back into the environment by the host in diarrhoea. The *V. cholerae* bacteria shed in the stool are in a transient hyperinfectious state that serves to amplify the outbreak by promoting transmission to further human hosts. Image source: A. Coghlan, inspired by `Nelson et al 2009`_. 
 
 .. _Nelson et al 2009: https://pubmed.ncbi.nlm.nih.gov/19756008/
 
