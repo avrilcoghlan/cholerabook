@@ -172,11 +172,16 @@ The History of Cholera: the Seven Historically Recorded Pandemics
 A disease with symptoms like cholera was recorded in ancient texts from ancient India and China, but we have
 little information about those ancient outbreaks.
 Since the early 1800s there have been seven historically recorded cholera pandemics (a 'pandemic' is
-an epidemic that has spread over several countries and usually affects many people; `CDC website`_).
+an epidemic that has spread over several countries and usually affects many people; see the `CDC website`_).
 The 7th pandemic is the current
-and ongoing cholera pandemic, and has been caused by the 7PET lineage.
+and ongoing cholera pandemic, and has been caused by the 7PET lineage (Figure 8).
 
 .. _CDC website: https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section11.html
+
+.. figure:: SevenPandemics.png
+  :width: 650
+
+  Figure 8. A timeline of the seven historically recorded pandemics. The current pandemic is the 7th pandemic and is caused by the 7PET lineage. Image credit: A. Coghlan.
 
 The 6th pandemic occurred from 1899 to 1923, after which there were only localised outbreaks in parts of Asia for several decades,
 and then the 7th pandemic started in 1961 and continues at present (`Feng et al 2008`_). 
@@ -202,11 +207,6 @@ from Ghana in 2010 was reported by `Adade et al 2022`_).
 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/  
 
-.. figure:: SevenPandemics.png
-  :width: 650
-
-  Figure 8. A timeline of the seven historically recorded pandemics. The current pandemic is the 7th pandemic and is caused by the 7PET lineage. Image credit: A. Coghlan.
-
 John Snow and the 1854 Broad Street Cholera Outbreak
 ----------------------------------------------------
 
@@ -229,7 +229,7 @@ Relationships between lineages of *V. cholerae*
 
 The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
 recorded pandemic, are relatively closely related. We know this by making a 'phylogenetic tree' for *V. cholerae*, that is, a
-'family tree' of the different lineages (genetically different subtypes) of *V. cholerae*. 
+'family tree' of the different lineages (genetically different subtypes) of *V. cholerae* (Figure 10). 
 The phylogenetic tree represents our best guess at the relationships between different lineages of *V. cholerae*, based on similarities and
 differences between their DNA.
 
@@ -276,7 +276,7 @@ cases as seen in the Yemen cholera epidemic from 2016-present (`Mutreja & Dougan
 .. _Lassalle et al 2023: https://pubmed.ncbi.nlm.nih.gov/37770747/
 
 Of the non-epidemic *V. cholerae* lineages, the two lineages that have caused the most cases of diarrhoeal illness
-since 2000 are thought to be lineages 'L3b' and 'L9' (`Hao et al 2023`_). For example, these two non-epidemic lineages
+since 2000 are thought to be lineages 'L3b' and 'L9' (`Hao et al 2023`_; Figure 11). For example, these two non-epidemic lineages
 have caused several hundred cases of diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_).
 Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal illness in South Africa (`Smith et al 2021`_). 
 Note that L3b and L9 correspond to lineages labelled MX-2 and ELA-3, respectively, in the tree above (they are just alternative names used 
@@ -325,7 +325,7 @@ The History of 7PET's Global Spread
 Although the 7PET lineage is estimated to have split off from the Classical lineage in around 1880 (`Feng et al 2008`_),
 it wasn't until 1961 that the 7th pandemic began, with many cases of cholera caused by 7PET occurring in Indonesia (`Hu et al 2016`_, `Mutreja & Dougan 2020`_).
 From Indonesia, 7PET spread to the Bay of Bengal region of India and Bangladesh, and from the Bay of Bengal subsequently between the 1960s and 2010 then spread 
-throughout the world in three overlapping waves (`Mutreja et al 2011`_). 
+throughout the world in three overlapping waves (`Mutreja et al 2011`_; Figure 13). 
 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
 
@@ -342,7 +342,7 @@ throughout the world in three overlapping waves (`Mutreja et al 2011`_).
 
 .. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
 
-Since 2010, there have been further spread of 7PET, both within countries and regions, and between countries and continents. 
+Since 2010, there have been further spread of 7PET, both within countries and regions, and between countries and continents (Figure 14). 
 As mentioned above, cholera is spread by the faecal-oral route, and so the most likely explanation is that 7PET has been 
 spread by human travel. 
 
@@ -375,7 +375,7 @@ Just as for us humans, the genetic material of *V. cholerae* consists of DNA.
 The DNA of *V. cholerae* contains all the genetic instructions specifying the development of a *V. cholerae* cell. 
 
 You may be already familiar with the structure of DNA, a famous molecule with a double helix structure. DNA molecules consist of two chains (also known as 'strands') of
-smaller molecules called 'nucleotides'. Each nucleotide consists of three parts: a sugar called deoxyribose,
+smaller molecules called 'nucleotides' (Figure 15). Each nucleotide consists of three parts: a sugar called deoxyribose,
 a phosphate group, and one of four 'bases'. The bases are thymine (abbreviated as 'T'), adenine ('A'), guanine ('G')
 and cytosine ('C'). 
 
@@ -390,7 +390,7 @@ of bases ATGCT. For convenience, one strand in a DNA double helix is called the 
 other strand the 'reverse' or '-' ('minus') strand.
 
 The 'genome' of *V. cholerae* is the name we give to the set of all DNA molecules in a *V. cholerae* cell.
-In each cell, the *V. cholerae* genome is organised into two circular 'chromosomes', each consisting of a long circular DNA molecule. 
+In each cell, the *V. cholerae* genome is organised into two circular 'chromosomes', each consisting of a long circular DNA molecule (Figure 16). 
 In total the two circular chromosomes contain about 4 million base-pairs (4 Mb) of base-pairs, where Chromosome 1 is about 3 Mb 
 and Chromosome 2 about 1 million base-pairs (1 Mb; `Heidelberg et al 2000`_). 
 
@@ -424,7 +424,7 @@ DNA which encodes (specifies the production of) particular proteins. For example
 proteins that form cholera toxin. In total the two *V. cholerae* chromosomes contain almost 4000 protein-coding genes in a typical isolate
 from the 7PET lineage (`Heidelberg et al 2000`_). 
 
-The *ctxA* and *ctxB* genes are usually found close together in the *V. cholerae* genome, in a region known as the **CTX region**. 
+The *ctxA* and *ctxB* genes are usually found close together in the *V. cholerae* genome, in a region known as the **CTX region** (Figure 17). 
 Practically 100% of 7PET isolates contain the CTX region in their chromosome, and so produce cholera toxin, and therefore cause a human 
 host to suffer acute watery diarrhoea. Only a small number of non-epidemic lineages of *V. cholerae*, most
 of which are relatively closely related to 7PET (e.g. L3, L9, Gulf Coast, Classical; see above), have *ctxA* and *ctxB* genes (`Chun et al 2009`_, 
