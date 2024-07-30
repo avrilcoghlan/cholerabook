@@ -67,7 +67,7 @@ The Species *Vibrio cholerae* and its Geographic Distribution
 Like other bacteria, *V. cholerae* populations reproduce by cell division, with the
 DNA (genetic material) of descendant cells being identical to the DNA of the parent cells. 
 Isolates that descended recently from the same ancestral cell and are identical
-genetically are said to 'belong to the same clone', or be 'clonal'. 
+genetically are said to belong to the same **clone**, or be **clonal**. 
 
 Mutations (changes) in the DNA, are
 the main source of genetic variation in *V. cholerae*; these sometimes occur when DNA is being copied during cell division, but
