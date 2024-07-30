@@ -154,20 +154,23 @@ That is, they define cholera as: "disease caused by toxigenic Vibrio cholerae O1
 
 .. _GTFCC 2022: https://www.gtfcc.org/wp-content/uploads/2022/06/7th-meeting-of-the-gtfcc-working-group-on-surveillance-2022-report.pdf
 
-The WTFCC's definition of 'cholera' mentions the serogroups O1 and O139; we will discuss
-serogroup more later in this course, but for now all you need to know is that these
+You may notice that the WTFCC's definition of 'cholera' mentions the serogroups O1 and O139; we will discuss
+serogroup further below, but for now all you need to know is that O1 and O139
 are the two serogroups that are seen in the 7PET lineage (`Mutreja et al 2011`_, `Moore et al 2014`_).
 
 .. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
 
 .. _Moore et al 2014: https://pubmed.ncbi.nlm.nih.gov/24575898/
 
+As mentioned above, non-epidemic lineages of *V. cholerae* such as MX-2 sometimes cause small outbreaks of mild diarrhoea,
+but these are considered of relatively minor public health importance compared to outbreaks caused by 7PET.
 The GTFCC is aiming to eliminate 7PET in 20 countries by 2030,
-not to eliminate all diarrhoeal illness caused by *V. cholerae*. This means that in order to prove that
+not to eliminate all diarrhoeal illness caused by non-epidemic *V. cholerae*. 
+This means that in order to prove that
 a particular country has become 'cholera-free', there will need to be
 sufficient data to show that diarrhoeal illness caused by 7PET has definitely disappeared from that country. 
 One type of data that will be very useful for this purpose is whole-genome sequencing data for *V. cholerae*, which
-can be used to accurately distinguish 7PET from other non-epidemic lineages of *V. cholerae*, as we will discuss
+can be used to accurately distinguish 7PET from non-epidemic lineages of *V. cholerae*, as we will discuss
 later in this course. 
 
 The History of Cholera: the Seven Historically Recorded Pandemics
