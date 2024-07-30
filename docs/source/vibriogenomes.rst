@@ -4,7 +4,7 @@ Cholera, *Vibrio cholerae*, and *V. cholerae* Lineages
 Introduction
 ------------
 
-This chapter will give you an overview of cholera, the species *Vibrio cholerae*, the main lineages of *V. cholerae*, and the current pandemic lineage of *V. cholerae*, 7PET.
+This chapter will give you an overview of cholera, the species *Vibrio cholerae*; the main lineages of *V. cholerae*; and the current pandemic lineage of *V. cholerae*, the 7PET lineage.
 
 Acute Watery Diarrhoea, the Disease Cholera and its Epidemiology
 ----------------------------------------------------------------
@@ -27,12 +27,12 @@ Cholera is an infection caused by a bacterium called *Vibrio cholerae*, a curved
 The *V. cholerae* bacterium is usually transmitted by the faecal-oral route, that is, 
 people usually catch cholera by eating food or by drinking water that has been contaminated
 with human faeces containing *V. cholerae* (Figure 2). Barriers to disease transmission include
-handwashing and hygiene, access to toilets, and clean drinking water (e.g. chlorination of stored water) `Nelson et al 2009`_. 
+handwashing and hygiene, access to toilets, and clean drinking water (e.g. chlorination of stored water; `Nelson et al 2009`_). 
 
 .. figure:: 7PET_Lifecycle.png
   :width: 750
 
-  Figure 2. Life cycle of the current pandemic lineage of *V. cholerae*. On ingestion of *V. cholerae* of the current pandemic lineage in contaminated food or water, the *V. cholerae* bacteria colonise the small intestine, multiply, secrete cholera toxin, and are then shed back into the environment by the host in diarrhoea. The *V. cholerae* bacteria shed in the stool are in a transient hyperinfectious state that serves to amplify the outbreak by promoting transmission to further human hosts. Image source: A. Coghlan, inspired by Figure 2 in `Nelson et al 2009`_. 
+  Figure 2. Life cycle of the current pandemic lineage (7PET lineage) of *V. cholerae*. On ingestion of *V. cholerae* of the current pandemic lineage (7PET lineage) in contaminated food or water, the *V. cholerae* 7PET bacteria colonise the small intestine, multiply, secrete cholera toxin, and are then shed back into the environment by the host in diarrhoea. The *V. cholerae* 7PET bacteria shed in the stool are in a transient hyperinfectious state that serves to amplify the outbreak by promoting transmission to further human hosts. Image source: A. Coghlan, inspired by Figure 2 in `Nelson et al 2009`_. 
 
 .. _Nelson et al 2009: https://pubmed.ncbi.nlm.nih.gov/19756008/
 
