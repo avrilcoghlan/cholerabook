@@ -415,7 +415,7 @@ to large regions of the world in three overlapping waves (`Mutreja et al 2011`_;
 .. figure:: 7PET_Spread.jpg
   :width: 800
 
-  Figure 14. Between the early 1960s and 2010, 7PET spread outward globally from the Bay of Bengal region (highlighted with a pale blue oval), in three overlapping waves of spread. Image credit: `Mutreja et al 2011`_.
+  Figure 14. Between the 1960s and 2010, 7PET spread outward globally from the Bay of Bengal region (highlighted with a pale blue oval), in three overlapping waves of spread. Wave 1 is shown in dark blue, wave 2 in green, and wave 3 in red. Image credit: `Mutreja et al 2011`_.
 
 .. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
 
