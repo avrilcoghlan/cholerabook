@@ -354,11 +354,6 @@ since 2000 are thought to be lineages 'L3b' and 'L9' (`Hao et al 2023`_). For ex
 have caused several hundred cases of diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_; Figure 12).
 Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal illness in South Africa (`Smith et al 2021`_).
 
-Note that L3b and L9 are alternative names for the lineages labelled MX-2 and ELA-3, respectively, in the tree in Figure 11 above
-(strictly speaking, MX-2 is a part of L3b and ELA-3 is a part of L9). Don't worry about remembering the names of these non-epidemic
-lineages; the key point here is that non-epidemic lineages of *V. cholerae* exist, but are of relatively minor public health importance
-compared to 7PET. 
-
 .. _Hao et al 2023: https://pubmed.ncbi.nlm.nih.gov/37146742/
 
 .. _Smith et al 2021: https://pubmed.ncbi.nlm.nih.gov/34670657/
@@ -367,6 +362,11 @@ compared to 7PET.
   :width: 600
 
   Figure 12. Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2001 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. Image credit: `Hao et al 2023`_.
+
+Note that L3b and L9 are alternative names for the lineages labelled MX-2 and ELA-3, respectively, in the tree in Figure 11 above
+(strictly speaking, MX-2 is a part of L3b and ELA-3 is a part of L9). Don't worry about remembering the names of these non-epidemic
+lineages; the key point here is that non-epidemic lineages of *V. cholerae* exist, but are of relatively minor public health importance
+compared to 7PET. 
 
 Indeed, compared to cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L9 and other non-epidemic
 *V. cholerae* lineages are far smaller and in general cause relatively milder diarrhoeal illness (`Glenn Morris 1990`_, `Glenn Morris 2003`_).
