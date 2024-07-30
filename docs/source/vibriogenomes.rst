@@ -350,7 +350,7 @@ cases as seen in the Yemen cholera epidemic that began in 2016 and continues to 
 .. _Lassalle et al 2023: https://pubmed.ncbi.nlm.nih.gov/37770747/
 
 Of the non-epidemic *V. cholerae* lineages, the two lineages that have caused the most cases of diarrhoeal illness
-since 2000 are thought to be lineages 'L3b' and 'L9' (`Hao et al 2023_`). For example, these two non-epidemic lineages
+since 2000 are thought to be lineages 'L3b' and 'L9' (`Hao et al 2023`_). For example, these two non-epidemic lineages
 have caused several hundred cases of diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_; Figure 12).
 Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal illness in South Africa (`Smith et al 2021`_).
 
