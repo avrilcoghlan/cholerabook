@@ -340,7 +340,7 @@ The 7PET lineage, which has caused the current pandemic, and the Classical linea
 recorded pandemic, are the only epidemic lineages of *V. cholerae*. The many other
 lineages of *V. cholerae* are not epidemic-causing; they sometimes cause relatively small outbreaks of diarrhoeal illness in
 tens or even a hundred or so people (`Glenn Morris 1990`_). In contrast, 7PET is the only current *V. cholerae* lineage
-that causes large epidemics or pandemics of many hundreds or thousands of cases, or even millions of 
+that causes large epidemics or pandemics of many thousands of cases, or even millions of 
 cases as seen in the Yemen cholera epidemic that began in 2016 and continues to the present (`Mutreja & Dougan 2020`_, `Lassalle et al 2023`_). 
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
