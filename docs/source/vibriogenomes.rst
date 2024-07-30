@@ -88,12 +88,12 @@ they usually present similar biological features, such as a specific pattern of 
 
 .. _Bacigalupe 2017: https://era.ed.ac.uk/handle/1842/31266
 
-The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages (Figure 6).
+The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages. Figure 6 shows what is known about the global distribution of just two of the many lineages of *V. cholerae*.
 
 .. figure:: LineageDistributions.png
   :width: 1050
 
-  Figure 6. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, probably reflecting the far greater public health importance of 7PET. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image source: A. Coghlan. 
+  Figure 6. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for the MX-2 lineage, probably reflecting the far greater public health importance of 7PET. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image source: A. Coghlan. 
 
 .. _Vibriowatch: https://vibriowatch.readthedocs.io
 
@@ -104,7 +104,7 @@ This lineage is known as the **'7PET'** lineage. What do we mean when we say 7PE
 The word 'epidemic' is defined by the CDC as an unexpected increase in the number of disease cases in a specific geographical area;
 they say that an outbreak is defined in the same way but for a more limited geographic area (see the `CDC website`_).
 Thus, when we say 7PET is epidemic-causing, we mean that 7PET cause an unexpectedly big increase in the number
-of cases of diarrhoeal illness in a particular town/city/region. 
+of cases of diarrhoeal illness caused by *V. cholerae* in a particular town/city/region. 
 
 .. _CDC website: https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section11.html
 
