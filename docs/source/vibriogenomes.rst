@@ -370,8 +370,8 @@ compared to 7PET.
 
 Indeed, compared to cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L9 and other non-epidemic
 *V. cholerae* lineages are far smaller and in general cause relatively milder diarrhoeal illness (`Glenn Morris 1990`_, `Glenn Morris 2003`_).
-In contrast, the cholera epidemic in Yemen that began in 2016 (and is still continuing) has included
-approximately million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`WHO 2020`_; Figure 13).
+In contrast, the cholera epidemic in Yemen that began in 2016 (and is still continuing) has caused
+approximately 2.5 million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`WHO 2020`_; Figure 13).
 
 .. _Glenn Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
 
