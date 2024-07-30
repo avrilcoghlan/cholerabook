@@ -485,7 +485,7 @@ and Chromosome 2 about 1 million base-pairs (1 Mb; `Heidelberg et al 2000`_).
 .. figure:: Chromosomes.png
   :width: 800
 
-  Figure 17. A diagram showing the two circular chromosomes of *V. cholerae*, for a typical 7PET isolate. The outside circles in blue represent protein-coding genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical 7PET isolate from the 7PET lineage. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the 'CTX region' containing the two genes *ctxA* and *ctxB*, which encode the A and B subunits of the cholera toxin, respectively. Image source: `Mutreja & Dougan 2020`_.
+  Figure 17. A diagram showing the two circular chromosomes of *V. cholerae*, for a typical 7PET isolate. The outside circles in blue represent protein-coding genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical 7PET isolate from the 7PET lineage. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the 'CTX region' containing the two genes *ctxA* and *ctxB*, which encode the A and B subunits of the cholera toxin, respectively. Image source: Adapted by A. Coghlan from Fig. 1 in `Mutreja & Dougan 2020`_.
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
