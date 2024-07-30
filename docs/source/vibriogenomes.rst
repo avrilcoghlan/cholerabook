@@ -298,7 +298,7 @@ Relationships between lineages of *V. cholerae*
 The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
 recorded pandemic, are relatively closely related. We know this by making a 'phylogenetic tree' for *V. cholerae*, that is, a
 'family tree' of the different lineages (genetically different subtypes) of *V. cholerae* (Figure 11). 
-The phylogenetic tree represents our best guess at the relationships between different lineages of *V. cholerae*, based on similarities and
+The phylogenetic tree represents our best guess at the evolutionary relationships between different lineages of *V. cholerae*, based on similarities and
 differences between their DNA.
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
