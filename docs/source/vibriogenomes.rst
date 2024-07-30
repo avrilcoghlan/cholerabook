@@ -103,8 +103,13 @@ There is only one lineage of *V. cholerae* which causes epidemic cholera at pres
 This lineage is known as the **'7PET'** lineage. What do we mean when we say 7PET causes 'epidemic cholera'?
 The word 'epidemic' is defined by the CDC as an unexpected increase in the number of disease cases in a specific geographical area;
 they say that an outbreak is defined in the same way but for a more limited geographic area (see the `CDC website`_).
-Thus, when we say 7PET is epidemic-causing, we mean that 7PET cause an unexpectedly big increase in the number
+Note that the WHO provides detailed technical guidance on what it considers to be a 'suspected cholera outbreak',
+a 'probable cholera outbreak', or a 'confirmed cholera outbreak' (see `WHO 2023`_).
+
+Here, when we say 7PET is epidemic-causing, we mean that 7PET cause an unexpectedly big increase in the number
 of cases of diarrhoeal illness caused by *V. cholerae* in a particular town/city/region. 
+
+.. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
 
 .. _CDC website: https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section11.html
 
@@ -419,7 +424,8 @@ to large regions of the world in three overlapping waves (`Mutreja et al 2011`_;
 
 .. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
 
-Since 2010, there has been further spread of 7PET, both within countries and regions, and between countries and continents (Figure 15). 
+Since 2010, there has been further spread of 7PET, both within countries and regions, and between countries and continents. Figure 15
+shows a recent map of the global distribution of cholera cases. 
 As mentioned above, cholera is spread by the faecal-oral route, and so the most likely explanation is that 7PET has been 
 spread by human travel. 
 
@@ -430,18 +436,21 @@ spread by human travel.
 
 .. _ECDC: https://www.ecdc.europa.eu/en/all-topics-z/cholera/surveillance-and-disease-data/cholera-monthly
 
-In some regions of Asia and Africa, there are now cholera outbreaks every year, and so cholera is now considered 'endemic'.
-These include countries around the Bay of Bengal such as India and Bangladesh. 
+In some regions of Asia and Africa, there are cholera outbreaks every year, and so cholera is considered 'endemic'.
+According to the CDC, 'endemic' refers to 'the constant presence and/or usual prevalence of a disease or infectious
+agent in a population within a geographic area' (see `CDC website`_). 
+Cholera is thought to have been endemic in some parts of countries around the Bay of Bengal 
+since ancient times (`Hu et al 2016`_). 
 Note that the WHO has a technical definition of a 'cholera-endemic area': 'an area where confirmed cholera cases were 
 detected during the last 3 years with evidence of local transmission (meaning the cases are not imported from elsewhere)' 
-(`WHO 2024`_, accessed 18th July 2024). 
+(`WHO 2024`_, accessed 18th July 2024). The WHO also provides detailed technical guidance on what it considers to be 
+a 'locally acquired cholera case' versus an 'imported cholera case' (see `WHO 2023`_).
+
+.. _CDC website: https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section11.html
+
+.. _Hu et al 2016: https://pubmed.ncbi.nlm.nih.gov/27849586/
 
 .. _WHO 2024: https://www.who.int/news-room/fact-sheets/detail/cholera
-
-Note that we have use the terms 'outbreak', 'epidemic' rather loosely here, and not attempted to
-provide precise medical or epidemiological definitions. We recommend that you follow WHO guidelines and definitions;
-the WHO provides detailed guidance on what it considers to be an 'imported cholera case', a 'locally acquired cholera case', a 'suspected cholera outbreak',
-a 'probable cholera outbreak', a 'confirmed cholera outbreak' (see `WHO 2023`_).
 
 .. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
 
