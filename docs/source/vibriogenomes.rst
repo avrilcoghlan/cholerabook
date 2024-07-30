@@ -419,7 +419,7 @@ to large regions of the world in three overlapping waves (`Mutreja et al 2011`_;
 
 .. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
 
-Since 2010, there have been further spread of 7PET, both within countries and regions, and between countries and continents (Figure 15). 
+Since 2010, there has been further spread of 7PET, both within countries and regions, and between countries and continents (Figure 15). 
 As mentioned above, cholera is spread by the faecal-oral route, and so the most likely explanation is that 7PET has been 
 spread by human travel. 
 
