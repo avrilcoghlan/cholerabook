@@ -39,8 +39,8 @@ handwashing and hygiene, access to toilets, and clean drinking water (e.g. chlor
 Cholera outbreaks typically occur in places where there is poor access
 to clean water and poor sewage infrastructure (Figure 3). These include low-income settings in which there is poor water sanitation infrastructure, 
 or places in which there is a humanitarian crisis (e.g. an earthquake or war) that has disrupted the water sanitation infrastructure.
-Examples are Haiti, where there was a cholera epidemic from 2010-2019 which began shortly after a massive earthquake occurred in 2010, 
-and Yemen, which has suffered a cholera epidemic from 2016-present during its ongoing civil war. 
+Examples are Haiti, where there was a cholera epidemic from 2010-2019 which began shortly after a massive earthquake that occurred in 2010, 
+and Yemen, which has suffered a cholera epidemic from 2016 up until the present during its ongoing civil war. 
 
 .. figure:: Wastewater.jpg
   :width: 350
