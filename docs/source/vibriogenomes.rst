@@ -235,8 +235,8 @@ Snow's very thorough cholera outbreak investigation, which he published in 1855 
 The Classical Biotype and the El Tor Biotype
 --------------------------------------------
 
-In 1905 the microbiologist Emil Gotschlich described  *V. cholerae* that had a different set of biochemical characteristics, or 'biotype' than
-had been previously observed for *V. cholerae* (reviewed in `Hu et al 2016`_). This novel biotype was first seen in the El Tor Quarantine Station in Egypt,
+In 1905 a doctor named Felix Gotschlich described  *V. cholerae* that had a different set of biochemical characteristics, or 'biotype' than
+had been previously observed for *V. cholerae* (reviewed in `Hu et al 2016`_; `Chastel 2007`_). This novel biotype was first seen in the El Tor Quarantine Station in Egypt,
 and so the new biotype of *V. cholerae* was named the '**El Tor biotype**', to distinguish it from earlier *V. cholerae* isolates, which were
 described as having the '**Classical biotype**'. 
 These biotypes are based on a particular set of laboratory tests (about four
@@ -251,6 +251,8 @@ In contrast, Classical lineage isolates have the Classical biotype.
 .. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
 
 .. _Dorman 2020: https://www.sanger.ac.uk/theses/md25-thesis.pdf
+
+.. _Chastel 2007: https://www.biusante.parisdescartes.fr/sfhm/hsm/HSMx2007x041x001/HSMx2007x041x001x0071.pdf
 
 .. figure:: Biotype.png
   :width: 600
