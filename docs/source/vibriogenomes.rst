@@ -22,7 +22,7 @@ Cholera is an infection caused by a bacterium called *Vibrio cholerae*, a curved
 .. figure:: Vibrio_cholerae.jpg
   :width: 350
 
-  Figure 1. The bacterium *V. cholerae*. Image credit: Tom Kirn, Ron Taylor, Louisa Howard - Dartmouth Electron Microscope Facility.
+  Figure 1. The bacterium *V. cholerae*. Image credit: Tom Kirn, Ron Taylor, Louisa Howard - Dartmouth Electron Microscope Facility, via Wikipedia.
 
 The *V. cholerae* bacterium is usually transmitted by the faecal-oral route, that is, 
 people usually catch cholera by eating food or by drinking water that has been contaminated
@@ -45,7 +45,7 @@ and Yemen, which has suffered a cholera epidemic from 2016 up until the present 
 .. figure:: Wastewater.jpg
   :width: 350
 
-  Figure 3. Children playing in a waste water drainage area that was found to be contaminated with *V. cholerae*. Image credit: Amibola Aman-Oloniyo, Nigeria.
+  Figure 3. Children playing in a waste water drainage area that was found to be contaminated with *V. cholerae*. Image credit: Amibola Aman-Oloniyo, Nigeria, via Wikipedia.
 
 Once ingested by a human host, the *V. cholerae* bacteria multiply in the human intestine. The
 bacteria attach to the epithelial cells of the intestine and release **cholera toxin** (abbreviated as Ctx, CTX, or CT; Figure 4). Cholera toxin 
@@ -65,13 +65,17 @@ The Species *Vibrio cholerae* and its Geographic Distribution
 ------------------------------------------------------------- 
 
 Like other bacteria, *V. cholerae* populations reproduce by cell division, with the
-DNA (genetic material) of descendant cells being identical to the DNA of the parent cells. Mutations (changes) in the DNA, are
+DNA (genetic material) of descendant cells being identical to the DNA of the parent cells. 
+Isolates that descended recently from the same ancestral cell and are identical
+genetically are said to belong to the same 'clone'. 
+
+Mutations (changes) in the DNA, are
 the main source of genetic variation in *V. cholerae*; these sometimes occur when DNA is being copied during cell division, but
-can also occur due to other types of DNA damage (e.g. due to ultraviolet (UV) radiation). 
+can also occur due to DNA damage, for example damage due to ultraviolet (UV) radiation. 
 
 Over evolutionary time, different clones of a species independently accumulate
 mutations, so they become distinguishable at the genetic level and that consider them different **lineages** (Figure 5). 
-The bacteria belonging to one particular lineage are all relatively clonal (highly similar at the genetic level);  
+The bacteria belonging to one particular lineage are all relatively clonal (highly similar at the genetic level); 
 all descended from a relatively recent common ancestor (although 'recent' in evolutionary time may be hundreds or thousands of years ago!); and
 usually present similar biological features, such as a specific pattern of virulence (`Bacigalupe 2017`_). 
 
