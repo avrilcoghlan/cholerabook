@@ -316,7 +316,7 @@ differences between their DNA.
 
 You may have encountered phylogenetic trees before, but if not, don't worry, we will be discussing them a lot in this course.
 In this tree, the arrow of time goes from left to right, with the left-hand side of the tree being the furthest back in history and the
-very right-hand side of the tree being the present time. The triangles at the right-hand side of the tree different current lineages of *V. cholerae*.
+very right-hand side of the tree being the present time. The triangles at the right-hand side of the tree represent different current lineages of *V. cholerae*.
 
 If you look at two of the triangles (representing lineages) at the ends of the branches, e.g. the triangles representing 7PET and Classical, and trace
 back along two branches from right to left, you will eventually reach an 'internal node' where those branches meet, further to the left in the tree. This internal
@@ -330,18 +330,18 @@ What the tree tells us is that 7PET and Classical, the two lineages that have ca
 7PET is also relatively closely related to non-epidemic lineages of *V. cholerae*, including MX-2, Gulf Coast and ELA-3. 
 
 Later in the course you will be learning a lot about how to build phylogenetic trees yourself, and how to interpret
-them to understand about the relationships between different subtypes of 7PET that have caused different 7PET outbreaks, and to
+them to investigate the relationships between different subtypes of 7PET that have caused different 7PET outbreaks, and to
 gain insights into how 7PET is spreading regionally and globally. 
 
 Diarrhoeal illness caused by different lineages of *V. cholerae*
 ----------------------------------------------------------------
 
 The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
-recorded pandemic, are only the two epidemic lineages of *V. cholerae*. The many other
+recorded pandemic, are the only epidemic lineages of *V. cholerae*. The many other
 lineages of *V. cholerae* are not epidemic-causing; they sometimes cause relatively small outbreaks of diarrhoeal illness in
 tens or even a hundred or so people (`Glenn Morris 1990`_). In contrast, 7PET is the only current *V. cholerae* lineage
-that causes large epidemics or pandemics of hundreds of thousands of cases, or even millions of 
-cases as seen in the Yemen cholera epidemic from 2016-present (`Mutreja & Dougan 2020`_, `Lassalle et al 2023`_). 
+that causes large epidemics or pandemics of many hundreds or thousands of cases, or even millions of 
+cases as seen in the Yemen cholera epidemic that began in 2016 and continues to the present (`Mutreja & Dougan 2020`_, `Lassalle et al 2023`_). 
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
@@ -350,7 +350,7 @@ cases as seen in the Yemen cholera epidemic from 2016-present (`Mutreja & Dougan
 .. _Lassalle et al 2023: https://pubmed.ncbi.nlm.nih.gov/37770747/
 
 Of the non-epidemic *V. cholerae* lineages, the two lineages that have caused the most cases of diarrhoeal illness
-since 2000 are thought to be lineages 'L3b' and 'L9' (`Hao et al 2023`). For example, these two non-epidemic lineages
+since 2000 are thought to be lineages 'L3b' and 'L9' (`Hao et al 2023_`). For example, these two non-epidemic lineages
 have caused several hundred cases of diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_; Figure 12).
 Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal illness in South Africa (`Smith et al 2021`_).
 
