@@ -281,7 +281,8 @@ but that not all *V. cholerae* with the El Tor biotype are 7PET.
 .. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
 
 Note that you may see some mention in the literature of variants of the El Tor biotype, such as
-the 'Matlab variants', 'Mozambique variants', 'Haitian variants', 'altered El Tor biotype', 'hybrid El Tor' or 'atypical El Tor' (e.g. in Bhandari et al 2021, `Montero et al 2023`_). Isolates with the Matlab/Mozambique/Haitian variants of El Tor biotype or altered/hybrid/atypical El Tor biotype all belong to the 7PET lineage, but
+the 'Matlab variants', 'Mozambique variants', 'Haitian variants', 'altered El Tor biotype', 'hybrid El Tor' or 'atypical El Tor' (e.g. in `Bhandari et al 2021`_, 
+`Montero et al 2023`_). Isolates with the Matlab/Mozambique/Haitian variants of El Tor biotype or altered/hybrid/atypical El Tor biotype all belong to the 7PET lineage, but
 just give slightly different results in the biotyping tests (Figure 10) compared to other 7PET isolates. 
 
 .. _Montero et al 2023: https://pubmed.ncbi.nlm.nih.gov/37215733/
