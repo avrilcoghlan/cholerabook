@@ -74,10 +74,10 @@ the main source of genetic variation in *V. cholerae*; these sometimes occur whe
 can also occur due to DNA damage, for example damage due to ultraviolet (UV) radiation. 
 
 Over evolutionary time, different clones of a species independently accumulate
-mutations, so they become distinguishable at the genetic level and that consider them different **lineages** (Figure 5). 
+mutations, so they become quite different at the genetic level and then we consider them different **lineages** of the species (Figure 5). 
 The bacteria belonging to one particular lineage are all relatively clonal (highly similar at the genetic level); 
-all descended from a relatively recent common ancestor (although 'recent' in evolutionary time may be hundreds or thousands of years ago!); and
-usually present similar biological features, such as a specific pattern of virulence (`Bacigalupe 2017`_). 
+they all descended from a relatively recent common ancestor (although 'recent' in evolutionary time may be hundreds or thousands of years ago!); and
+they usually present similar biological features, such as a specific pattern of virulence (`Bacigalupe 2017`_). 
 
 .. _Bacigalupe 2017: https://era.ed.ac.uk/handle/1842/31266
 
