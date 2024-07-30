@@ -257,7 +257,7 @@ In contrast, Classical lineage isolates have the Classical biotype.
 .. figure:: Biotype.png
   :width: 600
 
-  Figure 10. Laboratory tests used to determine the 'biotype' of *V. cholerae*, a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing Classical or 7PET lineages. Image credit: from Table 1.1 in `Dorman 2020`_.  
+  Figure 10. Laboratory tests used to determine the 'biotype' of *V. cholerae*, a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing Classical or 7PET lineages. Isolates of the Classical lineage have the Classical biotype, and isolates of the 7PET lineage have the El Tor biotype. Image credit: from Table 1.1 in `Dorman 2020`_.  
 
 .. _Dorman 2020: https://www.sanger.ac.uk/theses/md25-thesis.pdf
 
@@ -265,7 +265,8 @@ In recent decades, the biotyping laboratory tests have often been used to find o
 causing an outbreak have the El Tor or Classical biotype, so to predict whether they are likely to belong the 7PET lineage or Classical lineage, respectively 
 (`Cvjetanovic & Barua 1972`_, `CDC 1994`_). However, as mentioned above, the Classical lineage (and so Classical biotype) is very rarely seen nowadays. 
 Furthermore, although the lineage causing the 7th pandemic, 7PET, shows the El Tor biotype in laboratory tests, some 
-non-epidemic lineages of *V. cholerae* also show the El Tor biotype in laboratory biotyping tests (see Fig. 1. in `Chun et al 2009`_).
+non-epidemic lineages of *V. cholerae* also show the El Tor biotype in laboratory biotyping tests (e.g. *V. cholerae* isolates TM11079-80 and 12129(1), which both have the El Tor
+biotype and belong to non-epidemic lineages; see Fig. 1. in `Chun et al 2009`_).
 Therefore, the biotype is not very useful for distinguishing 7PET from non-epidemic lineages of *V. cholerae*.
 As we will discuss later in this course, whole genome sequencing tells us far more accurately whether isolates from an
 outbreak are 7PET or not. In fact, biotyping is not very useful nowadays for cholera public health. We have
