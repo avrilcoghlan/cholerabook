@@ -115,7 +115,7 @@ human pathogen (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutre
 There are many other non-epidemic lineages of *V. cholerae* found around the world that do not cause epidemic
 cholera, but sometimes cause small outbreaks of mild diarrhoea. An example is lineage MX-2 (Figure 6). 
 The vast majority of the non-epidemic lineages of *V. cholerae* do not produce cholera toxin, but isolates of some
-non-epidemic lineages, including some isolates of MX-2, are predicted to produce cholera toxin because they have the genes encoding the cholerae toxin (`Domman et al 2017`_).
+non-epidemic lineages, including some isolates of MX-2, are predicted to produce cholera toxin because they have the genes encoding the cholera toxin (`Domman et al 2017`_).
 The non-epidemic lineages of *V. cholerae* are often found in brackish water or in saltwater in association with shellfish 
 such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7). 
 
@@ -132,7 +132,7 @@ such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7).
 .. figure:: VibrioCholeraeInSea.png
   :width: 750
 
-  Figure 7. Non-epidemic lineages of *V. cholerae* are part of the bacterioplankton in aquatic environments. The non-epidemic *V. cholerae* are under risk of predation by protozoa and bacteriophages (viruses). These non-epidemic *V. cholerae* can attach to other organisms such as phytoplankton, macroalgae, chitinous zoo plankton, and gelatinous egg masses, which may provide sources of nutrients for the non-epidemic *V. cholerae*. Fish and birds feed on plankton and mussels that might harbour non-epidemic *V. cholerae*. Image credit: Adapted by A. Coghlan from Figure 3 in `Lutz et al 2013`_.
+  Figure 7. Non-epidemic lineages of *V. cholerae* such as the MX-2 lineage are part of the bacterioplankton in aquatic environments. The non-epidemic *V. cholerae* are under risk of predation by protozoa and bacteriophages (viruses). These non-epidemic *V. cholerae* can attach to other organisms such as phytoplankton, macroalgae, chitinous zooplankton, and gelatinous egg masses, which may provide sources of nutrients for the non-epidemic *V. cholerae*. Fish and birds feed on plankton and mussels that might harbour non-epidemic *V. cholerae*. Image credit: Adapted by A. Coghlan from Figure 3 in `Lutz et al 2013`_.
 
 .. _Lutz et al 2013: https://pubmed.ncbi.nlm.nih.gov/24379807/
 
