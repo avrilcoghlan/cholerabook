@@ -52,6 +52,7 @@ bacteria attach to the epithelial cells of the intestine and release **cholera t
 binds to the intestinal epithelial cell surface, and stimulates the cells to secrete ions and water into
 the intestinal lumen, resulting in acute watery diarrhoea. Cholera toxin is therefore the key **virulence factor** 
 of *V. cholerae*, and *V. cholerae* isolates that produce cholera toxin are said to be **'toxigenic'**.
+Isolates of the current pandemic lineage (**'7PET lineage'**) of *V. cholerae* are toxigenic.
 
 .. figure:: CholeraToxin.jpg
   :width: 450
@@ -143,6 +144,50 @@ such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7).
 
 .. _Lutz et al 2013: https://pubmed.ncbi.nlm.nih.gov/24379807/
 
+Serogroups of *V. cholerae*
+---------------------------
+
+The outer membrane of the cell membrane of Gram-negative bacteria such as *V. cholerae* contains a component known as
+'lipopolysaccharide' (LPS) that serves as a barrier to protect the bacteria from external stresses. Lipopolysaccharide
+molecules are very large molecules consisting of three parts: an outer core polysaccharide known as the **'O-antigen'**, 
+an inner core oligosaccharide, and Lipid A (Figure 8). 
+
+.. figure:: LPS.png
+  :width: 200
+
+  Figure 8. Structure of a lipopolysaccharide. Image credit: Mike Jones, via Wikipedia.
+
+Since the 1930s, *V. cholerae* isolates have been classified into **'serogroups'** on the basis of the antigenicity of the O-antigen in their LPS (`Murase et al 2022`_).
+So far 210 different serogroups have been identified within *V. cholerae*, named
+O1, O2, O3, ... O210 (`Murase et al 2022`_). To determine whether a particular *V. cholerae* isolate belongs to the O1 serogroup, one can carry out a
+relatively rapid laboratory test, to see if the *V. cholerae* cells will agglutinate in O1 antisera (`CDC 1994`_); while to determine whether a
+*V. cholerae* isolate belongs to the O2 serogroup, one must test for agglutination in O2 antisera. In other words, the serogroup
+is a laboratory phenotype. 
+
+.. _Murase et al 2022: https://pubmed.ncbi.nlm.nih.gov/35930328/
+
+.. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
+
+Most isolates belonging to the current pandemic lineage (7PET lineage) of *V. cholerae* have the O1 serogroup, while a small fraction of 7PET isolates have serogroup O139 (`Mutreja et al 2011`_). 
+*V. cholerae* isolates that belong to non-epidemic lineages can also sometimes have serogroups O1 or O139, or any of the other 210 known *V. cholerae* serogroups.
+Therefore, if a *V. cholerae* isolate from a patient with acute watery diarrhoea is shown via laboratory testing to have serogroup O1 or O139, then there is a strong possibility
+that the diarrhoea was caused by 7PET. However, it's important to bear in mind that one can not be 100% sure that the isolate is 7PET, since some non-epidemic 
+lineages have serogroups O1 or O139, for example, lineage MX-2 (Figure 6). 
+
+.. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
+
+Laboratory identification of serogroup is currently an important method of predicting whether an isolate is 7PET (`CDC 1994`_, `WHO 2023`_). 
+For example, in surveillance units where there is no confirmed cholera outbreak, the WHO currently defines a 'confirmed cholera case' as:
+"Any person infected with Vibrio cholerae O1 or O139 identified by presumptive identification
+(culture/seroagglutination) or PCR. The strain should also be demonstrated to be toxigenic (by PCR)
+if there is no concomitant confirmed cholera outbreak in other surveillance unit(s) of the country
+and there is no established epidemiological link to a confirmed cholera case/ source of exposure
+in another country" (`WHO 2023`_).
+
+.. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
+
+.. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
+
 The revised GTFCC definitions of cholera cases and cholera-free country statuses
 --------------------------------------------------------------------------------
 
@@ -188,14 +233,14 @@ little information about those ancient outbreaks.
 Since the early 1800s there have been seven historically recorded cholera pandemics (a 'pandemic' is
 an epidemic that has spread over several countries and usually affects many people; see the `CDC website`_).
 The 7th pandemic is the current
-and ongoing cholera pandemic, and has been caused by the 7PET lineage (Figure 8).
+and ongoing cholera pandemic, and has been caused by the 7PET lineage (Figure 9).
 
 .. _CDC website: https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section11.html
 
 .. figure:: SevenPandemics.png
   :width: 650
 
-  Figure 8. A timeline of the seven historically recorded pandemics. The current pandemic is the 7th pandemic and is caused by the 7PET lineage. Image credit: A. Coghlan, inspired by an image by `Laura Olivares Boldú / Wellcome Connecting Science`_.
+  Figure 9. A timeline of the seven historically recorded pandemics. The current pandemic is the 7th pandemic and is caused by the 7PET lineage. Image credit: A. Coghlan, inspired by an image by `Laura Olivares Boldú / Wellcome Connecting Science`_.
 
 .. _Laura Olivares Boldú / Wellcome Connecting Science: https://www.yourgenome.org/theme/science-in-the-time-of-cholera/
 
@@ -226,14 +271,14 @@ from Ghana in 2010 was reported by `Adade et al 2022`_).
 John Snow and the 1854 Broad Street Cholera Outbreak
 ----------------------------------------------------
 
-The third cholera pandemic played a key role in this history of Epidemiology and Public Health. In 1854 during this pandemic there was a large outbreak of cholera around Broad Street in London, and a doctor named John Snow carried out a very through investigation of the outbreak, creating a map of cases (Figure 9). From the data he collected, he was able to figure out that cholera was being transmitted through contaminated water from the Broad Street water pump, and also was being spread by contact with another infected person (or their goods) (`Tulchinsky 2018`_). Snow did not know what was the exact contaminant in the water from the Broad Street pump. We now know that it must have contained an epidemic-causing lineage of *V. cholerae*. Snow persuaded the local authorities to remove the handle of the Broad Street pump, and the outbreak ended soon after that. 
+The third cholera pandemic played a key role in this history of Epidemiology and Public Health. In 1854 during this pandemic there was a large outbreak of cholera around Broad Street in London, and a doctor named John Snow carried out a very through investigation of the outbreak, creating a map of cases (Figure 10). From the data he collected, he was able to figure out that cholera was being transmitted through contaminated water from the Broad Street water pump, and also was being spread by contact with another infected person (or their goods) (`Tulchinsky 2018`_). Snow did not know what was the exact contaminant in the water from the Broad Street pump. We now know that it must have contained an epidemic-causing lineage of *V. cholerae*. Snow persuaded the local authorities to remove the handle of the Broad Street pump, and the outbreak ended soon after that. 
 
 .. _Tulchinsky 2018: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7150208/
 
 .. figure:: SnowCholeraMap.png
   :width: 500
 
-  Figure 9. Map of cholera cases in London in 1854 made by the doctor John Snow during the 3rd historically recorded cholera pandemic. Cholera cases are highlighted in black. The Broad Street pump is indicated with a red dot. Image credit: Adapted by A. Coghlan from the original map made by John Snow in 1854, obtained from Wikipedia.
+  Figure 10. Map of cholera cases in London in 1854 made by the doctor John Snow during the 3rd historically recorded cholera pandemic. Cholera cases are highlighted in black. The Broad Street pump is indicated with a red dot. Image credit: Adapted by A. Coghlan from the original map made by John Snow in 1854, obtained from Wikipedia.
 
 Snow's very thorough cholera outbreak investigation, which he published in 1855 (`Snow 1855`_), is still considered an excellent example of how accurate and informative data, and careful data analysis, are extremely important for making good public health decisions. Later in this course, we will be analysing data from more recent cholera outbreaks, using different data sources than John Snow had (e.g. whole genome sequencing data). 
 
@@ -248,7 +293,7 @@ and so the new biotype of *V. cholerae* was named the '**El Tor biotype**', to d
 described as having the '**Classical biotype**'. 
 These biotypes are based on a particular set of laboratory tests (about four
 or five laboratory tests, depending on the version of the protocol), which test things like susceptibility to infection by particular bacteriophages,
-susceptibility to a particular antibiotic, presence of a particular biochemical pathway, and effect on red blood cells (Figure 10; `CDC 1994`_, `Dorman 2020`_).
+susceptibility to a particular antibiotic, presence of a particular biochemical pathway, and effect on red blood cells (Figure 11; `CDC 1994`_, `Dorman 2020`_).
 You don't need to remember the particular laboratory tests used in biotyping, as they are rarely used nowadays, but just to be aware that they were used historically.
 Isolates of the 7PET lineage have the El Tor biotype, and in fact the name '7PET' stands for '7th pandemic El Tor'.
 In contrast, Classical lineage isolates have the Classical biotype.
@@ -264,7 +309,7 @@ In contrast, Classical lineage isolates have the Classical biotype.
 .. figure:: Biotype.png
   :width: 600
 
-  Figure 10. Laboratory tests used to determine the 'biotype' of *V. cholerae*, a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing Classical or 7PET lineages. Isolates of the Classical lineage have the Classical biotype, and isolates of the 7PET lineage have the El Tor biotype. Image credit: from Table 1.1 in `Dorman 2020`_.  
+  Figure 11. Laboratory tests used to determine the 'biotype' of *V. cholerae*, a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing Classical or 7PET lineages. Isolates of the Classical lineage have the Classical biotype, and isolates of the 7PET lineage have the El Tor biotype. Image credit: from Table 1.1 in `Dorman 2020`_.  
 
 .. _Dorman 2020: https://www.sanger.ac.uk/theses/md25-thesis.pdf
 
@@ -295,30 +340,6 @@ just give slightly different results in the biotyping tests (Figure 10) compared
 .. _Montero et al 2023: https://pubmed.ncbi.nlm.nih.gov/37215733/
 
 .. _Bhandari et al 2021: https://pubmed.ncbi.nlm.nih.gov/33482361/
-
-Serogroups of *V. cholerae*
----------------------------
-
-The outer membrane of the cell membrane of Gram-negative bacteria such as *V. cholerae* contains a component known as
-'lipopolysaccharide' (LPS) that serves as a barrier to protect the bacteria from external stresses. Lipopolysaccharide
-molecules are very large molecules consisting of three parts: an outer core polysaccharide known as the **'O-antigen'**, 
-an inner core oligosaccharide, and Lipid A (Figure 11). 
-
-.. figure:: LPS.png
-  :width: 200
-
-  Figure 11. Structure of a lipopolysaccharide. Image credit: Mike Jones, via Wikipedia.
-
-Since the 1930s, *V. cholerae* isolates have been classified into **'serogroups'** on the basis of the antigenicity of the O-antigen in their LPS (`Murase et al 2022`_).
-So far 210 different serogroups have been identified within *V. cholerae*, named
-O1, O2, O3, ... O210 (`Murase et al 2022`_). To determine whether a particular *V. cholerae* isolate belongs to the O1 serogroup, one must carry out a
-laboratory test, to see if the *V. cholerae* cells will agglutinate in O1 antisera (`CDC 1994`_); while to determine whether a
-*V. cholerae* isolate belongs to the O2 serogroup, one must test for agglutination in O2 antisera. In other words, like biotype, the serogroup
-is a laboratory phenotype. 
-
-.. _Murase et al 2022: https://pubmed.ncbi.nlm.nih.gov/35930328/
-
-.. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
 
 Relationships between lineages of *V. cholerae*
 -----------------------------------------------
