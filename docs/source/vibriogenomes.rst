@@ -309,6 +309,17 @@ an inner core oligosaccharide, and Lipid A (Figure 11).
 
   Figure 11. Structure of a lipopolysaccharide. Image credit: Mike Jones, via Wikipedia.
 
+Since the 1930s, *V. cholerae* isolates have been classified into **'serogroups'** on the basis of the antigenicity of the O-antigen in their LPS (`Murase et al 2022`_).
+So far 210 different serogroups have been identified within *V. cholerae*, named
+O1, O2, O3, ... O210 (`Murase et al 2022`_). To determine whether a particular *V. cholerae* isolate belongs to the O1 serogroup, one must carry out a
+laboratory test, to see if the *V. cholerae* cells will agglutinate in O1 antisera (`CDC 1994`_); while to determine whether a
+*V. cholerae* isolate belongs to the O2 serogroup, one must test for agglutination in O2 antisera. In other words, like biotype, the serogroup
+is a laboratory phenotype. 
+
+.. _Murase et al 2022: https://pubmed.ncbi.nlm.nih.gov/35930328/
+
+.. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
+
 Relationships between lineages of *V. cholerae*
 -----------------------------------------------
 
