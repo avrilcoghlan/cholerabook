@@ -380,7 +380,7 @@ Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal ill
 
   Figure 13. Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2001 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. Image credit: `Hao et al 2023`_.
 
-Note that L3b and L9 are alternative names for the lineages labelled MX-2 and ELA-3, respectively, in the tree in Figure 11 above
+Note that L3b and L9 are alternative names for the lineages labelled MX-2 and ELA-3, respectively, in the tree in Figure 12 above
 (strictly speaking, MX-2 is a part of L3b and ELA-3 is a part of L9). Don't worry about remembering the names of these non-epidemic
 lineages; the key point here is that non-epidemic lineages of *V. cholerae* exist, but are of relatively minor public health importance
 compared to 7PET. 
@@ -518,7 +518,7 @@ The *ctxA* and *ctxB* genes are usually found close together in the *V. cholerae
 Practically 100% of 7PET isolates contain the CTX prophage region in their chromosome, and so produce cholera toxin, and therefore cause a human 
 host to suffer acute watery diarrhoea. Isolates of a small number of non-epidemic lineages of *V. cholerae*, most
 of which are relatively closely related to 7PET (e.g. L3, L9, Gulf Coast, Classical), sometimes have *ctxA* and *ctxB* genes (`Chun et al 2009`_, 
-`Hao et al 2023`_; `Domman et al 2017`_; see Figure 11 above). Occasionally *ctxAB* genes are seen in isolates of non-epidemic lineages of *V. cholerae* that
+`Hao et al 2023`_; `Domman et al 2017`_; see Figure 12 above). Occasionally *ctxAB* genes are seen in isolates of non-epidemic lineages of *V. cholerae* that
 are very distantly related to 7PET, but this is very rare (e.g. isolate V51 described in `Chun et al 2009`_). 
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
