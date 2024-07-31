@@ -75,7 +75,7 @@ the main source of genetic variation in *V. cholerae*; these sometimes occur whe
 can also occur due to DNA damage, for example damage due to ultraviolet (UV) radiation. 
 
 Over evolutionary time, different clones of a species independently accumulate
-mutations, so they become quite different at the genetic level and then we consider them different **lineages** of the species (Figure 5). 
+mutations, so they become quite different at the genetic level and then we consider them different **lineages** (also sometimes known as different 'strains') of the species (Figure 5). 
 The bacteria belonging to one particular lineage are all relatively clonal (highly similar at the genetic level); 
 they all descended from a relatively recent common ancestor (although 'recent' in evolutionary time may be hundreds or thousands of years ago!); and
 they usually present similar biological features, such as a specific pattern of virulence (`Bacigalupe 2017`_). 
@@ -193,6 +193,15 @@ in another country"* (`WHO 2023`_).
 .. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
 
 .. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
+
+Because isolates of the current pandemic lineage (7PET lineage) have either serogroup O1 or O139,
+sometimes the term 'non-O1 *V. cholerae* (NOVC)' or 'non-O1/non-O139 *V. cholerae*'
+is used to refer to non-epidemic lineages of *V. cholerae* 
+(e.g. `Glenn Morris 1990`_). However, it's worth being aware in the back of your mind that 
+a small fraction of non-epidemic lineages of
+*V. cholerae* have serogroups O1 or O139, such as MX-2 (Figure 6; `Domman et al 2017`_).
+
+.. _Glenn Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
 
 The revised GTFCC definitions of cholera cases and cholera-free country statuses
 --------------------------------------------------------------------------------
