@@ -362,7 +362,7 @@ differences between their DNA.
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
 .. figure:: Lineages_simple.png
-  :width: 300
+  :width: 450
 
   Figure 12. A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
 
@@ -391,7 +391,7 @@ Practically 100% of 7PET isolates produce cholera toxin. Some isolates from non-
 7PET, such as MX-2 and Gulf Coast (Figure 13).
 
 .. figure:: Lineages.png
-  :width: 350
+  :width: 450
 
   Figure 13. A phylogenetic tree of some of the known lineages of *V. cholerae*, showing which lineages are predicted to produce cholera toxin, based on presence of the genes encoding cholera toxin). Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
 
