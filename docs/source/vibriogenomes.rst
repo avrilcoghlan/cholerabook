@@ -389,9 +389,11 @@ approximately 2.5 million suspected cholera cases and appproximately 4000 deaths
 .. figure:: YemenCholera.png
   :width: 800
 
-  Figure 13. Number of suspected cases of cholera per week, during the cholera epidemic caused by 7PET in Yemen, between 2016 and 2020. Image credit: `WHO 2020`_. 
+  Figure 13. Number of suspected cases of cholera per week, during the cholera epidemic in Yemen, between 2016 and 2020. Whole-genome sequencing of isolates from the Yemen epidemic has revealed that the majority (92%) of clinical isolates in Yemen were belonged to the 7PET lineage (`Lassalle et al 2023`_). Image credit: `WHO 2020`_. 
 
 .. _WHO 2020: https://applications.emro.who.int/docs/WHOEMCSR314E-eng.pdf
+
+.. _Lassalle et al 2023: https://pubmed.ncbi.nlm.nih.gov/37770747/
 
 Due to its high virulence (ability to cause acute watery diarrhoea) and epidemic-causing potential, the 7PET lineage is of major public health concern,
 while the other non-epidemic lineages of *V. cholerae* are in comparison currently only of relatively minor public health concern.
@@ -406,7 +408,7 @@ do evolve to be become far more infectious and/or far more virulent (e.g. `Hao e
 The History of 7PET's Global Spread
 -----------------------------------
 
-Although the 7PET lineage is estimated to have split off from the Classical lineage in around 1880 (`Feng et al 2008`_), the 7PET lineage
+Although the 7PET lineage is estimated to have diverged (split off) from the Classical lineage in around 1880 (`Feng et al 2008`_), the 7PET lineage
 does not appear to have been epidemic-causing for the first half of the 1900s (`Hu et al 2016`_). However, evidence suggests that throughout that period the 7PET
 lineage was circulating in the human population, and was accumulating evolutionary changes (mutations; `Hu et al 2016`_).
 It wasn't until 1961 that the 7th pandemic began, with many cases of cholera caused by 7PET occurring in Indonesia (`Hu et al 2016`_, `Mutreja & Dougan 2020`_).
