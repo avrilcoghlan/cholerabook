@@ -103,17 +103,19 @@ There is only one lineage of *V. cholerae* which causes epidemic cholera at pres
 This lineage is known as the **'7PET'** lineage. What do we mean when we say 7PET causes **'epidemic cholera'**?
 The word 'epidemic' is defined by the CDC as an unexpected increase in the number of disease cases in a specific geographical area;
 they say that an outbreak is defined in the same way but for a more limited geographic area (see the `CDC website`_).
-Note that the WHO provides detailed technical guidance on what it considers to be a 'suspected cholera outbreak',
-a 'probable cholera outbreak', or a 'confirmed cholera outbreak' (see `WHO 2023`_).
-
-Here, when we say 7PET is epidemic-causing, we mean that 7PET cause an unexpectedly big increase in the number
-of cases of diarrhoeal illness caused by *V. cholerae* in a particular town/city/region. 
-
-.. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
+Here, when we say 7PET is epidemic-causing, we mean that 7PET can cause a very large increase in the number
+of cases of diarrhoeal illness caused by *V. cholerae* in a particular town/city/region over a relatively short period of time. 
 
 .. _CDC website: https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section11.html
 
-The 7PET lineage is an extremely infectious and virulent lineage of *V. cholerae*, which produces
+Note that we will not attempt here to define exactly how many cases of acute watery diarrhoea you can see
+before you declare a cholera outbreak; for this we refer you to the WHO's detailed technical guidance,
+in which they provide precise definitions of what they consider 'a suspected cholera case', 'a confirmed cholera case',
+'a suspected cholera outbreak', 'a probable cholera outbreak', or 'a confirmed cholera outbreak' (see `WHO 2023`_).
+
+.. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
+
+The 7PET lineage is an extremely infectious and virulent lineage of *V. cholerae*, which is epidemic-causing and which produces
 cholera toxin. 7PET appears to have evolved to become a 
 human pathogen (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutreja & Dougan 2020`_).
 
