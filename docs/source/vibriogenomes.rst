@@ -384,7 +384,7 @@ Practically 100% of 7PET isolates produce cholera toxin. Some isolates from non-
 .. figure:: Lineages.png
   :width: 400
 
-  Figure 13. A phylogenetic tree of some of the known lineages of *V. cholerae*, showing which lineages are predicted to produce cholera toxin (based on presence of the genes encoding cholera toxin). Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
+  Figure 13. A phylogenetic tree of some of the known lineages of *V. cholerae*, showing which lineages are predicted to produce cholera toxin, based on presence of the genes encoding cholera toxin). Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
 
 Later in the course you will be learning a lot about how to build phylogenetic trees yourself, and how to interpret
 them to investigate the relationships between different subtypes of 7PET that have caused different 7PET outbreaks, and to
@@ -411,7 +411,7 @@ cases as seen in the Yemen cholera epidemic that began in 2016 and continues to 
 
 Of the non-epidemic *V. cholerae* lineages, the two lineages that have caused the most cases of diarrhoeal illness
 since 2000 are thought to be lineages 'L3b' and 'L9' (`Hao et al 2023`_). For example, these two non-epidemic lineages
-have caused several hundred cases of diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_; Figure 13).
+have caused several hundred cases of diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_; Figure 14).
 Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal illness in South Africa (`Smith et al 2021`_).
 
 .. _Hao et al 2023: https://pubmed.ncbi.nlm.nih.gov/37146742/
@@ -421,7 +421,7 @@ Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal ill
 .. figure:: L3b_Hangzhou.png
   :width: 600
 
-  Figure 13. Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2001 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. Image credit: `Hao et al 2023`_.
+  Figure 14. Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2001 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. Image credit: `Hao et al 2023`_.
 
 Note that L3b and L9 are alternative names for the lineages labelled MX-2 and ELA-3, respectively, in the tree in Figure 12 above
 (strictly speaking, MX-2 is a part of L3b and ELA-3 is a part of L9). Don't worry about remembering the names of these non-epidemic
@@ -431,7 +431,7 @@ compared to 7PET.
 Indeed, compared to cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L9 and other non-epidemic
 *V. cholerae* lineages are far smaller and in general cause relatively milder diarrhoeal illness (`Glenn Morris 1990`_, `Glenn Morris 2003`_).
 In contrast, the cholera epidemic in Yemen that began in 2016 (and is still continuing) has caused
-approximately 2.5 million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`WHO 2020`_; Figure 14).
+approximately 2.5 million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`WHO 2020`_; Figure 15).
 
 .. _Glenn Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
 
@@ -442,7 +442,7 @@ approximately 2.5 million suspected cholera cases and appproximately 4000 deaths
 .. figure:: YemenCholera.png
   :width: 800
 
-  Figure 14. Number of suspected cases of cholera per week, during the cholera epidemic in Yemen, between 2016 and 2020. Whole-genome sequencing of isolates from the Yemen epidemic has revealed that the majority (92%) of clinical isolates in Yemen belonged to the 7PET lineage (`Lassalle et al 2023`_). Image credit: `WHO 2020`_. 
+  Figure 15. Number of suspected cases of cholera per week, during the cholera epidemic in Yemen, between 2016 and 2020. Whole-genome sequencing of isolates from the Yemen epidemic has revealed that the majority (92%) of clinical isolates in Yemen belonged to the 7PET lineage (`Lassalle et al 2023`_). Image credit: `WHO 2020`_. 
 
 .. _WHO 2020: https://applications.emro.who.int/docs/WHOEMCSR314E-eng.pdf
 
@@ -466,7 +466,7 @@ does not appear to have been epidemic-causing for the first half of the 1900s (`
 lineage was circulating in the human population, and was accumulating evolutionary changes (mutations; `Hu et al 2016`_).
 It wasn't until 1961 that the 7th pandemic began, with many cases of cholera caused by 7PET occurring in Indonesia (`Hu et al 2016`_, `Mutreja & Dougan 2020`_).
 From Indonesia, 7PET spread to the Bay of Bengal region of India and Bangladesh, and subsequently between the 1960s and 2010 7PET then spread outward from the Bay of Bengal  
-to large regions of the world in three overlapping waves (`Mutreja et al 2011`_; Figure 15). 
+to large regions of the world in three overlapping waves (`Mutreja et al 2011`_; Figure 16). 
 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
 
@@ -479,11 +479,11 @@ to large regions of the world in three overlapping waves (`Mutreja et al 2011`_;
 .. figure:: 7PET_Spread.jpg
   :width: 800
 
-  Figure 15. Between the 1960s and 2010, 7PET spread outward globally from the Bay of Bengal region (highlighted with a pale blue oval), in three overlapping waves of spread. Wave 1 is shown in dark blue, wave 2 in green, and wave 3 in red. Image credit: `Mutreja et al 2011`_.
+  Figure 16. Between the 1960s and 2010, 7PET spread outward globally from the Bay of Bengal region (highlighted with a pale blue oval), in three overlapping waves of spread. Wave 1 is shown in dark blue, wave 2 in green, and wave 3 in red. Image credit: `Mutreja et al 2011`_.
 
 .. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
 
-Since 2010, there has been further spread of 7PET, both within countries and regions, and between countries and continents. Figure 16
+Since 2010, there has been further spread of 7PET, both within countries and regions, and between countries and continents. Figure 17
 shows a recent map of the global distribution of cholera cases. 
 As mentioned above, cholera is spread by the faecal-oral route, and so the most likely explanation is that 7PET has been 
 spread by human travel. 
@@ -491,7 +491,7 @@ spread by human travel.
 .. figure:: GlobalCholera2023_2024.png
   :width: 800
 
-  Figure 16. Cholera cases reported worldwide between April 2023 and May 2024. Image source: `ECDC`_ (accessed 18th July 2024).
+  Figure 17. Cholera cases reported worldwide between April 2023 and May 2024. Image source: `ECDC`_ (accessed 18th July 2024).
 
 .. _ECDC: https://www.ecdc.europa.eu/en/all-topics-z/cholera/surveillance-and-disease-data/cholera-monthly
 
@@ -502,14 +502,14 @@ Just as for us humans, the genetic material of *V. cholerae* consists of DNA.
 The DNA of *V. cholerae* contains all the genetic instructions specifying the development of a *V. cholerae* cell. 
 
 You may be already familiar with the structure of DNA, a famous molecule with a double helix structure. DNA molecules consist of two chains (also known as 'strands') of
-smaller molecules called 'nucleotides' (Figure 17). Each nucleotide consists of three parts: a sugar called deoxyribose,
+smaller molecules called 'nucleotides' (Figure 18). Each nucleotide consists of three parts: a sugar called deoxyribose,
 a phosphate group, and one of four 'bases'. The bases are thymine (abbreviated as 'T'), adenine ('A'), guanine ('G')
 and cytosine ('C'). 
 
 .. figure:: DNA_structure.png
   :width: 200
 
-  Figure 17. A diagram of the structure of DNA, showing the sugar phosphate backbone and base-pairs. The sugars and phosphates form the backbone of the double helix. Image credit: A. Coghlan, adapted from a figure by the National Human Genome Research Institute, obtained via Wikipedia.
+  Figure 18. A diagram of the structure of DNA, showing the sugar phosphate backbone and base-pairs. The sugars and phosphates form the backbone of the double helix. Image credit: A. Coghlan, adapted from a figure by the National Human Genome Research Institute, obtained via Wikipedia.
 
 The bases in the two strands of a DNA double helix are 'complementary' to each other: that is, T pairs with
 A and G pairs with C. Thus, if one strand has the sequence of bases AGTACG, the other strand must have the sequence
@@ -517,13 +517,13 @@ of bases TCATGC (Figure 17). For convenience, one strand in a DNA double helix i
 other strand the 'reverse' or '-' ('minus') strand.
 
 Each strand of DNA also has a direction. That is, each strand has a 5' end and a 3' end (said '5-prime' and '3-prime'),
-where the 5' end is the end with a terminal phosphate group (Figure 17). 
+where the 5' end is the end with a terminal phosphate group (Figure 18). 
 In a DNA double helix, the two strands have opposite directions. 
 By convention, we write a DNA sequence as the sequence of bases from 5' to 3' on the + strand.
-If the + strand sequence is 5'-AGTACG-3', it's just written TCATGC (Figure 17).  
+If the + strand sequence is 5'-AGTACG-3', it's just written TCATGC (Figure 18).  
 
 The 'genome' of *V. cholerae* is the name we give to the set of all DNA molecules in a *V. cholerae* cell.
-In each cell, the *V. cholerae* genome is organised into two circular 'chromosomes', each consisting of a long circular DNA molecule (Figure 18). 
+In each cell, the *V. cholerae* genome is organised into two circular 'chromosomes', each consisting of a long circular DNA molecule (Figure 19). 
 In total the two circular chromosomes contain about 4 million base-pairs (4 Mb) of base-pairs, where Chromosome 1 is about 3 Mb 
 and Chromosome 2 about 1 million base-pairs (1 Mb; `Heidelberg et al 2000`_). 
 
@@ -532,7 +532,7 @@ and Chromosome 2 about 1 million base-pairs (1 Mb; `Heidelberg et al 2000`_).
 .. figure:: Chromosomes.png
   :width: 800
 
-  Figure 18. A diagram showing the two circular chromosomes of *V. cholerae*, for a typical 7PET isolate. The outside circles in blue represent protein-coding genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical 7PET isolate from the 7PET lineage. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the 'CTX prophage region' that contains several genes, including *ctxA* and *ctxB*, which encode the A and B subunits of the cholera toxin, respectively. Image source: Adapted by A. Coghlan from Fig. 1 in `Mutreja & Dougan 2020`_.
+  Figure 19. A diagram showing the two circular chromosomes of *V. cholerae*, for a typical 7PET isolate. The outside circles in blue represent protein-coding genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical 7PET isolate from the 7PET lineage. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the 'CTX prophage region' that contains several genes, including *ctxA* and *ctxB*, which encode the A and B subunits of the cholera toxin, respectively. Image source: Adapted by A. Coghlan from Fig. 1 in `Mutreja & Dougan 2020`_.
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
@@ -557,11 +557,11 @@ DNA which encodes (specifies the production of) particular proteins. For example
 proteins that form cholera toxin. In total the two *V. cholerae* chromosomes contain almost 4000 protein-coding genes in a typical isolate
 from the 7PET lineage (`Heidelberg et al 2000`_). 
 
-The *ctxA* and *ctxB* genes are usually found close together in the *V. cholerae* genome, in a region known as the **CTX prophage region** that also includes some other genes (Figure 19). 
+The *ctxA* and *ctxB* genes are usually found close together in the *V. cholerae* genome, in a region known as the **CTX prophage region** that also includes some other genes (Figure 20). 
 Practically 100% of 7PET isolates contain the CTX prophage region in their chromosome, and so produce cholera toxin, and therefore cause a human 
 host to suffer acute watery diarrhoea. Isolates of a small number of non-epidemic lineages of *V. cholerae*, most
 of which are relatively closely related to 7PET (e.g. L3, L9, Gulf Coast, Classical), sometimes have *ctxA* and *ctxB* genes (`Chun et al 2009`_, 
-`Hao et al 2023`_; `Domman et al 2017`_; see Figure 12 above). Occasionally *ctxAB* genes are seen in isolates of non-epidemic lineages of *V. cholerae* that
+`Hao et al 2023`_; `Domman et al 2017`_; see Figure 13 above). Occasionally *ctxAB* genes are seen in isolates of non-epidemic lineages of *V. cholerae* that
 are very distantly related to 7PET, but this is very rare (e.g. isolate V51 described in `Chun et al 2009`_). 
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
@@ -575,7 +575,7 @@ are very distantly related to 7PET, but this is very rare (e.g. isolate V51 desc
 .. figure:: CtxRegion.png
   :width: 550
 
-  Figure 19. A diagram showing the CTX prophage region of Chromosome 1 of 7PET strain N16961. The blue arrows represent genes. The *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: A. Coghlan, inspired by Figure 2 in `Pant et al 2020`_.
+  Figure 20. A diagram showing the CTX prophage region of Chromosome 1 of 7PET strain N16961. The blue arrows represent genes. The *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: A. Coghlan, inspired by Figure 2 in `Pant et al 2020`_.
 
 .. _Pant et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272871/
 
