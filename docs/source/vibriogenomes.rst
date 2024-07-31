@@ -436,24 +436,6 @@ spread by human travel.
 
 .. _ECDC: https://www.ecdc.europa.eu/en/all-topics-z/cholera/surveillance-and-disease-data/cholera-monthly
 
-In some regions of Asia and Africa, there are cholera outbreaks every year, and so cholera is considered 'endemic'.
-According to the CDC, 'endemic' refers to 'the constant presence and/or usual prevalence of a disease or infectious
-agent in a population within a geographic area' (see `CDC website`_). 
-Cholera is thought to have been endemic in some parts of countries around the Bay of Bengal 
-since ancient times (`Hu et al 2016`_). 
-Note that the WHO has a technical definition of a 'cholera-endemic area': 'an area where confirmed cholera cases were 
-detected during the last 3 years with evidence of local transmission (meaning the cases are not imported from elsewhere)' 
-(`WHO 2024`_, accessed 18th July 2024). The WHO also provides detailed technical guidance on what it considers to be 
-a 'locally acquired cholera case' versus an 'imported cholera case' (see `WHO 2023`_).
-
-.. _CDC website: https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section11.html
-
-.. _Hu et al 2016: https://pubmed.ncbi.nlm.nih.gov/27849586/
-
-.. _WHO 2024: https://www.who.int/news-room/fact-sheets/detail/cholera
-
-.. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
-
 The *V. cholerae* Genome and Whole-Genome Sequencing (WGS) of *V. cholerae*
 ---------------------------------------------------------------------------
 
