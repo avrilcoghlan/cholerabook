@@ -173,11 +173,13 @@ Most isolates belonging to the current pandemic lineage (7PET lineage) of *V. ch
 *V. cholerae* isolates that belong to non-epidemic lineages can also sometimes have serogroups O1 or O139, or any of the other 210 known *V. cholerae* serogroups.
 Therefore, if a *V. cholerae* isolate from a patient with acute watery diarrhoea is shown via laboratory testing to have serogroup O1 or O139, then there is a strong possibility
 that the diarrhoea was caused by 7PET. However, it's important to bear in mind that one can not be 100% sure that the isolate is 7PET, since some non-epidemic 
-lineages have serogroups O1 or O139, for example, lineage MX-2 (Figure 6). 
+lineages have serogroups O1 or O139, for example, lineage MX-2 (Figure 6; `Domman et al 2017`_). 
 
 .. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
 
 .. _Moore et al 2014: https://pubmed.ncbi.nlm.nih.gov/24575898/
+
+.. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
 Because it is relatively cheap, easy and rapid, laboratory identification of serogroup is currently an important method of predicting whether an isolate is 7PET (`CDC 1994`_, `WHO 2023`_). 
 For example, in surveillance units where there is no confirmed cholera outbreak, the WHO currently defines a 'confirmed cholera case' as:
@@ -350,10 +352,10 @@ differences between their DNA.
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
-.. figure:: Lineages.png
+.. figure:: Lineages_simple.png
   :width: 400
 
-  Figure 12. A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Practically 100% of 7PET isolates produce cholera toxin. Some isolates from non-epidemic lineages are also predicted to produce cholera toxin (because they have the genes encoding cholera toxin; `Chun et al 2009`_, `Domman et al 2017`_; `Hao et al 2023`_). Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
+  Figure 12. A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
@@ -376,9 +378,20 @@ the last common ancestor of 7PET and ELA-3 (yellow circle) lived even longer ago
 What the tree tells us is that 7PET and Classical, the two lineages that have caused pandemics, are relatively closely related *V. cholerae* lineages. 
 7PET is also relatively closely related to non-epidemic lineages of *V. cholerae*, including MX-2, Gulf Coast and ELA-3. 
 
+Practically 100% of 7PET isolates produce cholera toxin. Some isolates from non-epidemic lineages are also predicted to produce cholera toxin (because they have the genes encoding cholera toxin; `Chun et al 2009`_, `Domman et al 2017`_; `Hao et al 2023`_), especially isolates from lineages that are relatively closely related to
+7PET, such as MX-2 and Gulf Coast (Figure 13).
+
+.. figure:: Lineages.png
+  :width: 400
+
+  Figure 13. A phylogenetic tree of some of the known lineages of *V. cholerae*, showing which lineages are predicted to produce cholera toxin (based on presence of the genes encoding cholera toxin). Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
+
 Later in the course you will be learning a lot about how to build phylogenetic trees yourself, and how to interpret
 them to investigate the relationships between different subtypes of 7PET that have caused different 7PET outbreaks, and to
-gain insights into how 7PET is spreading regionally and globally. 
+gain insights into how 7PET is spreading regionally and globally. You will see that it is often very interesting and informative to display information
+beside a phylogenetic tree; for example, in Figure 13 we plotted presence/absence of particular genes. We can also display additional
+non-genetic data that we have about the isolates (known as **'metadata'**), such as the exact location or date of collection of the isolates, or
+the serogroup or antimicrobial resistance phenotypes of isolates as determined by laboratory tests.
 
 Diarrhoeal illness caused by different lineages of *V. cholerae*
 ----------------------------------------------------------------
