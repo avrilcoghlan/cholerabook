@@ -549,7 +549,7 @@ When we talk about 'sequencing the genome' of an organism, we mean figuring out 
 bases on the strands of its DNA molecules. 
 Later in this course we will talk about different methods for sequencing DNA.
 
-The first time that a *V. cholerae* isolate's genome was fully sequenced was in the year 2000, for a *V. cholerae* 7PET strain called N16961 
+The first time that a *V. cholerae* isolate's genome was fully sequenced was in the year 2000, for a *V. cholerae* 7PET laboratory strain called N16961 
 that was originally isolated in Bangladesh (`Heidelberg et al 2000`_).
 Since the year 2000, the genomes of thousands of other *V. cholerae* isolates have been sequenced. There are quite a lot of small differences
 between different *V. cholerae* isolates' genomes (that is, there is genetic variation within *V. cholerae*), 
@@ -584,7 +584,7 @@ are very distantly related to 7PET, but this is very rare (e.g. isolate V51 desc
 .. figure:: CtxRegion.png
   :width: 550
 
-  Figure 20. A diagram showing the CTX prophage region of Chromosome 1 of 7PET strain N16961. The blue arrows represent genes. The *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: A. Coghlan, inspired by Figure 2 in `Pant et al 2020`_.
+  Figure 20. A diagram showing the CTX prophage region of Chromosome 1 of 7PET laboratory strain N16961. The blue arrows represent genes. The *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: A. Coghlan, inspired by Figure 2 in `Pant et al 2020`_.
 
 .. _Pant et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272871/
 
