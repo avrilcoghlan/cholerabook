@@ -100,7 +100,7 @@ The species *V. cholerae* is distributed globally, and is a very diverse species
 .. _PopPUNK: https://pubmed.ncbi.nlm.nih.gov/30679308/
 
 There is only one lineage of *V. cholerae* which causes epidemic cholera at present.
-This lineage is known as the **'7PET'** lineage. What do we mean when we say 7PET causes 'epidemic cholera'?
+This lineage is known as the **'7PET'** lineage. What do we mean when we say 7PET causes **'epidemic cholera'**?
 The word 'epidemic' is defined by the CDC as an unexpected increase in the number of disease cases in a specific geographical area;
 they say that an outbreak is defined in the same way but for a more limited geographic area (see the `CDC website`_).
 Note that the WHO provides detailed technical guidance on what it considers to be a 'suspected cholera outbreak',
@@ -311,7 +311,8 @@ differences between their DNA.
 .. figure:: Lineages.png
   :width: 400
 
-  Figure 11. A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Practically 100% of 7PET isolates produce cholera toxin. Some isolates from non-epidemic lineages are also predicted to produce cholera toxin (because they have the genes encoding cholera toxin; `Chun et al 2009`_, `Domman et al 2017`_; `Hao et al 2023`_). Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
+  Figure 11. A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Practically 100% of 7PET isolates produce cholera toxin (are
+*'toxigenic'*). Some isolates from non-epidemic lineages are also predicted to produce cholera toxin (because they have the genes encoding cholera toxin; `Chun et al 2009`_, `Domman et al 2017`_; `Hao et al 2023`_). Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
@@ -447,15 +448,21 @@ smaller molecules called 'nucleotides' (Figure 16). Each nucleotide consists of 
 a phosphate group, and one of four 'bases'. The bases are thymine (abbreviated as 'T'), adenine ('A'), guanine ('G')
 and cytosine ('C'). 
 
-.. figure:: DNA_structure.jpg
+.. figure:: DNA_structure.png
   :width: 300
 
   Figure 16. A diagram of the structure of DNA, showing the sugar phosphate backbone and base-pairs. The sugars and phosphates form the backbone of the double helix. Image credit: National Human Genome Research Institute, Public domain, via Wikimedia Commons.
 
 The bases in the two strands of a DNA double helix are 'complementary' to each other: that is, T pairs with
-A and G pairs with C. Thus, if one strand has the sequence of bases TACGA, the other strand must have the sequence
-of bases ATGCT. For convenience, one strand in a DNA double helix is called the 'forward' or '+' ('plus') strand, and the 
+A and G pairs with C. Thus, if one strand has the sequence of bases AGTACG, the other strand must have the sequence
+of bases TCATGC (Figure 16). For convenience, one strand in a DNA double helix is called the 'forward' or '+' ('plus') strand, and the 
 other strand the 'reverse' or '-' ('minus') strand.
+
+Each strand of DNA also has a direction. That is, each strand has a *5' end* and a *3' end* (said "5-prime" and "3-prime"),
+where the 5' end is the end with a terminal phosphate group (Figure 16). 
+In a DNA double helix, the two strands have opposite directions. 
+By convention, we write a DNA sequence as the sequence of bases from 5' to 3' on the + strand.
+If the + strand sequence is 5'-AGTACG-3', it's just written TCATGC (Figure 16).  
 
 The 'genome' of *V. cholerae* is the name we give to the set of all DNA molecules in a *V. cholerae* cell.
 In each cell, the *V. cholerae* genome is organised into two circular 'chromosomes', each consisting of a long circular DNA molecule (Figure 17). 
@@ -467,7 +474,7 @@ and Chromosome 2 about 1 million base-pairs (1 Mb; `Heidelberg et al 2000`_).
 .. figure:: Chromosomes.png
   :width: 800
 
-  Figure 17. A diagram showing the two circular chromosomes of *V. cholerae*, for a typical 7PET isolate. The outside circles in blue represent protein-coding genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical 7PET isolate from the 7PET lineage. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the 'CTX region' containing the two genes *ctxA* and *ctxB*, which encode the A and B subunits of the cholera toxin, respectively. Image source: Adapted by A. Coghlan from Fig. 1 in `Mutreja & Dougan 2020`_.
+  Figure 17. A diagram showing the two circular chromosomes of *V. cholerae*, for a typical 7PET isolate. The outside circles in blue represent protein-coding genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical 7PET isolate from the 7PET lineage. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the 'CTX prophage region' that contains several genes, including *ctxA* and *ctxB*, which encode the A and B subunits of the cholera toxin, respectively. Image source: Adapted by A. Coghlan from Fig. 1 in `Mutreja & Dougan 2020`_.
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
@@ -475,7 +482,7 @@ When we talk about 'sequencing the genome' of an organism, we mean figuring out 
 bases on the strands of its DNA molecules. 
 Later in this course we will talk about different methods for sequencing DNA.
 
-The first time that a *V. cholerae* isolate's genome was sequenced was in the year 2000, for a *V. cholerae* 7PET strain called N16961 
+The first time that a *V. cholerae* isolate's genome was fully sequenced was in the year 2000, for a *V. cholerae* 7PET strain called N16961 
 that was originally isolated in Bangladesh (`Heidelberg et al 2000`_).
 Since the year 2000, the genomes of thousands of other *V. cholerae* isolates have been sequenced. There are quite a lot of small differences
 between different *V. cholerae* isolates' genomes (that is, there is genetic variation within *V. cholerae*), 
@@ -492,8 +499,8 @@ DNA which encodes (specifies the production of) particular proteins. For example
 proteins that form cholera toxin. In total the two *V. cholerae* chromosomes contain almost 4000 protein-coding genes in a typical isolate
 from the 7PET lineage (`Heidelberg et al 2000`_). 
 
-The *ctxA* and *ctxB* genes are usually found close together in the *V. cholerae* genome, in a region known as the **CTX region** (Figure 18). 
-Practically 100% of 7PET isolates contain the CTX region in their chromosome, and so produce cholera toxin, and therefore cause a human 
+The *ctxA* and *ctxB* genes are usually found close together in the *V. cholerae* genome, in a region known as the **CTX prophage region** that also includes some other genes (Figure 18). 
+Practically 100% of 7PET isolates contain the CTX prophage region in their chromosome, and so produce cholera toxin, and therefore cause a human 
 host to suffer acute watery diarrhoea. Isolates of a small number of non-epidemic lineages of *V. cholerae*, most
 of which are relatively closely related to 7PET (e.g. L3, L9, Gulf Coast, Classical), sometimes have *ctxA* and *ctxB* genes (`Chun et al 2009`_, 
 `Hao et al 2023`_; `Domman et al 2017`_; see Figure 11 above). Occasionally *ctxAB* genes are seen in isolates of non-epidemic lineages of *V. cholerae* that
@@ -510,7 +517,7 @@ are very distantly related to 7PET, but this is very rare (e.g. isolate V51 desc
 .. figure:: CtxRegion.png
   :width: 550
 
-  Figure 18. A diagram showing the CTX region of Chromosome 1 of 7PET strain N16961. The blue arrows represent genes. The *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: A. Coghlan, inspired by Figure 2 in `Pant et al 2020`_.
+  Figure 18. A diagram showing the CTX prophage region of Chromosome 1 of 7PET strain N16961. The blue arrows represent genes. The *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: A. Coghlan, inspired by Figure 2 in `Pant et al 2020`_.
 
 .. _Pant et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272871/
 
