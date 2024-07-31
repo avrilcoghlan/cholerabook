@@ -353,7 +353,7 @@ differences between their DNA.
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
 .. figure:: Lineages_simple.png
-  :width: 400
+  :width: 300
 
   Figure 12. A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
 
@@ -382,7 +382,7 @@ Practically 100% of 7PET isolates produce cholera toxin. Some isolates from non-
 7PET, such as MX-2 and Gulf Coast (Figure 13).
 
 .. figure:: Lineages.png
-  :width: 400
+  :width: 350
 
   Figure 13. A phylogenetic tree of some of the known lineages of *V. cholerae*, showing which lineages are predicted to produce cholera toxin, based on presence of the genes encoding cholera toxin). Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
 
@@ -513,7 +513,7 @@ and cytosine ('C').
 
 The bases in the two strands of a DNA double helix are 'complementary' to each other: that is, T pairs with
 A and G pairs with C. Thus, if one strand has the sequence of bases AGTACG, the other strand must have the sequence
-of bases TCATGC (Figure 17). For convenience, one strand in a DNA double helix is called the 'forward' or '+' ('plus') strand, and the 
+of bases TCATGC (Figure 18). For convenience, one strand in a DNA double helix is called the 'forward' or '+' ('plus') strand, and the 
 other strand the 'reverse' or '-' ('minus') strand.
 
 Each strand of DNA also has a direction. That is, each strand has a 5' end and a 3' end (said '5-prime' and '3-prime'),
