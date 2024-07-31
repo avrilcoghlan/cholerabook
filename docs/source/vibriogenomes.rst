@@ -305,7 +305,7 @@ molecules are very large molecules consisting of three parts: an outer core poly
 an inner core oligosaccharide, and Lipid A (Figure 11). 
 
 .. figure:: LPS.png
-  :width: 300
+  :width: 200
 
   Figure 11. Structure of a lipopolysaccharide. Image credit: Mike Jones, via Wikipedia.
 
@@ -464,7 +464,7 @@ a phosphate group, and one of four 'bases'. The bases are thymine (abbreviated a
 and cytosine ('C'). 
 
 .. figure:: DNA_structure.png
-  :width: 250
+  :width: 200
 
   Figure 17. A diagram of the structure of DNA, showing the sugar phosphate backbone and base-pairs. The sugars and phosphates form the backbone of the double helix. Image credit: A. Coghlan, adapted from a figure by the National Human Genome Research Institute, obtained via Wikipedia.
 
@@ -477,7 +477,7 @@ Each strand of DNA also has a direction. That is, each strand has a 5' end and a
 where the 5' end is the end with a terminal phosphate group (Figure 17). 
 In a DNA double helix, the two strands have opposite directions. 
 By convention, we write a DNA sequence as the sequence of bases from 5' to 3' on the + strand.
-If the + strand sequence is 5'-AGTACG-3', it's just written TCATGC (Figure 16).  
+If the + strand sequence is 5'-AGTACG-3', it's just written TCATGC (Figure 17).  
 
 The 'genome' of *V. cholerae* is the name we give to the set of all DNA molecules in a *V. cholerae* cell.
 In each cell, the *V. cholerae* genome is organised into two circular 'chromosomes', each consisting of a long circular DNA molecule (Figure 18). 
