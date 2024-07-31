@@ -168,7 +168,8 @@ is a laboratory phenotype.
 
 .. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
 
-Most isolates belonging to the current pandemic lineage (7PET lineage) of *V. cholerae* have the O1 serogroup, while a small fraction of 7PET isolates have serogroup O139 (`Mutreja et al 2011`_). 
+Most isolates belonging to the current pandemic lineage (7PET lineage) of *V. cholerae* have the O1 serogroup, while a small fraction of 7PET isolates have serogroup O139 (`Mutreja et al 2011`_,
+`Moore et al 2014`_). 
 *V. cholerae* isolates that belong to non-epidemic lineages can also sometimes have serogroups O1 or O139, or any of the other 210 known *V. cholerae* serogroups.
 Therefore, if a *V. cholerae* isolate from a patient with acute watery diarrhoea is shown via laboratory testing to have serogroup O1 or O139, then there is a strong possibility
 that the diarrhoea was caused by 7PET. However, it's important to bear in mind that one can not be 100% sure that the isolate is 7PET, since some non-epidemic 
@@ -176,13 +177,16 @@ lineages have serogroups O1 or O139, for example, lineage MX-2 (Figure 6).
 
 .. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
 
-Laboratory identification of serogroup is currently an important method of predicting whether an isolate is 7PET (`CDC 1994`_, `WHO 2023`_). 
+.. _Moore et al 2014: https://pubmed.ncbi.nlm.nih.gov/24575898/
+
+Because it is relatively cheap, easy and rapid, laboratory identification of serogroup is currently an important method of predicting whether an isolate is 7PET (`CDC 1994`_, `WHO 2023`_). 
 For example, in surveillance units where there is no confirmed cholera outbreak, the WHO currently defines a 'confirmed cholera case' as:
-"Any person infected with Vibrio cholerae O1 or O139 identified by presumptive identification
+
+*"Any person infected with Vibrio cholerae O1 or O139 identified by presumptive identification
 (culture/seroagglutination) or PCR. The strain should also be demonstrated to be toxigenic (by PCR)
 if there is no concomitant confirmed cholera outbreak in other surveillance unit(s) of the country
 and there is no established epidemiological link to a confirmed cholera case/ source of exposure
-in another country" (`WHO 2023`_).
+in another country"* (`WHO 2023`_).
 
 .. _CDC 1994: https://stacks.cdc.gov/view/cdc/52473
 
@@ -202,17 +206,11 @@ countries (see the `GTFCC Roadmap 2030`_).
 Because non-epidemic lineages of *V. cholerae* are found in many countries around
 the world, the GTFCC have revised their definition of the disease 'cholera'
 to specifically mention the epidemic-causing lineage 7PET.
-That is, they define cholera as: "disease caused by toxigenic Vibrio cholerae O1 or O139, carrying the ctxAB genes encoding the cholera toxin (CT), linked to the seventh pandemic lineage or any lineage that might emerge with similar properties" (`GTFCC 2022`_).
+That is, they define cholera as: 
+
+*"disease caused by toxigenic Vibrio cholerae O1 or O139, carrying the ctxAB genes encoding the cholera toxin (CT), linked to the seventh pandemic lineage or any lineage that might emerge with similar properties"* (`GTFCC 2022`_).
 
 .. _GTFCC 2022: https://www.gtfcc.org/wp-content/uploads/2022/06/7th-meeting-of-the-gtfcc-working-group-on-surveillance-2022-report.pdf
-
-You may notice that the WTFCC's definition of 'cholera' mentions the serogroups O1 and O139; we will discuss
-serogroup further below, but for now all you need to know is that O1 and O139
-are the two serogroups that are seen in the 7PET lineage (`Mutreja et al 2011`_, `Moore et al 2014`_).
-
-.. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
-
-.. _Moore et al 2014: https://pubmed.ncbi.nlm.nih.gov/24575898/
 
 As mentioned above, non-epidemic lineages of *V. cholerae* such as MX-2 sometimes cause small outbreaks of mild diarrhoea,
 but these are considered of relatively minor public health importance compared to outbreaks caused by 7PET.
