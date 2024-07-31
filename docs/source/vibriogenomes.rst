@@ -406,8 +406,10 @@ do evolve to be become far more infectious and/or far more virulent (e.g. `Hao e
 The History of 7PET's Global Spread
 -----------------------------------
 
-Although the 7PET lineage is estimated to have split off from the Classical lineage in around 1880 (`Feng et al 2008`_),
-it wasn't until 1961 that the 7th pandemic began, with many cases of cholera caused by 7PET occurring in Indonesia (`Hu et al 2016`_, `Mutreja & Dougan 2020`_).
+Although the 7PET lineage is estimated to have split off from the Classical lineage in around 1880 (`Feng et al 2008`_), the 7PET lineage
+does not appear to have been epidemic-causing for the first half of the 1900s (`Hu et al 2016`_). However, evidence suggests that throughout that period the 7PET
+lineage was circulating in the human population, and was accumulating evolutionary changes (mutations; `Hu et al 2016`_).
+It wasn't until 1961 that the 7th pandemic began, with many cases of cholera caused by 7PET occurring in Indonesia (`Hu et al 2016`_, `Mutreja & Dougan 2020`_).
 From Indonesia, 7PET spread to the Bay of Bengal region of India and Bangladesh, and subsequently between the 1960s and 2010 7PET then spread outward from the Bay of Bengal  
 to large regions of the world in three overlapping waves (`Mutreja et al 2011`_; Figure 14). 
 
