@@ -10,6 +10,7 @@ Acute Watery Diarrhoea, the Disease Cholera and its Epidemiology
 ----------------------------------------------------------------
 
 Cholera is a disease characterised by acute watery diarrhoea, leading to rapidly progressing dehydration and shock (`Sack et al 2004`_).
+A distinctive feature of cholera is painless purging of voluminous stools resembling rice-water, known as 'rice-water stool' (`Sack et al 2004`_).
 If you are interested in how cholera is diagnosed, the World Health Organisation provides guidance and 
 precise definitions of what they consider 'a suspected cholera case' and 'a confirmed cholera case' (see `WHO 2023`_).
 
@@ -18,6 +19,10 @@ precise definitions of what they consider 'a suspected cholera case' and 'a conf
 .. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
 
 Cholera is an infection caused by a bacterium called *Vibrio cholerae*, a curved Gram-negative rod-shaped bacterium (Figure 1).
+The genus *Vibrio* belongs to the Vibrionaceae, a family in the class Gammaproteobacteria that includes many bacteria 
+found in marine niches (`Boyd et al 2015`_).
+
+.. _Boyd et al 2015: https://pubmed.ncbi.nlm.nih.gov/26542048/
 
 .. figure:: Vibrio_cholerae.jpg
   :width: 350
@@ -26,7 +31,8 @@ Cholera is an infection caused by a bacterium called *Vibrio cholerae*, a curved
 
 The *V. cholerae* bacterium is usually transmitted by the faecal-oral route, that is, 
 people usually catch cholera by eating food or by drinking water that has been contaminated
-with human faeces containing *V. cholerae* (Figure 2). Barriers to disease transmission include
+with human faeces containing *V. cholerae*. Figure 2 summarises what is known about the transmission routes for the current pandemic lineage (7PET lineage) of *V. cholerae*. 
+Barriers to disease transmission include
 handwashing and hygiene, access to toilets, and clean drinking water (e.g. chlorination of stored water; `Nelson et al 2009`_). 
 
 .. figure:: 7PET_Lifecycle.png
@@ -37,8 +43,8 @@ handwashing and hygiene, access to toilets, and clean drinking water (e.g. chlor
 .. _Nelson et al 2009: https://pubmed.ncbi.nlm.nih.gov/19756008/
 
 Cholera outbreaks typically occur in places where there is poor access
-to clean water and poor sewage infrastructure (Figure 3). These include low-income settings in which there is poor water sanitation infrastructure, 
-or places in which there is a humanitarian crisis (e.g. an earthquake or war) that has disrupted the water sanitation infrastructure.
+to clean water and poor sewage infrastructure (Figure 3). These include low-income settings in which there is poor water and sanitation infrastructure, 
+or places in which there is a humanitarian crisis (e.g. an earthquake or war) that has disrupted the water and sanitation infrastructure.
 Examples are Haiti, where there was a cholera epidemic from 2010-2019 which began shortly after a massive earthquake that occurred in 2010, 
 and Yemen, which has suffered a cholera epidemic from 2016 up until the present during its ongoing civil war. 
 
@@ -62,8 +68,8 @@ Isolates of the current pandemic lineage (**'7PET lineage'**) of *V. cholerae* a
 Note that *V. cholerae* is not the only pathogen that can cause acute watery diarrhoea; similar symptoms also be caused by other bacteria
 such as enterotoxigenic *E. coli* (ETEC). 
 
-The Species *Vibrio cholerae* and its Geographic Distribution
-------------------------------------------------------------- 
+Epidemic and Non-epidemic Lineages of *Vibrio cholerae* and their Geographic Distribution
+-----------------------------------------------------------------------------------------
 
 Like other bacteria, *V. cholerae* populations reproduce by cell division, with the
 DNA (genetic material) of descendant cells being identical to the DNA of the parent cells. 
@@ -203,7 +209,7 @@ some non-epidemic lineages of
 
 .. _Glenn Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
 
-The revised GTFCC definitions of cholera cases and cholera-free country statuses
+The Revised GTFCC Definitions of Cholera Cases and Cholera-free Country Statuses
 --------------------------------------------------------------------------------
 
 The WHO's Global Task Force on Cholera Control (GTFCC) is a partnership of more
@@ -215,7 +221,7 @@ countries (see the `GTFCC Roadmap 2030`_).
 .. _GTFCC Roadmap 2030: https://www.gtfcc.org/about-cholera/roadmap-2030/
 
 Because non-epidemic lineages of *V. cholerae* are found in many countries around
-the world, the GTFCC have revised their definition of the disease 'cholera'
+the world, the GTFCC have recently revised their definition of the disease 'cholera'
 to specifically mention the epidemic-causing lineage 7PET.
 That is, they define cholera as: 
 
@@ -345,8 +351,8 @@ just give slightly different results in the biotyping tests (Figure 10) compared
 
 .. _Bhandari et al 2021: https://pubmed.ncbi.nlm.nih.gov/33482361/
 
-Relationships between lineages of *V. cholerae*
------------------------------------------------
+Relationships between Epidemic and Non-epidemic Lineages of *V. cholerae*
+-------------------------------------------------------------------------
 
 The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
 recorded pandemic, are relatively closely related. We know this by making a 'phylogenetic tree' for *V. cholerae*, that is, a
@@ -397,8 +403,8 @@ beside a phylogenetic tree; for example, in Figure 13 we plotted presence/absenc
 non-genetic data that we have about the isolates (known as **'metadata'**), such as the exact location or date of collection of the isolates, or
 the serogroup or antimicrobial resistance phenotypes of isolates as determined by laboratory tests.
 
-Diarrhoeal illness caused by different lineages of *V. cholerae*
-----------------------------------------------------------------
+Diarrhoeal Illness Caused by Epidemic and Non-epidemic Lineages of *V. cholerae*
+--------------------------------------------------------------------------------
 
 The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
 recorded pandemic, are the only epidemic lineages of *V. cholerae*. The many other
