@@ -295,7 +295,7 @@ The third cholera pandemic played a key role in this history of Epidemiology and
 
   Figure 10. Map of cholera cases in London in 1854 made by the doctor John Snow during the 3rd historically recorded cholera pandemic. Cholera cases are highlighted in black. The Broad Street pump is indicated with a red dot. Image credit: Adapted by A. Coghlan from the original map made by John Snow in 1854, obtained from Wikipedia.
 
-Snow's very thorough cholera outbreak investigation, which he published in 1855 (`Snow 1855`_), is still considered an excellent example of how accurate and informative data, and careful data analysis, are extremely important for making good public health decisions. Later in this course, we will be analysing data from more recent cholera outbreaks, using different data sources than John Snow had (e.g. whole genome sequencing data). 
+Snow's very thorough cholera outbreak investigation, which he published in 1855 (`Snow 1855`_), is still considered an excellent example of how accurate and informative data, and careful data analysis, are extremely important for making good public health decisions. Later in this course, we will be analysing data from more recent cholera outbreaks, using different data sources than John Snow had (e.g. whole-genome sequencing data). 
 
 .. _Snow 1855: https://www.gutenberg.org/ebooks/72894
 
@@ -333,7 +333,7 @@ Although the lineage causing the 7th pandemic, 7PET, shows the El Tor biotype in
 non-epidemic lineages of *V. cholerae* also show the El Tor biotype in laboratory biotyping tests (e.g. *V. cholerae* isolates TM11079-80 and 12129(1), which both have the El Tor
 biotype and belong to non-epidemic lineages; see Fig. 1. in `Chun et al 2009`_).
 Therefore, the biotype is not very useful for distinguishing 7PET from non-epidemic lineages of *V. cholerae*.
-As we will discuss later in this course, whole genome sequencing tells us far more accurately whether isolates from an
+As we will discuss later in this course, whole-genome sequencing tells us far more accurately whether isolates from an
 outbreak are 7PET or not. 
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
@@ -358,7 +358,7 @@ The 7PET lineage, which has caused the current pandemic, and the Classical linea
 recorded pandemic, are relatively closely related. We know this by making a 'phylogenetic tree' for *V. cholerae*, that is, a
 'family tree' of the different lineages (genetically different subtypes) of *V. cholerae* (Figure 12). 
 The phylogenetic tree represents our best guess at the evolutionary relationships between different lineages of *V. cholerae*, based on similarities and
-differences between their DNA.
+differences between their whole-genome sequences (their DNA).
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
@@ -373,7 +373,7 @@ differences between their DNA.
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
-You may have encountered phylogenetic trees before, but if not, don't worry, we will be discussing them a lot in this course.
+You may have encountered phylogenetic trees before, but if not, don't worry, we will be discussing them a lot in this course, including how to build them based on whole-genome sequencing data.
 In this tree, the arrow of time goes from left to right, with the left-hand side of the tree being the furthest back in history and the
 very right-hand side of the tree being the present time. The triangles at the right-hand side of the tree represent different current lineages of *V. cholerae*.
 
@@ -473,7 +473,7 @@ The History of 7PET's Global Spread
 
 Although the 7PET lineage is estimated to have diverged (split off) from the Classical lineage in around 1880 (`Feng et al 2008`_), the 7PET lineage
 does not appear to have been epidemic-causing for the first half of the 1900s (`Hu et al 2016`_). However, evidence suggests that throughout that period the 7PET
-lineage was circulating in the human population, and was accumulating evolutionary changes (mutations; `Hu et al 2016`_).
+lineage was sometimes associated with the human population, and was accumulating evolutionary changes (mutations; `Hu et al 2016`_).
 It wasn't until 1961 that the 7th pandemic began, with many cases of cholera caused by 7PET occurring in Indonesia (`Hu et al 2016`_, `Mutreja & Dougan 2020`_).
 From Indonesia, 7PET spread to the Bay of Bengal region of India and Bangladesh, and subsequently between the 1960s and 2010 7PET then spread outward from the Bay of Bengal  
 to large regions of the world in three overlapping waves (`Mutreja et al 2011`_; Figure 16). 
