@@ -41,9 +41,9 @@ lineage, which is the genetic subtype of *V. cholerae* responsible for all major
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
 .. figure:: 7PET_Lifecycle.png
-  :width: 750
+  :width: 950
 
-  Figure 2. Life cycle of the current pandemic lineage (7PET lineage) of *V. cholerae*. On ingestion of *V. cholerae* of the current pandemic lineage (7PET lineage) in contaminated food or water, the *V. cholerae* 7PET bacteria colonise the small intestine, multiply, secrete cholera toxin, and are then shed back into the environment by the host in diarrhoea. The *V. cholerae* 7PET bacteria shed in the stool are in a transient hyperinfectious state that serves to amplify the outbreak by promoting transmission to further human hosts. Image source: A. Coghlan, inspired by Figure 2 in `Nelson et al 2009`_. 
+  Figure 2. Life cycle of the current pandemic lineage (7PET lineage) of *V. cholerae*. On ingestion of *V. cholerae* of the current pandemic lineage (7PET lineage) in contaminated food or water (1), the *V. cholerae* 7PET bacteria colonise the small intestine (2), multiply, secrete cholera toxin, and are then shed back into the environment by the host in diarrhoea (3). The *V. cholerae* 7PET bacteria shed in the stool are in a transient hyperinfectious state that serves to amplify the outbreak by promoting transmission to further human hosts (4). Some scientists have hypothesised that 7PET bacteria can persist for years in aquatic environments, forming biofilms on biological surfaces and using chitin as a carbon and nitrogen source (5); however, long-term persistance of 7PET in the environment is a controversial scientific question and is still under active debate. Image source: A. Coghlan, adapted from Figure 2 in `Nelson et al 2009`_. 
 
 .. _Nelson et al 2009: https://pubmed.ncbi.nlm.nih.gov/19756008/
 
