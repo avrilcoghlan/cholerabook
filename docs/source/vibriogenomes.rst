@@ -31,9 +31,14 @@ found in marine niches (`Boyd et al 2015`_).
 
 The *V. cholerae* bacterium is usually transmitted by the faecal-oral route, that is, 
 people usually catch cholera by eating food or by drinking water that has been contaminated
-with human faeces containing *V. cholerae*. Figure 2 summarises what is known about the transmission routes for the current pandemic lineage (7PET lineage) of *V. cholerae*. 
-Barriers to disease transmission include
+with human faeces containing *V. cholerae*. Barriers to disease transmission include
 handwashing and hygiene, access to toilets, and clean drinking water (e.g. chlorination of stored water; `Nelson et al 2009`_). 
+Figure 2 summarises what is known about the transmission routes for the current pandemic lineage of *V. cholerae*, the 7PET
+lineage, which is the genetic subtype of *V. cholerae* responsible for all major outbreaks and epidemics of cholera since the 1960s (`Mutreja et al 2011`_, `Mutreja & Dougan 2020`_). 
+
+.. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
+
+.. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
 .. figure:: 7PET_Lifecycle.png
   :width: 750
@@ -126,13 +131,6 @@ The 7PET lineage is an extremely infectious and virulent lineage of *V. cholerae
 cholera toxin. 7PET appears to have evolved to become a 
 human pathogen (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutreja & Dougan 2020`_).
 
-There are many other non-epidemic lineages of *V. cholerae* found around the world that do not cause epidemic
-cholera, but sometimes cause small outbreaks of mild diarrhoea. An example is lineage MX-2 (Figure 6). 
-The vast majority of the non-epidemic lineages of *V. cholerae* do not produce cholera toxin, but isolates of some
-non-epidemic lineages, including some isolates of MX-2, are predicted to produce cholera toxin because they have the genes encoding the cholera toxin (`Domman et al 2017`_).
-The non-epidemic lineages of *V. cholerae* are often found in brackish water or in saltwater in association with shellfish 
-such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7). 
-
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
@@ -140,6 +138,13 @@ such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7).
 .. _Hu et al 2016: https://pubmed.ncbi.nlm.nih.gov/27849586/
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
+
+There are many other non-epidemic lineages of *V. cholerae* found around the world that do not cause epidemic
+cholera, but sometimes cause small outbreaks of mild diarrhoea. An example is lineage MX-2 (Figure 6). 
+The vast majority of the non-epidemic lineages of *V. cholerae* do not produce cholera toxin, but isolates of some
+non-epidemic lineages, including some isolates of MX-2, are predicted to produce cholera toxin because they have the genes encoding the cholera toxin (`Domman et al 2017`_).
+The non-epidemic lineages of *V. cholerae* are often found in brackish water or in saltwater in association with shellfish 
+such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7). 
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
@@ -355,10 +360,10 @@ Relationships between Epidemic and Non-epidemic Lineages of *V. cholerae*
 -------------------------------------------------------------------------
 
 The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
-recorded pandemic, are relatively closely related. We know this by making a 'phylogenetic tree' for *V. cholerae*, that is, a
+recorded pandemic, are relatively closely related. We know this by analysing whole-genome sequencing data (that is, genetic information in DNA) in order to make a 'phylogenetic tree' for *V. cholerae*, that is, a
 'family tree' of the different lineages (genetically different subtypes) of *V. cholerae* (Figure 12). 
 The phylogenetic tree represents our best guess at the evolutionary relationships between different lineages of *V. cholerae*, based on similarities and
-differences between their whole-genome sequences (their DNA).
+differences between their whole-genome sequences.
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
