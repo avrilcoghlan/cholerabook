@@ -445,7 +445,7 @@ compared to 7PET.
 
 Indeed, compared to cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L9 and other non-epidemic
 *V. cholerae* lineages are far smaller and in general cause relatively milder diarrhoeal illness (`Glenn Morris 1990`_, `Glenn Morris 2003`_).
-In contrast, the cholera epidemic in Yemen that began in 2016 (and is still continuing) has caused
+In contrast, the cholera epidemic in Yemen that began in 2016 (and is still continuing) caused
 approximately 2.5 million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`WHO 2020`_; Figure 15).
 
 .. _Glenn Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
@@ -501,7 +501,10 @@ to large regions of the world in three overlapping waves (`Mutreja et al 2011`_;
 Since 2010, there has been further spread of 7PET, both within countries and regions, and between countries and continents. Figure 17
 shows a recent map of the global distribution of cholera cases. 
 As mentioned above, cholera is spread by the faecal-oral route, and so the most likely explanation is that 7PET has been 
-spread by human travel. 
+spread by human travel. For example, there is overwhelming evidence that the Haiti cholera epidemic from 2010-2019 was due
+to individuals infected by 7PET in a foreign country travelling to Haiti (`Orata et al 2014`_). 
+
+.. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
 
 .. figure:: GlobalCholera2023_2024.png
   :width: 800
@@ -539,7 +542,7 @@ If the + strand sequence is 5'-AGTACG-3', it's just written TCATGC (Figure 18).
 
 The 'genome' of *V. cholerae* is the name we give to the set of all DNA molecules in a *V. cholerae* cell.
 In each cell, the *V. cholerae* genome is organised into two circular 'chromosomes', each consisting of a long circular DNA molecule (Figure 19). 
-In total the two circular chromosomes contain about 4 million base-pairs (4 Mb) of base-pairs, where Chromosome 1 is about 3 Mb 
+In total the two circular chromosomes contain about 4 million base-pairs (4 Mb), where Chromosome 1 is about 3 Mb 
 and Chromosome 2 about 1 million base-pairs (1 Mb; `Heidelberg et al 2000`_). 
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
@@ -604,7 +607,7 @@ The key take-home messages of this chapter are:
 * *V. cholerae* is distributed globally, and is a very diverse species with many different lineages 
 * At present there is only one lineage that causes pandemic/epidemic cholera: 7PET, an extremely infectious and virulent lineage
 * The genome of a typical 7PET isolate has 4 million base-pairs (4 Mb) of DNA, and contains about 4000 genes
-* Practically all 7PET isolates have genes for cholera toxin (*ctxAB* genes)
+* Practically all 7PET isolates have the genes that encode cholera toxin (genes *ctxA* and *ctxB*)
 
 Suggested Further Reading and Videos
 ------------------------------------
