@@ -573,7 +573,7 @@ but the majority of *V. cholerae* isolates have two circular chromosomes that to
 Genes of *V. cholerae*
 ----------------------
 
-Each of the two chromosomes of *V. cholerae* includes many hundred of genes. In 
+Each of the two chromosomes of *V. cholerae* includes many hundred of genes. 
 Each gene comprises a segment of its DNA, typically hundreds or thousands
 of base-pairs in length. A very common type of gene is a protein-coding gene, which is a stretch of
 DNA which encodes (specifies the production of) particular proteins. For example,
