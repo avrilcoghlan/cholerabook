@@ -9,7 +9,7 @@ This chapter will give you an overview of cholera, the species *Vibrio cholerae*
 Acute Watery Diarrhoea, the Disease Cholera and its Epidemiology
 ----------------------------------------------------------------
 
-Cholera is a disease characterised by acute watery diarrhoea, leading to rapidly progressing dehydration and shock (`Sack et al 2004`_).
+Cholera is a disease characterised by acute watery diarrhoea (AWD), leading to rapidly progressing dehydration and shock (`Sack et al 2004`_).
 A distinctive feature of cholera is painless purging of voluminous stools resembling rice-water, known as 'rice-water stool' (`Sack et al 2004`_).
 If you are interested in how cholera is diagnosed, the World Health Organisation provides guidance and 
 precise definitions of what they consider 'a suspected cholera case' and 'a confirmed cholera case' (see `WHO 2023`_).
@@ -512,12 +512,12 @@ to individuals infected by 7PET in a foreign country travelling to Haiti (`Orata
 
 .. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
 
-.. figure:: GlobalCholera2023_2024.png
+.. figure:: CholeraCasesMap.png
   :width: 800
 
-  Figure 17. Cholera cases reported worldwide between April 2023 and May 2024. Image source: `ECDC`_ (accessed 18th July 2024).
+  Figure 17. Cholera and Acute Watery Diarrhoea cumulative cases reported to the WHO since January 2024. Image source: `WHO Global Cholera and Acute Watery Diarrhoea (AWD) Dashboard`_ (accessed 2nd August 2024).
 
-.. _ECDC: https://www.ecdc.europa.eu/en/all-topics-z/cholera/surveillance-and-disease-data/cholera-monthly
+.. WHO Global Cholera and Acute Watery Diarrhoea (AWD) Dashboard_: https://who-global-cholera-and-awd-dashboard-1-who.hub.arcgis.com/
 
 The *V. cholerae* Genome and Whole-Genome Sequencing (WGS) of *V. cholerae*
 ---------------------------------------------------------------------------
