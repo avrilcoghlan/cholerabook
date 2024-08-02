@@ -32,13 +32,17 @@ found in marine niches (`Boyd et al 2015`_).
 The *V. cholerae* bacterium is usually transmitted by the faecal-oral route, that is, 
 people usually catch cholera by eating food or by drinking water that has been contaminated
 with human faeces containing *V. cholerae*. Barriers to disease transmission include
-handwashing and hygiene, access to toilets, and clean drinking water (e.g. chlorination of stored water; `Nelson et al 2009`_). 
+handwashing and hygiene, access to toilets, and clean drinking water (e.g. chlorination of stored water; `Sack et al 2004`_, `Nelson et al 2009`_). 
 Figure 2 summarises what is known about the transmission routes for the current pandemic lineage of *V. cholerae*, the 7PET
 lineage, which is the genetic subtype of *V. cholerae* responsible for all major outbreaks and epidemics of cholera since the 1960s (`Mutreja et al 2011`_, `Mutreja & Dougan 2020`_). 
+
+.. _Sack et al 2004: https://pubmed.ncbi.nlm.nih.gov/14738797/
 
 .. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
+
+.. _Nelson et al 2009: https://pubmed.ncbi.nlm.nih.gov/19756008/
 
 .. figure:: 7PET_Lifecycle.png
   :width: 1150
@@ -107,7 +111,7 @@ The species *V. cholerae* is distributed globally, and is a very diverse species
 .. figure:: LineageDistributions.png
   :width: 1050
 
-  Figure 6. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for the MX-2 lineage, probably reflecting the far greater public health importance of 7PET. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image source: A. Coghlan. 
+  Figure 6. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, reflecting the far greater public health importance of 7PET, which has led to more sequencing of this lineage from the stool of sick people. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image source: A. Coghlan. 
 
 .. _Vibriowatch: https://vibriowatch.readthedocs.io
 
