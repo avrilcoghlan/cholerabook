@@ -84,7 +84,7 @@ Isolates that descended recently from the same ancestral cell and are identical 
 genetically are said to belong to the same **clone**, or be **clonal**. 
 
 Mutations (changes) in the DNA, are
-the main source of genetic variation in *V. cholerae*; these sometimes occur when DNA is being copied during cell division, but
+a source of genetic variation in *V. cholerae*; these sometimes occur when DNA is being copied during cell division, but
 can also occur due to DNA damage, for example damage due to ultraviolet (UV) radiation. 
 
 Over evolutionary time, different clones of a species independently accumulate
