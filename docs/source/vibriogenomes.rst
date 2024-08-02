@@ -342,7 +342,7 @@ In contrast, Classical lineage isolates have the Classical biotype.
 
 Although the lineage causing the 7th pandemic, 7PET, shows the El Tor biotype in laboratory tests, some 
 non-epidemic lineages of *V. cholerae* also show the El Tor biotype in laboratory biotyping tests (e.g. *V. cholerae* isolates TM11079-80 and 12129(1), which both have the El Tor
-biotype and belong to non-epidemic lineages; see Fig. 1. in `Chun et al 2009`_).
+biotype and belong to non-epidemic lineages; `Chun et al 2009`_).
 Therefore, the biotype is not very useful for distinguishing 7PET from non-epidemic lineages of *V. cholerae*.
 As we will discuss later in this course, whole-genome sequencing tells us far more accurately whether isolates from an
 outbreak are 7PET or not. 
