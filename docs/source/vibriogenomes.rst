@@ -637,8 +637,11 @@ are very distantly related to 7PET, but this is very rare (e.g. isolate V51 desc
   :width: 1050
 
 * Watch a `talk by Dr François-Xavier Weill, a leading cholera researcher based in the Pasteur Institute, Paris, on his work on genomics for tracing the cholera epidemic in Africa`_ (26 minutes).
+* Read a `review published in 2020 by Dr Ankur Mutreja and Dr Gordon Dougan, on "Molecular epidemiology and intercontinental spread of cholera"`_.
 
 .. _talk by Dr François-Xavier Weill, a leading cholera researcher based in the Pasteur Institute, Paris, on his work on genomics for tracing the cholera epidemic in Africa: https://www.youtube.com/watch?v=O7Nmoety2BY
+
+.. _review published by 2020 by Dr Ankur Mutreja and Dr Gordon Dougan, on "Molecular epidemiology and intercontinental spread of cholera": https://pubmed.ncbi.nlm.nih.gov/31345641/
 
 Brief Summary
 -------------
@@ -651,13 +654,6 @@ The key take-home messages of this chapter are:
 * At present there is only one lineage that causes pandemic/epidemic cholera: 7PET, an extremely infectious and virulent lineage
 * The genome of a typical 7PET isolate has 4 million base-pairs (4 Mb) of DNA, and contains about 4000 genes
 * Practically all 7PET isolates have the genes that encode cholera toxin (genes *ctxA* and *ctxB*)
-
-Suggested Further Reading
--------------------------
-
-Suggested further reading to go with this chapter is the nice review by `Mutreja & Dougan 2020`_ on 'Molecular epidemiology and intercontinental spread of cholera'. 
-
-.. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
 Contact
 -------
