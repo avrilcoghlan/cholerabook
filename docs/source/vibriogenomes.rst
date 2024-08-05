@@ -84,16 +84,16 @@ such as enterotoxigenic *E. coli* (ETEC).
 
 * Watch a `video giving an overview of cholera, its spread and history by Médecins Sans Frontières (MSF)`_ (15 minutes).
 * Watch this `short video on how Médecins Sans Frontières (MSF) responds to a cholera outbreak`_ (3 minutes).
-* Watch this `short video tour of a Médecins Sans Frontières (MSF) cholera treatment centre in Nigeria`_ (4 minutes).
-* What this `short video on what is cholera and how it is treated by Médecins Sans Frontières (MSF)`_  (3 minutes). 
+* Watch this `short video tour of a Médecins Sans Frontières (MSF) cholera treatment centre in Nigeria in 2022`_ (4 minutes).
+* What this `interview in 2021 with Dr Firdausi Qadri, a leading cholera researcher who works in the International Centre for Diarrhoeal Disease and Research, Bangladesh (ICDDR,B)`_  (24 minutes). 
 
-.. _video on cholera by Médecins Sans Frontières (MSF): https://www.youtube.com/watch?v=TzPXP1_eUzw
+.. _video giving an overview of cholera, its spread and history by Médecins Sans Frontières (MSF): https://www.youtube.com/watch?v=TzPXP1_eUzw
 
 .. _short video on how Médecins Sans Frontières (MSF) responds to a cholera outbreak: https://www.youtube.com/watch?v=VNbU98fetGo
 
-.. _short video tour of a Médecins Sans Frontières (MSF)  cholera treatment centre in Nigeria: https://www.youtube.com/watch?v=Gwc1lP_7riI
+.. _short video tour of a Médecins Sans Frontières (MSF)  cholera treatment centre in Nigeria in 2022: https://www.youtube.com/watch?v=Gwc1lP_7riI
 
-.. _short video on what is cholera and how it is treated by Médecins Sans Frontières (MSF): https://www.youtube.com/watch?v=OV0rk_sDilw
+.. _interview in 2021 with Dr Firdausi Qadri, a leading cholera researcher who works in the International Centre for Diarrhoeal Disease and Research, Bangladesh (ICDDR,B): https://www.youtube.com/watch?v=AmuXQzZW58M
 
 Epidemic and Non-epidemic Lineages of *Vibrio cholerae* and their Geographic Distribution
 -----------------------------------------------------------------------------------------
@@ -325,6 +325,13 @@ The third cholera pandemic played a key role in this history of Epidemiology and
 Snow's very thorough cholera outbreak investigation, which he published in 1855 (`Snow 1855`_), is still considered an excellent example of how accurate and informative data, and careful data analysis, are extremely important for making good public health decisions. Later in this course, we will be analysing data from more recent cholera outbreaks, using different data sources than John Snow had (e.g. whole-genome sequencing data). 
 
 .. _Snow 1855: https://www.gutenberg.org/ebooks/72894
+
+.. image:: Activity.png
+  :width: 1050
+
+* Watch a `video on John Snow and the 1854 Broad Street cholera outbreak by Harvard Online`_ (8 minutes).
+
+.. _video on John Snow and the 1854 Broad Street cholera outbreak by Harvard Online: https://www.youtube.com/watch?v=lNjrAXGRda4
 
 The Classical Biotype and the El Tor Biotype
 --------------------------------------------
