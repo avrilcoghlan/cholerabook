@@ -79,6 +79,10 @@ Isolates of the current pandemic lineage (**'7PET lineage'**) of *V. cholerae* a
 Note that *V. cholerae* is not the only pathogen that can cause acute watery diarrhoea; similar symptoms also be caused by other bacteria
 such as enterotoxigenic *E. coli* (ETEC). 
 
+Enrichment activity: Watch a `video on cholera by Médecins Sans Frontières (MSF)`_.
+
+.. _video on cholera by Médecins Sans Frontières (MSF): https://www.youtube.com/watch?v=TzPXP1_eUzw
+
 Epidemic and Non-epidemic Lineages of *Vibrio cholerae* and their Geographic Distribution
 -----------------------------------------------------------------------------------------
 
