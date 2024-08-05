@@ -80,7 +80,7 @@ Note that *V. cholerae* is not the only pathogen that can cause acute watery dia
 such as enterotoxigenic *E. coli* (ETEC). 
 
 .. image:: Activity.png
-  :width: 450
+  :width: 1050
 
 Watch a `video on cholera by Médecins Sans Frontières (MSF)`_.
 
