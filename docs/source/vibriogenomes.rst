@@ -84,7 +84,8 @@ such as enterotoxigenic *E. coli* (ETEC).
 
 * Watch a `video on cholera by Médecins Sans Frontières (MSF)`_ (15 minutes).
 * Watch this `short video on how Médecins Sans Frontières (MSF) responds to a cholera outbreak`_ (3 minutes).
-* Watch this `short video tour of a Médecins Sans Frontières (MSF)  cholera treatment centre in Nigeria`_ (4 minutes).
+* Watch this `short video tour of a Médecins Sans Frontières (MSF) cholera treatment centre in Nigeria`_ (4 minutes).
+* What this `short video on what is cholera and how it is treated by Médecins Sans Frontières (MSF)`_  (3 minutes). 
 
 .. _video on cholera by Médecins Sans Frontières (MSF): https://www.youtube.com/watch?v=TzPXP1_eUzw
 
