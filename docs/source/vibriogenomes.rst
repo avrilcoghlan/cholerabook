@@ -93,6 +93,8 @@ such as enterotoxigenic *E. coli* (ETEC).
 
 .. _short video tour of a Médecins Sans Frontières (MSF)  cholera treatment centre in Nigeria: https://www.youtube.com/watch?v=Gwc1lP_7riI
 
+.. _short short video on what is cholera and how it is treated by Médecins Sans Frontières (MSF): https://www.youtube.com/watch?v=OV0rk_sDilw
+
 Epidemic and Non-epidemic Lineages of *Vibrio cholerae* and their Geographic Distribution
 -----------------------------------------------------------------------------------------
 
