@@ -641,7 +641,7 @@ are very distantly related to 7PET, but this is very rare (e.g. isolate V51 desc
 
 .. _talk by Dr François-Xavier Weill, a leading cholera researcher based in the Pasteur Institute, Paris, on his work on genomics for tracing the cholera epidemic in Africa: https://www.youtube.com/watch?v=O7Nmoety2BY
 
-.. _review published by 2020 by Dr Ankur Mutreja and Dr Gordon Dougan, on "Molecular epidemiology and intercontinental spread of cholera": https://pubmed.ncbi.nlm.nih.gov/31345641/
+.. _review published in 2020 by Dr Ankur Mutreja and Dr Gordon Dougan, on "Molecular epidemiology and intercontinental spread of cholera": https://pubmed.ncbi.nlm.nih.gov/31345641/
 
 Brief Summary
 -------------
