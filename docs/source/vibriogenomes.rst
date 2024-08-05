@@ -82,13 +82,15 @@ such as enterotoxigenic *E. coli* (ETEC).
 .. image:: Activity.png
   :width: 1050
 
-Watch a `video on cholera by Médecins Sans Frontières (MSF)`_ (15 minutes).
+* Watch a `video on cholera by Médecins Sans Frontières (MSF)`_ (15 minutes).
+* Watch this `short video on how Médecins Sans Frontières (MSF) responds to a cholera outbreak`_ (3 minutes).
+* Watch this `short video tour of a Médecins Sans Frontières (MSF)  cholera treatment centre in Nigeria`_ (4 minutes).
 
 .. _video on cholera by Médecins Sans Frontières (MSF): https://www.youtube.com/watch?v=TzPXP1_eUzw
 
-Also, watch this `short video on how Médecins Sans Frontières (MSF) responds to a cholera outbreak`_ (3 minutes).
-
 .. _short video on how Médecins Sans Frontières (MSF) responds to a cholera outbreak: https://www.youtube.com/watch?v=VNbU98fetGo
+
+.. _short video tour of a Médecins Sans Frontières (MSF)  cholera treatment centre in Nigeria: https://www.youtube.com/watch?v=Gwc1lP_7riI
 
 Epidemic and Non-epidemic Lineages of *Vibrio cholerae* and their Geographic Distribution
 -----------------------------------------------------------------------------------------
