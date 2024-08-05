@@ -626,6 +626,13 @@ are very distantly related to 7PET, but this is very rare (e.g. isolate V51 desc
 
 .. _Pant et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272871/
 
+.. image:: Activity.png
+  :width: 1050
+
+* Watch a `talk by Dr François-Xavier Weill, a leading cholera researcher based in the Pasteur Institute, Paris, on his work on genomics for tracing the cholera epidemic in Africa`_ (26 minutes).
+
+.. _talk by Dr François-Xavier Weill, a leading cholera researcher based in the Pasteur Institute, Paris, on his work on genomics for tracing the cholera epidemic in Africa: https://www.youtube.com/watch?v=O7Nmoety2BY
+
 Brief Summary
 -------------
 
@@ -638,17 +645,12 @@ The key take-home messages of this chapter are:
 * The genome of a typical 7PET isolate has 4 million base-pairs (4 Mb) of DNA, and contains about 4000 genes
 * Practically all 7PET isolates have the genes that encode cholera toxin (genes *ctxA* and *ctxB*)
 
-Suggested Further Reading and Videos
-------------------------------------
+Suggested Further Reading
+-------------------------
 
 Suggested further reading to go with this chapter is the nice review by `Mutreja & Dougan 2020`_ on 'Molecular epidemiology and intercontinental spread of cholera'. 
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
-
-You can also watch a talk on cholera and 7PET by Prof. Nick Thomson (Wellcome Sanger Institute, Cambridge, UK), which he
-presented at a conference in January 2024. His talk (14 minutes long) is entitled `Understanding Health and Disease at a Global Scale`_.
-
-.. _Understanding Health and Disease at a Global Scale: https://www.youtube.com/watch?v=iv0zfqSEFAg
 
 Contact
 -------
