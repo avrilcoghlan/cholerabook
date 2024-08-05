@@ -437,13 +437,6 @@ beside a phylogenetic tree; for example, in Figure 13 we plotted presence/absenc
 non-genetic data that we have about the isolates (known as **'metadata'**), such as the exact location or date of collection of the isolates, or
 the serogroup or antimicrobial resistance phenotypes of isolates as determined by laboratory tests.
 
-.. image:: Activity.png
-  :width: 1050
-
-* Watch a `talk by Dr Nick Thomson, a researcher in cholera genomics at the Wellcome Sanger Institute, UK, on "Demystifying cholera global epidemiology"`_ (53 minutes).
-
-.. _talk by Dr Nick Thomson, a researcher in cholera genomics at the Wellcome Sanger Institute, UK, on "Demystifying cholera global epidemiology": https://www.youtube.com/watch?v=4Z_M8J8RfTs
-
 Diarrhoeal Illness Caused by Epidemic and Non-epidemic Lineages of *V. cholerae*
 --------------------------------------------------------------------------------
 
@@ -636,10 +629,13 @@ are very distantly related to 7PET, but this is very rare (e.g. isolate V51 desc
 .. image:: Activity.png
   :width: 1050
 
+* Watch a `talk by Dr Nick Thomson, a researcher in cholera genomics at the Wellcome Sanger Institute, UK, on "Understanding Health and Disease at a Global Scale"`_ (14 minutes).
 * Watch a `talk by Dr François-Xavier Weill, a leading cholera researcher based in the Pasteur Institute, Paris, on his work on genomics for tracing the cholera epidemic in Africa`_ (26 minutes).
 * Read a `review published in 2020 by Dr Ankur Mutreja and Dr Gordon Dougan, on "Molecular epidemiology and intercontinental spread of cholera"`_.
 
-.. _talk by Dr François-Xavier Weill, a leading cholera researcher based in the Pasteur Institute, Paris, on his work on genomics for tracing the cholera epidemic in Africa: https://www.youtube.com/watch?v=O7Nmoety2BY
+.. _talk by Dr Nick Thomson, a researcher in cholera genomics at the Wellcome Sanger Institute, UK, on "Understanding Health and Disease at a Global Scale": https://www.youtube.com/watch?v=iv0zfqSEFAg
+
+.. _talk by Dr François-Xavier Weill, a leading cholera researcher based in the Pasteur Institute, Paris, on his work on genomics for tracing the cholera epidemic in Africa : https://www.youtube.com/watch?v=O7Nmoety2BY
 
 .. _review published in 2020 by Dr Ankur Mutreja and Dr Gordon Dougan, on "Molecular epidemiology and intercontinental spread of cholera": https://pubmed.ncbi.nlm.nih.gov/31345641/
 
