@@ -440,9 +440,9 @@ the serogroup or antimicrobial resistance phenotypes of isolates as determined b
 .. image:: Activity.png
   :width: 1050
 
-* Watch a `talk by Dr Nick Thomoson, a researcher in cholera at the Wellcome Sanger Institute, UK, on "Demystifying cholera global epidemiology"`_ (53 minutes).
+* Watch a `talk by Dr Nick Thomson, a researcher in cholera genomics at the Wellcome Sanger Institute, UK, on "Demystifying cholera global epidemiology"`_ (53 minutes).
 
-.. _talk by Dr Nick Thomoson, a researcher in cholera at the Wellcome Sanger Institute, UK, on "Demystifying cholera global epidemiology": https://www.youtube.com/watch?v=4Z_M8J8RfTs
+.. _talk by Dr Nick Thomson, a researcher in cholera genomics at the Wellcome Sanger Institute, UK, on "Demystifying cholera global epidemiology": https://www.youtube.com/watch?v=4Z_M8J8RfTs
 
 Diarrhoeal Illness Caused by Epidemic and Non-epidemic Lineages of *V. cholerae*
 --------------------------------------------------------------------------------
