@@ -437,6 +437,13 @@ beside a phylogenetic tree; for example, in Figure 13 we plotted presence/absenc
 non-genetic data that we have about the isolates (known as **'metadata'**), such as the exact location or date of collection of the isolates, or
 the serogroup or antimicrobial resistance phenotypes of isolates as determined by laboratory tests.
 
+.. image:: Activity.png
+  :width: 1050
+
+* Watch a `talk by Dr Nick Thomoson, a researcher in cholera at the Wellcome Sanger Institute, UK, on "Demystifying cholera global epidemiology"`_ (53 minutes).
+
+.. _talk by Dr Nick Thomoson, a researcher in cholera at the Wellcome Sanger Institute, UK, on "Demystifying cholera global epidemiology": https://www.youtube.com/watch?v=4Z_M8J8RfTs
+
 Diarrhoeal Illness Caused by Epidemic and Non-epidemic Lineages of *V. cholerae*
 --------------------------------------------------------------------------------
 
