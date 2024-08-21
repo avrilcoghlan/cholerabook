@@ -59,7 +59,7 @@ or places in which there is a humanitarian crisis (e.g. an earthquake or war) th
 Examples are Haiti, where there was a cholera epidemic from 2010-2019 which began shortly after a massive earthquake that occurred in 2010, 
 and Yemen, which has suffered a cholera epidemic from 2016 up until the present during its ongoing civil war. 
 
-.. figure:: ContaminatedWater.jpg
+.. figure:: ContaminatedWater.png
   :width: 350
 
   Figure 3. Water from a lake in Uganda that was implicated in a cholera outbreak during June–July 2015. Image credit: `Pande et al 2018`_. Permission details: `Creative Commons Attribution License`_.
