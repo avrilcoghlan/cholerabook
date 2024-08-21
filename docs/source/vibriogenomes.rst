@@ -78,7 +78,7 @@ Isolates of the current pandemic lineage (**'7PET lineage'**) of *V. cholerae* a
 .. figure:: CholeraToxin.jpg
   :width: 450
 
-  Figure 4. Cholera toxin is a protein complex that consists of one CtxA protein bound to five CtxB proteins. This image shows the structure formed by the five CtxB proteins. Image credit: Visualisation author Wikipedia user Astrojan; depositors of the `CtxA protein structure in the PDB database`_: E.A. Merritt & W.G.J. Hol. 
+  Figure 4. Cholera toxin is a protein complex that consists of one CtxA protein bound to five CtxB proteins. This image shows the structure formed by the five CtxB proteins. Image credit: Visualisation author Wikipedia user Astrojan; depositors of the `CtxA protein structure in the PDB database`_: E.A. Merritt & W.G.J. Hol. Permission details: `Creative Commons Attribution License`_.
 
 .. _CtxA protein structure in the PDB database: https://www.rcsb.org/structure/1chq
 
