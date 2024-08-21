@@ -45,7 +45,7 @@ lineage, which is the genetic subtype of *V. cholerae* responsible for all major
 .. _Nelson et al 2009: https://pubmed.ncbi.nlm.nih.gov/19756008/
 
 .. figure:: 7PET_LifeCycle.png
-  :width: 1150
+  :width: 1250
 
   Figure 2. Amplification of transmission by human-to-human spread for the current pandemic lineage (7PET lineage) of *V. cholerae*. On ingestion of *V. cholerae* of the current pandemic lineage (7PET lineage) in contaminated food or water (1), the *V. cholerae* 7PET bacteria colonise the small intestine (2), multiply, secrete cholera toxin, and are then shed back into the environment by the host in diarrhoea (3). The *V. cholerae* 7PET bacteria shed in the stool are in a transient hyperinfectious state that serves to amplify the outbreak by promoting transmission to further human hosts (4). Some scientists have hypothesised that 7PET bacteria may persist for years in aquatic environments (e.g. `Mavian et al 2023`_), forming biofilms on biological surfaces and using chitin as a carbon and nitrogen source (5); however, the ability of 7PET to persist long-term in the environment (5) and to seed new outbreaks (6) is still under scientific debate. Image source: A. Coghlan. Permission details: `Creative Commons Attribution License`_.
 
