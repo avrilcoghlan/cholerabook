@@ -452,7 +452,7 @@ Practically 100% of 7PET isolates produce cholera toxin. Some isolates from non-
 .. figure:: Lineages.png
   :width: 400
 
-  Figure 13. A phylogenetic tree of some of the known lineages of *V. cholerae*, showing which lineages are predicted to produce cholera toxin, based on presence of the genes encoding cholera toxin). Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9.
+  Figure 13. A phylogenetic tree of some of the known lineages of *V. cholerae*, showing which lineages are predicted to produce cholera toxin, based on presence of the genes encoding cholera toxin). Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9. Permission details: `Creative Commons Attribution License v4.0`_.
 
 Later in the course you will be learning a lot about how to build phylogenetic trees yourself, and how to interpret
 them to investigate the relationships between different subtypes of 7PET that have caused different 7PET outbreaks, and to
