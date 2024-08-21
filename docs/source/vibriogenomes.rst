@@ -206,7 +206,7 @@ an inner core oligosaccharide, and Lipid A (Figure 8).
 
   Figure 8. Structure of a lipopolysaccharide. Image credit: Mike Jones, via Wikipedia. Permission details: `Creative Commons Attribution Sharealike License v3.0`_.
 
-_Creative Commons Attribution Sharealike License v3.0: https://creativecommons.org/licenses/by-sa/3.0/
+.. _Creative Commons Attribution Sharealike License v3.0: https://creativecommons.org/licenses/by-sa/3.0/
 
 Since the 1930s, *V. cholerae* isolates have been classified into **'serogroups'** on the basis of the antigenicity of the O-antigen in their LPS (`Murase et al 2022`_).
 So far 210 different serogroups have been identified within *V. cholerae*, named
