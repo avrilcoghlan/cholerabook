@@ -27,7 +27,7 @@ found in marine niches (`Boyd et al 2015`_).
 .. figure:: Vibrio_cholerae.jpg
   :width: 350
 
-  Figure 1. The bacterium *V. cholerae*. Image credit: Tom Kirn, Ron Taylor, Louisa Howard - Dartmouth Electron Microscope Facility, via Wikipedia.
+  Figure 1. An electron microscope image of the bacterium *V. cholerae*. Image credit: Tom Kirn, Ron Taylor, Louisa Howard - Dartmouth Electron Microscope Facility, via Wikipedia. Permission details: Public Domain by Dartmouth Electron Microscope Facility.
 
 The *V. cholerae* bacterium is usually transmitted by the faecal-oral route, that is, 
 people usually catch cholera by eating food or by drinking water that has been contaminated
