@@ -124,7 +124,7 @@ they usually present similar biological features, such as a specific pattern of 
 .. figure:: ClonalSpecies.png
   :width: 150
 
-  Figure 5. The population structure of a bacterial species can contain genetically distinguishable lineages. Five different lineages are represented by the blue, orange, green, pink, and red circles. Image credit: A. Coghlan, inspired by Figure 1.2 in `Bacigalupe 2017`_.
+  Figure 5. The population structure of a bacterial species can contain genetically distinguishable lineages. Five different lineages are represented by the blue, orange, green, pink, and red circles. Image credit: A. Coghlan, inspired by Figure 1.2 in `Bacigalupe 2017`_. Permission details: `Creative Commons Attribution License`_.
 
 .. _Bacigalupe 2017: https://era.ed.ac.uk/handle/1842/31266
 
