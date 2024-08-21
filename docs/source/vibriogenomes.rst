@@ -340,7 +340,7 @@ The third cholera pandemic played a key role in this history of Epidemiology and
 .. figure:: SnowCholeraMap.png
   :width: 500
 
-  Figure 10. Map of cholera cases in London in 1854 made by the doctor John Snow during the 3rd historically recorded cholera pandemic. Cholera cases are highlighted in black. The Broad Street pump is indicated with a red dot. Image credit: Adapted by A. Coghlan from the original map made by John Snow in 1854, obtained from Wikipedia.
+  Figure 10. Map of cholera cases in London in 1854 made by the doctor John Snow during the 3rd historically recorded cholera pandemic. Cholera cases are highlighted in black. The Broad Street pump is indicated with a red dot. Image credit: Adapted by A. Coghlan from the original map made by John Snow in 1854, obtained from Wikipedia. Permission details for John Snow's original map: Public Domain.
 
 Snow's very thorough cholera outbreak investigation, which he published in 1855 (`Snow 1855`_), is still considered an excellent example of how accurate and informative data, and careful data analysis, are extremely important for making good public health decisions. Later in this course, we will be analysing data from more recent cholera outbreaks, using different data sources than John Snow had (e.g. whole-genome sequencing data). 
 
@@ -379,7 +379,9 @@ In contrast, Classical lineage isolates have the Classical biotype.
 .. figure:: Biotype.png
   :width: 600
 
-  Figure 11. Laboratory tests used to determine the 'biotype' of *V. cholerae*, a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing Classical or 7PET lineages. Isolates of the Classical lineage have the Classical biotype, and isolates of the 7PET lineage have the El Tor biotype. Image credit: from Table 1.1 in `Dorman 2020`_.  
+  Figure 11. Laboratory tests used to determine the 'biotype' of *V. cholerae*, a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing Classical or 7PET lineages. Isolates of the Classical lineage have the Classical biotype, and isolates of the 7PET lineage have the El Tor biotype. Image credit: from Table 1.1 in `Dorman 2020`_. Permission details: `Creative Commons Attribution License v4.0`_.
+
+.. _Creative Commons Attribution License v4.0: https://creativecommons.org/licenses/by/4.0/
 
 .. _Dorman 2020: https://www.sanger.ac.uk/theses/md25-thesis.pdf
 
