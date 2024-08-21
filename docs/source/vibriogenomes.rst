@@ -47,11 +47,13 @@ lineage, which is the genetic subtype of *V. cholerae* responsible for all major
 .. figure:: 7PET_LifeCycle.png
   :width: 1350
 
-  Figure 2. Amplification of transmission by human-to-human spread for the current pandemic lineage (7PET lineage) of *V. cholerae*. On ingestion of *V. cholerae* of the current pandemic lineage (7PET lineage) in contaminated food or water (1), the *V. cholerae* 7PET bacteria colonise the small intestine (2), multiply, secrete cholera toxin, and are then shed back into the environment by the host in diarrhoea (3). The *V. cholerae* 7PET bacteria shed in the stool are in a transient hyperinfectious state that serves to amplify the outbreak by promoting transmission to further human hosts (4). Some scientists have hypothesised that 7PET bacteria may persist for years in aquatic environments (e.g. `Mavian et al 2023`_), forming biofilms on biological surfaces and using chitin as a carbon and nitrogen source (5); however, the ability of 7PET to persist long-term in the environment (5) and to seed new outbreaks (6) is still under scientific debate. Image source: A. Coghlan. Permission details: `Creative Commons Attribution License`_.
+  Figure 2. Amplification of transmission by human-to-human spread for the current pandemic lineage (7PET lineage) of *V. cholerae*. On ingestion of *V. cholerae* of the current pandemic lineage (7PET lineage) in contaminated food or water (1), the *V. cholerae* 7PET bacteria colonise the small intestine (2), multiply, secrete cholera toxin, and are then shed back into the environment by the host in diarrhoea (3). The *V. cholerae* 7PET bacteria shed in the stool are in a transient hyperinfectious state that serves to amplify the outbreak by promoting transmission to further human hosts (4). Some scientists have hypothesised that 7PET bacteria may persist for years in aquatic environments (e.g. `Mavian et al 2023`_), forming biofilms on biological surfaces and using chitin as a carbon and nitrogen source (5); however, the ability of 7PET to persist long-term in the environment (5) and to seed new outbreaks (6) is still under scientific debate. Image source: A. Coghlan. Permission details: `Creative Commons Attribution License v4.0`_.
 
 .. _Nelson et al 2009: https://pubmed.ncbi.nlm.nih.gov/19756008/
 
 .. _Mavian et al 2023: https://pubmed.ncbi.nlm.nih.gov/37735743/
+
+.. _Creative Commons Attribution License v4.0: https://creativecommons.org/licenses/by/4.0/
 
 Cholera outbreaks typically occur in places where there is poor access
 to clean water and poor sewage infrastructure (Figure 3). These include low-income settings in which there is poor water and sanitation infrastructure, 
@@ -62,11 +64,11 @@ and Yemen, which has suffered a cholera epidemic from 2016 up until the present 
 .. figure:: ContaminatedWater.png
   :width: 350
 
-  Figure 3. Water from a lake in Uganda that was implicated in a cholera outbreak during June–July 2015. Image credit: `Pande et al 2018`_. Permission details: `Creative Commons Attribution License`_.
+  Figure 3. Water from a lake in Uganda that was implicated in a cholera outbreak during June–July 2015. Image credit: `Pande et al 2018`_. Permission details: `Creative Commons Attribution License v4.0`_.
 
 .. _Pande et al 2018: https://pubmed.ncbi.nlm.nih.gov/29949592/
 
-.. _Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/
+.. _Creative Commons Attribution License v4.0: https://creativecommons.org/licenses/by/4.0/
 
 Once ingested by a human host, the *V. cholerae* bacteria multiply in the human intestine. The
 bacteria attach to the epithelial cells of the intestine and release **cholera toxin** (abbreviated as Ctx, CTX, or CT; Figure 4). Cholera toxin 
@@ -78,9 +80,11 @@ Isolates of the current pandemic lineage (**'7PET lineage'**) of *V. cholerae* a
 .. figure:: CholeraToxin.jpg
   :width: 450
 
-  Figure 4. Cholera toxin is a protein complex that consists of one CtxA protein bound to five CtxB proteins. This image shows the structure formed by the five CtxB proteins. Image credit: Visualisation author Wikipedia user Astrojan; depositors of the `CtxA protein structure in the PDB database`_: E.A. Merritt & W.G.J. Hol. Permission details: `Creative Commons Attribution License`_.
+  Figure 4. Cholera toxin is a protein complex that consists of one CtxA protein bound to five CtxB proteins. This image shows the structure formed by the five CtxB proteins. Image credit: Visualisation author Wikipedia user Astrojan; depositors of the `CtxA protein structure in the PDB database`_: E.A. Merritt & W.G.J. Hol. Permission details: `Creative Commons Attribution License v4.0`_.
 
 .. _CtxA protein structure in the PDB database: https://www.rcsb.org/structure/1chq
+
+.. _Creative Commons Attribution License v4.0: https://creativecommons.org/licenses/by/4.0/
 
 Note that *V. cholerae* is not the only pathogen that can cause acute watery diarrhoea; similar symptoms also be caused by other bacteria
 such as enterotoxigenic *E. coli* (ETEC). 
@@ -124,20 +128,24 @@ they usually present similar biological features, such as a specific pattern of 
 .. figure:: ClonalSpecies.png
   :width: 150
 
-  Figure 5. The population structure of a bacterial species can contain genetically distinguishable lineages. Five different lineages are represented by the blue, orange, green, pink, and red circles. Image credit: A. Coghlan, inspired by Figure 1.2 in `Bacigalupe 2017`_. Permission details: `Creative Commons Attribution License`_.
+  Figure 5. The population structure of a bacterial species can contain genetically distinguishable lineages. Five different lineages are represented by the blue, orange, green, pink, and red circles. Image credit: A. Coghlan, inspired by Figure 1.2 in `Bacigalupe 2017`_. Permission details: `Creative Commons Attribution License v4.0`_.
 
 .. _Bacigalupe 2017: https://era.ed.ac.uk/handle/1842/31266
+
+.. _Creative Commons Attribution License v4.0: https://creativecommons.org/licenses/by/4.0/
 
 The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages. Figure 6 shows what is known about the global distribution of just two of the many lineages of *V. cholerae*.
 
 .. figure:: LineageDistributions.png
   :width: 1050
 
-  Figure 6. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, reflecting the far greater public health importance of 7PET, which has led to more sequencing of this lineage from the stool of sick people. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image source: A. Coghlan, based on a screenshot from `Vibriowatch`_. Permission details: `Creative Commons Attribution License`_.
+  Figure 6. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, reflecting the far greater public health importance of 7PET, which has led to more sequencing of this lineage from the stool of sick people. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image source: A. Coghlan, based on a screenshot from `Vibriowatch`_. Permission details: `Creative Commons Attribution License v4.0`_.
 
 .. _Vibriowatch: https://vibriowatch.readthedocs.io
 
 .. _PopPUNK: https://pubmed.ncbi.nlm.nih.gov/30679308/
+
+.. _Creative Commons Attribution License v4.0: https://creativecommons.org/licenses/by/4.0/
 
 There is only one lineage of *V. cholerae* which causes epidemic cholera at present.
 This lineage is known as the **'7PET'** lineage. What do we mean when we say 7PET causes **'epidemic cholera'**?
@@ -179,9 +187,11 @@ such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7).
 .. figure:: VibrioCholeraeInSea.png
   :width: 750
 
-  Figure 7. Non-epidemic lineages of *V. cholerae* such as the MX-2 lineage are part of the bacterioplankton in aquatic environments. The non-epidemic *V. cholerae* are under risk of predation by protozoa and bacteriophages (viruses). These non-epidemic *V. cholerae* can attach to other organisms such as phytoplankton, macroalgae, chitinous zooplankton, and gelatinous egg masses, which may provide sources of nutrients for the non-epidemic *V. cholerae*. Fish and birds feed on plankton and mussels that might harbour non-epidemic *V. cholerae*. In contrast to the non-epidemic lineages of *V. cholerae*, as we mentioned above (Figure 2 above), long-term persistance of 7PET in aquatic environments is a controversial scientific question and is still under active debate. Image credit: Adapted by A. Coghlan from Figure 3 in `Lutz et al 2013`_.
+  Figure 7. Non-epidemic lineages of *V. cholerae* such as the MX-2 lineage are part of the bacterioplankton in aquatic environments. The non-epidemic *V. cholerae* are under risk of predation by protozoa and bacteriophages (viruses). These non-epidemic *V. cholerae* can attach to other organisms such as phytoplankton, macroalgae, chitinous zooplankton, and gelatinous egg masses, which may provide sources of nutrients for the non-epidemic *V. cholerae*. Fish and birds feed on plankton and mussels that might harbour non-epidemic *V. cholerae*. In contrast to the non-epidemic lineages of *V. cholerae*, as we mentioned above (Figure 2 above), long-term persistance of 7PET in aquatic environments is a controversial scientific question and is still under active debate. Image credit: Adapted by A. Coghlan from Figure 3 in `Lutz et al 2013`_. Permission details for original figure in `Lutz et al 2013`_: `Creative Commons Attribution License v3.0`_.
 
 .. _Lutz et al 2013: https://pubmed.ncbi.nlm.nih.gov/24379807/
+
+.. _Creative Commons Attribution License v3.0: https://creativecommons.org/licenses/by/3.0/
 
 Serogroups of *V. cholerae*
 ---------------------------
