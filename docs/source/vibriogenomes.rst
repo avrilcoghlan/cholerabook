@@ -88,11 +88,13 @@ Isolates of the current pandemic lineage (**'7PET lineage'**) of *V. cholerae* a
 .. figure:: CholeraToxin.jpg
   :width: 450
 
-  Figure 4. Cholera toxin is a protein complex that consists of one CtxA protein bound to five CtxB proteins. This image shows the structure formed by the five CtxB proteins. Image credit: Visualisation author Wikipedia user Astrojan; depositors of the `CtxA protein structure in the PDB database`_: E.A. Merritt & W.G.J. Hol. Permission details: this image by `Creative Commons Attribution License v4.0`_.
+  Figure 4. `Cholera toxin B pentamer, Vibrio cholerae`_. Cholera toxin is a protein complex that consists of one CtxA protein bound to five CtxB proteins. This image shows the structure formed by the five CtxB proteins. Image attribution: this image was created by Wikipedia user Astrojan based on the `CtxB protein structure`_ deposited in the PDB database by E.A. Merritt & W.G.J. Hol, and is licensed under `_CC BY 4.0`_.
 
-.. _CtxA protein structure in the PDB database: https://www.rcsb.org/structure/1chq
+.. _Cholera toxin B pentamer, Vibrio cholerae: https://en.wikipedia.org/wiki/File:1chq.jpg
 
-.. _Creative Commons Attribution License v4.0: https://creativecommons.org/licenses/by/4.0/
+.. _CtxB protein structure: https://www.rcsb.org/structure/1chq
+
+.. __CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
 Note that *V. cholerae* is not the only pathogen that can cause acute watery diarrhoea; similar symptoms also be caused by other bacteria
 such as enterotoxigenic *E. coli* (ETEC). 
