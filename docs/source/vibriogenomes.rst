@@ -200,20 +200,16 @@ such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7).
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
-.. figure:: VibrioCholeraeInSea.png
+.. figure:: VibrioCholeraeInSea.jpg
   :width: 750
 
-  Figure 7. Non-epidemic lineages of *V. cholerae* such as the MX-2 lineage are part of the bacterioplankton in aquatic environments. The non-epidemic *V. cholerae* are under risk of predation by protozoa and bacteriophages (viruses). These non-epidemic *V. cholerae* can attach to other organisms such as phytoplankton, macroalgae, chitinous zooplankton, and gelatinous egg masses, which may provide sources of nutrients for the non-epidemic *V. cholerae*. Fish and birds feed on plankton and mussels that might harbour non-epidemic *V. cholerae*. In contrast to the non-epidemic lineages of *V. cholerae*, as we mentioned above (Figure 2 above), long-term persistance of 7PET in aquatic environments is a controversial scientific question and is still under active debate. Image attribution: this image is adapted from `Figure 3 - Vibrio cholerae interactions with other organisms and the environment`_ by `Lutz et al 2013`_, used under license `CC BY 3.0`_. This image is licensed under `CC BY 4.0`_ by `Avril Coghlan`_.
+  Figure 7. `Vibrio cholerae interactions with other organisms and the environment`_. Non-epidemic lineages of *V. cholerae* such as the MX-2 lineage are part of the bacterioplankton in aquatic environments. The non-epidemic *V. cholerae* are under risk of predation by protozoa and bacteriophages (viruses). These non-epidemic *V. cholerae* can attach to other organisms such as phytoplankton, macroalgae, chitinous zooplankton, and gelatinous egg masses, which may provide sources of nutrients for the non-epidemic *V. cholerae*. Fish and birds feed on plankton and mussels that might harbour non-epidemic *V. cholerae*. Under unfavourable conditions, such as low temperature and low nutrient conditions, non-epidemic *V. cholerae* enter a 'viable but non-culturable' (VBNC) state. In contrast to the non-epidemic lineages of *V. cholerae*, as we mentioned above (Figure 2 above), long-term persistance of 7PET in aquatic environments is a controversial scientific question and is still under active debate. Image attribution: this image by `Lutz et al 2013`_ is licensed under `CC BY 3.0`_.
 
-.. _Figure 3 - Vibrio cholerae interactions with other organisms and the environment: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2013.00375/full
+.. _Vibrio cholerae interactions with other organisms and the environment: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2013.00375/full
 
 .. _Lutz et al 2013: https://pubmed.ncbi.nlm.nih.gov/24379807/
 
 .. _CC BY 3.0: https://creativecommons.org/licenses/by/3.0/
-
-.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
-
-.. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
 Serogroups of *V. cholerae*
 ---------------------------
