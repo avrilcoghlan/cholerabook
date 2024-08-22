@@ -411,11 +411,15 @@ In contrast, Classical lineage isolates have the Classical biotype.
 .. figure:: Biotype.png
   :width: 600
 
-  Figure 11. Laboratory tests used to determine the 'biotype' of *V. cholerae*, a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing Classical or 7PET lineages. Isolates of the Classical lineage have the Classical biotype, and isolates of the 7PET lineage have the El Tor biotype. Image credit: from Table 1.1 in `Dorman 2020`_. Permission details: `Creative Commons Attribution License v4.0`_.
+  Figure 11. `Summary of V. cholerae O1 biotyping phenotypes`_. Laboratory tests are used to determine the 'biotype' of *V. cholerae*, a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing Classical or 7PET lineages. Isolates of the Classical lineage have the Classical biotype, and isolates of the 7PET lineage have the El Tor biotype. Image attribution: this image by `Matt Dorman`_, based on Table 1.1 in `Dorman 2020`_, is licensed under `CC BY 4.0`_. 
 
-.. _Creative Commons Attribution License v4.0: https://creativecommons.org/licenses/by/4.0/
+.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+.. _Matt Dorman: https://www.universityofgalway.ie/our-research/people/mathematical-statistical-sciences/matthewdorman/
 
 .. _Dorman 2020: https://www.sanger.ac.uk/theses/md25-thesis.pdf
+
+.. _Summary of V. cholerae O1 biotyping phenotypes: https://www.sanger.ac.uk/theses/md25-thesis.pdf
 
 Although the lineage causing the 7th pandemic, 7PET, shows the El Tor biotype in laboratory tests, some 
 non-epidemic lineages of *V. cholerae* also show the El Tor biotype in laboratory biotyping tests (e.g. *V. cholerae* isolates TM11079-80 and 12129(1), which both have the El Tor
