@@ -653,7 +653,7 @@ the `WHO's Global Cholera and Acute Watery Diarrhoea (AWD) Dashboard`_.
 .. figure:: CholeraCasesMap2.png
   :width: 800
 
-  Figure 17. `Global Burden of Cholera in Endemic Countries`_. Annual number of cholera cases in endemic countries. These numbers are estimated number of cholera cases, rather than reported cases, as many cholera cases are not reported to the WHO (see `Ali et al 2015`_ for details on how the estimates were calculated). Image attribution: this image by `Ali et al 2015`_ is licensed under `CC BY 4.0`_.
+  Figure 17. `Global Burden of Cholera in Endemic Countries`_. Annual number of cholera cases in endemic countries. These numbers are estimated number of cholera cases, rather than reported cases, as many cholera cases are not reported to the public health organisations such as the WHO (see `Ali et al 2015`_ for details on how the estimates were calculated). Image attribution: this image by `Ali et al 2015`_ is licensed under `CC BY 4.0`_.
 
 .. _Ali et al 2015: https://pubmed.ncbi.nlm.nih.gov/26043000/
 
