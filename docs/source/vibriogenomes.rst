@@ -627,20 +627,35 @@ sublineages later in the course, but for the moment you don't need to remember t
 
 .. _Intercontinental transmissions of the seventh pandemic lineage of V. cholerae El Tor (7PET): https://comptes-rendus.academie-sciences.fr/biologies/articles/10.5802/crbiol.77/
 
-Since 2010, there has been further spread of 7PET, both within countries and regions, and between countries and continents. Figure 17
-shows a recent map of the global distribution of cholera cases. 
 As mentioned above, cholera is spread by the faecal-oral route, and so the most likely explanation is that 7PET has been 
 spread by human travel. For example, there is overwhelming evidence that the Haiti cholera epidemic from 2010-2019 was due
 to individuals infected by 7PET in a foreign country travelling to Haiti (`Orata et al 2014`_). 
 
 .. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
 
+Figure 17 shows a map of the global distribution of cholera cases in 'cholera-endemic' countries published by `Ali et al 2015`_. In these countries, there are relatively frequent cholera outbreaks, and so cholera is considered 'endemic'.
+The WHO has a technical definition of a 'cholera-endemic area': 
+"an area where confirmed cholera cases were detected during the last 3 years with evidence of local transmission (meaning the cases are not imported from elsewhere)"
+(`WHO 2024`_, accessed 18th July 2024). 
+The WHO also provides detailed technical guidance on what it considers to be 
+a 'locally acquired cholera case' versus an 'imported cholera case' (see `WHO 2023`_).
+
+.. _WHO 2024: https://www.who.int/news-room/fact-sheets/detail/cholera
+
+.. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
+
+.. _Ali et al 2015: https://pubmed.ncbi.nlm.nih.gov/26043000/
+
 .. figure:: CholeraCasesMap.png
   :width: 800
 
-  Figure 17. Cholera and Acute Watery Diarrhoea cumulative cases reported to the WHO since January 2024. Image source: `WHO Global Cholera and Acute Watery Diarrhoea Dashboard`_ (accessed 2nd August 2024).
+  Figure 17. `Global Burden of Cholera in Endemic Countries`_. Annual number of cholera cases in endemic countries. Image attribution: this image by `Ali et al 2015`_ is licensed under `CC BY 4.0`_.
 
-.. _WHO Global Cholera and Acute Watery Diarrhoea Dashboard: https://who-global-cholera-and-awd-dashboard-1-who.hub.arcgis.com/
+.. _Ali et al 2015: https://pubmed.ncbi.nlm.nih.gov/26043000/
+
+.. _Global Burden of Cholera in Endemic Countries: https://journals.plos.org/plosntds/article/figure?id=10.1371/journal.pntd.0003832.g002
+
+.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
 The *V. cholerae* Genome and Whole-Genome Sequencing (WGS) of *V. cholerae*
 ---------------------------------------------------------------------------
