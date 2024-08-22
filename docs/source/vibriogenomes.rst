@@ -70,7 +70,9 @@ and Yemen, which has suffered a cholera epidemic from 2016 up until the present 
 .. figure:: ContaminatedWater.png
   :width: 350
 
-  Figure 3. Water from a lake in Uganda that was implicated in a cholera outbreak during June–July 2015. Image authors: `Pande et al 2018`_. Permission details: `CC BY 4.0`_.
+  Figure 3. `Water-collection site X on the shore of Lake Edward, Katwe Village, south-western Uganda`_. Water from this lake in Uganda that was implicated in a cholera outbreak during June–July 2015. Image attribution: this image by `Pande et al 2018`_ is licensed under `CC BY 4.0`_.
+
+.. _Water-collection site X on the shore of Lake Edward, Katwe Village, south-western Uganda: https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0198431.g003
 
 .. _Pande et al 2018: https://pubmed.ncbi.nlm.nih.gov/29949592/
 
