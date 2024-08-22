@@ -136,7 +136,7 @@ they usually present similar biological features, such as a specific pattern of 
 .. _Bacigalupe 2017: https://era.ed.ac.uk/handle/1842/31266
 
 .. figure:: ClonalSpecies.png
-  :width: 150
+  :width: 350
 
   Figure 5. The population structure of a bacterial species can contain genetically distinguishable lineages. Five different lineages are represented by the blue, orange, green, pink, and red circles. The top two circles (blue circles) represent two isolates that are highly similar genetically so are considered to belong to the same lineage (lineage 1). Similarly, the next two circles (orange circles) represent two additional isolates that are highly similar genetically to each other, but are relatively distant genetically from lineage 1, so are considered to belong to a separate lineage (lineage 2). Image attribution: this image by `Avril Coghlan`_, inspired by Figure 1.2 in `Bacigalupe 2017`_, is licensed under `CC BY 4.0`_.
 
@@ -149,13 +149,15 @@ The species *V. cholerae* is distributed globally, and is a very diverse species
 .. figure:: LineageDistributions.png
   :width: 1050
 
-  Figure 6. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, reflecting the far greater public health importance of 7PET, which has led to more sequencing of this lineage from the stool of sick people. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image source: A. Coghlan, based on a screenshot from `Vibriowatch`_. Permission details: `Creative Commons Attribution License v4.0`_.
+  Figure 6. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, reflecting the far greater public health importance of 7PET, which has led to more sequencing of this lineage from the stool of sick people. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image attribution: this image by `Avril Coghlan`_, based on a screenshot from the `Pathogenwatch website`_, is licensed under `CC BY 4.0`_.
+
+.. _Pathogenwatch website: https://pathogen.watch/
 
 .. _Vibriowatch: https://vibriowatch.readthedocs.io
 
 .. _PopPUNK: https://pubmed.ncbi.nlm.nih.gov/30679308/
 
-.. _Creative Commons Attribution License v4.0: https://creativecommons.org/licenses/by/4.0/
+.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
 There is only one lineage of *V. cholerae* which causes epidemic cholera at present.
 This lineage is known as the **'7PET'** lineage. What do we mean when we say 7PET causes **'epidemic cholera'**?
