@@ -547,7 +547,7 @@ compared to 7PET.
 Indeed, compared to cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L9 and other non-epidemic
 *V. cholerae* lineages are far smaller and in general cause relatively milder diarrhoeal illness (`Glenn Morris 1990`_, `Glenn Morris 2003`_).
 In contrast, the cholera epidemic in Yemen that began in 2016 (and is still continuing) caused
-approximately 2.5 million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`WHO 2020`_; Figure 15).
+approximately 2.5 million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`Ng et al 2020`_, `WHO 2020`_; Figure 15).
 
 .. _Glenn Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
 
@@ -555,10 +555,12 @@ approximately 2.5 million suspected cholera cases and appproximately 4000 deaths
 
 .. _WHO 2020: https://applications.emro.who.int/docs/WHOEMCSR314E-eng.pdf
 
+.. _Ng et al 2020: https://pubmed.ncbi.nlm.nih.gov/32752599/
+
 .. figure:: YemenCholera2.png
   :width: 800
 
-  Figure 15. `Total number of suspected cholera cases in Yemen and associated case-fatality rate (CFR) from 2009 to 2019`_. Whole-genome sequencing of isolates from the Yemen epidemic has revealed that the majority (92%) of clinical isolates in Yemen belonged to the 7PET lineage (`Lassalle et al 2023`_).  Image attribution: this image by `Ng et al 2020`_ is licensed under `CC BY-NC 4.0`_.
+  Figure 15. `Total number of suspected cholera cases in Yemen and associated case-fatality rate (CFR) from 2009 to 2019`_. Whole-genome sequencing of isolates from the Yemen epidemic has revealed that the majority (92%) of clinical isolates in Yemen belonged to the 7PET lineage (`Lassalle et al 2023`_). Image attribution: this image by `Ng et al 2020`_ is licensed under `CC BY-NC 4.0`_.
 
 .. _Total number of suspected cholera cases in Yemen and associated case-fatality rate (CFR) from 2009 to 2019: https://www.jpmph.org/journal/view.php?doi=10.3961/jpmph.20.154
 
@@ -586,7 +588,7 @@ does not appear to have been epidemic-causing for the first half of the 1900s (`
 lineage was sometimes associated with the human population, and was accumulating evolutionary changes (mutations; `Hu et al 2016`_).
 It wasn't until 1961 that the 7th pandemic began, with many cases of cholera caused by 7PET occurring in Indonesia (`Hu et al 2016`_, `Mutreja & Dougan 2020`_).
 From Indonesia, 7PET spread to the Bay of Bengal region of India and Bangladesh, and subsequently between the 1960s and 2010 7PET then spread outward from the Bay of Bengal  
-to large regions of the world in three overlapping waves (`Mutreja et al 2011`_; Figure 16). 
+to large regions of the world in three 'waves' that overlapped in time but were genetically distinct subtypes of 7PET (`Mutreja et al 2011`_, `Ramamurthy et al 2019`_, `Rouard et al 2022`_; Figure 16). 
 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
 
@@ -596,12 +598,34 @@ to large regions of the world in three overlapping waves (`Mutreja et al 2011`_;
 
 .. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
 
-.. figure:: 7PET_Spread.jpg
-  :width: 800
+.. _Rouard et al 2022: https://pubmed.ncbi.nlm.nih.gov/35787619/
 
-  Figure 16. Between the 1960s and 2010, 7PET spread outward globally from the Bay of Bengal region (highlighted with a pale blue oval), in three overlapping waves of spread. Wave 1 is shown in dark blue, wave 2 in green, and wave 3 in red. Image credit: `Mutreja et al 2011`_.
+.. _Ramamurthy et al 2019: https://pubmed.ncbi.nlm.nih.gov/31396501/
+
+From 1961 to 1991, the 'wave 1' genetic subtype of 7PET spread from Indonesia
+to the Bay of Bengal and then to Africa and Latin America (`Mutreja et al 2011`_, `Ramamurthy et al 2019`_, `Rouard et al 2022`_; Figure 16). 
+Between 1978 and 1984, the 'wave 2' genetic subtype of 7PET, which was genetically distinct from the wave 1 isolates, was common (`Ramamurthy et al 2019`_). Wave 2 isolates were first
+seen in India, and then the 'wave 2' genetic subtype spread to Africa the Americas (`Mutreja et al 2011`_, `Ramamurthy et al 2019`_, `Rouard et al 2022`_; Figure 16).
+A third genetically distinct subtype, 'wave 3', was seen from 1991 to the present, and has also spread to Africa and the Americas (`Mutreja et al 2011`_, `Ramamurthy et al 2019`_, `Rouard et al 2022`_; Figure 16). 
+Based on genetic information, each of these three genetically subtypes (waves 1, 2, 3) has been further subdivided into 7PET *sublineages*, as shown in Figure 16; we will mention some of these
+sublineages later in the course, but for the moment you don't need to remember their names.
 
 .. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
+
+.. _Rouard et al 2022: https://pubmed.ncbi.nlm.nih.gov/35787619/
+
+.. _Ramamurthy et al 2019: https://pubmed.ncbi.nlm.nih.gov/31396501/
+
+.. figure:: 7PET_Spread2.jpg
+  :width: 1300
+
+  Figure 16. `Intercontinental transmissions of the seventh pandemic lineage of V. cholerae El Tor (7PET)`_. Between the 1960s and 2010, 7PET spread outward globally from the Bay of Bengal region (highlighted with a green oval), in three overlapping waves of spread. Introductions of the various sublineages (genetic subtypes) of the 7PET lineage are represented by solid coloured lines (or dotted lines if the direction of transmission is uncertain). The estimated dates of introduction of the sublineages are shown. (A) shows spread of wave 1 sublineages of the 7PET lineage, (B) shows wave 2 sublineages of 7PET, and (C) wave 3 sublineages of 7PET.  Image attribution: this image by `Rouard et al 2022`_ is licensed under `CC BY 4.0`_.
+
+.. _Rouard et al 2022: https://pubmed.ncbi.nlm.nih.gov/35787619/
+
+.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+.. _Intercontinental transmissions of the seventh pandemic lineage of V. cholerae El Tor (7PET): https://comptes-rendus.academie-sciences.fr/biologies/articles/10.5802/crbiol.77/
 
 Since 2010, there has been further spread of 7PET, both within countries and regions, and between countries and continents. Figure 17
 shows a recent map of the global distribution of cholera cases. 
