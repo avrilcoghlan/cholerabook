@@ -639,12 +639,16 @@ The WHO has a technical definition of a 'cholera-endemic area':
 (`WHO 2024`_, accessed 18th July 2024). 
 The WHO also provides detailed technical guidance on what it considers to be 
 a 'locally acquired cholera case' versus an 'imported cholera case' (see `WHO 2023`_).
+To see an up-to-date map of cholera cases reported to the WHO in recent months, you can see
+the `WHO's Global Cholera and Acute Watery Diarrhoea (AWD) Dashboard`_.
 
 .. _WHO 2024: https://www.who.int/news-room/fact-sheets/detail/cholera
 
 .. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
 
 .. _Ali et al 2015: https://pubmed.ncbi.nlm.nih.gov/26043000/
+
+.. _WHO's Global Cholera and Acute Watery Diarrhoea (AWD) Dashboard: https://who-global-cholera-and-awd-dashboard-1-who.hub.arcgis.com/
 
 .. figure:: CholeraCasesMap2.png
   :width: 800
