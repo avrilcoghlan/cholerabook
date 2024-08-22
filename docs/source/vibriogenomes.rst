@@ -27,9 +27,9 @@ found in marine niches (`Boyd et al 2015`_).
 .. figure:: Vibrio_cholerae.jpg
   :width: 350
 
-  Figure 1. `Transmission electron microscope image of *Vibrio cholerae* that has been negatively stained`_. Image credit: Tom Kirn, Ron Taylor, Louisa Howard - `Dartmouth Electron Microscope Facility`_, via Wikipedia. Permission details: Public Domain courtesy of `Dartmouth Electron Microscope Facility`_.
+  Figure 1. `Transmission electron microscope image of Vibrio cholerae that has been negatively stained`_. Image credit: Tom Kirn, Ron Taylor, Louisa Howard - `Dartmouth Electron Microscope Facility`_, via Wikipedia. Permission details: Public Domain courtesy of `Dartmouth Electron Microscope Facility`_.
 
-.. _Transmission electron microscope image of *Vibrio cholerae* that has been negatively stained: https://en.wikipedia.org/wiki/Vibrio_cholerae#/media/File:Vibrio_cholerae.jpg
+.. _Transmission electron microscope image of Vibrio cholerae that has been negatively stained: https://en.wikipedia.org/wiki/Vibrio_cholerae#/media/File:Vibrio_cholerae.jpg
 
 .. _Dartmouth Electron Microscope Facility: https://www.dartmouth.edu/emlab/
 
