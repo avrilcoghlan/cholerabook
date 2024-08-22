@@ -138,11 +138,11 @@ they usually present similar biological features, such as a specific pattern of 
 .. figure:: ClonalSpecies.png
   :width: 150
 
-  Figure 5. The population structure of a bacterial species can contain genetically distinguishable lineages. Five different lineages are represented by the blue, orange, green, pink, and red circles. Image credit: A. Coghlan, inspired by Figure 1.2 in `Bacigalupe 2017`_. Permission details: `Creative Commons Attribution License v4.0`_.
+  Figure 5. The population structure of a bacterial species can contain genetically distinguishable lineages. Five different lineages are represented by the blue, orange, green, pink, and red circles. The top two circles (blue circles) represent two isolates that are highly similar genetically so are considered to belong to the same lineage (lineage 1). Similarly, the next two circles (orange circles) represent two additional isolates that are highly similar genetically to each other, but are relatively distant genetically from lineage 1, so are considered to belong to a separate lineage (lineage 2). Image attribution: this image by `Avril Coghlan`_, inspired by Figure 1.2 in `Bacigalupe 2017`_, is licensed under `CC BY 4.0`_.
 
 .. _Bacigalupe 2017: https://era.ed.ac.uk/handle/1842/31266
 
-.. _Creative Commons Attribution License v4.0: https://creativecommons.org/licenses/by/4.0/
+.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
 The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages. Figure 6 shows what is known about the global distribution of just two of the many lineages of *V. cholerae*.
 
