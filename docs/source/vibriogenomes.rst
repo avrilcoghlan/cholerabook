@@ -27,7 +27,7 @@ found in marine niches (`Boyd et al 2015`_).
 .. figure:: Vibrio_cholerae.jpg
   :width: 350
 
-  Figure 1. `Transmission electron microscope image of Vibrio cholerae that has been negatively stained`_. Image attribution: This image by Tom Kirn, Ron Taylor and Louisa Howard of `Dartmouth Electron Microscope Facility`_ is in the Public Domain.
+  Figure 1. `Transmission electron microscope image of Vibrio cholerae that has been negatively stained`_. Image attribution: this image by Tom Kirn, Ron Taylor and Louisa Howard of `Dartmouth Electron Microscope Facility`_ is in the Public Domain.
 
 .. _Transmission electron microscope image of Vibrio cholerae that has been negatively stained: https://en.wikipedia.org/wiki/Vibrio_cholerae#/media/File:Vibrio_cholerae.jpg
 
@@ -144,6 +144,8 @@ they usually present similar biological features, such as a specific pattern of 
 
 .. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
+.. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
+
 The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages. Figure 6 shows what is known about the global distribution of just two of the many lineages of *V. cholerae*.
 
 .. figure:: LineageDistributions.png
@@ -158,6 +160,8 @@ The species *V. cholerae* is distributed globally, and is a very diverse species
 .. _PopPUNK: https://pubmed.ncbi.nlm.nih.gov/30679308/
 
 .. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+.. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
 There is only one lineage of *V. cholerae* which causes epidemic cholera at present.
 This lineage is known as the **'7PET'** lineage. What do we mean when we say 7PET causes **'epidemic cholera'**?
@@ -199,11 +203,17 @@ such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7).
 .. figure:: VibrioCholeraeInSea.png
   :width: 750
 
-  Figure 7. Non-epidemic lineages of *V. cholerae* such as the MX-2 lineage are part of the bacterioplankton in aquatic environments. The non-epidemic *V. cholerae* are under risk of predation by protozoa and bacteriophages (viruses). These non-epidemic *V. cholerae* can attach to other organisms such as phytoplankton, macroalgae, chitinous zooplankton, and gelatinous egg masses, which may provide sources of nutrients for the non-epidemic *V. cholerae*. Fish and birds feed on plankton and mussels that might harbour non-epidemic *V. cholerae*. In contrast to the non-epidemic lineages of *V. cholerae*, as we mentioned above (Figure 2 above), long-term persistance of 7PET in aquatic environments is a controversial scientific question and is still under active debate. Image credit: Adapted by A. Coghlan from Figure 3 in `Lutz et al 2013`_. Permission details for original figure in `Lutz et al 2013`_: `Creative Commons Attribution License v3.0`_.
+  Figure 7. Non-epidemic lineages of *V. cholerae* such as the MX-2 lineage are part of the bacterioplankton in aquatic environments. The non-epidemic *V. cholerae* are under risk of predation by protozoa and bacteriophages (viruses). These non-epidemic *V. cholerae* can attach to other organisms such as phytoplankton, macroalgae, chitinous zooplankton, and gelatinous egg masses, which may provide sources of nutrients for the non-epidemic *V. cholerae*. Fish and birds feed on plankton and mussels that might harbour non-epidemic *V. cholerae*. In contrast to the non-epidemic lineages of *V. cholerae*, as we mentioned above (Figure 2 above), long-term persistance of 7PET in aquatic environments is a controversial scientific question and is still under active debate. Image attribution: this image is adapted from `Figure 3: Vibrio cholerae interactions with other organisms and the environment`_ by `Lutz et al 2013`_, used under license `CC BY 3.0`_. This image is licensed under `CC BY 4.0`_ by `Avril Coghlan`_.
+
+.. _Figure 3: Vibrio cholerae interactions with other organisms and the environment: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2013.00375/full
 
 .. _Lutz et al 2013: https://pubmed.ncbi.nlm.nih.gov/24379807/
 
-.. _Creative Commons Attribution License v3.0: https://creativecommons.org/licenses/by/3.0/
+.. _CC BY 3.0: https://creativecommons.org/licenses/by/3.0/
+
+.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+.. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
 Serogroups of *V. cholerae*
 ---------------------------
