@@ -555,7 +555,7 @@ approximately 2.5 million suspected cholera cases and appproximately 4000 deaths
 
 .. _WHO 2020: https://applications.emro.who.int/docs/WHOEMCSR314E-eng.pdf
 
-.. figure:: YemenCholera.png
+.. figure:: YemenCholera.tif
   :width: 800
 
   Figure 15. `Total number of suspected cholera cases in Yemen and associated case-fatality rate (CFR) from 2009 to 2019`_. Whole-genome sequencing of isolates from the Yemen epidemic has revealed that the majority (92%) of clinical isolates in Yemen belonged to the 7PET lineage (`Lassalle et al 2023`_).  Image attribution: this image by `Ng et al 2020`_ is licensed under `CC BY-NC 4.0`_.
