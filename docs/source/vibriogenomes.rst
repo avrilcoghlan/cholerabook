@@ -324,7 +324,7 @@ and ongoing cholera pandemic, and has been caused by the 7PET lineage (Figure 9)
 .. _CDC website: https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section11.html
 
 .. figure:: SevenPandemics.png
-  :width: 750
+  :width: 850
 
   Figure 9. A timeline of the seven historically recorded pandemics. The current pandemic is the 7th pandemic and is caused by the 7PET lineage. Image attribution: this image by `Avril Coghlan`_, inspired by `A timeline showing the seven cholera pandemics throughout history by Laura Olivares Boldú / Wellcome Connecting Science`_, is licensed under `CC BY 4.0`_.
 
