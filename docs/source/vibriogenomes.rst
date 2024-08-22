@@ -88,7 +88,7 @@ Isolates of the current pandemic lineage (**'7PET lineage'**) of *V. cholerae* a
 .. figure:: CholeraToxin.jpg
   :width: 450
 
-  Figure 4. `Cholera toxin B pentamer, Vibrio cholerae`_. Cholera toxin is a protein complex that consists of one CtxA protein bound to five CtxB proteins. This image shows the structure formed by the five CtxB proteins. Image attribution: this image was created by Wikipedia user Astrojan based on the `CtxB protein structure`_ deposited in the PDB database by E.A. Merritt & W.G.J. Hol, and is licensed under `_CC BY 4.0`_.
+  Figure 4. `Cholera toxin B pentamer, Vibrio cholerae`_. Cholera toxin is a protein complex that consists of one CtxA protein bound to five CtxB proteins. This image shows the structure formed by the five CtxB proteins. Image attribution: this image was created by Wikipedia user Astrojan based on the `CtxB protein structure`_ deposited in the PDB database by E.A. Merritt & W.G.J. Hol, and is licensed under `CC BY 4.0`_.
 
 .. _Cholera toxin B pentamer, Vibrio cholerae: https://en.wikipedia.org/wiki/File:1chq.jpg
 
