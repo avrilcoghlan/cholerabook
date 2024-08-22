@@ -531,9 +531,13 @@ Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal ill
 .. figure:: L3b_Hangzhou.png
   :width: 600
 
-  Figure 14. Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2001 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. Image credit: `Hao et al 2023`_. Permission details: `Creative Commons Attribution Noncommercial Noderivatives License v4.0`_.
+  Figure 14. `The distribution of Vibrio cholerae isolates in different lineages in Hangzhou, China from 2000 to 2018`_. (a) Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2001 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. (b) The number of *V. cholerae* isolates in the L3b, L9 and other lineages from 2000 to 2018 in Hangzhou, China. The sizes of circles indicate the number of isolates belonging to each lineage, in each year. Image attribution: this image by `Hao et al 2023`_ is licensed under `CC BY-NC-ND 4.0`_.
 
-.. _Creative Commons Attribution Noncommercial Noderivatives License v4.0: https://creativecommons.org/licenses/by-nc-nd/4.0/
+.. _CC BY-NC-ND 4.0: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+.. _Hao et al 2023: https://pubmed.ncbi.nlm.nih.gov/37146742/
+
+.. _The distribution of Vibrio cholerae isolates in different lineages in Hangzhou, China from 2000 to 2018: https://www.sciencedirect.com/science/article/pii/S1567134823000394?via%3Dihub
 
 Note that L3b and L9 are alternative names for the lineages labelled MX-2 and ELA-3, respectively, in the tree in Figure 12 above
 (strictly speaking, MX-2 is a part of L3b and ELA-3 is a part of L9). Don't worry about remembering the names of these non-epidemic
