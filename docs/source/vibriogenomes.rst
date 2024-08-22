@@ -617,7 +617,7 @@ sublineages later in the course, but for the moment you don't need to remember t
 .. _Ramamurthy et al 2019: https://pubmed.ncbi.nlm.nih.gov/31396501/
 
 .. figure:: 7PET_Spread2.jpg
-  :width: 1300
+  :width: 1100
 
   Figure 16. `Intercontinental transmissions of the seventh pandemic lineage of V. cholerae El Tor (7PET)`_. Between the 1960s and 2010, 7PET spread outward globally from the Bay of Bengal region (highlighted with a green oval), in three overlapping waves of spread. Introductions of the various sublineages (genetic subtypes) of the 7PET lineage are represented by solid coloured lines (or dotted lines if the direction of transmission is uncertain). The estimated dates of introduction of the sublineages are shown. (A) shows spread of wave 1 sublineages of the 7PET lineage, (B) shows wave 2 sublineages of 7PET, and (C) wave 3 sublineages of 7PET.  Image attribution: this image by `Rouard et al 2022`_ is licensed under `CC BY 4.0`_.
 
@@ -646,7 +646,7 @@ a 'locally acquired cholera case' versus an 'imported cholera case' (see `WHO 20
 
 .. _Ali et al 2015: https://pubmed.ncbi.nlm.nih.gov/26043000/
 
-.. figure:: CholeraCasesMap.png
+.. figure:: CholeraCasesMap2.png
   :width: 800
 
   Figure 17. `Global Burden of Cholera in Endemic Countries`_. Annual number of cholera cases in endemic countries. Image attribution: this image by `Ali et al 2015`_ is licensed under `CC BY 4.0`_.
