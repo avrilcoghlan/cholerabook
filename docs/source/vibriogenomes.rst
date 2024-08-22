@@ -203,7 +203,7 @@ such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7).
 .. figure:: VibrioCholeraeInSea.jpg
   :width: 750
 
-  Figure 7. `Vibrio cholerae interactions with other organisms and the environment`_. Non-epidemic lineages of *V. cholerae* such as the MX-2 lineage are part of the bacterioplankton in aquatic environments. The non-epidemic *V. cholerae* are under risk of predation by protozoa and bacteriophages (viruses). These non-epidemic *V. cholerae* can attach to other organisms such as phytoplankton, macroalgae, chitinous zooplankton, and gelatinous egg masses, which may provide sources of nutrients for the non-epidemic *V. cholerae*. Fish and birds feed on plankton and mussels that might harbour non-epidemic *V. cholerae*. Under unfavourable conditions, such as low temperature and low nutrient conditions, non-epidemic *V. cholerae* enter a 'viable but non-culturable' (VBNC) state. In contrast to the non-epidemic lineages of *V. cholerae*, as we mentioned above (Figure 2 above), long-term persistance of 7PET in aquatic environments is a controversial scientific question and is still under active debate. Image attribution: this image by `Lutz et al 2013`_ is licensed under `CC BY 3.0`_.
+  Figure 7. `Vibrio cholerae interactions with other organisms and the environment`_. Non-epidemic lineages of *V. cholerae* such as the MX-2 lineage are part of the bacterioplankton in aquatic environments. The non-epidemic *V. cholerae* are under risk of predation by protozoa and bacteriophages (viruses). These non-epidemic *V. cholerae* can attach to other organisms such as phytoplankton, macroalgae, chitinous zooplankton, and gelatinous egg masses, which may provide sources of nutrients for the non-epidemic *V. cholerae*. Fish and birds feed on plankton and mussels that might harbour non-epidemic *V. cholerae*. Under unfavourable conditions, such as low temperature and low nutrient conditions, non-epidemic *V. cholerae* enter a 'viable but non-culturable' (VBNC) dormant state. In contrast to the non-epidemic lineages of *V. cholerae*, as we mentioned above (Figure 2 above), long-term persistance of 7PET in aquatic environments is a controversial scientific question and is still under active debate. Image attribution: this image by `Lutz et al 2013`_ is licensed under `CC BY 3.0`_.
 
 .. _Vibrio cholerae interactions with other organisms and the environment: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2013.00375/full
 
@@ -311,22 +311,28 @@ The History of Cholera: the Seven Historically Recorded Pandemics
 -----------------------------------------------------------------
 
 A disease with symptoms like cholera was recorded in ancient texts from ancient India and China, but we have
-little information about those ancient outbreaks.
-Since the early 1800s there have been seven historically recorded cholera pandemics (a 'pandemic' is
+little information about those ancient outbreaks (`Pollitzer et al 1959`_).
+Since the early 1800s there have been seven historically recorded cholera pandemics (`Kaper et al 1995`_) (a 'pandemic' is
 an epidemic that has spread over several countries and usually affects many people; see the `CDC website`_).
 The 7th pandemic is the current
 and ongoing cholera pandemic, and has been caused by the 7PET lineage (Figure 9).
+
+.. _Kaper et al 1995: https://pubmed.ncbi.nlm.nih.gov/7704895/
+
+.. _Pollitzer et al 1959: https://iris.who.int/handle/10665/41711
 
 .. _CDC website: https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section11.html
 
 .. figure:: SevenPandemics.png
   :width: 650
 
-  Figure 9. A timeline of the seven historically recorded pandemics. The current pandemic is the 7th pandemic and is caused by the 7PET lineage. Image credit: A. Coghlan, inspired by an image by `Laura Olivares Boldú / Wellcome Connecting Science`_. Permission details: `Creative Commons Attribution License v4.0`_.
+  Figure 9. A timeline of the seven historically recorded pandemics. The current pandemic is the 7th pandemic and is caused by the 7PET lineage. Image attribution: this image by `Avril Coghlan`_, inspired by `A timeline showing the seven cholera pandemics throughout history by Laura Olivares Boldú / Wellcome Connecting Science`_, is licensed under `CC BY 4.0`_.
 
-.. _Creative Commons Attribution License v4.0: https://creativecommons.org/licenses/by/4.0/
+.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
-.. _Laura Olivares Boldú / Wellcome Connecting Science: https://www.yourgenome.org/theme/science-in-the-time-of-cholera/
+.. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
+
+.. _A timeline showing the seven cholera pandemics throughout history by Laura Olivares Boldú / Wellcome Connecting Science: https://www.yourgenome.org/theme/science-in-the-time-of-cholera/
 
 The 6th pandemic occurred from 1899 to 1923, after which there were only localised outbreaks in parts of Asia for several decades,
 and then the 7th pandemic started in 1961 and continues at present (`Feng et al 2008`_). 
