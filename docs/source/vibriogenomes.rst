@@ -457,9 +457,11 @@ differences between their whole-genome sequences.
 .. figure:: Lineages_simple.png
   :width: 350
 
-  Figure 12. A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on the L3b and L9 lineages that are discussed below. Permission details: `Creative Commons Attribution License v4.0`_.
+  Figure 12. A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. The tree was based on information in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on the L3b and L9 lineages that are discussed below. Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
 
-.. _Creative Commons Attribution License v4.0: https://creativecommons.org/licenses/by/4.0/
+.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+.. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
@@ -488,7 +490,11 @@ Practically 100% of 7PET isolates produce cholera toxin. Some isolates from non-
 .. figure:: Lineages.png
   :width: 400
 
-  Figure 13. A phylogenetic tree of some of the known lineages of *V. cholerae*, showing which lineages are predicted to produce cholera toxin, based on presence of the genes encoding cholera toxin). Image credit: A. Coghlan, based on the tree in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9. Permission details: `Creative Commons Attribution License v4.0`_.
+  Figure 13. A phylogenetic tree of some of the known lineages of *V. cholerae*, showing which lineages are predicted to produce cholera toxin, based on presence of the genes encoding cholera toxin). This tree was based upon information in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9. Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
+
+.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+.. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
 Later in the course you will be learning a lot about how to build phylogenetic trees yourself, and how to interpret
 them to investigate the relationships between different subtypes of 7PET that have caused different 7PET outbreaks, and to
