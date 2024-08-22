@@ -528,7 +528,7 @@ Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal ill
 
 .. _Smith et al 2021: https://pubmed.ncbi.nlm.nih.gov/34670657/
 
-.. figure:: L3b_Hangzhou.png
+.. figure:: L3b_Hangzhou.jpg
   :width: 600
 
   Figure 14. `The distribution of Vibrio cholerae isolates in different lineages in Hangzhou, China from 2000 to 2018`_. (a) Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2001 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. (b) The number of *V. cholerae* isolates in Hangzhou, China belonging to the L3b, L9 and other lineages, in each year from 2000 to 2018. The sizes of circles indicate the number of isolates belonging to each lineage, in each year. Image attribution: this image by `Hao et al 2023`_ is licensed under `CC BY-NC-ND 4.0`_.
