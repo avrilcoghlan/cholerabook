@@ -27,7 +27,7 @@ found in marine niches (`Boyd et al 2015`_).
 .. figure:: Vibrio_cholerae.jpg
   :width: 350
 
-  Figure 1. `Transmission electron microscope image of Vibrio cholerae that has been negatively stained`_. Image attribution: this image by Tom Kirn, Ron Taylor and Louisa Howard of `Dartmouth Electron Microscope Facility`_ is in the Public Domain. Courtesy of Maxime Guinel de France, Dartmouth Electron Microscope Facility.
+  Figure 1. `Transmission electron microscope image of Vibrio cholerae that has been negatively stained`_. Image attribution: this image by Tom Kirn, Ron Taylor and Louisa Howard of `Dartmouth Electron Microscope Facility`_ is in the Public Domain. With kind permission of Maxime Guinel de France, Dartmouth Electron Microscope Facility.
 
 .. _Transmission electron microscope image of Vibrio cholerae that has been negatively stained: https://en.wikipedia.org/wiki/Vibrio_cholerae#/media/File:Vibrio_cholerae.jpg
 
@@ -326,7 +326,7 @@ and ongoing cholera pandemic, and has been caused by the 7PET lineage (Figure 9)
 .. figure:: SevenPandemics.png
   :width: 850
 
-  Figure 9. A timeline of the seven historically recorded pandemics. The current pandemic is the 7th pandemic and is caused by the 7PET lineage. Image attribution: this image by `Avril Coghlan`_, inspired by `A timeline showing the seven cholera pandemics throughout history by Laura Olivares Boldú / Wellcome Connecting Science`_, is licensed under `CC BY 4.0`_.
+  Figure 9. A timeline of the seven historically recorded pandemics. The current pandemic is the 7th pandemic and is caused by the 7PET lineage. Image attribution: this image by `Avril Coghlan`_, inspired by `A timeline showing the seven cholera pandemics throughout history by Laura Olivares Boldú / Wellcome Connecting Science`_, is licensed under `CC BY 4.0`_. With kind permission of Laura Olivares Boldú of Wellcome Connecting Science.
 
 .. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
