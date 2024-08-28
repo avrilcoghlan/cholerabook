@@ -51,7 +51,7 @@ lineage, which is the genetic subtype of *V. cholerae* responsible for all major
 .. figure:: 7PET_LifeCycle.png
   :width: 1350
 
-  Figure 2. Amplification of transmission by human-to-human spread for the current pandemic lineage (7PET lineage) of *V. cholerae*. On ingestion of *V. cholerae* of the current pandemic lineage (7PET lineage) in contaminated food or water (1), the *V. cholerae* 7PET bacteria colonise the small intestine (2), multiply, secrete cholera toxin, and are then shed back into the environment by the host in diarrhoea (3). The *V. cholerae* 7PET bacteria shed in the stool are in a transient hyperinfectious state that serves to amplify the outbreak by promoting transmission to further human hosts (4). Some scientists have hypothesised that 7PET bacteria may persist for many months or even several years in aquatic environments (e.g. `Islam et al 2020`_, `Mavian et al 2023`_) (5); however, the ability of 7PET to persist long-term in the environment (5) and to seed new outbreaks (6) is still under scientific debate. VBNC: a 'viable but non-culturable' dormant state that many bacterial species enter under unfavourable conditions such as low temperature and low nutrient conditions (`Lutz et al 2013`_). Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
+  Figure 2. Amplification of transmission by human-to-human spread for the current pandemic lineage (7PET lineage) of *V. cholerae*. On ingestion of *V. cholerae* of the current pandemic lineage (7PET lineage) in contaminated food or water (1), the *V. cholerae* 7PET bacteria colonise the small intestine (2), multiply, secrete cholera toxin, and are then shed back into the environment by the host in diarrhoea (3). The *V. cholerae* 7PET bacteria shed in the stool are in a transient hyperinfectious state that serves to amplify the outbreak by promoting transmission to further human hosts (4). Some scientists have hypothesised that 7PET bacteria may persist for many months or even several years in aquatic environments (e.g. `Colwell 1996`_, `Alam et al 2007`_, `Islam et al 2020`_, `Mavian et al 2023`_) (5); however, the ability of 7PET to persist long-term in the environment (5) and to seed new outbreaks (6) is still under scientific debate. VBNC: a 'viable but non-culturable' dormant state that many bacterial species enter under unfavourable conditions such as low temperature and low nutrient conditions (`Lutz et al 2013`_). Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
 
 .. _Nelson et al 2009: https://pubmed.ncbi.nlm.nih.gov/19756008/
 
@@ -62,6 +62,10 @@ lineage, which is the genetic subtype of *V. cholerae* responsible for all major
 .. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
 .. _Lutz et al 2013: https://pubmed.ncbi.nlm.nih.gov/24379807/
+
+.. _Alam et al 2007: https://pubmed.ncbi.nlm.nih.gov/17968017/
+
+.. _Colwell 1996: https://pubmed.ncbi.nlm.nih.gov/8953025/
 
 .. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
