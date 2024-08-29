@@ -248,11 +248,11 @@ Within the species *V. cholerae* there is considerable variation in the surface 
 A subgroup of *V. cholerae* bacteria that share the same distinctive surface structure in their O-antigen are
 said to belong to the same **'serogroup'**. Since the 1930s, *V. cholerae* isolates have been classified into 
 many different serogroups on the basis of laboratory tests that reflect differences in the interactions of the 
-the particular O-antigen produced by each serogroup with antibodies from the host (`Murase et al 2022`_).
+the particular O-antigen produced by each serogroup with serogroup-specific antibodies from the host (`Murase et al 2022`_).
 So far 210 different serogroups have been identified within *V. cholerae*, named
 O1, O2, O3, ... O210 (`Murase et al 2022`_). To determine whether a particular *V. cholerae* isolate belongs to the O1 serogroup, one can carry out a
-relatively rapid laboratory test, to see if the *V. cholerae* cells will agglutinate in O1 antisera (`CDC 1994`_); while to determine whether a
-*V. cholerae* isolate belongs to the O2 serogroup, one must test for agglutination in O2 antisera. In other words, the serogroup
+relatively rapid laboratory test, to see if the *V. cholerae* cells will agglutinate in O1 antisera (containing anti-O1-antigen antibodies) (`CDC 1994`_); while to determine whether a
+*V. cholerae* isolate belongs to the O2 serogroup, one must test for agglutination in O2 antisera (containing anti-O2-antigen antibodies). In other words, the serogroup
 is a laboratory phenotype that reflects the surface structure of the O-antigen. 
 
 .. _Murase et al 2022: https://pubmed.ncbi.nlm.nih.gov/35930328/
@@ -807,7 +807,8 @@ The key take-home messages of this chapter are:
 Glossary of Key Terms
 ---------------------
 
-* 7PET: the name of the current pandemic lineage of *Vibrio cholerae*. 7PET is the lineage of *V. cholerae* that has been responsible for all major outbreaks and epidemics of cholera since the 1960s. '7PET' is short for 'Seventh Pandemic El Tor' because 7PET has caused the 7th historically recorded cholera pandemic, and isolates of the 7PET lineage have the El Tor biotype (a laboratory phenotype). 
+* **7PET**: the name of the current pandemic lineage of *Vibrio cholerae*. 7PET is the lineage of *V. cholerae* that has been responsible for all major outbreaks and epidemics of cholera since the 1960s. '7PET' is short for 'Seventh Pandemic El Tor' because 7PET has caused the 7th historically recorded cholera pandemic, and isolates of the 7PET lineage have the El Tor biotype (a laboratory phenotype). 
+* Biotype: a subgroup of *V. cholerae* bacteria that display a particular phenotype upon a certain set of biochemical laboratory tests. The biotype phenotype has been used historically to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing 7PET lineage.
 * Cholera: a disease characterised by acute watery diarrhoea, which is caused by ingestion of *Vibrio cholerae*.
 * Cholera case: a patient diagnosed with cholera using standard criteria; see the `WHO 2023`_ guidance and definitions for what they consider 'a suspected cholera case' and 'a confirmed cholera case'.
 * Cholera toxin (Ctx, CTX, or CT): the most important virulence factor of *Vibrio cholerae*; cholera toxin triggers acute watery diarrhoea.
@@ -821,11 +822,11 @@ Glossary of Key Terms
 * Outbreak: an unexpected increase in the number of disease cases in a specific geographical area (definition from the `CDC website`_). An outbreak is considered to occur of a smaller geographic area than an epidemic.  See the WHO's detailed technical guidance (`WHO 2023`_) for precise definitions of what they consider to be 'a suspected cholera case', 'a confirmed cholera case', 'a suspected cholera outbreak', 'a probable cholera outbreak', or 'a confirmed cholera outbreak'.
 * Pandemic: an epidemic that has spread over several countries and usually affects many people (definition from the `CDC website`_).
 * Pandemic lineage: a lineage of a bacterial species that is causing or caused a pandemic of a disease.
-* Serogroup: a subgroup of *V. cholerae* bacteria that share the same distinctive surface structure in their O-antigen.
+* Serogroup: a subgroup of *V. cholerae* bacteria that share the same distinctive surface structure in their O-antigen, and so have the same laboratory phenotype when exposed to host antibodies specific for that particular type of O-antigen.
 * Strain: see 'lineage'. 
 * Toxigenic *V. cholerae*: *V. cholerae* that produces the cholera toxin. Isolates of the 7PET lineage are toxigenic, but a small fraction of isolates of some other lineages of *V. cholerae* are also toxigenic.
 * Viable but Non-Culturable (VBNC): a dormant state that many bacterial species enter under unfavourable conditions such as low temperature and low nutrient conditions.
-* Vibrio cholerae* (*V. cholerae*): a curved Gram-negative rod-shaped bacterium that causes the disease cholera.
+* *Vibrio cholerae* (*V. cholerae*): a curved Gram-negative rod-shaped bacterium that causes the disease cholera.
 * Virulence factor: a protein (or protein complex) that helps a bacterium to colonise a host at the cellular level.
 
 .. _National Cancer Institute: https://www.cancer.gov/publications/dictionaries/cancer-terms/def/organism-strain
