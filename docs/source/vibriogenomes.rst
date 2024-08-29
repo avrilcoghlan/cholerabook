@@ -761,9 +761,13 @@ are very distantly related to 7PET, but this is very rare (e.g. isolate V51 desc
 .. figure:: CtxRegion.png
   :width: 550
 
-  Figure 20. A diagram showing the CTX prophage region of Chromosome 1 of 7PET laboratory strain N16961. The blue arrows represent genes. The *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image source: A. Coghlan, inspired by Figure 2 in `Pant et al 2020`_.
+  Figure 20. A diagram showing the CTX prophage region of Chromosome 1 of 7PET laboratory strain N16961. The blue arrows represent genes. The *ctxA* and *ctxB* genes encode the A and B subunits, respectively, of the cholera toxin protein complex. Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_. The information on the genes' order and names was taken from `Pant et al 2020`_.
+
+.. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
 .. _Pant et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272871/
+
+.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
 .. image:: Activity.png
   :width: 1050
