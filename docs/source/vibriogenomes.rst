@@ -712,9 +712,15 @@ and Chromosome 2 about 1 million base-pairs (1 Mb; `Heidelberg et al 2000`_).
 .. figure:: Chromosomes.png
   :width: 800
 
-  Figure 19. A diagram showing the two circular chromosomes of *V. cholerae*, for a typical 7PET isolate. The outside circles in blue represent protein-coding genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical 7PET isolate from the 7PET lineage. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the 'CTX prophage region' that contains several genes, including *ctxA* and *ctxB*, which encode the A and B subunits of the cholera toxin, respectively. Image source: Adapted by A. Coghlan from Fig. 1 in `Mutreja & Dougan 2020`_.
+  Figure 19. `A circular representation of the two chromosomes of O1 El Tor V. cholerae N16961 genome`. This shows the two circular chromosomes of *V. cholerae*, for a typical 7PET isolate, isolate N16961. The outside circles in blue represent protein-coding genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical 7PET isolate from the 7PET lineage. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the 'CTX prophage region' that contains several genes, including *ctxA* and *ctxB*, which encode the A and B subunits of the cholera toxin, respectively. Image attribution: this image by `Mutreja & Dougan 2020`_ is licensed under `CC BY 4.0`_. / Adapted by `Avril Coghlan`_ from original to hide additional details that were not the focus here.
+
+.. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
+
+.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+.. _A circular representation of the two chromosomes of O1 El Tor V. cholerae N16961 genome: https://www.sciencedirect.com/science/article/pii/S0264410X19309296?via%3Dihub
 
 When we talk about 'sequencing the genome' of an organism, we mean figuring out the sequence of
 bases on the strands of its DNA molecules. 
