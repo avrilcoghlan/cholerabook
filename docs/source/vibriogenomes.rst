@@ -683,7 +683,7 @@ and cytosine ('C').
 .. figure:: DNA_structure.png
   :width: 200
 
-  Figure 18. `Structure of DNA with sugar phosphate backbone and bases`_. The sugars and phosphates form the backbone of the double helix. Image attribution: this image by `National Human Genome Research Institute`_ is in the Public Domain. / Adapted by `Avril Coghlan`_ from original to indicate the 5' and 3' ends of each DNA strand.
+  Figure 18. `Structure of DNA with sugar phosphate backbone and bases`_. The sugars and phosphates form the backbone of the double helix. Image attribution: this image by `National Human Genome Research Institute`_ is in the Public Domain. / Adapted by `Avril Coghlan`_ from the original to indicate the 5' and 3' ends of each DNA strand.
 
 .. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
@@ -712,7 +712,7 @@ and Chromosome 2 about 1 million base-pairs (1 Mb; `Heidelberg et al 2000`_).
 .. figure:: Chromosomes.png
   :width: 800
 
-  Figure 19. `A circular representation of the two chromosomes of O1 El Tor V. cholerae N16961 genome`_. This shows the two circular chromosomes of *V. cholerae*, for a typical 7PET isolate, isolate N16961. The outside circles in blue represent protein-coding genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical 7PET isolate from the 7PET lineage. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the 'CTX prophage region' that contains several genes, including *ctxA* and *ctxB*, which encode the A and B subunits of the cholera toxin, respectively. Image attribution: this image by `Mutreja & Dougan 2020`_ is licensed under `CC BY 4.0`_. / Adapted by `Avril Coghlan`_ from original to hide additional details that were not the focus here.
+  Figure 19. `A circular representation of the two chromosomes of O1 El Tor V. cholerae N16961 genome`_. This shows the two circular chromosomes of *V. cholerae*, for a typical 7PET isolate, isolate N16961. The outside circles in blue represent protein-coding genes on the forward and reverse strand of the DNA. Between them, the two chromosomes of *V. cholerae* include almost 4000 genes in a typical 7PET isolate from the 7PET lineage. Other key features of the chromosomes are highlighted as green boxes, where the green box labelled '5' is the 'CTX prophage region' that contains several genes, including *ctxA* and *ctxB*, which encode the A and B subunits of the cholera toxin, respectively. Image attribution: this image by `Mutreja & Dougan 2020`_ is licensed under `CC BY 4.0`_. / Adapted by `Avril Coghlan`_ from the original to hide additional details that were not the focus here.
 
 .. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
