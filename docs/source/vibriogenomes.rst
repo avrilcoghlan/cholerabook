@@ -288,11 +288,11 @@ in another country"* (`WHO 2023`_).
 Because isolates of the current pandemic lineage (7PET lineage) have either serogroup O1 or O139,
 sometimes the term 'non-O1 *V. cholerae* (NOVC)' or 'non-O1/non-O139 *V. cholerae*'
 is used to refer to non-epidemic lineages of *V. cholerae* 
-(e.g. `Glenn Morris 1990`_). However, it's worth being aware in the back of your mind that 
+(e.g. `Morris 1990`_). However, it's worth being aware in the back of your mind that 
 some non-epidemic lineages of
 *V. cholerae* have serogroups O1 or O139, such as MX-2 (Figure 6; `Domman et al 2017`_).
 
-.. _Glenn Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
+.. _Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
 
 The Revised GTFCC Definitions of Cholera Cases and Cholera-free Country Statuses
 --------------------------------------------------------------------------------
@@ -465,8 +465,7 @@ Relationships between Epidemic and Non-epidemic Lineages of *V. cholerae*
 -------------------------------------------------------------------------
 
 The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
-recorded pandemic, are relatively closely related. We know this by analysing whole-genome sequencing data (that is, genetic information in DNA) in order to make a 'phylogenetic tree' for *V. cholerae*, that is, a
-'family tree' of the different lineages (genetically different subtypes) of *V. cholerae* (Figure 12). 
+recorded pandemic, are relatively closely related. We know this by analysing whole-genome sequencing data (that is, genetic information in DNA) in order to make a 'phylogenetic tree' for *V. cholerae*, that is, a tree that depicts the evolutionary relationships between the different lineages of *V. cholerae* and shows how they descended from a common ancestor (Figure 12). 
 The phylogenetic tree represents our best guess at the evolutionary relationships between different lineages of *V. cholerae*, based on similarities and
 differences between their whole-genome sequences.
 
@@ -515,7 +514,7 @@ Practically 100% of 7PET isolates produce cholera toxin. Some isolates from non-
 .. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
 Later in the course you will be learning a lot about how to build phylogenetic trees yourself, and how to interpret
-them to investigate the relationships between different subtypes of 7PET that have caused different 7PET outbreaks, and to
+them to investigate the relationships between different sublineages of 7PET that have caused different 7PET outbreaks, and to
 gain insights into how 7PET is spreading regionally and globally. You will see that it is often very interesting and informative to display information
 beside a phylogenetic tree; for example, in Figure 13 we plotted presence/absence of particular genes. We can also display additional
 non-genetic data that we have about the isolates (known as **'metadata'**), such as the exact location or date of collection of the isolates, or
@@ -527,13 +526,13 @@ Diarrhoeal Illness Caused by Epidemic and Non-epidemic Lineages of *V. cholerae*
 The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 2nd and 6th historically
 recorded pandemics, are the only known epidemic lineages of *V. cholerae*. The many other
 lineages of *V. cholerae* that we know about are not epidemic-causing; they sometimes cause relatively small outbreaks of diarrhoeal illness in
-tens or even a hundred or so people (`Glenn Morris 1990`_). In contrast, 7PET is the only current *V. cholerae* lineage
+tens or even a hundred or so people (`Morris 1990`_). In contrast, 7PET is the only current *V. cholerae* lineage
 that causes large epidemics or pandemics of many thousands of cases, or even millions of 
 cases as seen in the Yemen cholera epidemic that began in 2016 and continues to the present (`Mutreja & Dougan 2020`_, `Lassalle et al 2023`_). 
 
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
-.. _Glenn Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
+.. _Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
 
 .. _Lassalle et al 2023: https://pubmed.ncbi.nlm.nih.gov/37770747/
 
@@ -549,7 +548,7 @@ Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal ill
 .. figure:: L3b_Hangzhou.jpg
   :width: 750
 
-  Figure 14. `The distribution of Vibrio cholerae isolates in different lineages in Hangzhou, China from 2000 to 2018`_. (a) Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2000 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. (b) The number of *V. cholerae* isolates in Hangzhou, China belonging to the L3b, L9 and other lineages, in each year from 2000 to 2018. The sizes of circles indicate the number of isolates belonging to each lineage, in each year. Image attribution: this image by `Hao et al 2023`_ is licensed under `CC BY-NC-ND 4.0`_.
+  Figure 14. `The distribution of Vibrio cholerae isolates in different lineages in Hangzhou, China from 2000 to 2018`_. (a) Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2000 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. (b) The number of *V. cholerae* isolates in Hangzhou, China belonging to the L3b, L9 and some other lineages, in each year from 2000 to 2018. The sizes of circles indicate the number of isolates belonging to each lineage, in each year. Image attribution: this image by `Hao et al 2023`_ is licensed under `CC BY-NC-ND 4.0`_.
 
 .. _CC BY-NC-ND 4.0: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
@@ -563,13 +562,13 @@ lineages; the key point here is that non-epidemic lineages of *V. cholerae* exis
 compared to 7PET. 
 
 Indeed, compared to cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L9 and other non-epidemic
-*V. cholerae* lineages are far smaller and in general cause relatively milder diarrhoeal illness (`Glenn Morris 1990`_, `Glenn Morris 2003`_).
+*V. cholerae* lineages are far smaller and in general cause relatively milder diarrhoeal illness (`Morris 1990`_, `Morris 2003`_).
 In contrast, the cholera epidemic in Yemen that began in 2016 (and is still continuing) caused
 approximately 2.5 million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`Ng et al 2020`_, `WHO 2020`_; Figure 15).
 
-.. _Glenn Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
+.. _Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
 
-.. _Glenn Morris 2003: https://pubmed.ncbi.nlm.nih.gov/12856219/
+.. _Morris 2003: https://pubmed.ncbi.nlm.nih.gov/12856219/
 
 .. _WHO 2020: https://applications.emro.who.int/docs/WHOEMCSR314E-eng.pdf
 
@@ -808,26 +807,30 @@ Glossary of Key Terms
 ---------------------
 
 * **7PET**: the name of the current pandemic lineage of *Vibrio cholerae*. 7PET is the lineage of *V. cholerae* that has been responsible for all major outbreaks and epidemics of cholera since the 1960s. '7PET' is short for 'Seventh Pandemic El Tor' because 7PET has caused the 7th historically recorded cholera pandemic, and isolates of the 7PET lineage have the El Tor biotype (a laboratory phenotype). 
-* Biotype: a subgroup of *V. cholerae* bacteria that display a particular phenotype upon a certain set of biochemical laboratory tests. The biotype phenotype has been used historically to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing 7PET lineage.
-* Cholera: a disease characterised by acute watery diarrhoea, which is caused by ingestion of *Vibrio cholerae*.
-* Cholera case: a patient diagnosed with cholera using standard criteria; see the `WHO 2023`_ guidance and definitions for what they consider 'a suspected cholera case' and 'a confirmed cholera case'.
-* Cholera toxin (Ctx, CTX, or CT): the most important virulence factor of *Vibrio cholerae*; cholera toxin triggers acute watery diarrhoea.
-* Clone: a group of cells produced asexually from one ancestor, to which they are genetically identical (or nearly identical).
-* DNA (Deoxyribonucleic acid): the molecule that carries genetic information of an organism.
-* Epidemic: an unexpected increase in the number of disease cases in a specific geographical area (definition from the `CDC website`_). An epidemic is considered to occur of a larger geographic area than an outbreak. See the WHO's detailed technical guidance (`WHO 2023`_) for precise definitions of what they consider to be 'a suspected cholera case', 'a confirmed cholera case', 'a suspected cholera outbreak', 'a probable cholera outbreak', or 'a confirmed cholera outbreak'.
-* Epidemic-causing lineage of *V. cholereae*: a *V. cholerae* lineage that can cause a very large increase in the number of cases of diarrhoeal illness caused by *V. cholerae* in a particular town/city/region over a relatively short period of time. The 7PET lineage is the only epidemic-causing lineage of *V. cholerae* at present.
-* Lineage (also called a 'strain'): a group of organisms belonging to the same bacterial species, and that are genetically more closely related to each other than other members of the same species. There can be many lineages within a particular bacterial species. Different lineages of a bacterial species may have different biological characteristics, such as the ability to cause more severe disease. (Adapted from a definition by the `National Cancer Institute`_.)
-* Mutation: a change in the genetic material of an organism, caused by a change its DNA (e.g. the change of single base-pair in its DNA).
-* O-antigen: a component of the surface lipopolysaccharide (LPS) of Gram-negative bacteria such as *V. cholerae*. 
-* Outbreak: an unexpected increase in the number of disease cases in a specific geographical area (definition from the `CDC website`_). An outbreak is considered to occur of a smaller geographic area than an epidemic.  See the WHO's detailed technical guidance (`WHO 2023`_) for precise definitions of what they consider to be 'a suspected cholera case', 'a confirmed cholera case', 'a suspected cholera outbreak', 'a probable cholera outbreak', or 'a confirmed cholera outbreak'.
-* Pandemic: an epidemic that has spread over several countries and usually affects many people (definition from the `CDC website`_).
-* Pandemic lineage: a lineage of a bacterial species that is causing or caused a pandemic of a disease.
-* Serogroup: a subgroup of *V. cholerae* bacteria that share the same distinctive surface structure in their O-antigen, and so have the same laboratory phenotype when exposed to host antibodies specific for that particular type of O-antigen.
-* Strain: see 'lineage'. 
-* Toxigenic *V. cholerae*: *V. cholerae* that produces the cholera toxin. Isolates of the 7PET lineage are toxigenic, but a small fraction of isolates of some other lineages of *V. cholerae* are also toxigenic.
-* Viable but Non-Culturable (VBNC): a dormant state that many bacterial species enter under unfavourable conditions such as low temperature and low nutrient conditions.
-* *Vibrio cholerae* (*V. cholerae*): a curved Gram-negative rod-shaped bacterium that causes the disease cholera.
-* Virulence factor: a protein (or protein complex) that helps a bacterium to colonise a host at the cellular level.
+* **Biotype**: a subgroup of *V. cholerae* bacteria that display a particular phenotype upon a certain set of biochemical laboratory tests. The biotype phenotype has been used historically to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing 7PET lineage.
+* **Cholera**: a disease characterised by acute watery diarrhoea, which is caused by ingestion of *Vibrio cholerae*.
+* **Cholera case**: a patient diagnosed with cholera using standard criteria; see the `WHO 2023`_ guidance and definitions for what they consider 'a suspected cholera case' and 'a confirmed cholera case'.
+* **Cholera toxin (Ctx, CTX, or CT)**: the most important virulence factor of *Vibrio cholerae*; cholera toxin triggers acute watery diarrhoea.
+* **Clone**: a group of cells produced asexually from one ancestor, to which they are genetically identical (or nearly identical).
+* **DNA (Deoxyribonucleic acid)**: the molecule that carries genetic information of an organism.
+* **Epidemic**: an unexpected increase in the number of disease cases in a specific geographical area (definition from the `CDC website`_). An epidemic is considered to occur of a larger geographic area than an outbreak. See the WHO's detailed technical guidance (`WHO 2023`_) for precise definitions of what they consider to be 'a suspected cholera case', 'a confirmed cholera case', 'a suspected cholera outbreak', 'a probable cholera outbreak', or 'a confirmed cholera outbreak'.
+* **Epidemic-causing lineage of V. cholerae**: a *V. cholerae* lineage that can cause a very large increase in the number of cases of diarrhoeal illness caused by *V. cholerae* in a particular town/city/region over a relatively short period of time. The 7PET lineage is the only epidemic-causing lineage of *V. cholerae* at present.
+* **Genome**: all the genetic material present in a cell or organism.
+* **Lineage** (also called a 'strain'): a group of organisms belonging to the same bacterial species, and that are genetically more closely related to each other than other members of the same species. There can be many lineages within a particular bacterial species. Different lineages of a bacterial species may have different biological characteristics, such as the ability to cause more severe disease. (Adapted from a definition by the `National Cancer Institute`_.)
+* **Metadata**: non-genetic data that has been collected for bacterial isolates, such as the exact location or date of collection of the isolates.
+* **Mutation**: a change in the genetic material of an organism, caused by a change its DNA (e.g. the change of single base-pair in its DNA).
+* **O-antigen**: a component of the surface lipopolysaccharide (LPS) of Gram-negative bacteria such as *V. cholerae*. 
+* **Outbreak**: an unexpected increase in the number of disease cases in a specific geographical area (definition from the `CDC website`_). An outbreak is considered to occur of a smaller geographic area than an epidemic.  See the WHO's detailed technical guidance (`WHO 2023`_) for precise definitions of what they consider to be 'a suspected cholera case', 'a confirmed cholera case', 'a suspected cholera outbreak', 'a probable cholera outbreak', or 'a confirmed cholera outbreak'.
+* **Pandemic**: an epidemic that has spread over several countries and usually affects many people (definition from the `CDC website`_).
+* **Pandemic lineage**: a lineage of a bacterial species that is causing or caused a pandemic of a disease.
+* **Phylogenetic tree**: a diagram that depicts the evolutionary relationships between particular organisms, and how they descended from a common ancestor.
+* **Serogroup**: a subgroup of *V. cholerae* bacteria that share the same distinctive surface structure in their O-antigen, and so have the same laboratory phenotype when exposed to host antibodies specific for that particular type of O-antigen.
+* **Strain**: see 'lineage'. 
+* **Toxigenic V. cholerae**: *V. cholerae* that produces the cholera toxin. Isolates of the 7PET lineage are toxigenic, but a small fraction of isolates of some other lineages of *V. cholerae* are also toxigenic.
+* **Viable but Non-Culturable (VBNC)**: a dormant state that many bacterial species enter under unfavourable conditions such as low temperature and low nutrient conditions.
+* **Vibrio cholerae (V. cholerae)**: a curved Gram-negative rod-shaped bacterium that causes the disease cholera.
+* **Virulence factor**: a protein (or protein complex) that helps a bacterium to colonise a host at the cellular level.
+* **Whole genome sequencing (WGS)**: the process of determining the DNA sequence of an organism's whole genome.
 
 .. _National Cancer Institute: https://www.cancer.gov/publications/dictionaries/cancer-terms/def/organism-strain
 
