@@ -683,7 +683,13 @@ and cytosine ('C').
 .. figure:: DNA_structure.png
   :width: 200
 
-  Figure 18. A diagram of the structure of DNA, showing the sugar phosphate backbone and base-pairs. The sugars and phosphates form the backbone of the double helix. Image credit: A. Coghlan, adapted from a figure by the National Human Genome Research Institute, obtained via Wikipedia.
+  Figure 18. `Structure of DNA with sugar phosphate backbone and bases`_. The sugars and phosphates form the backbone of the double helix. Image attribution: this image by `National Human Genome Research Institute`_ is in the Public Domain. / Adapted by `Avril Coghlan`_ from original to indicate the 5' and 3' ends of each DNA strand.
+
+.. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
+
+.. _National Human Genome Research Institute: https://commons.wikimedia.org/wiki/File:Phosphate_backbone.jpg
+
+.. _Structure of DNA with sugar phosphate backbone and bases: https://commons.wikimedia.org/wiki/File:Phosphate_backbone.jpg
 
 The bases in the two strands of a DNA double helix are 'complementary' to each other: that is, T pairs with
 A and G pairs with C. Thus, if one strand has the sequence of bases AGTACG, the other strand must have the sequence
