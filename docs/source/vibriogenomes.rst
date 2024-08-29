@@ -5,13 +5,14 @@ Introduction
 ------------
 
 This chapter will give you an overview of cholera, the species *Vibrio cholerae*; the main lineages of *V. cholerae*; and the current pandemic lineage of *V. cholerae*, the 7PET lineage.
+While we will explain terms as we go along, we have also included a glossary of key terms at the end of the chapter. 
 
 Acute Watery Diarrhoea, the Disease Cholera and its Epidemiology
 ----------------------------------------------------------------
 
 Cholera is a disease characterised by acute watery diarrhoea, leading to rapidly progressing dehydration and shock (`Sack et al 2004`_).
 A distinctive feature of cholera is painless purging of voluminous stools resembling rice-water, known as 'rice-water stool' (`Sack et al 2004`_).
-If you are interested in how cholera is diagnosed, the World Health Organisation provides guidance and 
+If you are interested in how cholera is diagnosed, the World Health Organisation (WHO) provides guidance and 
 precise definitions of what they consider 'a suspected cholera case' and 'a confirmed cholera case' (see `WHO 2023`_).
 
 .. _Sack et al 2004: https://pubmed.ncbi.nlm.nih.gov/14738797/
@@ -38,7 +39,7 @@ people usually catch cholera by eating food or by drinking water that has been c
 with human faeces containing *V. cholerae* (`Sack et al 2004`_, `Nelson et al 2009`_). Barriers to disease transmission include
 handwashing and hygiene, access to toilets, and clean drinking water (e.g. chlorination of stored water; `Sack et al 2004`_, `Nelson et al 2009`_). 
 Figure 2 summarises what is known about the transmission routes for the current pandemic lineage of *V. cholerae*, the 7PET
-lineage, which is the genetic subtype of *V. cholerae* responsible for all major outbreaks and epidemics of cholera since the 1960s (`Mutreja et al 2011`_, `Mutreja & Dougan 2020`_). 
+lineage, which is the lineage of *V. cholerae* responsible for all major outbreaks and epidemics of cholera since the 1960s (`Mutreja et al 2011`_, `Mutreja & Dougan 2020`_). 
 
 .. _Sack et al 2004: https://pubmed.ncbi.nlm.nih.gov/14738797/
 
@@ -137,11 +138,16 @@ can also occur due to DNA damage, for example damage due to ultraviolet (UV) rad
 
 Over evolutionary time, different clones of a species independently accumulate
 mutations, so they eventually they become so different at the genetic level that we can consider them different **lineages** (also sometimes known as different 'strains') of the species (Figure 5). 
+That is, a lineage is group of organisms belonging to the same bacterial species, and that are genetically more closely related to each other than other members of the same species
+(adapted from a definition by the `National Cancer Institute`_). 
+There can be many lineages within a particular bacterial species. 
 The bacteria belonging to one particular lineage are all relatively clonal (highly similar at the genetic level); 
 they all descended from a relatively recent common ancestor (although 'recent' in evolutionary time may be hundreds or thousands of years ago!); and
 they usually present similar biological features, such as a specific pattern of virulence (`Bacigalupe 2017`_). 
 
 .. _Bacigalupe 2017: https://era.ed.ac.uk/handle/1842/31266
+
+.. _National Cancer Institute: https://www.cancer.gov/publications/dictionaries/cancer-terms/def/organism-strain
 
 .. figure:: ClonalSpecies.png
   :width: 350
@@ -238,12 +244,16 @@ an inner core oligosaccharide, and Lipid A (Figure 8).
 
 .. _CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
 
-Since the 1930s, *V. cholerae* isolates have been classified into **'serogroups'** on the basis of the antigenicity of the O-antigen in their LPS (`Murase et al 2022`_).
+Within the species *V. cholerae* there is considerable variation in the surface structure of the O-antigen. 
+A subgroup of *V. cholerae* bacteria that share the same distinctive surface structure in their O-antigen are
+said to belong to the same **'serogroup'**. Since the 1930s, *V. cholerae* isolates have been classified into 
+many different serogroups on the basis of laboratory tests that reflect differences in the interactions of the 
+the particular O-antigen produced by each serogroup with antibodies from the host (`Murase et al 2022`_).
 So far 210 different serogroups have been identified within *V. cholerae*, named
 O1, O2, O3, ... O210 (`Murase et al 2022`_). To determine whether a particular *V. cholerae* isolate belongs to the O1 serogroup, one can carry out a
 relatively rapid laboratory test, to see if the *V. cholerae* cells will agglutinate in O1 antisera (`CDC 1994`_); while to determine whether a
 *V. cholerae* isolate belongs to the O2 serogroup, one must test for agglutination in O2 antisera. In other words, the serogroup
-is a laboratory phenotype. 
+is a laboratory phenotype that reflects the surface structure of the O-antigen. 
 
 .. _Murase et al 2022: https://pubmed.ncbi.nlm.nih.gov/35930328/
 
@@ -251,7 +261,7 @@ is a laboratory phenotype.
 
 Most isolates belonging to the current pandemic lineage (7PET lineage) of *V. cholerae* have the O1 serogroup, while a small fraction of 7PET isolates have serogroup O139 (`Mutreja et al 2011`_,
 `Moore et al 2014`_). 
-*V. cholerae* isolates that belong to non-epidemic lineages can also sometimes have serogroups O1 or O139, or any of the other 210 known *V. cholerae* serogroups.
+*V. cholerae* isolates that belong to non-epidemic lineages can also sometimes have serogroups O1 or O139, or any of the other >200 known *V. cholerae* serogroups.
 Therefore, if a *V. cholerae* isolate from a patient with acute watery diarrhoea is shown via laboratory testing to have serogroup O1 or O139, then there is a strong possibility
 that the diarrhoea was caused by 7PET. However, it's important to bear in mind that one can not be 100% sure that the isolate is 7PET, since some non-epidemic 
 lineages have serogroups O1 or O139, for example, lineage MX-2 (Figure 6; `Domman et al 2017`_). 
@@ -793,6 +803,36 @@ The key take-home messages of this chapter are:
 * At present there is only one lineage that causes pandemic/epidemic cholera: 7PET, an extremely infectious and virulent lineage
 * The genome of a typical 7PET isolate has 4 million base-pairs (4 Mb) of DNA, and contains about 4000 genes
 * Practically all 7PET isolates have the genes that encode cholera toxin (genes *ctxA* and *ctxB*)
+
+Glossary of Key Terms
+---------------------
+
+* 7PET: the name of the current pandemic lineage of *Vibrio cholerae*. 7PET is the lineage of *V. cholerae* that has been responsible for all major outbreaks and epidemics of cholera since the 1960s. '7PET' is short for 'Seventh Pandemic El Tor' because 7PET has caused the 7th historically recorded cholera pandemic, and isolates of the 7PET lineage have the El Tor biotype (a laboratory phenotype). 
+* Cholera: a disease characterised by acute watery diarrhoea, which is caused by ingestion of *Vibrio cholerae*.
+* Cholera case: a patient diagnosed with cholera using standard criteria; see the `WHO 2023`_ guidance and definitions for what they consider 'a suspected cholera case' and 'a confirmed cholera case'.
+* Cholera toxin (Ctx, CTX, or CT): the most important virulence factor of *Vibrio cholerae*; cholera toxin triggers acute watery diarrhoea.
+* Clone: a group of cells produced asexually from one ancestor, to which they are genetically identical (or nearly identical).
+* DNA (Deoxyribonucleic acid): the molecule that carries genetic information of an organism.
+* Epidemic: an unexpected increase in the number of disease cases in a specific geographical area (definition from the `CDC website`_). An epidemic is considered to occur of a larger geographic area than an outbreak. See the WHO's detailed technical guidance (`WHO 2023`_) for precise definitions of what they consider to be 'a suspected cholera case', 'a confirmed cholera case', 'a suspected cholera outbreak', 'a probable cholera outbreak', or 'a confirmed cholera outbreak'.
+* Epidemic-causing lineage of *V. cholereae*: a *V. cholerae* lineage that can cause a very large increase in the number of cases of diarrhoeal illness caused by *V. cholerae* in a particular town/city/region over a relatively short period of time. The 7PET lineage is the only epidemic-causing lineage of *V. cholerae* at present.
+* Lineage (also called a 'strain'): a group of organisms belonging to the same bacterial species, and that are genetically more closely related to each other than other members of the same species. There can be many lineages within a particular bacterial species. Different lineages of a bacterial species may have different biological characteristics, such as the ability to cause more severe disease. (Adapted from a definition by the `National Cancer Institute`_.)
+* Mutation: a change in the genetic material of an organism, caused by a change its DNA (e.g. the change of single base-pair in its DNA).
+* O-antigen: a component of the surface lipopolysaccharide (LPS) of Gram-negative bacteria such as *V. cholerae*. 
+* Outbreak: an unexpected increase in the number of disease cases in a specific geographical area (definition from the `CDC website`_). An outbreak is considered to occur of a smaller geographic area than an epidemic.  See the WHO's detailed technical guidance (`WHO 2023`_) for precise definitions of what they consider to be 'a suspected cholera case', 'a confirmed cholera case', 'a suspected cholera outbreak', 'a probable cholera outbreak', or 'a confirmed cholera outbreak'.
+* Pandemic: an epidemic that has spread over several countries and usually affects many people (definition from the `CDC website`_).
+* Pandemic lineage: a lineage of a bacterial species that is causing or caused a pandemic of a disease.
+* Serogroup: a subgroup of *V. cholerae* bacteria that share the same distinctive surface structure in their O-antigen.
+* Strain: see 'lineage'. 
+* Toxigenic *V. cholerae*: *V. cholerae* that produces the cholera toxin. Isolates of the 7PET lineage are toxigenic, but a small fraction of isolates of some other lineages of *V. cholerae* are also toxigenic.
+* Viable but Non-Culturable (VBNC): a dormant state that many bacterial species enter under unfavourable conditions such as low temperature and low nutrient conditions.
+* Vibrio cholerae* (*V. cholerae*): a curved Gram-negative rod-shaped bacterium that causes the disease cholera.
+* Virulence factor: a protein (or protein complex) that helps a bacterium to colonise a host at the cellular level.
+
+.. _National Cancer Institute: https://www.cancer.gov/publications/dictionaries/cancer-terms/def/organism-strain
+
+.. _CDC website: https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section11.html
+
+.. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
 
 Contact
 -------
