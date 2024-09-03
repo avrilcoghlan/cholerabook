@@ -605,7 +605,9 @@ does not appear to have been epidemic-causing for the first half of the 1900s (`
 lineage was sometimes associated with the human population, and was accumulating evolutionary changes (mutations; `Hu et al 2016`_).
 It wasn't until 1961 that the 7th pandemic began, with many cases of cholera caused by 7PET occurring in Indonesia (`Hu et al 2016`_, `Mutreja & Dougan 2020`_).
 From Indonesia, 7PET spread to the Bay of Bengal region of India and Bangladesh, and subsequently between the 1960s and 2010 7PET then spread outward from the Bay of Bengal  
-to large regions of the world in three 'waves' that overlapped in time but were genetically distinct subtypes of 7PET (`Mutreja et al 2011`_, `Ramamurthy et al 2019`_, `Rouard et al 2022`_; Figure 16). 
+to large regions of the world in three 'waves' that overlapped slightly in time, and the isolates in the same 'wave' represent closely related clones of 7PET that spread 
+from the Bay of Bengal to the rest of the world at around the same time (`Mutreja et al 2011`_, `Ramamurthy et al 2019`_, `Rouard et al 2022`_; Figure 16).
+Each wave included several sublineages of 7PET (Figure 16). 
 
 .. _Feng et al 2008: https://pubmed.ncbi.nlm.nih.gov/19115014/
 
