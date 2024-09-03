@@ -621,12 +621,14 @@ Each wave included several sublineages of 7PET (Figure 16).
 
 .. _Ramamurthy et al 2019: https://pubmed.ncbi.nlm.nih.gov/31396501/
 
-From 1961 to 1991, the 'wave 1' genetic subtype of 7PET spread from Indonesia
+From 1961 to 1991, the 'wave 1' clones of 7PET spread from Indonesia
 to the Bay of Bengal and then to Africa and Latin America (`Mutreja et al 2011`_, `Ramamurthy et al 2019`_, `Rouard et al 2022`_; Figure 16). 
-Between 1978 and 1984, the 'wave 2' genetic subtype of 7PET, which was genetically distinct from the wave 1 isolates, was common (`Ramamurthy et al 2019`_). Wave 2 isolates were first
-seen in India, and then the 'wave 2' genetic subtype spread to Africa the Americas (`Mutreja et al 2011`_, `Ramamurthy et al 2019`_, `Rouard et al 2022`_; Figure 16).
-A third genetically distinct subtype, 'wave 3', was seen from 1991 to the present, and has also spread to Africa and the Americas (`Mutreja et al 2011`_, `Ramamurthy et al 2019`_, `Rouard et al 2022`_; Figure 16). 
-Based on genetic information, each of these three genetically subtypes (waves 1, 2, 3) has been further subdivided into 7PET *sublineages*, as shown in Figure 16; we will mention some of these
+Between 1978 and 1984, the 'wave 2' clones 7PET spread from the Bay of Bengal around the globe, 
+and were genetically distinct from the wave 1 clones (`Ramamurthy et al 2019`_). Wave 2 isolates were first
+seen in India, and then 'wave 2' clones spread to Africa and the Americas (`Mutreja et al 2011`_, `Ramamurthy et al 2019`_, `Rouard et al 2022`_; Figure 16).
+A third wave of clones, 'wave 3', later spread outwards from Bay of Bengal around the globe. The wave 3 clones have been observed from 1991 to the present, and have
+(like wave 1 and wave 2) spread to Africa and the Americas (`Mutreja et al 2011`_, `Ramamurthy et al 2019`_, `Rouard et al 2022`_; Figure 16). 
+Each of these three waves included several 7PET *sublineages*, as shown in Figure 16; we will mention some of these
 sublineages later in the course, but for the moment you don't need to remember their names.
 
 .. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
