@@ -79,37 +79,6 @@ some non-epidemic lineages of
 
 .. _Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
 
-The Revised GTFCC Definitions of Cholera Cases and Cholera-free Country Statuses
---------------------------------------------------------------------------------
-
-The WHO's Global Task Force on Cholera Control (GTFCC) is a partnership of more
-than 50 institutions, including non-governmental organisations (NGOs), academic institutions, and United Nations (UN) agencies,
-that are working together to eliminate cholera. By 2030 they aim to reduce 
-cholera deaths by at least 90%, and to eliminate cholera altogether in 20
-countries (see the `GTFCC Roadmap 2030`_).
-
-.. _GTFCC Roadmap 2030: https://www.gtfcc.org/about-cholera/roadmap-2030/
-
-Because non-epidemic lineages of *V. cholerae* are found in many countries around
-the world, the GTFCC have recently revised their definition of the disease 'cholera'
-to specifically mention the epidemic-causing lineage 7PET.
-That is, they define cholera as: 
-
-*"disease caused by toxigenic Vibrio cholerae O1 or O139, carrying the ctxAB genes encoding the cholera toxin (CT), linked to the seventh pandemic lineage or any lineage that might emerge with similar properties"* (`GTFCC 2022`_).
-
-.. _GTFCC 2022: https://www.gtfcc.org/wp-content/uploads/2022/06/7th-meeting-of-the-gtfcc-working-group-on-surveillance-2022-report.pdf
-
-As mentioned above, non-epidemic lineages of *V. cholerae* such as MX-2 sometimes cause small outbreaks of mild diarrhoea,
-but these are considered of relatively minor public health importance compared to outbreaks caused by 7PET.
-The GTFCC is aiming to eliminate 7PET in 20 countries by 2030,
-not to eliminate all diarrhoeal illness caused by non-epidemic *V. cholerae*. 
-This means that in order to prove that
-a particular country has become 'cholera-free', there will need to be
-sufficient data to show that diarrhoeal illness caused by 7PET has definitely disappeared from that country. 
-One type of data that will be very useful for this purpose is whole-genome sequencing data for *V. cholerae*, which
-can be used to accurately distinguish 7PET from non-epidemic lineages of *V. cholerae*, as we will discuss
-later in this course. 
-
 The Classical Biotype and the El Tor Biotype
 --------------------------------------------
 
@@ -227,6 +196,37 @@ gain insights into how 7PET is spreading regionally and globally. You will see t
 beside a phylogenetic tree; for example, in Figure 13 we plotted presence/absence of particular genes. We can also display additional
 non-genetic data that we have about the isolates (known as **'metadata'**), such as the exact location or date of collection of the isolates, or
 the serogroup or antimicrobial resistance phenotypes of isolates as determined by laboratory tests.
+
+The Revised GTFCC Definitions of Cholera Cases and Cholera-free Country Statuses
+--------------------------------------------------------------------------------
+
+The WHO's Global Task Force on Cholera Control (GTFCC) is a partnership of more
+than 50 institutions, including non-governmental organisations (NGOs), academic institutions, and United Nations (UN) agencies,
+that are working together to eliminate cholera. By 2030 they aim to reduce 
+cholera deaths by at least 90%, and to eliminate cholera altogether in 20
+countries (see the `GTFCC Roadmap 2030`_).
+
+.. _GTFCC Roadmap 2030: https://www.gtfcc.org/about-cholera/roadmap-2030/
+
+Because non-epidemic lineages of *V. cholerae* are found in many countries around
+the world, the GTFCC have recently revised their definition of the disease 'cholera'
+to specifically mention the epidemic-causing lineage 7PET.
+That is, they define cholera as: 
+
+*"disease caused by toxigenic Vibrio cholerae O1 or O139, carrying the ctxAB genes encoding the cholera toxin (CT), linked to the seventh pandemic lineage or any lineage that might emerge with similar properties"* (`GTFCC 2022`_).
+
+.. _GTFCC 2022: https://www.gtfcc.org/wp-content/uploads/2022/06/7th-meeting-of-the-gtfcc-working-group-on-surveillance-2022-report.pdf
+
+As mentioned above, non-epidemic lineages of *V. cholerae* such as MX-2 sometimes cause small outbreaks of mild diarrhoea,
+but these are considered of relatively minor public health importance compared to outbreaks caused by 7PET.
+The GTFCC is aiming to eliminate 7PET in 20 countries by 2030,
+not to eliminate all diarrhoeal illness caused by non-epidemic *V. cholerae*. 
+This means that in order to prove that
+a particular country has become 'cholera-free', there will need to be
+sufficient data to show that diarrhoeal illness caused by 7PET has definitely disappeared from that country. 
+One type of data that will be very useful for this purpose is whole-genome sequencing data for *V. cholerae*, which
+can be used to accurately distinguish 7PET from non-epidemic lineages of *V. cholerae*, as we will discuss
+later in this course. 
 
 The *V. cholerae* Genome and Whole-Genome Sequencing (WGS) of *V. cholerae*
 ---------------------------------------------------------------------------
