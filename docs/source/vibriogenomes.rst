@@ -42,8 +42,8 @@ The *V. cholerae* bacterium is usually transmitted by the faecal-oral route, tha
 people usually catch cholera by eating food or by drinking water that has been contaminated
 with human faeces containing *V. cholerae* (`Sack et al 2004`_, `Nelson et al 2009`_). Barriers to disease transmission include
 handwashing and hygiene, access to toilets, and clean drinking water (e.g. chlorination of stored water; `Sack et al 2004`_, `Nelson et al 2009`_). 
-Figure 2 summarises what is known about the transmission routes for the current pandemic lineage of *V. cholerae*, the 7PET
-lineage, which is the lineage of *V. cholerae* responsible for all major outbreaks and epidemics of cholera since the 1960s (`Mutreja et al 2011`_, `Mutreja & Dougan 2020`_). 
+Figure 2 summarises what is known about the transmission routes for the current pandemic lineage of *V. cholerae*, the **7PET
+lineage**, which is the lineage of *V. cholerae* responsible for all major outbreaks and epidemics of cholera since the 1960s (`Mutreja et al 2011`_, `Mutreja & Dougan 2020`_). 
 
 .. _Sack et al 2004: https://pubmed.ncbi.nlm.nih.gov/14738797/
 
