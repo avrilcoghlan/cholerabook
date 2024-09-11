@@ -328,8 +328,8 @@ are very distantly related to 7PET, but this is very rare (e.g. isolate V51 desc
 
 .. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
-Mutations and the Emergence of Lineages of a Bacterial Species
---------------------------------------------------------------
+How Do Lineages Emerge at the Genetic Level?
+--------------------------------------------
 
 Like other bacteria, *V. cholerae* populations reproduce by cell division, with the
 DNA (genetic material) of descendant cells being identical to the DNA of the parent cells. 
