@@ -140,10 +140,6 @@ Over evolutionary time, different clones of a species independently accumulate
 mutations, so they eventually they become so different at the genetic level that we can consider them different **lineages** (also sometimes known as different 'strains') of the species (Figure 5). 
 That is, a lineage is group of organisms belonging to the same bacterial species, and that are genetically more closely related to each other than other members of the same species
 (adapted from a definition by the `National Cancer Institute`_). 
-There can be many lineages within a particular bacterial species. 
-The bacteria belonging to one particular lineage are all relatively clonal (highly similar at the genetic level); 
-they all descended from a relatively recent common ancestor (although 'recent' in evolutionary time may be hundreds or thousands of years ago!); and
-they usually present similar biological features, such as a specific pattern of virulence (`Bacigalupe 2017`_). 
 
 .. _Bacigalupe 2017: https://era.ed.ac.uk/handle/1842/31266
 
@@ -157,6 +153,23 @@ they usually present similar biological features, such as a specific pattern of 
 .. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
 .. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
+
+There can be many lineages within a particular bacterial species.
+The bacteria belonging to one particular lineage are all relatively clonal (highly similar at the genetic level); 
+they all descended from a relatively recent common ancestor (although 'recent' in evolutionary time may be hundreds or thousands of years ago!); and
+they usually present similar biological features, such as a specific pattern of virulence (`Bacigalupe 2017`_). 
+
+The lineages of a bacterial species are like the breeds of domestic animals such as chickens, goats, cows, or dogs.
+For example, all chickens belong to the same species (*Gallus gallus*), and chickens of the same breed are more similar to each other genetically, and shared
+a more recent common ancestor with each other, compared to chickens of a different breed. In addition, chickens of the same breed tend to share
+particular characteristics (e.g. colouring, size), and be quite different in those respects to chickens from another breed (Figure 6).
+
+.. figure:: Poultry_of_the_world.jpg
+  :width: 500
+
+  Figure 6. `The poultry of the world. Portraits of all known valuable breeds of fowl`_. Image attribution: This image by by L. Prang & Co., Boston, is in the Public Domain. 
+
+.. _The poultry of the world. Portraits of all known valuable breeds of fowl: https://commons.wikimedia.org/wiki/File:Poultry_of_the_world.jpg
 
 There is only one lineage of *V. cholerae* which causes epidemic cholera at present.
 This lineage is known as the **'7PET'** lineage. What do we mean when we say 7PET causes **'epidemic cholera'**?
