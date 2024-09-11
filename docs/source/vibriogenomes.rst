@@ -150,7 +150,7 @@ they usually present similar biological features, such as a specific pattern of 
 .. _National Cancer Institute: https://www.cancer.gov/publications/dictionaries/cancer-terms/def/organism-strain
 
 .. figure:: ClonalSpecies.png
-  :width: 250
+  :width: 300
 
   Figure 5. The population structure of a bacterial species can contain genetically distinguishable lineages. The isolates that belong to the same lineage are much closer to each other genetically, and share a more recent common ancestor with each other, compared to isolates of different lineages. This cartoon shows a 'phylogenetic tree' representing the evolution of seven different lineages of the same bacterial species (similar to a family tree). For illustrative purposes, we show three isolates of each lineage, and represent the isolates by pink, dark blue, light blue, green, grey, red and orange *V. cholerae* images, respectively. Isolates of the red lineage are high similar genetically so are considered to belong to the same lineage (lineage 6). Similarly, isolates of the orange lineage are highly similar genetically to each other, but are relatively distant from lineage 6, so are considered to belong to a separate lineage (lineage 7). Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
 
