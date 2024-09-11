@@ -43,6 +43,7 @@ Contents
 
    vibriogenomes
    vibriogenomes2
+   vibriogenomes3
    assemblies
    mlst
    closerelatives
