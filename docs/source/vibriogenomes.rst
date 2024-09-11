@@ -232,14 +232,14 @@ The species *V. cholerae* is distributed globally and, as mentioned above, it is
 .. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
 The non-epidemic lineages of *V. cholerae* such as MX-2 (see above) are often found in brackish water or in saltwater in association with shellfish 
-such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7). 
+such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7 above; Figure 9). 
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
 .. figure:: VibrioCholeraeInSea.jpg
   :width: 750
 
-  Figure 7. `Vibrio cholerae interactions with other organisms and the environment`_. Non-epidemic lineages of *V. cholerae* such as the MX-2 lineage are part of the bacterioplankton in aquatic environments. The non-epidemic *V. cholerae* are under risk of predation by protozoa and bacteriophages (viruses). These non-epidemic *V. cholerae* can attach to other organisms such as phytoplankton, macroalgae, chitinous zooplankton, and gelatinous egg masses, which may provide sources of nutrients for the non-epidemic *V. cholerae*. Fish and birds feed on plankton and mussels that might harbour non-epidemic *V. cholerae*. Under unfavourable conditions, such as low temperature and low nutrient conditions, non-epidemic *V. cholerae* enter a 'viable but non-culturable' (VBNC) dormant state. In contrast to the non-epidemic lineages of *V. cholerae*, as we mentioned above (Figure 2 above), long-term persistance of 7PET in aquatic environments is a controversial scientific question and is still under active debate. Image attribution: this image by `Lutz et al 2013`_ is licensed under `CC BY 3.0`_.
+  Figure 9. `Vibrio cholerae interactions with other organisms and the environment`_. Non-epidemic lineages of *V. cholerae* such as the MX-2 lineage are part of the bacterioplankton in aquatic environments. The non-epidemic *V. cholerae* are under risk of predation by protozoa and bacteriophages (viruses). These non-epidemic *V. cholerae* can attach to other organisms such as phytoplankton, macroalgae, chitinous zooplankton, and gelatinous egg masses, which may provide sources of nutrients for the non-epidemic *V. cholerae*. Fish and birds feed on plankton and mussels that might harbour non-epidemic *V. cholerae*. Under unfavourable conditions, such as low temperature and low nutrient conditions, non-epidemic *V. cholerae* enter a 'viable but non-culturable' (VBNC) dormant state. In contrast to the non-epidemic lineages of *V. cholerae*, as we mentioned above (Figure 2 above), long-term persistance of 7PET in aquatic environments is a controversial scientific question and is still under active debate. Image attribution: this image by `Lutz et al 2013`_ is licensed under `CC BY 3.0`_.
 
 .. _Vibrio cholerae interactions with other organisms and the environment: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2013.00375/full
 
@@ -253,12 +253,12 @@ Serogroups of *V. cholerae*
 The outer membrane of the cell membrane of Gram-negative bacteria such as *V. cholerae* contains a component known as
 'lipopolysaccharide' (LPS) that serves as a barrier to protect the bacteria from external stresses. Lipopolysaccharide
 molecules are very large molecules consisting of three parts: an outer core polysaccharide known as the **'O-antigen'**, 
-an inner core oligosaccharide, and Lipid A (Figure 8). 
+an inner core oligosaccharide, and Lipid A (Figure 10). 
 
 .. figure:: LPS.png
   :width: 200
 
-  Figure 8. `Structure of a lipopolysaccharide`_. Image attribution: this image by `Mike Jones`_ is licensed under `CC BY-SA 3.0`_.
+  Figure 10. `Structure of a lipopolysaccharide`_. Image attribution: this image by `Mike Jones`_ is licensed under `CC BY-SA 3.0`_.
 
 .. _Mike Jones: https://en.wikipedia.org/wiki/User:Adenosine?rdfrom=commons:User:Adenosine
 
@@ -320,7 +320,7 @@ The Revised GTFCC Definitions of Cholera Cases and Cholera-free Country Statuses
 --------------------------------------------------------------------------------
 
 The WHO's Global Task Force on Cholera Control (GTFCC) is a partnership of more
-than 50 institutions, including NGOs, academic institutions, and UN agencies,
+than 50 institutions, including non-governmental organisations (NGOs), academic institutions, and United Nations (UN) agencies,
 that are working together to eliminate cholera. By 2030 they aim to reduce 
 cholera deaths by at least 90%, and to eliminate cholera altogether in 20
 countries (see the `GTFCC Roadmap 2030`_).
@@ -671,7 +671,7 @@ sublineages later in the course, but for the moment you don't need to remember t
 .. _Intercontinental transmissions of the seventh pandemic lineage of V. cholerae El Tor (7PET): https://comptes-rendus.academie-sciences.fr/biologies/articles/10.5802/crbiol.77/
 
 As mentioned above, cholera is spread by the faecal-oral route, and so the most likely explanation is that 7PET has been 
-spread by human travel. For example, there is overwhelming evidence that the Haiti cholera epidemic from 2010-2019 was due
+spread by human travel. For example, there is strong evidence that the Haiti cholera epidemic from 2010-2019 was due
 to individuals infected by 7PET in a foreign country travelling to Haiti (`Orata et al 2014`_). 
 
 .. _Orata et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699938/
@@ -682,6 +682,7 @@ The WHO has a technical definition of a 'cholera-endemic area':
 (`WHO 2024`_, accessed 18th July 2024). 
 The WHO also provides detailed technical guidance on what it considers to be 
 a 'locally acquired cholera case' versus an 'imported cholera case' (see `WHO 2023`_).
+
 To see an up-to-date map of cholera cases reported to the WHO in recent months, you can see
 the `WHO's Global Cholera and Acute Watery Diarrhoea (AWD) Dashboard`_.
 
@@ -872,9 +873,11 @@ Glossary of Key Terms
 * **Biotype**: a subgroup of *V. cholerae* bacteria that display a particular phenotype upon a certain set of biochemical laboratory tests. The biotype phenotype has been used historically to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing 7PET lineage.
 * **Cholera**: a disease characterised by acute watery diarrhoea, which is caused by ingestion of *Vibrio cholerae*.
 * **Cholera case**: a patient diagnosed with cholera using standard criteria; see the `WHO 2023`_ guidance and definitions for what they consider 'a suspected cholera case' and 'a confirmed cholera case'.
+* **Cholera-endemic area**: see 'endemic'.
 * **Cholera toxin (Ctx, CTX, or CT)**: the most important virulence factor of *Vibrio cholerae*; cholera toxin triggers acute watery diarrhoea.
 * **Clone**: a group of cells produced asexually from one ancestor, to which they are genetically identical (or nearly identical).
 * **DNA (Deoxyribonucleic acid)**: the molecule that carries genetic information of an organism.
+* **Endemic**: according to the CDC website, an 'endemic' refers to the constant presence and/or usual prevalence of a disease or infectious agent in a population within a geographic area. The WHO defines a 'cholera-endemic area' as "an area where confirmed cholera cases were detected during the last 3 years with evidence of local transmission (meaning the cases are not imported from elsewhere)" (`WHO 2024`_, accessed 18th July 2024). 
 * **Epidemic**: an unexpected increase in the number of disease cases in a specific geographical area (definition from the `CDC website`_). An epidemic is considered to occur of a larger geographic area than an outbreak. See the WHO's detailed technical guidance (`WHO 2023`_) for precise definitions of what they consider to be 'a suspected cholera case', 'a confirmed cholera case', 'a suspected cholera outbreak', 'a probable cholera outbreak', or 'a confirmed cholera outbreak'.
 * **Epidemic-causing lineage of V. cholerae**: a *V. cholerae* lineage that can cause a very large increase in the number of cases of diarrhoeal illness caused by *V. cholerae* in a particular town/city/region over a relatively short period of time. The 7PET lineage is the only epidemic-causing lineage of *V. cholerae* at present.
 * **Genome**: all the genetic material present in a cell or organism.
@@ -899,6 +902,8 @@ Glossary of Key Terms
 .. _CDC website: https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section11.html
 
 .. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
+
+.. _WHO 2024: https://www.who.int/news-room/fact-sheets/detail/cholera
 
 Contact
 -------
