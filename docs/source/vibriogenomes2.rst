@@ -138,8 +138,8 @@ just give slightly different results in the biotyping tests (Figure 11) compared
 
 .. _Bhandari et al 2021: https://pubmed.ncbi.nlm.nih.gov/33482361/
 
-Relationships between Epidemic and Non-epidemic Lineages of *V. cholerae*
--------------------------------------------------------------------------
+Defining *V. cholerae* Lineages Based on Whole Genome Sequencing (WGS) Data 
+---------------------------------------------------------------------------
 
 The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
 recorded pandemic, are relatively closely related. We know this by analysing whole-genome sequencing data (that is, genetic information in DNA) in order to make a 'phylogenetic tree' for *V. cholerae*, that is, a tree that depicts the evolutionary relationships between the different lineages of *V. cholerae* and shows how they descended from a common ancestor (Figure 12). 
