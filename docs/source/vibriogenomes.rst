@@ -124,8 +124,8 @@ such as enterotoxigenic *E. coli* (ETEC).
 
 .. _interview in 2021 with Dr Firdausi Qadri, a leading cholera researcher who works in the International Centre for Diarrhoeal Disease and Research, Bangladesh (ICDDR,B): https://www.youtube.com/watch?v=AmuXQzZW58M
 
-Epidemic and Non-epidemic Lineages of *Vibrio cholerae* and their Geographic Distribution
------------------------------------------------------------------------------------------
+Epidemic and Non-epidemic Lineages of *Vibrio cholerae* 
+-------------------------------------------------------
 
 Like other bacteria, *V. cholerae* populations reproduce by cell division, with the
 DNA (genetic material) of descendant cells being identical to the DNA of the parent cells. 
@@ -153,23 +153,6 @@ they usually present similar biological features, such as a specific pattern of 
   :width: 300
 
   Figure 5. The population structure of a bacterial species can contain genetically distinguishable lineages. The isolates that belong to the same lineage are much closer to each other genetically, and share a more recent common ancestor with each other, compared to isolates of different lineages. This cartoon shows a 'phylogenetic tree' representing the evolution of seven different lineages of the same bacterial species (similar to a family tree). For illustrative purposes, we show three isolates of each lineage, and represent the isolates by pink, dark blue, light blue, green, grey, red and orange *V. cholerae* images, respectively. Isolates of the red lineage are high similar genetically so are considered to belong to the same lineage (lineage 6). Similarly, isolates of the orange lineage are highly similar genetically to each other, but are relatively distant from lineage 6, so are considered to belong to a separate lineage (lineage 7). Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
-
-.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
-
-.. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
-
-The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages. Figure 6 shows what is known about the global distribution of just two of the many lineages of *V. cholerae*.
-
-.. figure:: LineageDistributions.png
-  :width: 1050
-
-  Figure 6. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, reflecting the far greater public health importance of 7PET, which has led to more sequencing of this lineage from the stool of sick people. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image attribution: this image by `Avril Coghlan`_, based on a screenshot from the `Pathogenwatch website`_, is licensed under `CC BY 4.0`_.
-
-.. _Pathogenwatch website: https://pathogen.watch/
-
-.. _Vibriowatch: https://vibriowatch.readthedocs.io
-
-.. _PopPUNK: https://pubmed.ncbi.nlm.nih.gov/30679308/
 
 .. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
@@ -207,7 +190,28 @@ There are many other non-epidemic lineages of *V. cholerae* found around the wor
 cholera, but sometimes cause small outbreaks of mild diarrhoea. An example is lineage MX-2 (Figure 6). 
 The vast majority of the non-epidemic lineages of *V. cholerae* do not produce cholera toxin, but isolates of some
 non-epidemic lineages, including some isolates of MX-2, are predicted to produce cholera toxin because they have the genes encoding the cholera toxin (`Domman et al 2017`_).
-The non-epidemic lineages of *V. cholerae* are often found in brackish water or in saltwater in association with shellfish 
+
+The Geographic Distribution of *Vibrio cholerae* and the Ecological Niche of Non-epidemic Lineages of *V. cholerae*
+-------------------------------------------------------------------------------------------------------------------
+
+The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages. Figure 6 shows what is known about the global distribution of just two of the many lineages of *V. cholerae*.
+
+.. figure:: LineageDistributions.png
+  :width: 1050
+
+  Figure 6. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, reflecting the far greater public health importance of 7PET, which has led to more sequencing of this lineage from the stool of sick people. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image attribution: this image by `Avril Coghlan`_, based on a screenshot from the `Pathogenwatch website`_, is licensed under `CC BY 4.0`_.
+
+.. _Pathogenwatch website: https://pathogen.watch/
+
+.. _Vibriowatch: https://vibriowatch.readthedocs.io
+
+.. _PopPUNK: https://pubmed.ncbi.nlm.nih.gov/30679308/
+
+.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+.. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
+
+The non-epidemic lineages of *V. cholerae* such as MX-2 (see above) are often found in brackish water or in saltwater in association with shellfish 
 such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7). 
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
