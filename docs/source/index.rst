@@ -42,6 +42,7 @@ Contents
 .. toctree::
 
    vibriogenomes
+   vibriogenomes2
    assemblies
    mlst
    closerelatives
