@@ -147,13 +147,10 @@ For a particular bacterial species, the isolates of one lineage are more similar
 a more recent common ancestor with each other, compared to isolates of a different lineage. Isolates of the same lineage
 tend to share particular characteristics (e.g. ecological niche, metabolism, pathogenic potential). 
 
-*Vibrio cholerae* is a very diverse species with many different lineages. A small subset of the lineages have
-been named, and are shown in Figure 7. 
-
 .. figure:: LineagesCartoon.png
   :width: 550
 
-  Figure 7. Some known lineages of *V. cholerae* that have been named. It is likely that there are many more lineages of *V. cholerae* that have not yet been named (`Domman et al 2017`_). Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
+  Figure 7. Some known lineages of *V. cholerae* that have been named. The current pandemic lineage of *V. cholerae* is the 7PET lineage, which has caused all the major outbreaks and epidemics of cholera since the 1960s. While this figure shows some named lineages of *V. cholerae*, is likely that there are many more lineages of *V. cholerae* that have not yet been named (`Domman et al 2017`_). Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
 
 .. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
@@ -161,8 +158,10 @@ been named, and are shown in Figure 7.
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
-There is only one lineage of *V. cholerae* which causes epidemic cholera at present.
-This lineage is known as the **'7PET'** lineage (Figure 7). What do we mean when we say 7PET causes **'epidemic cholera'**?
+*Vibrio cholerae* is a very diverse species with many different lineages. A small subset of the lineages have
+been named, and are shown in Figure 7. There is only one lineage of *V. cholerae* which causes epidemic cholera at present, which is
+known as the **'7PET'** lineage (Figure 7). 
+What do we mean when we say 7PET causes **'epidemic cholera'**?
 The word 'epidemic' is defined by the CDC (Centers for Disease Control and Prevention) as an unexpected increase in the number of disease cases in a specific geographical area;
 they say that an outbreak is defined in the same way but for a more limited geographic area (see the `CDC website`_).
 Here, when we say 7PET is epidemic-causing, we mean that 7PET can cause a very large increase in the number
