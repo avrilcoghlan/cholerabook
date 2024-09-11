@@ -24,7 +24,7 @@ precise definitions of what they consider 'a suspected cholera case' and 'a conf
 
 Cholera is an infection caused by a bacterium called *Vibrio cholerae*, a curved Gram-negative rod-shaped bacterium (Figure 1).
 It is often described as being 'comma-shaped' because of its curved shape. *V. cholerae* has a flagellum (a tail like structure) at one pole, which it uses
-to propel itself through liquids.
+to swim through liquids.
 The genus *Vibrio* belongs to the Vibrionaceae, a family in the class Gammaproteobacteria that includes many bacteria 
 found in marine niches (`Boyd et al 2015`_).
 
