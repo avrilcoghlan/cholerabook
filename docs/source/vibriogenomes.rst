@@ -149,7 +149,7 @@ tend to share particular characteristics (e.g. ecological niche, metabolism, pat
 been named, and are shown in Figure 7. 
 
 .. figure:: LineagesCartoon.png
-  :width: 350
+  :width: 550
 
   Figure 7. Some known lineages of *V. cholerae* that have been named. It is likely that there are many more lineages of *V. cholerae* that have not yet been named (`Domman et al 2017`_). Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
 
