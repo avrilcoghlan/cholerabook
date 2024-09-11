@@ -1,3 +1,11 @@
+Module 1: Cholera, *Vibrio cholerae*, and *V. cholerae* Lineages
+==================================================================
+
+Introduction to Module 1.2
+--------------------------
+
+In subsection 1.2 of Module 1, we will talk about xxx need to fill in xxx.
+
 Serogroups of *V. cholerae*
 ---------------------------
 
