@@ -23,6 +23,7 @@ precise definitions of what they consider 'a suspected cholera case' and 'a conf
 .. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
 
 Cholera is an infection caused by a bacterium called *Vibrio cholerae*, a curved Gram-negative rod-shaped bacterium (Figure 1).
+It is often described as being 'comma-shaped' because of its curved shape.
 The genus *Vibrio* belongs to the Vibrionaceae, a family in the class Gammaproteobacteria that includes many bacteria 
 found in marine niches (`Boyd et al 2015`_).
 
@@ -331,6 +332,13 @@ Cholera Vaccines
 ----------------
 
 Need to add material here.
+
+.. image:: Activity.png
+  :width: 1050
+
+* Watch this `interview in 2021 with Dr Firdausi Qadri, a leading cholera researcher who works in the International Centre for Diarrhoeal Disease and Research, Bangladesh (ICDDR,B)`_  (24 minutes). 
+
+.. _interview in 2021 with Dr Firdausi Qadri, a leading cholera researcher who works in the International Centre for Diarrhoeal Disease and Research, Bangladesh (ICDDR,B): https://www.youtube.com/watch?v=AmuXQzZW58M
 
 Brief Summary
 -------------
