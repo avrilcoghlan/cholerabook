@@ -1,11 +1,14 @@
-Module 1: Cholera, *Vibrio cholerae*, and *V. cholerae* Lineages
-==================================================================
+Module 1.2: Classification of *Vibrio cholerae*
+===============================================
 
-Introduction to Section 1.2
----------------------------
+Introduction to Module 1.2
+--------------------------
 
-In Section 1.2 of Module 1, we will talk about xxx need to fill in xxx.
-While we will explain terms as we go along, we have also included a glossary of key terms at the bottom of this website. 
+Welcome!
+In Module 1.2, we will talk about how *Vibrio cholerae* has been historically classified in different ways:
+by serogroup, by biotype, and more recently (and most accurately) by analysis of whole genome sequencing (WGS) data.
+This module may take you roughly one hour to work through (maybe a bit more or less than that, depending on your own pace).
+While we will explain terms as we go along, we have also included a glossary of key terms at the bottom of this webpage. 
 
 Serogroups of *V. cholerae*
 ---------------------------
