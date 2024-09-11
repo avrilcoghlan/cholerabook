@@ -118,7 +118,6 @@ such as enterotoxigenic *E. coli* (ETEC).
 * Watch a `video giving an overview of cholera, its spread and history by Médecins Sans Frontières (MSF)`_ (15 minutes).
 * Watch this `short video on how Médecins Sans Frontières (MSF) responds to a cholera outbreak`_ (3 minutes).
 * Watch this `short video tour of a Médecins Sans Frontières (MSF) cholera treatment centre in Nigeria in 2022`_ (4 minutes).
-* Watch this `interview in 2021 with Dr Firdausi Qadri, a leading cholera researcher who works in the International Centre for Diarrhoeal Disease and Research, Bangladesh (ICDDR,B)`_  (24 minutes). 
 
 .. _video giving an overview of cholera, its spread and history by Médecins Sans Frontières (MSF): https://www.youtube.com/watch?v=TzPXP1_eUzw
 
@@ -126,9 +125,8 @@ such as enterotoxigenic *E. coli* (ETEC).
 
 .. _short video tour of a Médecins Sans Frontières (MSF)  cholera treatment centre in Nigeria in 2022: https://www.youtube.com/watch?v=Gwc1lP_7riI
 
-.. _interview in 2021 with Dr Firdausi Qadri, a leading cholera researcher who works in the International Centre for Diarrhoeal Disease and Research, Bangladesh (ICDDR,B): https://www.youtube.com/watch?v=AmuXQzZW58M
-
 Now answer these questions:
+
 # 1.
 # 2.
 # 3.
