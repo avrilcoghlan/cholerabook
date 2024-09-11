@@ -5,7 +5,7 @@ Introduction to Module 1
 ------------------------
 
 Module 1 will give you an overview of cholera, the species *Vibrio cholerae*; the main lineages of *V. cholerae*; and the current pandemic lineage of *V. cholerae*, the 7PET lineage. The module is divided into four subsections, which may each take you roughly one hour to work through, depending on your own pace.
-While we will explain terms as we go along, we have also included a glossary of key terms at the bottom of this website. 
+While we will explain terms as we go along, we have also included a glossary of key terms at the bottom of this webpage. 
 
 Introduction to Module 1.1
 --------------------------
