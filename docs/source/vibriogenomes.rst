@@ -476,8 +476,9 @@ outbreak are 7PET or not.
 
 Note that you may see some mention in the literature of variants of the El Tor biotype, such as
 the 'Matlab variants', 'Mozambique variants', 'Haitian variants', 'altered El Tor biotype', 'hybrid El Tor' or 'atypical El Tor' (e.g. in `Bhandari et al 2021`_, 
-`Montero et al 2023`_). Isolates with the Matlab/Mozambique/Haitian variants of El Tor biotype or altered/hybrid/atypical El Tor biotype all belong to the 7PET lineage, but
-just give slightly different results in the biotyping tests (Figure 10) compared to other 7PET isolates. 
+`Montero et al 2023`_). These variants do not correspond exactly to the El Tor biotype, e.g. they may differ from El Tor in a small number of the laboratory test results in Figure 11.
+Isolates with the Matlab/Mozambique/Haitian variants of El Tor biotype or altered/hybrid/atypical El Tor biotype all belong to the 7PET lineage, but
+just give slightly different results in the biotyping tests (Figure 11) compared to other 7PET isolates. 
 
 .. _Montero et al 2023: https://pubmed.ncbi.nlm.nih.gov/37215733/
 
@@ -662,7 +663,7 @@ sublineages later in the course, but for the moment you don't need to remember t
 .. figure:: 7PET_Spread2.jpg
   :width: 1100
 
-  Figure 16. `Intercontinental transmissions of the seventh pandemic lineage of V. cholerae El Tor (7PET)`_. Between the 1960s and 2010, 7PET spread outward globally from the Bay of Bengal region (highlighted with a green oval), in three overlapping waves of spread. Introductions of the various sublineages (genetic subtypes) of the 7PET lineage are represented by solid coloured lines (or dotted lines if the direction of transmission is uncertain). The estimated dates of introduction of the sublineages are shown. (A) shows spread of wave 1 sublineages of the 7PET lineage, (B) shows wave 2 sublineages of 7PET, and (C) wave 3 sublineages of 7PET.  Image attribution: this image by `Rouard et al 2022`_ is licensed under `CC BY 4.0`_.
+  Figure 16. `Intercontinental transmissions of the seventh pandemic lineage of V. cholerae El Tor (7PET)`_. Between the 1960s and 2010, 7PET spread outward globally from the Bay of Bengal region (highlighted with a green oval), in three overlapping waves of spread. Introductions of the various sublineages of the 7PET lineage are represented by solid coloured lines (or dotted lines if the direction of transmission is uncertain). The estimated dates of introduction of the sublineages are shown. (A) shows spread of wave 1 sublineages of the 7PET lineage, (B) shows wave 2 sublineages of 7PET, and (C) wave 3 sublineages of 7PET.  Image attribution: this image by `Rouard et al 2022`_ is licensed under `CC BY 4.0`_.
 
 .. _Rouard et al 2022: https://pubmed.ncbi.nlm.nih.gov/35787619/
 
@@ -774,7 +775,7 @@ Genes of *V. cholerae*
 Each of the two chromosomes of *V. cholerae* includes many hundred of genes. 
 Each gene comprises a segment of its DNA, typically hundreds or thousands
 of base-pairs in length. A very common type of gene is a protein-coding gene, which is a stretch of
-DNA which encodes (specifies the production of) particular proteins. For example,
+DNA which encodes (specifies the production of) a particular protein. For example,
 *ctxA* and *ctxB* are two *V. cholerae* genes that encode the CtxA and CtxB proteins, the two
 proteins that form cholera toxin. In total the two *V. cholerae* chromosomes contain almost 4000 protein-coding genes in a typical isolate
 from the 7PET lineage (`Heidelberg et al 2000`_). 
@@ -815,16 +816,18 @@ genetically are said to belong to the same **clone**, or be **clonal**.
 
 Mutations (changes) in the DNA, are
 a source of genetic variation in *V. cholerae*; these sometimes occur when DNA is being copied during cell division, but
-can also occur due to DNA damage, for example damage due to ultraviolet (UV) radiation. 
+can also occur due to DNA damage, for example damage due to ultraviolet (UV) radiation or mutagenic (mutation-inducing) chemicals such as tobacco products.
 
 Over evolutionary time, different clones of a bacterial species independently accumulate
-mutations, so they eventually they become so different at the genetic level that we can consider them different **lineages** (also sometimes known as different 'strains') of the species (Figure 5). 
+mutations, so they eventually they become so different at the genetic level that we can consider them different **lineages** of the species (Figure 5). 
 That is, a lineage is group of organisms belonging to the same bacterial species, and that are genetically more closely related to each other than other members of the same species
 (adapted from a definition by the `National Cancer Institute`_). 
 There can be many lineages within a particular bacterial species.
 The bacteria belonging to one particular lineage are all relatively clonal (highly similar at the genetic level); 
 they all descended from a relatively recent common ancestor (although 'recent' in evolutionary time may be hundreds or thousands of years ago!); and
 they usually present similar biological features, such as a specific pattern of virulence (`Bacigalupe 2017`_). 
+Note that the word 'strain' is sometimes used interchangeably with 'lineage', but we prefer here to use the term 'lineage' because 'strain'
+is also commonly used to refer to a single bacterial isolate that has been cultured over time in a laboratory.
 
 .. _Bacigalupe 2017: https://era.ed.ac.uk/handle/1842/31266
 
@@ -871,6 +874,7 @@ Glossary of Key Terms
 
 * **7PET**: the name of the current pandemic lineage of *Vibrio cholerae*. 7PET is the lineage of *V. cholerae* that has been responsible for all major outbreaks and epidemics of cholera since the 1960s. '7PET' is short for 'Seventh Pandemic El Tor' because 7PET has caused the 7th historically recorded cholera pandemic, and isolates of the 7PET lineage have the El Tor biotype (a laboratory phenotype). 
 * **Biotype**: a subgroup of *V. cholerae* bacteria that display a particular phenotype upon a certain set of biochemical laboratory tests. The biotype phenotype has been used historically to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing 7PET lineage.
+* **Biotype variants**: biotypes which differ in a small number of the laboratory test results that are used to identify the El Tor biotype.
 * **Cholera**: a disease characterised by acute watery diarrhoea, which is caused by ingestion of *Vibrio cholerae*.
 * **Cholera case**: a patient diagnosed with cholera using standard criteria; see the `WHO 2023`_ guidance and definitions for what they consider 'a suspected cholera case' and 'a confirmed cholera case'.
 * **Cholera-endemic area**: see 'endemic'.
@@ -880,8 +884,11 @@ Glossary of Key Terms
 * **Endemic**: according to the `CDC website`_, an 'endemic' refers to the constant presence and/or usual prevalence of a disease or infectious agent in a population within a geographic area. The WHO defines a 'cholera-endemic area' as "an area where confirmed cholera cases were detected during the last 3 years with evidence of local transmission (meaning the cases are not imported from elsewhere)" (`WHO 2024`_, accessed 18th July 2024). 
 * **Epidemic**: an unexpected increase in the number of disease cases in a specific geographical area (definition from the `CDC website`_). An epidemic is considered to occur of a larger geographic area than an outbreak. See the WHO's detailed technical guidance (`WHO 2023`_) for precise definitions of what they consider to be 'a suspected cholera case', 'a confirmed cholera case', 'a suspected cholera outbreak', 'a probable cholera outbreak', or 'a confirmed cholera outbreak'.
 * **Epidemic-causing lineage of V. cholerae**: a *V. cholerae* lineage that can cause a very large increase in the number of cases of diarrhoeal illness caused by *V. cholerae* in a particular town/city/region over a relatively short period of time. The 7PET lineage is the only epidemic-causing lineage of *V. cholerae* at present.
+* **Gene**: a segment of the DNA of an organism, typically hundreds or thousands of base-pairs in length. A very common type of gene is a protein-coding gene, which is a stretch of
+DNA which encodes (specifies the production of) a particular protein. 
 * **Genome**: all the genetic material present in a cell or organism.
-* **Lineage** (also called a 'strain'): a group of organisms belonging to the same bacterial species, and that are genetically more closely related to each other than other members of the same species. There can be many lineages within a particular bacterial species. Different lineages of a bacterial species may have different biological characteristics, such as the ability to cause more severe disease. (Adapted from a definition by the `National Cancer Institute`_.)
+* **Isolate**: an organism collected from a specific sample material e.g. from a stool sample or from river water. 
+* **Lineage**: a group of organisms belonging to the same bacterial species, and that are genetically more closely related to each other than other members of the same species. There can be many lineages within a particular bacterial species. Different lineages of a bacterial species may have different biological characteristics, such as the ability to cause more severe disease. (Adapted from a definition by the `National Cancer Institute`_.)
 * **Metadata**: non-genetic data that has been collected for bacterial isolates, such as the exact location or date of collection of the isolates.
 * **Mutation**: a change in the genetic material of an organism, caused by a change its DNA (e.g. the change of single base-pair in its DNA).
 * **O-antigen**: a component of the surface lipopolysaccharide (LPS) of Gram-negative bacteria such as *V. cholerae*. 
@@ -890,8 +897,9 @@ Glossary of Key Terms
 * **Pandemic lineage**: a lineage of a bacterial species that is causing or caused a pandemic of a disease.
 * **Phylogenetic tree**: a diagram that depicts the evolutionary relationships between particular organisms, and how they descended from a common ancestor.
 * **Serogroup**: a subgroup of *V. cholerae* bacteria that share the same distinctive surface structure in their O-antigen, and so have the same laboratory phenotype when exposed to host antibodies specific for that particular type of O-antigen.
-* **Strain**: see 'lineage'. 
+* **Strain**: see 'lineage'. Also used to refer to a single bacterial isolate that has been cultured over time in a laboratory.
 * **Toxigenic V. cholerae**: *V. cholerae* that produces the cholera toxin. Isolates of the 7PET lineage are toxigenic, but a small fraction of isolates of some other lineages of *V. cholerae* are also toxigenic.
+* **Variant biotype**: See 'biotype variants'.
 * **Viable but Non-Culturable (VBNC)**: a dormant state that many bacterial species enter under unfavourable conditions such as low temperature and low nutrient conditions.
 * **Vibrio cholerae (V. cholerae)**: a curved Gram-negative rod-shaped bacterium that causes the disease cholera.
 * **Virulence factor**: a protein (or protein complex) that helps a bacterium to colonise a host at the cellular level.
