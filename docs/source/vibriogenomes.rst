@@ -101,7 +101,7 @@ Isolates of the current pandemic lineage (**'7PET lineage'**) of *V. cholerae* a
 .. figure:: CholeraToxin.jpg
   :width: 450
 
-  Figure 4. `Cholera toxin B pentamer, Vibrio cholerae`_. Cholera toxin is a protein complex that consists of one CtxA protein bound to five CtxB proteins. This image shows the structure formed by the five CtxB proteins. Image attribution: this image was created by Wikipedia user Astrojan based on the `CtxB protein structure`_ deposited in the PDB database by E.A. Merritt & W.G.J. Hol, and is licensed under `CC BY 4.0`_.
+  Figure 4. `Cholera toxin B pentamer, Vibrio cholerae`_. Cholera toxin is a protein complex that consists of one CtxA protein bound to five CtxB proteins. This image shows the structure formed by the five CtxB proteins. Image attribution: this image was created by Wikipedia user Astrojan based on the `CtxB protein structure`_ deposited in the PDB database by E. A. Merritt & W. G. J. Hol, and is licensed under `CC BY 4.0`_.
 
 .. _Cholera toxin B pentamer, Vibrio cholerae: https://en.wikipedia.org/wiki/File:1chq.jpg
 
@@ -109,7 +109,7 @@ Isolates of the current pandemic lineage (**'7PET lineage'**) of *V. cholerae* a
 
 .. __CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
-Note that *V. cholerae* is not the only pathogen that can cause acute watery diarrhoea; similar symptoms also be caused by other bacteria
+Note that *V. cholerae* is not the only pathogen that can cause acute watery diarrhoea (AWD); similar symptoms also be caused by other bacteria
 such as enterotoxigenic *E. coli* (ETEC). 
 
 .. image:: Activity.png
@@ -127,6 +127,11 @@ such as enterotoxigenic *E. coli* (ETEC).
 .. _short video tour of a Médecins Sans Frontières (MSF)  cholera treatment centre in Nigeria in 2022: https://www.youtube.com/watch?v=Gwc1lP_7riI
 
 .. _interview in 2021 with Dr Firdausi Qadri, a leading cholera researcher who works in the International Centre for Diarrhoeal Disease and Research, Bangladesh (ICDDR,B): https://www.youtube.com/watch?v=AmuXQzZW58M
+
+Now answer these questions:
+# 1.
+# 2.
+# 3.
 
 Epidemic and Non-epidemic Lineages of *Vibrio cholerae* 
 -------------------------------------------------------
