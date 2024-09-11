@@ -127,39 +127,8 @@ such as enterotoxigenic *E. coli* (ETEC).
 Epidemic and Non-epidemic Lineages of *Vibrio cholerae* 
 -------------------------------------------------------
 
-Like other bacteria, *V. cholerae* populations reproduce by cell division, with the
-DNA (genetic material) of descendant cells being identical to the DNA of the parent cells. 
-Isolates that descended recently from the same ancestral cell and are identical (or nearly identical)
-genetically are said to belong to the same **clone**, or be **clonal**. 
-
-Mutations (changes) in the DNA, are
-a source of genetic variation in *V. cholerae*; these sometimes occur when DNA is being copied during cell division, but
-can also occur due to DNA damage, for example damage due to ultraviolet (UV) radiation. 
-
-Over evolutionary time, different clones of a species independently accumulate
-mutations, so they eventually they become so different at the genetic level that we can consider them different **lineages** (also sometimes known as different 'strains') of the species (Figure 5). 
-That is, a lineage is group of organisms belonging to the same bacterial species, and that are genetically more closely related to each other than other members of the same species
-(adapted from a definition by the `National Cancer Institute`_). 
-
-.. _Bacigalupe 2017: https://era.ed.ac.uk/handle/1842/31266
-
-.. _National Cancer Institute: https://www.cancer.gov/publications/dictionaries/cancer-terms/def/organism-strain
-
-.. figure:: ClonalSpecies.png
-  :width: 300
-
-  Figure 5. The population structure of a bacterial species can contain genetically distinguishable lineages. The isolates that belong to the same lineage are much closer to each other genetically, and share a more recent common ancestor with each other, compared to isolates of different lineages. This cartoon shows a 'phylogenetic tree' representing the evolution of seven different lineages of the same bacterial species (similar to a family tree). For illustrative purposes, we show three isolates of each lineage, and represent the isolates by pink, dark blue, light blue, green, grey, red and orange *V. cholerae* images, respectively. Isolates of the red lineage are high similar genetically so are considered to belong to the same lineage (lineage 6). Similarly, isolates of the orange lineage are highly similar genetically to each other, but are relatively distant from lineage 6, so are considered to belong to a separate lineage (lineage 7). Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
-
-.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
-
-.. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
-
-There can be many lineages within a particular bacterial species.
-The bacteria belonging to one particular lineage are all relatively clonal (highly similar at the genetic level); 
-they all descended from a relatively recent common ancestor (although 'recent' in evolutionary time may be hundreds or thousands of years ago!); and
-they usually present similar biological features, such as a specific pattern of virulence (`Bacigalupe 2017`_). 
-
-The lineages of a bacterial species are like the breeds of domestic animals such as chickens, goats, cows, or dogs.
+What types of domestic animals do people keep in your country? Is it chickens, dogs, goats, pigs, horses, or something else?
+You are probably familiar with the idea that each of these animals is just one species, but that there are many breeds of each of these animals.
 For example, all chickens belong to the same species (*Gallus gallus*), and chickens of the same breed are more similar to each other genetically, and shared
 a more recent common ancestor with each other, compared to chickens of a different breed. In addition, chickens of the same breed tend to share
 particular characteristics (e.g. colouring, size), and be quite different in those respects to chickens from another breed (Figure 6).
@@ -171,8 +140,27 @@ particular characteristics (e.g. colouring, size), and be quite different in tho
 
 .. _The poultry of the world. Portraits of all known valuable breeds of fowl: https://commons.wikimedia.org/wiki/File:Poultry_of_the_world.jpg
 
+Similarly, there can be many lineages within a particular bacterial species.
+For a particular bacterial species, the isolates of one lineage are more similar to each other genetically, and shared
+a more recent common ancestor with each other, compared to isolates of a different lineage. Isolates of the same lineage
+tend to share particular characteristics (e.g. ecological niche, metabolism, pathogenic potential). 
+
+*Vibrio cholerae* is a very diverse species with many different lineages. A small subset of the lineages have
+been named, and are shown in Figure 7. 
+
+.. figure:: LineagesCartoon.png
+  :width: 350
+
+  Figure 7. Some known lineages of *V. cholerae* that have been named. It is likely that there are many more lineages of *V. cholerae* that have not yet been named (`Domman et al 2017`_). Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
+
+.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+.. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
+
+.. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
+
 There is only one lineage of *V. cholerae* which causes epidemic cholera at present.
-This lineage is known as the **'7PET'** lineage. What do we mean when we say 7PET causes **'epidemic cholera'**?
+This lineage is known as the **'7PET'** lineage (Figure 7). What do we mean when we say 7PET causes **'epidemic cholera'**?
 The word 'epidemic' is defined by the CDC as an unexpected increase in the number of disease cases in a specific geographical area;
 they say that an outbreak is defined in the same way but for a more limited geographic area (see the `CDC website`_).
 Here, when we say 7PET is epidemic-causing, we mean that 7PET can cause a very large increase in the number
@@ -200,19 +188,38 @@ human pathogen (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutre
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
 There are many other non-epidemic lineages of *V. cholerae* found around the world that do not cause epidemic
-cholera, but sometimes cause small outbreaks of mild diarrhoea. An example is lineage MX-2 (Figure 6). 
+cholera, but sometimes cause small outbreaks of mild diarrhoea. An example is lineage MX-2 (Figure 7). 
 The vast majority of the non-epidemic lineages of *V. cholerae* do not produce cholera toxin, but isolates of some
-non-epidemic lineages, including some isolates of MX-2, are predicted to produce cholera toxin because they have the genes encoding the cholera toxin (`Domman et al 2017`_).
+non-epidemic lineages, including some isolates of MX-2, are predicted to produce cholera toxin because they 
+have the genes encoding the cholera toxin (`Domman et al 2017`_).
+
+Over time, some lineages of *V. cholerae* have been named as they have been identified, but there is not a
+standard naming system for the lineages. Some of the lineages have tended to be named after the geographical
+location where they were originally isolated, e.g. the MX-2 lineage was originally isolated in Mexico (`Domman et al 2017`_) and the Sudan
+lineage was originally isolated in Sudan (`Dorman & Thomson 2023`_) but in fact neither are restricted to those countries (`Dorman & Thomson 2023`_; Figure 8 below).
+Similarly, the ELA-5 lineage was first isolated in Latin America (its name derives from 'Endemic Latin American'). On the other hand, some lineages such
+as 7PET and Classical are named after a phenotypic characteristic of those lineages known as the biotype, which we will discuss below.
+Note that in some cases there are alternative names for the same lineage given by different authors; `Mutreja et al 2011`_ assigned
+L-numbers (e.g. L1, L2, L3, etc.) to lineages, while `Domman et al 2017`_ assigned names such as MX-1, MX-2 and ELA-5. We have
+shown some of the correspondences between these alternative names in Figure 7. 
+This course will mainly focus on the current pandemic lineage, the 7PET lineage, so you don't need to remember the names of
+the non-epidemic *V. cholerae* lineages, but just be aware that they exist. 
+
+.. _Dorman & Thomson 2023: https://pubmed.ncbi.nlm.nih.gov/37043377/
+
+.. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
+
+.. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
 
 The Geographic Distribution of *Vibrio cholerae* and the Ecological Niche of Non-epidemic Lineages of *V. cholerae*
 -------------------------------------------------------------------------------------------------------------------
 
-The species *V. cholerae* is distributed globally, and is a very diverse species with many different lineages. Figure 6 shows what is known about the global distribution of just two of the many lineages of *V. cholerae*.
+The species *V. cholerae* is distributed globally and, as mentioned above, it is a very diverse species with many different lineages. Figure 8 shows what is known about the global distribution of just two of the many lineages of *V. cholerae*.
 
 .. figure:: LineageDistributions.png
   :width: 1050
 
-  Figure 6. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, reflecting the far greater public health importance of 7PET, which has led to more sequencing of this lineage from the stool of sick people. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image attribution: this image by `Avril Coghlan`_, based on a screenshot from the `Pathogenwatch website`_, is licensed under `CC BY 4.0`_.
+  Figure 8. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, reflecting the far greater public health importance of 7PET, which has led to more sequencing of this lineage from the stool of sick people. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image attribution: this image by `Avril Coghlan`_, based on a screenshot from the `Pathogenwatch website`_, is licensed under `CC BY 4.0`_.
 
 .. _Pathogenwatch website: https://pathogen.watch/
 
@@ -279,7 +286,7 @@ Most isolates belonging to the current pandemic lineage (7PET lineage) of *V. ch
 *V. cholerae* isolates that belong to non-epidemic lineages can also sometimes have serogroups O1 or O139, or any of the other >200 known *V. cholerae* serogroups.
 Therefore, if a *V. cholerae* isolate from a patient with acute watery diarrhoea is shown via laboratory testing to have serogroup O1 or O139, then there is a strong possibility
 that the diarrhoea was caused by 7PET. However, it's important to bear in mind that one can not be 100% sure that the isolate is 7PET, since some non-epidemic 
-lineages have serogroups O1 or O139, for example, lineage MX-2 (Figure 6; `Domman et al 2017`_). 
+lineages have serogroups O1 or O139, for example, lineage MX-2 (Figure 8; `Domman et al 2017`_). 
 
 .. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
 
@@ -305,7 +312,7 @@ sometimes the term 'non-O1 *V. cholerae* (NOVC)' or 'non-O1/non-O139 *V. cholera
 is used to refer to non-epidemic lineages of *V. cholerae* 
 (e.g. `Morris 1990`_). However, it's worth being aware in the back of your mind that 
 some non-epidemic lineages of
-*V. cholerae* have serogroups O1 or O139, such as MX-2 (Figure 6; `Domman et al 2017`_).
+*V. cholerae* have serogroups O1 or O139, such as MX-2 (Figure 8; `Domman et al 2017`_).
 
 .. _Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
 
@@ -796,6 +803,40 @@ are very distantly related to 7PET, but this is very rare (e.g. isolate V51 desc
 .. _Pant et al 2020: https://pubmed.ncbi.nlm.nih.gov/31272871/
 
 .. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+Mutations and the Emergence of Lineages of a Bacterial Species
+--------------------------------------------------------------
+
+Like other bacteria, *V. cholerae* populations reproduce by cell division, with the
+DNA (genetic material) of descendant cells being identical to the DNA of the parent cells. 
+Isolates that descended recently from the same ancestral cell and are identical (or nearly identical)
+genetically are said to belong to the same **clone**, or be **clonal**. 
+
+Mutations (changes) in the DNA, are
+a source of genetic variation in *V. cholerae*; these sometimes occur when DNA is being copied during cell division, but
+can also occur due to DNA damage, for example damage due to ultraviolet (UV) radiation. 
+
+Over evolutionary time, different clones of a bacterial species independently accumulate
+mutations, so they eventually they become so different at the genetic level that we can consider them different **lineages** (also sometimes known as different 'strains') of the species (Figure 5). 
+That is, a lineage is group of organisms belonging to the same bacterial species, and that are genetically more closely related to each other than other members of the same species
+(adapted from a definition by the `National Cancer Institute`_). 
+There can be many lineages within a particular bacterial species.
+The bacteria belonging to one particular lineage are all relatively clonal (highly similar at the genetic level); 
+they all descended from a relatively recent common ancestor (although 'recent' in evolutionary time may be hundreds or thousands of years ago!); and
+they usually present similar biological features, such as a specific pattern of virulence (`Bacigalupe 2017`_). 
+
+.. _Bacigalupe 2017: https://era.ed.ac.uk/handle/1842/31266
+
+.. _National Cancer Institute: https://www.cancer.gov/publications/dictionaries/cancer-terms/def/organism-strain
+
+.. figure:: ClonalSpecies.png
+  :width: 300
+
+  Figure 5. The population structure of a bacterial species can contain genetically distinguishable lineages. The isolates that belong to the same lineage are much closer to each other genetically, and share a more recent common ancestor with each other, compared to isolates of different lineages. This cartoon shows a 'phylogenetic tree' representing the evolution of seven different lineages of the same bacterial species (similar to a family tree). For illustrative purposes, we show three isolates of each lineage, and represent the isolates by pink, dark blue, light blue, green, grey, red and orange *V. cholerae* images, respectively. Isolates of the red lineage are high similar genetically so are considered to belong to the same lineage (lineage 6). Similarly, isolates of the orange lineage are highly similar genetically to each other, but are relatively distant from lineage 6, so are considered to belong to a separate lineage (lineage 7). Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
+
+.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+.. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
 .. image:: Activity.png
   :width: 1050
