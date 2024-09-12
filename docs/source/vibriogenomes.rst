@@ -236,14 +236,14 @@ The species *V. cholerae* is distributed globally and, as mentioned above, it is
 .. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
 The non-epidemic lineages of *V. cholerae* such as MX-2 (see above) are often found in brackish water or in saltwater in association with shellfish 
-such as crabs and shrimp, or in rivers or freshwater lakes (Figure 6 above; Figure 9). 
+such as crabs and shrimp, or in rivers or freshwater lakes (Figure 6 above; Figure 8). 
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
 .. figure:: VibrioCholeraeInSea.jpg
   :width: 750
 
-  Figure 9. `Vibrio cholerae interactions with other organisms and the environment`_. Non-epidemic lineages of *V. cholerae* such as the MX-2 lineage are part of the bacterioplankton in aquatic environments. The non-epidemic *V. cholerae* are under risk of predation by protozoa and bacteriophages (viruses). These non-epidemic *V. cholerae* can attach to other organisms such as phytoplankton, macroalgae, chitinous zooplankton, and gelatinous egg masses, which may provide sources of nutrients for the non-epidemic *V. cholerae*. Fish and birds feed on plankton and mussels that might harbour non-epidemic *V. cholerae*. Under unfavourable conditions, such as low temperature and low nutrient conditions, non-epidemic *V. cholerae* enter a 'viable but non-culturable' (VBNC) dormant state. In contrast to the non-epidemic lineages of *V. cholerae*, as we mentioned above (Figure 2 above), long-term persistance of 7PET in aquatic environments is a controversial scientific question and is still under active debate. Image attribution: this image by `Lutz et al 2013`_ is licensed under `CC BY 3.0`_.
+  Figure 8. `Vibrio cholerae interactions with other organisms and the environment`_. Non-epidemic lineages of *V. cholerae* such as the MX-2 lineage are part of the bacterioplankton in aquatic environments. The non-epidemic *V. cholerae* are under risk of predation by protozoa and bacteriophages (viruses). These non-epidemic *V. cholerae* can attach to other organisms such as phytoplankton, macroalgae, chitinous zooplankton, and gelatinous egg masses, which may provide sources of nutrients for the non-epidemic *V. cholerae*. Fish and birds feed on plankton and mussels that might harbour non-epidemic *V. cholerae*. Under unfavourable conditions, such as low temperature and low nutrient conditions, non-epidemic *V. cholerae* enter a 'viable but non-culturable' (VBNC) dormant state. In contrast to the non-epidemic lineages of *V. cholerae*, as we mentioned above (Figure 2 above), long-term persistance of 7PET in aquatic environments is a controversial scientific question and is still under active debate. Image attribution: this image by `Lutz et al 2013`_ is licensed under `CC BY 3.0`_.
 
 .. _Vibrio cholerae interactions with other organisms and the environment: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2013.00375/full
 
@@ -269,7 +269,7 @@ cases as seen in the Yemen cholera epidemic that began in 2016 and continues to 
 
 Of the non-epidemic *V. cholerae* lineages, the two lineages that have caused the most cases of diarrhoeal illness
 since 2000 are thought to be lineages 'L3b' and 'L9' (`Hao et al 2023`_). For example, these two non-epidemic lineages
-have caused several hundred cases of diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_; Figure 14).
+have caused several hundred cases of diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_; Figure 9).
 Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal illness in South Africa (`Smith et al 2021`_).
 
 .. _Hao et al 2023: https://pubmed.ncbi.nlm.nih.gov/37146742/
@@ -279,7 +279,7 @@ Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal ill
 .. figure:: L3b_Hangzhou.jpg
   :width: 750
 
-  Figure 14. `The distribution of Vibrio cholerae isolates in different lineages in Hangzhou, China from 2000 to 2018`_. (a) Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2000 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. (b) The number of *V. cholerae* isolates in Hangzhou, China belonging to the L3b, L9 and some other lineages, in each year from 2000 to 2018. The sizes of circles indicate the number of isolates belonging to each lineage, in each year. Image attribution: this image by `Hao et al 2023`_ is licensed under `CC BY-NC-ND 4.0`_.
+  Figure 9. `The distribution of Vibrio cholerae isolates in different lineages in Hangzhou, China from 2000 to 2018`_. (a) Cases of diarrhoeal illness per year caused by the L3b and L9 lineages of *V. cholerae* in Hangzhou, China, between 2000 and 2018. The grey lines represent the total number of diarrhoeal cases caused by L3b and L9 together, the blue lines represent the number of cases caused by L3b, and the orange lines the number of cases caused by L9. (b) The number of *V. cholerae* isolates in Hangzhou, China belonging to the L3b, L9 and some other lineages, in each year from 2000 to 2018. The sizes of circles indicate the number of isolates belonging to each lineage, in each year. Image attribution: this image by `Hao et al 2023`_ is licensed under `CC BY-NC-ND 4.0`_.
 
 .. _CC BY-NC-ND 4.0: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
