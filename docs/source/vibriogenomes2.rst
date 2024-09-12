@@ -73,13 +73,15 @@ in another country"* (`WHO 2023`_).
 .. _WHO 2023: https://www.gtfcc.org/wp-content/uploads/2023/02/gtfcc-public-health-surveillance-for-cholera-interim-guidance.pdf
 
 Because isolates of the current pandemic lineage (7PET lineage) have either serogroup O1 or O139,
-sometimes the term 'non-O1 *V. cholerae* (NOVC)' or 'non-O1/non-O139 *V. cholerae*'
+sometimes the term 'non-O1 *V. cholerae* (NOVC)' or 'non-O1/non-O139 *V. cholerae*' (NTVC)
 is used to refer to non-epidemic lineages of *V. cholerae* 
-(e.g. `Morris 1990`_). However, it's worth being aware in the back of your mind that 
+(e.g. `Morris 1990`_, `Rehm et al 2023`_). However, it's worth being aware in the back of your mind that 
 some non-epidemic lineages of
 *V. cholerae* have serogroups O1 or O139, such as MX-2 (Figure 8; `Domman et al 2017`_).
 
 .. _Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
+
+.. _Rehm et al 2023: https://pubmed.ncbi.nlm.nih.gov/37530997/
 
 The Classical Biotype and the El Tor Biotype
 --------------------------------------------
