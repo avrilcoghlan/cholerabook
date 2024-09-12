@@ -6,7 +6,7 @@ Answers to Questions in Module 1.1
 
 Here are the answers to the questions in Module 1.1:
 
-#. Bla bla bla
+#. There is a lot of under-reporting of cholera cases. It is estimated that only 5-10% of cholera cases are reported to the WHO each year.
 #. Bla bla bla
 #. Bla bla bla
 
