@@ -224,15 +224,15 @@ the non-epidemic *V. cholerae* lineages, but just be aware that they exist.
 
 .. _Mutreja et al 2011: https://pubmed.ncbi.nlm.nih.gov/21866102/
 
-The Geographic Distribution of *Vibrio cholerae* and the Ecological Niche of Non-epidemic Lineages of *V. cholerae*
--------------------------------------------------------------------------------------------------------------------
+The Geographic Distribution of *V. cholerae* and the Ecological Niche of Non-epidemic Lineages of *V. cholerae*
+---------------------------------------------------------------------------------------------------------------
 
 The species *V. cholerae* is distributed globally and, as mentioned above, it is a very diverse species with many different lineages. Figure 7 shows what is known about the global distribution of just two of the many lineages of *V. cholerae*.
 
 .. figure:: LineageDistributions.png
   :width: 1050
 
-  Figure 7. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, reflecting the far greater public health importance of 7PET, which has led to more sequencing of this lineage from the stool of sick people. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image attribution: this image by `Avril Coghlan`_, based on a screenshot from the `Pathogenwatch website`_, is licensed under `CC BY 4.0`_.
+  Figure 7. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the non-epidemic lineage MX-2, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, reflecting the far greater public health importance of 7PET, which has led to more sequencing of this lineage from the stool of sick people. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image attribution: this image by `Avril Coghlan`_, based on a screenshot from the `Pathogenwatch website`_, is licensed under `CC BY 4.0`_.
 
 .. _Pathogenwatch website: https://pathogen.watch/
 
