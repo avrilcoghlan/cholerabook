@@ -245,20 +245,37 @@ The species *V. cholerae* is distributed globally and, as mentioned above, it is
 .. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
 The non-epidemic lineages of *V. cholerae* such as MX-2 (see above) are often found in brackish water or in saltwater in association with shellfish 
-such as crabs and shrimp, or in rivers or freshwater lakes (Figure 6 above; Figure 8). 
+such as crabs, oysters and shrimp, or in rivers or freshwater lakes (Figure 6 above; Figure 8). 
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
 .. figure:: VibrioCholeraeInSea.jpg
   :width: 750
 
-  Figure 8. `Vibrio cholerae interactions with other organisms and the environment`_. Non-epidemic lineages of *V. cholerae* such as the MX-2 lineage are part of the bacterioplankton in aquatic environments. The non-epidemic *V. cholerae* are under risk of predation by protozoa and bacteriophages (viruses). These non-epidemic *V. cholerae* can attach to other organisms such as phytoplankton, macroalgae, chitinous zooplankton, and gelatinous egg masses, which may provide sources of nutrients for the non-epidemic *V. cholerae*. Fish and birds feed on plankton and mussels that might harbour non-epidemic *V. cholerae*. Under unfavourable conditions, such as low temperature and low nutrient conditions, non-epidemic *V. cholerae* enter a 'viable but non-culturable' (VBNC) dormant state. In contrast to the non-epidemic lineages of *V. cholerae*, as we mentioned above (Figure 2 above), long-term persistance of 7PET in aquatic environments is a controversial scientific question and is still under active debate. Image attribution: this image by `Lutz et al 2013`_ is licensed under `CC BY 3.0`_.
+  Figure 8. `Vibrio cholerae interactions with other organisms and the environment`_. Non-epidemic lineages of *V. cholerae* such as the MX-2 lineage are part of the bacterioplankton in aquatic environments. The non-epidemic *V. cholerae* are under risk of predation by protozoa and bacteriophages (viruses). These non-epidemic *V. cholerae* can attach to other organisms such as phytoplankton, macroalgae, chitinous zooplankton, and gelatinous egg masses, which may provide sources of nutrients for the non-epidemic *V. cholerae*. Fish and birds feed on plankton and mussels that might harbour non-epidemic *V. cholerae*. Under unfavourable conditions, such as low temperature and low nutrient conditions, non-epidemic *V. cholerae* can enter a 'viable but non-culturable' (VBNC) dormant state. In contrast to the non-epidemic lineages of *V. cholerae*, as we mentioned above (Figure 2 above), long-term persistance of 7PET in aquatic environments is a controversial scientific question and is still under active debate. Image attribution: this image by `Lutz et al 2013`_ is licensed under `CC BY 3.0`_.
 
 .. _Vibrio cholerae interactions with other organisms and the environment: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2013.00375/full
 
 .. _Lutz et al 2013: https://pubmed.ncbi.nlm.nih.gov/24379807/
 
 .. _CC BY 3.0: https://creativecommons.org/licenses/by/3.0/
+
+Because non-epidemic *V. cholerae* are often associated with shellfish such as crabs, oysters and shrimp, some small outbreaks of mild diarrhoeal illness 
+have been caused by consumption of shellfish. For example, every year in the USA, there are some cases of mild diarrhoael illness linked to consumption of
+shellfish containing non-epidemic *V. cholerae*.
+
+.. image:: Activity.png
+  :width: 1050
+
+* Watch a video on `Cholera & Vibrio cholerae: Risks from Contaminated Environments, Food & Water`_ by the IAQ Video Network (3 minutes), and answer the questions below in the video.
+
+.. _Cholera & Vibrio cholerae: Risks from Contaminated Environments, Food & Water: https://www.youtube.com/watch?v=vose31FOeOo
+
+Now answer these questions:
+
+#. What percent of worldwide cholera cases are estimated to be reported by countries to the WHO each year? 
+#. Do most people who have been infected the currrent pandemic lineage of (7PET lineage) of *V. cholerae* show symptoms, or are most people asymptomatic? 
+
 
 Diarrhoeal Illness Caused by Epidemic and Non-epidemic Lineages of *V. cholerae*
 --------------------------------------------------------------------------------
