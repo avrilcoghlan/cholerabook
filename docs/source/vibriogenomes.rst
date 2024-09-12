@@ -122,9 +122,9 @@ such as enterotoxigenic *E. coli* (ETEC).
 
 Now answer these questions:
 
-#. Q1.
-#. Q2.
-#. Q3.
+#. Bla bla bla
+#. Bla bla bla
+#. Bla bla bla
 
 Epidemic and Non-epidemic Lineages of *Vibrio cholerae* 
 -------------------------------------------------------
