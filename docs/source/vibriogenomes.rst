@@ -182,6 +182,10 @@ in which they provide precise definitions of what they consider 'a suspected cho
 The 7PET lineage is an extremely infectious and virulent lineage of *V. cholerae*, which is epidemic-causing and which produces
 cholera toxin. 7PET appears to have evolved to become a 
 human pathogen (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutreja & Dougan 2020`_).
+Because of the highly infectious nature of 7PET, a 7PET outbreak requires a rapid and large public health response to 
+halt/reduce it, e.g. WASH, treatment centres, vaccination.
+Whole genome sequencing (WGS) can be a powerful tool to find out whether a new outbreak of diarrhoeal illness is caused by 7PET;
+we will be discussing the *V. cholerae* genome and WGS in module 1.4.
 
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
@@ -351,6 +355,7 @@ The key take-home messages of this chapter are:
 * At present there is only one lineage that causes pandemic/epidemic cholera: 7PET, an extremely infectious and virulent lineage
 * Practically all 7PET isolates have the genes that encode cholera toxin (genes *ctxA* and *ctxB*)
 * A 7PET outbreak requires a rapid and large public health response to halt/reduce it, e.g. WASH, treatment centres, vaccination
+* Whole genome sequencing (WGS) can be used to determine whether a new outbreak of diarrhoeal illness is caused by 7PET
 
 Contact
 -------
