@@ -195,8 +195,8 @@ The vast majority of the non-epidemic lineages of *V. cholerae* do not produce c
 non-epidemic lineages, including some isolates of MX-2, are predicted to produce cholera toxin because they 
 have the genes encoding the cholera toxin (`Domman et al 2017`_).
 
-Over time, some lineages of *V. cholerae* have been named as they have been identified, but there is not a
-standard naming system for the lineages. Some of the lineages have tended to be named after the geographical
+Over time, some lineages of *V. cholerae* have been named as they have been identified, but so far there is not a
+standard naming system for *V. cholerae* lineages. Some lineages were named after the geographical
 location where they were originally isolated, e.g. the MX-2 lineage was originally isolated in Mexico (`Domman et al 2017`_) and the Sudan
 lineage was originally isolated in Sudan (`Dorman & Thomson 2023`_) but in fact neither are restricted to those countries (`Dorman & Thomson 2023`_; Figure 8 below).
 Similarly, the ELA-5 lineage was first isolated in Latin America (its name derives from 'Endemic Latin American'). On the other hand, some lineages such
