@@ -98,7 +98,8 @@ Once ingested by a human host, the *V. cholerae* bacteria multiply in the human 
 bacteria attach to the epithelial cells of the intestine and release **cholera toxin** (abbreviated as Ctx, CTX, or CT; Figure 4). Cholera toxin 
 binds to the intestinal epithelial cell surface, and stimulates the cells to secrete ions and water into
 the intestinal lumen, resulting in acute watery diarrhoea. Cholera toxin is therefore the key **virulence factor** 
-of *V. cholerae*, and *V. cholerae* isolates that produce cholera toxin are said to be **'toxigenic'**.
+of *V. cholerae*, and *V. cholerae* isolates that have the cholera toxin genes (genes *ctxA* and *ctxB*
+that encode the CtxA and CtxB proteins that make up the cholera toxin) and so produce cholera toxin are said to be **'toxigenic'**.
 Isolates of the current pandemic lineage (**'7PET lineage'**) of *V. cholerae* are toxigenic.
 
 .. figure:: CholeraToxin.jpg
