@@ -120,7 +120,7 @@ such as enterotoxigenic *E. coli* (ETEC).
 .. image:: Activity.png
   :width: 1050
 
-* Watch a `video giving an overview of cholera, its spread and history by Médecins Sans Frontières (MSF)`_ (15 minutes), and answer the questions below in the video.
+* Watch a `video giving an overview of cholera, its spread and history by Médecins Sans Frontières (MSF)`_ (15 minutes), and answer the questions below on the video.
 
 .. _video giving an overview of cholera, its spread and history by Médecins Sans Frontières (MSF): https://www.youtube.com/watch?v=TzPXP1_eUzw
 
@@ -266,7 +266,7 @@ some small outbreaks of mild diarrhoeal illness are caused by eating shellfish t
 .. image:: Activity.png
   :width: 1050
 
-* Watch a video on `Cholera and Vibrio cholerae: Risks from Contaminated Environments, Food and Water`_ by the IAQ Video Network (3 minutes), and answer the questions below in the video.
+* Watch a video on `Cholera and Vibrio cholerae: Risks from Contaminated Environments, Food and Water`_ (3 minutes) by the IAQ Video Network, and answer the questions below on the video.
 
 .. _Cholera and Vibrio cholerae: Risks from Contaminated Environments, Food and Water: https://www.youtube.com/watch?v=vose31FOeOo
 
