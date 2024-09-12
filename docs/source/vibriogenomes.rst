@@ -266,9 +266,9 @@ some small outbreaks of mild diarrhoeal illness are caused by eating shellfish t
 .. image:: Activity.png
   :width: 1050
 
-* Watch a video on `Cholera & Vibrio cholerae: Risks from Contaminated Environments, Food & Water`_ by the IAQ Video Network (3 minutes), and answer the questions below in the video.
+* Watch a video on `Cholera and Vibrio cholerae: Risks from Contaminated Environments, Food and Water`_ by the IAQ Video Network (3 minutes), and answer the questions below in the video.
 
-.. _Cholera & Vibrio cholerae: Risks from Contaminated Environments, Food & Water: https://www.youtube.com/watch?v=vose31FOeOo
+.. _Cholera and Vibrio cholerae: Risks from Contaminated Environments, Food and Water: https://www.youtube.com/watch?v=vose31FOeOo
 
 Now answer these questions:
 
