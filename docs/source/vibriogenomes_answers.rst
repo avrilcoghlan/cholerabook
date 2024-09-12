@@ -22,7 +22,7 @@ Here are the answers to the questions in Module 1.1:
 
 .. _King et al 2008: https://pubmed.ncbi.nlm.nih.gov/18704085/
 
-.. _Hayley et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699521/
+.. _Haley et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699521/
 
 Answers to Questions in Module 1.1
 ----------------------------------
