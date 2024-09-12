@@ -295,7 +295,7 @@ compared to 7PET.
 Indeed, compared to cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L9 and other non-epidemic
 *V. cholerae* lineages are far smaller and in general cause relatively milder diarrhoeal illness (`Morris 1990`_, `Morris 2003`_).
 In contrast, the cholera epidemic in Yemen that began in 2016 (and is still continuing) caused
-approximately 2.5 million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`Ng et al 2020`_, `WHO 2020`_; Figure 15).
+approximately 2.5 million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`Ng et al 2020`_, `WHO 2020`_; Figure 10).
 
 .. _Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
 
@@ -308,7 +308,7 @@ approximately 2.5 million suspected cholera cases and appproximately 4000 deaths
 .. figure:: YemenCholera2.png
   :width: 800
 
-  Figure 15. `Total number of suspected cholera cases in Yemen and associated case-fatality rate (CFR) from 2009 to 2019`_. Whole-genome sequencing of isolates from the Yemen epidemic has revealed that the majority (92%) of clinical isolates in Yemen belonged to the 7PET lineage (`Lassalle et al 2023`_). Image attribution: this image by `Ng et al 2020`_ is licensed under `CC BY-NC 4.0`_.
+  Figure 10. `Total number of suspected cholera cases in Yemen and associated case-fatality rate (CFR) from 2009 to 2019`_. Whole-genome sequencing of isolates from the Yemen epidemic has revealed that the majority (92%) of clinical isolates in Yemen belonged to the 7PET lineage (`Lassalle et al 2023`_). Image attribution: this image by `Ng et al 2020`_ is licensed under `CC BY-NC 4.0`_.
 
 .. _Total number of suspected cholera cases in Yemen and associated case-fatality rate (CFR) from 2009 to 2019: https://www.jpmph.org/journal/view.php?doi=10.3961/jpmph.20.154
 
