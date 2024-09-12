@@ -8,7 +8,9 @@ Welcome!
 In Module 1.1, we will talk about the disease cholera; the species *Vibrio cholerae*; disease
 caused by epidemic and non-epidemic lineages of *V. cholerae*; and briefly, mention vaccines for cholera.
 This module may take you roughly one hour to work through (maybe a bit more or less than that, depending on your own pace).
-While we will explain terms as we go along, we have also included a glossary of key terms at the bottom of this webpage. 
+While we will explain terms as we go along, we have also included a `glossary of key terms for Module 1`_.
+
+.. _glossary of key terms for Module 1: https://cholerabook.readthedocs.io/en/latest/vibriogenomes_glossary.html
 
 Acute Watery Diarrhoea, the Disease Cholera and its Epidemiology
 ----------------------------------------------------------------
