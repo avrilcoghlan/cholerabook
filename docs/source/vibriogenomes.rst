@@ -348,10 +348,8 @@ The key take-home messages of this chapter are:
 * Cholera toxin is the most important virulence factor of *V. cholerae*; cholera toxin triggers acute watery diarrhoea
 * *V. cholerae* is distributed globally, and is a very diverse species with many different lineages 
 * At present there is only one lineage that causes pandemic/epidemic cholera: 7PET, an extremely infectious and virulent lineage
-* The genome of a typical 7PET isolate has 4 million base-pairs (4 Mb) of DNA, and contains about 4000 genes
 * Practically all 7PET isolates have the genes that encode cholera toxin (genes *ctxA* and *ctxB*)
 * A 7PET outbreak requires a rapid and large public health response to halt/reduce it, e.g. WASH, treatment centres, vaccination
-* Whole genome sequencing (WGS) can be used to determine whether a new outbreak of diarrhoeal illness is caused by 7PET 
 
 Contact
 -------
