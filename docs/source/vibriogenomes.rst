@@ -126,8 +126,12 @@ such as enterotoxigenic *E. coli* (ETEC).
 
 Now answer these questions:
 
-#. What percent of worldwide cholera cases are estimated to be reported by countries to the WHO each year? 
-#. Do most people who have been infected the currrent pandemic lineage of (7PET lineage) of *V. cholerae* show symptoms, or are most people asymptomatic? 
+*. Q1. What percent of worldwide cholera cases are estimated to be reported by countries to the WHO each year? 
+*. Q2. Do most people who have been infected the currrent pandemic lineage of (7PET lineage) of *V. cholerae* show symptoms, or are most people asymptomatic? 
+
+You can see the answers on the `Answers page for Module 1`_.
+
+.. _Answers page for Module 1: https://cholerabook.readthedocs.io/en/latest/vibriogenomes_answers.html
 
 Epidemic and Non-epidemic Lineages of *Vibrio cholerae* 
 -------------------------------------------------------
@@ -272,9 +276,11 @@ some small outbreaks of mild diarrhoeal illness are caused by eating shellfish t
 
 Now answer these questions:
 
-#. What percent of worldwide cholera cases are estimated to be reported by countries to the WHO each year? 
-#. Do most people who have been infected the currrent pandemic lineage of (7PET lineage) of *V. cholerae* show symptoms, or are most people asymptomatic? 
+*. Q3 In what part of the USA are there often outbreaks of mild diarrhoeal illness caused by non-epidemic lineages of *V. cholerae*? 
 
+You can see the answers on the `Answers page for Module 1`_.
+
+.. _Answers page for Module 1: https://cholerabook.readthedocs.io/en/latest/vibriogenomes_answers.html
 
 Diarrhoeal Illness Caused by Epidemic and Non-epidemic Lineages of *V. cholerae*
 --------------------------------------------------------------------------------
