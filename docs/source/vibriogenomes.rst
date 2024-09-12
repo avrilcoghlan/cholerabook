@@ -198,7 +198,7 @@ have the genes encoding the cholera toxin (`Domman et al 2017`_).
 Over time, some lineages of *V. cholerae* have been named as they have been identified, but so far there is not a
 standard naming system for *V. cholerae* lineages. Some lineages were named after the geographical
 location where they were originally isolated, e.g. the MX-2 lineage was originally isolated in Mexico (`Domman et al 2017`_) and the Sudan
-lineage was originally isolated in Sudan (`Dorman & Thomson 2023`_) but in fact neither are restricted to those countries (`Dorman & Thomson 2023`_; Figure 8 below).
+lineage was originally isolated in Sudan (`Dorman & Thomson 2023`_) but in fact neither are restricted to those countries (`Dorman & Thomson 2023`_; Figure 7 below).
 Similarly, the ELA-5 lineage was first isolated in Latin America (its name derives from 'Endemic Latin American'). On the other hand, some lineages such
 as 7PET and Classical are named after a phenotypic characteristic of those lineages known as the biotype, which we will discuss below.
 Note that in some cases there are alternative names for the same lineage given by different authors; `Mutreja et al 2011`_ assigned
@@ -216,12 +216,12 @@ the non-epidemic *V. cholerae* lineages, but just be aware that they exist.
 The Geographic Distribution of *Vibrio cholerae* and the Ecological Niche of Non-epidemic Lineages of *V. cholerae*
 -------------------------------------------------------------------------------------------------------------------
 
-The species *V. cholerae* is distributed globally and, as mentioned above, it is a very diverse species with many different lineages. Figure 8 shows what is known about the global distribution of just two of the many lineages of *V. cholerae*.
+The species *V. cholerae* is distributed globally and, as mentioned above, it is a very diverse species with many different lineages. Figure 7 shows what is known about the global distribution of just two of the many lineages of *V. cholerae*.
 
 .. figure:: LineageDistributions.png
   :width: 1050
 
-  Figure 8. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, reflecting the far greater public health importance of 7PET, which has led to more sequencing of this lineage from the stool of sick people. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image attribution: this image by `Avril Coghlan`_, based on a screenshot from the `Pathogenwatch website`_, is licensed under `CC BY 4.0`_.
+  Figure 7. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the MX-2 lineage, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, reflecting the far greater public health importance of 7PET, which has led to more sequencing of this lineage from the stool of sick people. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image attribution: this image by `Avril Coghlan`_, based on a screenshot from the `Pathogenwatch website`_, is licensed under `CC BY 4.0`_.
 
 .. _Pathogenwatch website: https://pathogen.watch/
 
