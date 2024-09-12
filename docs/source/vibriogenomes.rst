@@ -124,9 +124,8 @@ such as enterotoxigenic *E. coli* (ETEC).
 
 Now answer these questions:
 
-#. Bla bla bla
-#. Bla bla bla
-#. Bla bla bla
+#. What percent of worldwide cholera cases are estimated to be reported by countries to the WHO each year? 
+#. Do most people who have been infected the currrent pandemic lineage of (7PET lineage) of *V. cholerae* show symptoms, or are most people asymptomatic? 
 
 Epidemic and Non-epidemic Lineages of *Vibrio cholerae* 
 -------------------------------------------------------
