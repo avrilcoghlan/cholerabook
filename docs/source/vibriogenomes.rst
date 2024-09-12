@@ -134,12 +134,12 @@ What types of domestic animals do people keep in your country? Is it chickens, d
 You are probably familiar with the idea that each of these animals is just one species, but that there are many breeds of each of these animals.
 For example, all chickens belong to the same species (*Gallus gallus*), and chickens of the same breed are more similar to each other genetically, and shared
 a more recent common ancestor with each other, compared to chickens of a different breed. In addition, chickens of the same breed tend to share
-particular characteristics (e.g. colouring, size), and be quite different in those respects to chickens from another breed (Figure 6).
+particular characteristics (e.g. colouring, size), and be quite different in those respects to chickens from another breed (Figure 5).
 
 .. figure:: Poultry_of_the_world.jpg
   :width: 500
 
-  Figure 6. `The poultry of the world. Portraits of all known valuable breeds of fowl`_. Image attribution: This image by by L. Prang & Co., Boston, is in the Public Domain. 
+  Figure 5. `The poultry of the world. Portraits of all known valuable breeds of fowl`_. Image attribution: This image by by L. Prang & Co., Boston, is in the Public Domain. 
 
 .. _The poultry of the world. Portraits of all known valuable breeds of fowl: https://commons.wikimedia.org/wiki/File:Poultry_of_the_world.jpg
 
@@ -151,7 +151,7 @@ tend to share particular characteristics (e.g. ecological niche, metabolism, pat
 .. figure:: LineagesCartoon.png
   :width: 550
 
-  Figure 7. Some known lineages of *V. cholerae* that have been named. The current pandemic lineage of *V. cholerae* is the 7PET lineage, which has caused all the major outbreaks and epidemics of cholera since the 1960s. While this figure shows some named lineages of *V. cholerae*, is likely that there are many more lineages of *V. cholerae* that have not yet been named (`Domman et al 2017`_). Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
+  Figure 6. Some known lineages of *V. cholerae* that have been named. The current pandemic lineage of *V. cholerae* is the 7PET lineage, which has caused all the major outbreaks and epidemics of cholera since the 1960s. While this figure shows some named lineages of *V. cholerae*, is likely that there are many more lineages of *V. cholerae* that have not yet been named (`Domman et al 2017`_). Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
 
 .. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
@@ -160,8 +160,8 @@ tend to share particular characteristics (e.g. ecological niche, metabolism, pat
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
 *Vibrio cholerae* is a very diverse species with many different lineages. A small subset of the lineages have
-been named, and are shown in Figure 7. There is only one lineage of *V. cholerae* which causes epidemic cholera at present, which is
-known as the **'7PET'** lineage (Figure 7). 
+been named, and are shown in Figure 6. There is only one lineage of *V. cholerae* which causes epidemic cholera at present, which is
+known as the **'7PET'** lineage (Figure 6). 
 What do we mean when we say 7PET causes **'epidemic cholera'**?
 The word 'epidemic' is defined by the CDC (Centers for Disease Control and Prevention) as an unexpected increase in the number of disease cases in a specific geographical area;
 they say that an outbreak is defined in the same way but for a more limited geographic area (see the `CDC website`_).
@@ -190,7 +190,7 @@ human pathogen (`Feng et al 2008`_, `Chun et al 2009`_, `Hu et al 2016`_, `Mutre
 .. _Mutreja & Dougan 2020: https://pubmed.ncbi.nlm.nih.gov/31345641/
 
 There are many other non-epidemic lineages of *V. cholerae* found around the world that do not cause epidemic
-cholera, but sometimes cause small outbreaks of mild diarrhoea. An example is lineage MX-2 (Figure 7). 
+cholera, but sometimes cause small outbreaks of mild diarrhoea. An example is lineage MX-2 (Figure 6). 
 The vast majority of the non-epidemic lineages of *V. cholerae* do not produce cholera toxin, but isolates of some
 non-epidemic lineages, including some isolates of MX-2, are predicted to produce cholera toxin because they 
 have the genes encoding the cholera toxin (`Domman et al 2017`_).
@@ -203,7 +203,7 @@ Similarly, the ELA-5 lineage was first isolated in Latin America (its name deriv
 as 7PET and Classical are named after a phenotypic characteristic of those lineages known as the biotype, which we will discuss below.
 Note that in some cases there are alternative names for the same lineage given by different authors; `Mutreja et al 2011`_ assigned
 L-numbers (e.g. L1, L2, L3, etc.) to lineages, while `Domman et al 2017`_ assigned names such as MX-1, MX-2 and ELA-5. We have
-shown some of the correspondences between these alternative names in Figure 7. 
+shown some of the correspondences between these alternative names in Figure 6. 
 This course will mainly focus on the current pandemic lineage, the 7PET lineage, so you don't need to remember the names of
 the non-epidemic *V. cholerae* lineages, but just be aware that they exist. 
 
@@ -234,7 +234,7 @@ The species *V. cholerae* is distributed globally and, as mentioned above, it is
 .. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
 The non-epidemic lineages of *V. cholerae* such as MX-2 (see above) are often found in brackish water or in saltwater in association with shellfish 
-such as crabs and shrimp, or in rivers or freshwater lakes (Figure 7 above; Figure 9). 
+such as crabs and shrimp, or in rivers or freshwater lakes (Figure 6 above; Figure 9). 
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
