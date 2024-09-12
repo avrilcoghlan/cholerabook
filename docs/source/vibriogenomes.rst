@@ -276,7 +276,7 @@ some small outbreaks of mild diarrhoeal illness are caused by eating shellfish t
 
 Now answer these questions:
 
-* Q3 In what part of the United States of America (USA) are there sometimes outbreaks of mild diarrhoeal illness caused by eating shellfish that contains non-epidemic lineages of *V. cholerae*? (Note that this video (unfortunately) does not distinguish between the epidemic and non-epidemic lineages of *V. cholerae*. It does however mention that consumption of shellfish containing *V. cholerae* can cause small outbreaks of diarrhoeal illness --- you now know these small outbreaks are almost always due to non-epidemic lineages of *V. cholerae*.)
+* Q3 In what part of the United States of America (USA) are there sometimes outbreaks of mild diarrhoeal illness caused by eating shellfish that contains non-epidemic lineages of *V. cholerae*? (Note that this video (unfortunately) does not distinguish between the epidemic and non-epidemic lineages of *V. cholerae*. It does however mention that consumption of shellfish containing *V. cholerae* can cause small outbreaks of diarrhoeal illness. These small outbreaks are almost always due to non-epidemic lineages of *V. cholerae*.)
 
 You can see the answers on the `Answers page for Module 1`_.
 
