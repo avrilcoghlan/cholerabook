@@ -260,9 +260,8 @@ such as crabs, oysters and shrimp, or in rivers or freshwater lakes (Figure 6 ab
 
 .. _CC BY 3.0: https://creativecommons.org/licenses/by/3.0/
 
-Because non-epidemic *V. cholerae* are often associated with shellfish such as crabs, oysters and shrimp, some small outbreaks of mild diarrhoeal illness 
-have been caused by consumption of shellfish. For example, every year in the USA, there are some cases of mild diarrhoael illness linked to consumption of
-shellfish containing non-epidemic *V. cholerae*.
+Because non-epidemic *V. cholerae* are often associated with shellfish such as crabs, oysters and shrimp, in many coastal regions around the world, 
+some small outbreaks of mild diarrhoeal illness are caused by eating shellfish that contains non-epidemic *V. cholerae*. 
 
 .. image:: Activity.png
   :width: 1050
