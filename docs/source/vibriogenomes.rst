@@ -162,13 +162,15 @@ The N16961 laboratory strain belongs to the 7PET lineage of *V. cholerae*.
 .. figure:: LineagesCartoon.png
   :width: 550
 
-  Figure 6. Some known lineages of *V. cholerae* that have been named. The current pandemic lineage of *V. cholerae* is the 7PET lineage, which has caused all the major outbreaks and epidemics of cholera since the 1960s. While this figure shows some named lineages of *V. cholerae*, is likely that there are many more lineages of *V. cholerae* that have not yet been named (`Domman et al 2017`_). Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
+  Figure 6. Some known lineages of *V. cholerae* that have been named. The current pandemic lineage of *V. cholerae* is the 7PET lineage, which has caused all the major outbreaks and epidemics of cholera since the 1960s. While this figure shows some named lineages of *V. cholerae*, is likely that there are many more lineages of *V. cholerae* that have not yet been named (`Domman et al 2017`_). *Vibrio paracholerae* was originally thought to be a very diverged lineage of *V. cholerae*, but has recently been proposed to be a separate, closely related, species (`Islam et al 2021`_). Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
 
 .. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
 .. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
+
+.. _Islam et al 2021: https://pubmed.ncbi.nlm.nih.gov/34132593/
 
 *Vibrio cholerae* is a very diverse species with many different lineages. A small subset of the lineages have
 been named, and are shown in Figure 6. There is only one lineage of *V. cholerae* which causes epidemic cholera at present, which is
@@ -249,8 +251,8 @@ The species *V. cholerae* is distributed globally and, as mentioned above, it is
 .. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
 The non-epidemic lineages of *V. cholerae* such as MX-2 (see above) are often found in brackish water or in saltwater (e.g. in coastal regions or estuaries) in association with shellfish 
-such as crabs, oysters and shrimp (Figure 8; `Morris 1990`_; `Morris 2003`_; `Lutz et al 2013`_). However, non-epidemic lineages of *V. cholerae* have not only been found in
-brackish water or saltwater; non-epidemic lineages of *V. cholerae* have also been found in freshwater in inland rivers or freshwater lakes (`Morris 1990`_; `Lepuschitz et al 2019`_). 
+such as crabs, oysters and shrimp (Figure 6 above; Figure 8; `Morris 1990`_; `Morris 2003`_; `Lutz et al 2013`_). However, non-epidemic lineages of *V. cholerae* have not only been found in
+brackish water or saltwater; non-epidemic lineages of *V. cholerae* have also been found in freshwater in inland rivers or freshwater lakes (Figure 6 above; `Morris 1990`_; `Lepuschitz et al 2019`_). 
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
