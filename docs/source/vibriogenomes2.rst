@@ -148,8 +148,15 @@ Tracing the Evolutionary History of *V. cholerae* Lineages Using Whole Genome Se
 You have probably heard of the famous evolutionary biologist Charles Darwin, who proposed in his book `'The Descent of Man, and Selection in Relation to Sex'`_ , published
 in 1871, that humans are closely related to chimpanzees and other great apes. At the time, this idea caused great controversy among both fellow scientists and the general public. 
 However, the hypothesis that humans are closely related to chimpanzees and other great apes has been strongly supported by comparing the complete DNA (that is, *whole
-genome sequence* (WGS) data) of chimpanzees, humans and other great apes, and building a *phylogenetic tree*, that is, a tree that attempts to recover the evolutionary history and 
-relationships between the individual species based on genetic differences between their DNA (Figure 3).
+genome sequence* (WGS) data) of chimpanzees, humans and other great apes, and building a *phylogenetic tree*, that is, a tree that attempts to recover the evolutionary history
+of the apes since their last comman ancestor, and to understand the
+relationships between the individual species, based on genetic differences between their DNA (Figure 3). 
+Put simply, species that have greatest similarity in their DNA are placed closest in the tree, assuming that they shared a common ancestor most recently.
+Species that have many differences between their DNA are placed further away in the tree, assuming that their last common ancestor was a long time ago.
+In module 1.4 we will talk more about DNA and how DNA information 
+can be used to build a phylogenetic tree. 
+
+.. _'The Descent of Man, and Selection in Relation to Sex': https://www.gutenberg.org/ebooks/2300
 
 .. figure:: ApesTree.png
   :width: 750
@@ -168,18 +175,9 @@ relationships between the individual species based on genetic differences betwee
 
 .. _Lar Gibbon (Hylobates lar): https://en.m.wikipedia.org/wiki/File:Hylobates_lar_245798133.jpg
 
-In module x we will talk more about DNA and how DNA information can be used to build a phylogenetic tree. 
-Similarly we can build a phylogenetic tree of vibrio cholerae lineages, to try to reconstruct their evolutionary history and relationships. We find something rather surprising, that.. 7pet and classical are not closest relatives. 
- Regarding classical and 7pet. 
-
-.. _'The Descent of Man, and Selection in Relation to Sex': https://www.gutenberg.org/ebooks/2300
-
-The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
-recorded pandemic, are relatively closely related. We know this by analysing whole-genome sequencing data (that is, genetic information in DNA) in order to make a 'phylogenetic tree' for *V. cholerae*, that is, a tree that depicts the evolutionary relationships between the different lineages of *V. cholerae* and shows how they descended from a common ancestor (Figure 4). 
-The phylogenetic tree represents our best guess at the evolutionary relationships between different lineages of *V. cholerae*, based on similarities and
-differences between their whole-genome sequences.
-
-.. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
+Just like for the apes, we can use analyse DNA sequence information (WGS data) for isolates *Vibrio cholerae* lineages, to build a phylogenetic tree for
+*V. cholerae* (Figure 4). This tree is our best attempt to reconstruct the evolutionary history of the *V. cholerae* lineages since their last common 
+ancestor, and to understand the relationships between the different *V. cholerae* lineages, based on comparing their DNA.
 
 .. figure:: Lineages_simple.png
   :width: 350
@@ -193,6 +191,13 @@ differences between their whole-genome sequences.
 .. _Chun et al 2009: https://pubmed.ncbi.nlm.nih.gov/19720995/
 
 .. _Hao et al 2023: https://pubmed.ncbi.nlm.nih.gov/37146742/
+
+.. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
+
+The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
+recorded pandemic, are relatively closely related. We know this by analysing whole-genome sequencing data (that is, genetic information in DNA) in order to make a 'phylogenetic tree' for *V. cholerae*, that is, a tree that depicts the evolutionary relationships between the different lineages of *V. cholerae* and shows how they descended from a common ancestor (Figure 4). 
+The phylogenetic tree represents our best guess at the evolutionary relationships between different lineages of *V. cholerae*, based on similarities and
+differences between their whole-genome sequences.
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
