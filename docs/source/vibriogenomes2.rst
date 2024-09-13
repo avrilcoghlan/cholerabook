@@ -18,12 +18,12 @@ Serogroups of *V. cholerae*
 The outer membrane of the cell membrane of Gram-negative bacteria such as *V. cholerae* contains a component known as
 'lipopolysaccharide' (LPS) that serves as a barrier to protect the bacteria from external stresses. Lipopolysaccharide
 molecules are very large molecules consisting of three parts: an outer core polysaccharide known as the **'O-antigen'**, 
-an inner core oligosaccharide, and Lipid A (Figure 10). 
+an inner core oligosaccharide, and Lipid A (Figure 1). 
 
 .. figure:: LPS.png
   :width: 200
 
-  Figure 10. `Structure of a lipopolysaccharide`_. Image attribution: this image by `Mike Jones`_ is licensed under `CC BY-SA 3.0`_.
+  Figure 1. `Structure of a lipopolysaccharide`_. Image attribution: this image by `Mike Jones`_ is licensed under `CC BY-SA 3.0`_.
 
 .. _Mike Jones: https://en.wikipedia.org/wiki/User:Adenosine?rdfrom=commons:User:Adenosine
 
@@ -92,7 +92,7 @@ and so the new biotype of *V. cholerae* was named the '**El Tor biotype**', to d
 described as having the '**Classical biotype**'. 
 These biotypes are based on a particular set of laboratory tests (about four
 or five laboratory tests, depending on the version of the protocol), which test things like susceptibility to infection by particular bacteriophages,
-susceptibility to a particular antibiotic, presence of a particular biochemical pathway, and effect on red blood cells (Figure 11; `Cvjetanovic & Barua 1972`_, `CDC 1994`_, `Dorman 2020`_).
+susceptibility to a particular antibiotic, presence of a particular biochemical pathway, and effect on red blood cells (Figure 2; `Cvjetanovic & Barua 1972`_, `CDC 1994`_, `Dorman 2020`_).
 Isolates of the 7PET lineage have the El Tor biotype, and in fact the name '7PET' stands for '7th pandemic El Tor'.
 In contrast, Classical lineage isolates have the Classical biotype.
 
@@ -109,7 +109,7 @@ In contrast, Classical lineage isolates have the Classical biotype.
 .. figure:: Biotype.png
   :width: 600
 
-  Figure 11. `Summary of V. cholerae O1 biotyping phenotypes`_. Laboratory tests are used to determine the 'biotype' of *V. cholerae*, a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing Classical or 7PET lineages. Isolates of the Classical lineage have the Classical biotype, and isolates of the 7PET lineage have the El Tor biotype. Image attribution: this image by `Matt Dorman`_, based on Table 1.1 in `Dorman 2020`_, is licensed under `CC BY 4.0`_. 
+  Figure 2. `Summary of V. cholerae O1 biotyping phenotypes`_. Laboratory tests are used to determine the 'biotype' of *V. cholerae*, a laboratory phenotype that can be used to predict whether isolates of the *V. cholerae* causing a particular outbreak belong to the epidemic-causing Classical or 7PET lineages. Isolates of the Classical lineage have the Classical biotype, and isolates of the 7PET lineage have the El Tor biotype. Image attribution: this image by `Matt Dorman`_, based on Table 1.1 in `Dorman 2020`_, is licensed under `CC BY 4.0`_. 
 
 .. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
@@ -134,9 +134,9 @@ outbreak are 7PET or not.
 
 Note that you may see some mention in the literature of variants of the El Tor biotype, such as
 the 'Matlab variants', 'Mozambique variants', 'Haitian variants', 'altered El Tor biotype', 'hybrid El Tor' or 'atypical El Tor' (e.g. in `Bhandari et al 2021`_, 
-`Montero et al 2023`_). These variants do not correspond exactly to the El Tor biotype, e.g. they may differ from El Tor in a small number of the laboratory test results in Figure 11.
+`Montero et al 2023`_). These variants do not correspond exactly to the El Tor biotype, e.g. they may differ from El Tor in a small number of the laboratory test results in Figure 2.
 Isolates with the Matlab/Mozambique/Haitian variants of El Tor biotype or altered/hybrid/atypical El Tor biotype all belong to the 7PET lineage, but
-just give slightly different results in the biotyping tests (Figure 11) compared to other 7PET isolates. 
+just give slightly different results in the biotyping tests (Figure 2) compared to other 7PET isolates. 
 
 .. _Montero et al 2023: https://pubmed.ncbi.nlm.nih.gov/37215733/
 
@@ -149,12 +149,12 @@ You have probably heard of the famous evolutionary biologist Charles Darwin, who
 in 1871, that humans are closely related to chimpanzees and other great apes. At the time, this idea caused great controversy among both fellow scientists and the general public. 
 However, the hypothesis that humans are closely related to chimpanzees and other great apes has been strongly supported by comparing the complete DNA (that is, *whole
 genome sequence* (WGS) data) of chimpanzees, humans and other great apes, and building a *phylogenetic tree*, that is, a tree that attempts to recover the evolutionary history and 
-relationships between the individual species based on genetic differences between their DNA (Figure X).
+relationships between the individual species based on genetic differences between their DNA (Figure 3).
 
 .. figure:: ApesTree.png
   :width: 750
 
-  Figure 12. A phylogenetic tree of the apes (an evolutionary tree based on DNA evidence), showing that humans' closest relatives are chimpanzees. Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_. This work uses the photograph of chimpanzees, '`Adult female-infant wild chimpanzees feeding on Ficus sur fruits in Kibale National Park, Uganda`_' by Alain Houle (Harvard University), which is licensed under `CC BY 4.0`_; the photograph of a gorilla, '`Silverback Gorilla`_' by Wikimedia user Tyeashap, which is licensed under `CC BY 4.0`_; the photograph of an orangutan, '`Female orangutan`_' by W. H. Calvin, which is licensed under `CC BY 4.0`_; and the photograph of a gibbon, '`Lar Gibbon (Hylobates lar)`_' by Jan Ebr, which is licensed under `CC BY 4.0`_.
+  Figure 3. A phylogenetic tree of the apes (an evolutionary tree based on DNA evidence), showing that humans' closest relatives are chimpanzees. Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_. This work uses the photograph of chimpanzees, '`Adult female-infant wild chimpanzees feeding on Ficus sur fruits in Kibale National Park, Uganda`_' by Alain Houle (Harvard University), which is licensed under `CC BY 4.0`_; the photograph of a gorilla, '`Silverback Gorilla`_' by Wikimedia user Tyeashap, which is licensed under `CC BY 4.0`_; the photograph of an orangutan, '`Female orangutan`_' by W. H. Calvin, which is licensed under `CC BY 4.0`_; and the photograph of a gibbon, '`Lar Gibbon (Hylobates lar)`_' by Jan Ebr, which is licensed under `CC BY 4.0`_.
 
 .. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
@@ -172,13 +172,10 @@ In module x we will talk more about DNA and how DNA information can be used to b
 Similarly we can build a phylogenetic tree of vibrio cholerae lineages, to try to reconstruct their evolutionary history and relationships. We find something rather surprising, that.. 7pet and classical are not closest relatives. 
  Regarding classical and 7pet. 
 
-
 .. _'The Descent of Man, and Selection in Relation to Sex': https://www.gutenberg.org/ebooks/2300
 
-
-
 The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
-recorded pandemic, are relatively closely related. We know this by analysing whole-genome sequencing data (that is, genetic information in DNA) in order to make a 'phylogenetic tree' for *V. cholerae*, that is, a tree that depicts the evolutionary relationships between the different lineages of *V. cholerae* and shows how they descended from a common ancestor (Figure 12). 
+recorded pandemic, are relatively closely related. We know this by analysing whole-genome sequencing data (that is, genetic information in DNA) in order to make a 'phylogenetic tree' for *V. cholerae*, that is, a tree that depicts the evolutionary relationships between the different lineages of *V. cholerae* and shows how they descended from a common ancestor (Figure 4). 
 The phylogenetic tree represents our best guess at the evolutionary relationships between different lineages of *V. cholerae*, based on similarities and
 differences between their whole-genome sequences.
 
@@ -187,7 +184,7 @@ differences between their whole-genome sequences.
 .. figure:: Lineages_simple.png
   :width: 350
 
-  Figure 12. A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. The tree was based on information in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on the L3b and L9 lineages that are discussed below. Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
+  Figure 4. A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. The tree was based on information in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on the L3b and L9 lineages that are discussed below. Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
 
 .. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
@@ -215,12 +212,12 @@ What the tree tells us is that 7PET and Classical, the two lineages that have ca
 7PET is also relatively closely related to non-epidemic lineages of *V. cholerae*, including MX-2, Gulf Coast and ELA-3. 
 
 Practically 100% of 7PET isolates produce cholera toxin. Some isolates from non-epidemic lineages are also predicted to produce cholera toxin (because they have the genes encoding cholera toxin; `Chun et al 2009`_, `Domman et al 2017`_; `Hao et al 2023`_), especially isolates from lineages that are relatively closely related to
-7PET, such as MX-2 and Gulf Coast (Figure 13).
+7PET, such as MX-2 and Gulf Coast (Figure 5).
 
 .. figure:: Lineages.png
   :width: 400
 
-  Figure 13. A phylogenetic tree of some of the known lineages of *V. cholerae*, showing which lineages are predicted to produce cholera toxin, based on presence of the genes encoding cholera toxin). This tree was based upon information in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9. Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
+  Figure 5. A phylogenetic tree of some of the known lineages of *V. cholerae*, showing which lineages are predicted to produce cholera toxin, based on presence of the genes encoding cholera toxin). This tree was based upon information in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on L3b and L9. Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
 
 .. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
@@ -229,7 +226,7 @@ Practically 100% of 7PET isolates produce cholera toxin. Some isolates from non-
 Later in the course you will be learning a lot about how to build phylogenetic trees yourself, and how to interpret
 them to investigate the relationships between different sublineages of 7PET that have caused different 7PET outbreaks, and to
 gain insights into how 7PET is spreading regionally and globally. You will see that it is often very interesting and informative to display information
-beside a phylogenetic tree; for example, in Figure 13 we plotted presence/absence of particular genes. We can also display additional
+beside a phylogenetic tree; for example, in Figure 5 we plotted presence/absence of particular genes. We can also display additional
 non-genetic data that we have about the isolates (known as **'metadata'**), such as the exact location or date of collection of the isolates, or
 the serogroup or antimicrobial resistance phenotypes of isolates as determined by laboratory tests.
 
