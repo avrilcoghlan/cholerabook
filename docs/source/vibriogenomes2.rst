@@ -147,18 +147,26 @@ Tracing the Evolutionary History of *V. cholerae* Lineages Using Whole Genome Se
 
 You have probably heard of the famous evolutionary biologist Charles Darwin, who proposed in his book `'The Descent of Man, and Selection in Relation to Sex'`_ , published
 in 1871, that humans are closely related to chimpanzees and other great apes. At the time, this idea caused great controversy among both fellow scientists and the general public. 
-However, the hypothesis that humans are closely related to chimpanzees and other great apes has been strongly supported by comparing the DNA of chimpanzees,
-humand and other great apes, and building a *phylogenetic tree*, that is, a tree that attempts to recover the evolutionary history and 
+However, the hypothesis that humans are closely related to chimpanzees and other great apes has been strongly supported by comparing the complete DNA (that is, *whole
+genome sequence* (WGS) data) of chimpanzees, humans and other great apes, and building a *phylogenetic tree*, that is, a tree that attempts to recover the evolutionary history and 
 relationships between the individual species based on genetic differences between their DNA (Figure X).
 
 .. figure:: ApesTree.png
   :width: 750
 
-  Figure 12. A phylogenetic tree of the apes (an evolutionary tree based on DNA evidence), showing that humans' closest relatives are chimpanzees. Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
+  Figure 12. A phylogenetic tree of the apes (an evolutionary tree based on DNA evidence), showing that humans' closest relatives are chimpanzees. Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_. This work uses the photograph of chimpanzees, 'Adult female-infant wild chimpanzees feeding on Ficus sur fruits in Kibale National Park, Uganda' by Alain Houle (Harvard University), which is licensed under `CC BY 4.0`_; the photograph of a gorilla, 'Silverback Gorilla' by Wikimedia user Tyeashap, which is licensed under `CC BY 4.0`_; the photograph of an orangutan, 'Female orangutan' by W. H. Calvin, which is licensed under `CC BY 4.0`_; and the photograph of a gibbon, 'Lar Gibbon (Hylobates lar)' by Jan Ebr, which is licensed under `CC BY 4.0`_.
 
 .. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
 .. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
+
+.. _Adult female-infant wild chimpanzees feeding on Ficus sur fruits in Kibale National Park, Uganda: https://commons.wikimedia.org/wiki/File:Adult_female_and_infant_wild_chimpanzees_feeding_on_Ficus_sur.jpeg
+
+.. _Silverback Gorilla: https://commons.wikimedia.org/wiki/File:Silverback_Gorilla_02.jpg
+
+.. _Female orangutan: https://commons.wikimedia.org/wiki/File:Orangutan_female_quarterview_2004.jpg
+
+.. _Lar Gibbon (Hylobates lar): https://en.m.wikipedia.org/wiki/File:Hylobates_lar_245798133.jpg
 
 In module x we will talk more about DNA and how DNA information can be used to build a phylogenetic tree. 
 Similarly we can build a phylogenetic tree of vibrio cholerae lineages, to try to reconstruct their evolutionary history and relationships. We find something rather surprising, that.. 7pet and classical are not closest relatives. 
