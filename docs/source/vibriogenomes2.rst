@@ -152,7 +152,7 @@ humand and other great apes, and building a *phylogenetic tree*, that is, a tree
 relationships between the individual species based on genetic differences between their DNA (Figure X).
 
 .. figure:: ApesTree.png
-  :width: 350
+  :width: 750
 
   Figure 12. A phylogenetic tree of the apes (an evolutionary tree based on DNA evidence), showing that humans' closest relatives are chimpanzees. Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
 
