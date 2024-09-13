@@ -179,6 +179,11 @@ Just like for the apes, we can use analyse DNA sequence information (WGS data) f
 *V. cholerae* (Figure 4). This tree is our best attempt to reconstruct the evolutionary history of the *V. cholerae* lineages since their last common 
 ancestor, and to understand the relationships between the different *V. cholerae* lineages, based on comparing their DNA.
 
+.. figure:: LineagesFamilyTreeCartoon.png
+  :width: 350
+
+  Figure 4. A phylogenetic tree of some of the known lineages of *V. cholerae*. 
+
 .. figure:: Lineages_simple.png
   :width: 350
 
