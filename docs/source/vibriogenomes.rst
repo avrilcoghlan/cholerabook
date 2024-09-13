@@ -248,10 +248,17 @@ The species *V. cholerae* is distributed globally and, as mentioned above, it is
 
 .. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
-The non-epidemic lineages of *V. cholerae* such as MX-2 (see above) are often found in brackish water or in saltwater in association with shellfish 
-such as crabs, oysters and shrimp, or in rivers or freshwater lakes (Figure 6 above; Figure 8). 
+The non-epidemic lineages of *V. cholerae* such as MX-2 (see above) are often found in brackish water or in saltwater (e.g. in coastal regions or estuaries) in association with shellfish 
+such as crabs, oysters and shrimp (Figure 8; `Morris 1990`_; `Morris 2003`_; `Lutz et al 2013`_). However, non-epidemic lineages of *V. cholerae* have not only been found in
+brackish water or saltwater; non-epidemic lineages of *V. cholerae* have also been found in freshwater in inland rivers or freshwater lakes (`Morris 1990`_). 
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
+
+.. _Lutz et al 2013: https://pubmed.ncbi.nlm.nih.gov/24379807/
+
+.. _Morris 2003: https://pubmed.ncbi.nlm.nih.gov/12856219/
+
+.. _Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
 
 .. figure:: VibrioCholeraeInSea.jpg
   :width: 750
@@ -265,7 +272,15 @@ such as crabs, oysters and shrimp, or in rivers or freshwater lakes (Figure 6 ab
 .. _CC BY 3.0: https://creativecommons.org/licenses/by/3.0/
 
 Because non-epidemic *V. cholerae* are often associated with shellfish such as crabs, oysters and shrimp, in many coastal regions around the world, 
-some small outbreaks of mild diarrhoeal illness are caused by eating shellfish that contains non-epidemic *V. cholerae*. 
+some small outbreaks of mild diarrhoeal illness are caused by eating shellfish that contains non-epidemic *V. cholerae* (`Morris 1990`_; `Morris 2003`_). 
+However, non-epidemic lineages *V. cholerae* are also found in freshwater lakes and rivers, and indeed some human infections 
+have been linked to exposure to river or lake water containing non-epidemic *V. cholerae* (`Morris 1990`_; `Lepuschitz et al 2019`_).
+
+.. _Morris 2003: https://pubmed.ncbi.nlm.nih.gov/12856219/
+
+.. _Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
+
+.. _Lepuschitz et al 2019: https://pubmed.ncbi.nlm.nih.gov/31781080/
 
 .. image:: Activity.png
   :width: 1050
