@@ -250,7 +250,7 @@ The species *V. cholerae* is distributed globally and, as mentioned above, it is
 
 The non-epidemic lineages of *V. cholerae* such as MX-2 (see above) are often found in brackish water or in saltwater (e.g. in coastal regions or estuaries) in association with shellfish 
 such as crabs, oysters and shrimp (Figure 8; `Morris 1990`_; `Morris 2003`_; `Lutz et al 2013`_). However, non-epidemic lineages of *V. cholerae* have not only been found in
-brackish water or saltwater; non-epidemic lineages of *V. cholerae* have also been found in freshwater in inland rivers or freshwater lakes (`Morris 1990`_). 
+brackish water or saltwater; non-epidemic lineages of *V. cholerae* have also been found in freshwater in inland rivers or freshwater lakes (`Morris 1990`_; `Lepuschitz et al 2019`_). 
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
@@ -259,6 +259,8 @@ brackish water or saltwater; non-epidemic lineages of *V. cholerae* have also be
 .. _Morris 2003: https://pubmed.ncbi.nlm.nih.gov/12856219/
 
 .. _Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
+
+.. _Lepuschitz et al 2019: https://pubmed.ncbi.nlm.nih.gov/31781080/
 
 .. figure:: VibrioCholeraeInSea.jpg
   :width: 750
