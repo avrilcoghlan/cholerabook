@@ -154,7 +154,7 @@ relationships between the individual species based on genetic differences betwee
 .. figure:: ApesTree.png
   :width: 750
 
-  Figure 12. A phylogenetic tree of the apes (an evolutionary tree based on DNA evidence), showing that humans' closest relatives are chimpanzees. Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_. This work uses the photograph of chimpanzees, 'Adult female-infant wild chimpanzees feeding on Ficus sur fruits in Kibale National Park, Uganda' by Alain Houle (Harvard University), which is licensed under `CC BY 4.0`_; the photograph of a gorilla, 'Silverback Gorilla' by Wikimedia user Tyeashap, which is licensed under `CC BY 4.0`_; the photograph of an orangutan, 'Female orangutan' by W. H. Calvin, which is licensed under `CC BY 4.0`_; and the photograph of a gibbon, 'Lar Gibbon (Hylobates lar)' by Jan Ebr, which is licensed under `CC BY 4.0`_.
+  Figure 12. A phylogenetic tree of the apes (an evolutionary tree based on DNA evidence), showing that humans' closest relatives are chimpanzees. Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_. This work uses the photograph of chimpanzees, `'Adult female-infant wild chimpanzees feeding on Ficus sur fruits in Kibale National Park, Uganda'`_ by Alain Houle (Harvard University), which is licensed under `CC BY 4.0`_; the photograph of a gorilla, `'Silverback Gorilla'`_ by Wikimedia user Tyeashap, which is licensed under `CC BY 4.0`_; the photograph of an orangutan, `'Female orangutan'`_ by W. H. Calvin, which is licensed under `CC BY 4.0`_; and the photograph of a gibbon, `'Lar Gibbon (Hylobates lar)'`_ by Jan Ebr, which is licensed under `CC BY 4.0`_.
 
 .. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 
