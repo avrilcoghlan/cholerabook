@@ -185,7 +185,7 @@ ancestor, and to understand the relationships between the different *V. cholerae
   Figure 4. A phylogenetic tree of some of the known lineages of *V. cholerae*. 
 
 .. figure:: Lineages_simple.png
-  :width: 350
+  :width: 750
 
   Figure 4. A phylogenetic tree of some of the known lineages of *V. cholerae*. The triangles at the ends of branches represent existing lineages. The red dot represents the last common ancestor of the Classical and 7PET lineages, while the yellow dot represents the last common ancestor of the ELA-3 and 7PET lineages. The tree was based on information in Supplementary Figure 2 and Table S3 of `Domman et al 2017`_, and with the addition of information on the L3b and L9 lineages that are discussed below. Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
 
