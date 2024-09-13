@@ -142,8 +142,32 @@ just give slightly different results in the biotyping tests (Figure 11) compared
 
 .. _Bhandari et al 2021: https://pubmed.ncbi.nlm.nih.gov/33482361/
 
-Defining *V. cholerae* Lineages Based on Whole Genome Sequencing (WGS) Data 
----------------------------------------------------------------------------
+Tracing the Evolutionary History of *V. cholerae* Lineages Using Whole Genome Sequencing (WGS) Data 
+---------------------------------------------------------------------------------------------------
+
+You have probably heard of the famous evolutionary biologist Charles Darwin, who proposed in his book `'The Descent of Man, and Selection in Relation to Sex'`_ , published
+in 1871, that humans are closely related to chimpanzees and other great apes. At the time, this idea caused great controversy among both fellow scientists and the general public. 
+However, the hypothesis that humans are closely related to chimpanzees and other great apes has been strongly supported by comparing the DNA of chimpanzees,
+humand and other great apes, and building a *phylogenetic tree*, that is, a tree that attempts to recover the evolutionary history and 
+relationships between the individual species based on genetic differences between their DNA (Figure X).
+
+.. figure:: ApesTree.png
+  :width: 350
+
+  Figure 12. A phylogenetic tree of the apes (an evolutionary tree based on DNA evidence), showing that humans' closest relatives are chimpanzees. Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
+
+.. _CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+.. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
+
+In module x we will talk more about DNA and how DNA information can be used to build a phylogenetic tree. 
+Similarly we can build a phylogenetic tree of vibrio cholerae lineages, to try to reconstruct their evolutionary history and relationships. We find something rather surprising, that.. 7pet and classical are not closest relatives. 
+ Regarding classical and 7pet. 
+
+
+.. _'The Descent of Man, and Selection in Relation to Sex': https://www.gutenberg.org/ebooks/2300
+
+
 
 The 7PET lineage, which has caused the current pandemic, and the Classical lineage, which caused the 6th historically
 recorded pandemic, are relatively closely related. We know this by analysing whole-genome sequencing data (that is, genetic information in DNA) in order to make a 'phylogenetic tree' for *V. cholerae*, that is, a tree that depicts the evolutionary relationships between the different lineages of *V. cholerae* and shows how they descended from a common ancestor (Figure 12). 
