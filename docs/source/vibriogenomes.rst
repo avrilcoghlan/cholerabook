@@ -153,11 +153,14 @@ Similar to breeds of chicken, there can be many **lineages** within a particular
 For a particular bacterial species, two isolates of one lineage are more similar to each other genetically, and share
 a more recent common ancestor with each other, compared to two isolates of different lineages. Isolates of the same lineage
 tend to share particular characteristics (e.g. ecological niche, metabolism, pathogenic potential). 
+
 Note that some people refer to bacterial lineages as 'strains', but we prefer here to use the term 'lineages', 
 because the term 'strain' is also commonly used to refer to a single bacterial isolate that has been cultured over time in a laboratory.
 For example, for molecular biology studies of *V. cholerae* genetics and biochemistry in the laboratory, people often use
-the laboratory strain N16961, which was derived from an isolate collected in Bangladesh in 1975.
+the laboratory strain N16961, which was derived from an isolate collected in Bangladesh in 1975 (`Heidelberg et al 2000`_).
 The N16961 laboratory strain belongs to the 7PET lineage of *V. cholerae*.
+
+.. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
 .. figure:: Lineages_Cartoon.png
   :width: 550
