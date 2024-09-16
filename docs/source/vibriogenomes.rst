@@ -286,7 +286,7 @@ brackish water or saltwater; non-epidemic lineages of *V. cholerae* have also be
 .. _CC BY 3.0: https://creativecommons.org/licenses/by/3.0/
 
 Because non-epidemic *V. cholerae* are often associated with shellfish such as crabs, oysters and shrimp, in many coastal regions around the world, 
-some small outbreaks of mild diarrhoeal illness are caused by eating shellfish that contains non-epidemic *V. cholerae* (`Morris 1990`_; `Morris 2003`_). 
+occasional small outbreaks of mild diarrhoeal illness are caused by eating shellfish that contains non-epidemic *V. cholerae* (`Morris 1990`_; `Morris 2003`_). 
 However, non-epidemic lineages *V. cholerae* are also found in freshwater lakes and rivers, and indeed some human infections 
 have been linked to exposure to river or lake water containing non-epidemic *V. cholerae* (`Morris 1990`_; `Lepuschitz et al 2019`_).
 
