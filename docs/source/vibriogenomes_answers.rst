@@ -26,17 +26,17 @@ Here are the answers to the questions in Module 1.1:
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
-Answers to Questions in Module 1.1
+Answers to Questions in Module 1.2
 ----------------------------------
 
 Need to fill in xxx
 
-Answers to Questions in Module 1.1
+Answers to Questions in Module 1.3
 ----------------------------------
 
 Need to fill in xxx
 
-Answers to Questions in Module 1.1
+Answers to Questions in Module 1.4
 ----------------------------------
 
 Need to fill in xxx
