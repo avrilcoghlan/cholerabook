@@ -291,7 +291,7 @@ However, non-epidemic lineages *V. cholerae* are also found in freshwater lakes 
 have been linked to exposure to river or lake water containing non-epidemic *V. cholerae* (`Morris 1990`_; `Lepuschitz et al 2019`_).
 As well as causing mild diarrhoeal illness, non-epidemic lineages of *V. cholerae* have also been isolated 
 from a variety of extraintestinal infections, including wounds, ear, sputum,
-urine, and cerebrospinal fluid (`Morris 1990`_; `Kaper et al 1995`_, `Lepuschitz et al 2019`_, `Morris 2003`_).
+urine, and cerebrospinal fluid (`Morris 1990`_; `Kaper et al 1995`_, `Morris 2003`_, `Lepuschitz et al 2019`_).
 
 .. _Morris 2003: https://pubmed.ncbi.nlm.nih.gov/12856219/
 
