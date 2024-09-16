@@ -142,6 +142,8 @@ just give slightly different results in the biotyping tests (Figure 2) compared 
 
 .. _Bhandari et al 2021: https://pubmed.ncbi.nlm.nih.gov/33482361/
 
+xxx may mention here about El Tor being the ancestral state
+
 Tracing the Evolutionary History of *V. cholerae* Lineages Using Whole Genome Sequencing (WGS) Data 
 ---------------------------------------------------------------------------------------------------
 
@@ -239,6 +241,19 @@ gain insights into how 7PET is spreading regionally and globally. You will see t
 beside a phylogenetic tree; for example, in Figure 5 we plotted presence/absence of particular genes. We can also display additional
 non-genetic data that we have about the isolates (known as **'metadata'**), such as the exact location or date of collection of the isolates, or
 the serogroup or antimicrobial resistance phenotypes of isolates as determined by laboratory tests.
+
+Why is lineage more important than serogroup or biotype or production of cholera toxin, for epidemic potential?
+---------------------------------------------------------------------------------------------------------------
+
+The 7PET lineage has been shown to have been responsible for all major outbreaks and epidemics of cholera since the 1960s (add references).
+As mentioned above, isolates of the 7PET lineage have the O1 serogroup or O139 serogroup, have El Tor biotype, and practically always produce cholera toxin (add references).
+Cholera toxin is the primary virulence factor of *V. cholerae*, as it causes the acute watery diarrhoea (add references). 
+The O1 serogroup has been shown to be associated with higher virulence (add references). However, as mentioned above,
+isolates from many non-epidemic lineages of *V. cholerae* have been found to have the El Tor biotype, and 
+some non-epidemic lineages of *V. cholerae* have O1 or O139 serogroup, and isolates of some non-epidemic lineages
+have been found to have the genes for cholera toxin so are predicted to be toxigenic (add references).
+Therefore, this suggests that the genetic backbone of the 7PET lineage contains some additional determinants
+of epidemic or pandemic potential that explain why it is only the 7PET lineage that is epidemic-causing. 
 
 The Revised GTFCC Definitions of Cholera Cases and Cholera-free Country Statuses
 --------------------------------------------------------------------------------
