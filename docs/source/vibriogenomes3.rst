@@ -53,8 +53,10 @@ pandemic suggests that the Classical lineage also caused the 2nd pandemic (`Deva
 .. _Devault et al 2014: https://pubmed.ncbi.nlm.nih.gov/24401020/
 
 The Classical lineage has more or less died out since the end of the 6th pandemic (in 1923) 
-and is very rarely seen nowadays (e.g. a rare Classical lineage isolate 
-from Ghana in 2010 was reported by `Adade et al 2022`_). 
+and is very rarely seen nowadays (`Ramamurthy et al 2019`_). For example, a rare Classical lineage isolate 
+from Ghana in 2010 was reported by `Adade et al 2022`_. 
+
+.. _Ramamurthy et al 2019: https://pubmed.ncbi.nlm.nih.gov/31396501/
 
 .. _Dorman 2020: https://www.sanger.ac.uk/theses/md25-thesis.pdf
 
