@@ -35,6 +35,7 @@ Glossary of Key Terms for Module 1
 * **Viable but Non-Culturable (VBNC)**: a dormant state that many bacterial species enter under unfavourable conditions such as low temperature and low nutrient conditions.
 * **Vibrio cholerae (V. cholerae)**: a curved Gram-negative rod-shaped bacterium that causes the disease cholera.
 * **Virulence factor**: a protein (or protein complex) that helps a bacterium to colonise a host at the cellular level.
+* **WASH**: 'water, sanitation and hygiene'. These are barriers to the transmission of cholera. 
 * **Whole genome sequencing (WGS)**: the process of determining the DNA sequence of an organism's whole genome.
 
 .. _National Cancer Institute: https://www.cancer.gov/publications/dictionaries/cancer-terms/def/organism-strain
