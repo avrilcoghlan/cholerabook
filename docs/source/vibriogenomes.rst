@@ -149,7 +149,7 @@ particular characteristics (e.g. colouring, size), and be quite different in tho
 
 .. _The poultry of the world. Portraits of all known valuable breeds of fowl: https://commons.wikimedia.org/wiki/File:Poultry_of_the_world.jpg
 
-Similarly, there can be many lineages within a particular bacterial species.
+Similar to breeds of chicken, there can be many **lineages** within a particular bacterial species.
 For a particular bacterial species, the isolates of one lineage are more similar to each other genetically, and shared
 a more recent common ancestor with each other, compared to isolates of a different lineage. Isolates of the same lineage
 tend to share particular characteristics (e.g. ecological niche, metabolism, pathogenic potential). 
