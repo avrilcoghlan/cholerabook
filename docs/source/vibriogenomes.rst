@@ -138,8 +138,8 @@ Epidemic and Non-epidemic Lineages of *Vibrio cholerae*
 
 What types of domestic animals do people keep in your country? Is it chickens, dogs, goats, pigs, horses, or something else?
 You are probably familiar with the idea that each of these animals is just one species, but that there are many breeds of each of these animals.
-For example, all chickens belong to the same species (*Gallus gallus*), and chickens of the same breed are more similar to each other genetically, and shared
-a more recent common ancestor with each other, compared to chickens of a different breed. In addition, chickens of the same breed tend to share
+For example, all chickens belong to the same species (*Gallus gallus*), and two chickens of the same breed are more similar to each other genetically, and share
+a more recent common ancestor with each other, compared to two chickens of a different breed. In addition, two chickens of the same breed tend to share
 particular characteristics (e.g. colouring, size), and be quite different in those respects to chickens from another breed (Figure 5).
 
 .. figure:: Poultry_of_the_world.jpg
