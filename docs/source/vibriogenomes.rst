@@ -162,6 +162,10 @@ The N16961 laboratory strain belongs to the 7PET lineage of *V. cholerae*.
 
 .. _Heidelberg et al 2000: https://pubmed.ncbi.nlm.nih.gov/10952301/
 
+*Vibrio cholerae* is a very diverse species with many different lineages. A small subset of the lineages have
+been named, and are shown in Figure 6. There is only one lineage of *V. cholerae* which causes epidemic cholera at present, which is
+known as the **'7PET'** lineage (Figure 6). 
+
 .. figure:: Lineages_Cartoon.png
   :width: 550
 
@@ -175,9 +179,6 @@ The N16961 laboratory strain belongs to the 7PET lineage of *V. cholerae*.
 
 .. _Islam et al 2021: https://pubmed.ncbi.nlm.nih.gov/34132593/
 
-*Vibrio cholerae* is a very diverse species with many different lineages. A small subset of the lineages have
-been named, and are shown in Figure 6. There is only one lineage of *V. cholerae* which causes epidemic cholera at present, which is
-known as the **'7PET'** lineage (Figure 6). 
 What do we mean when we say 7PET causes **'epidemic cholera'**?
 The word 'epidemic' is defined by the CDC (Centers for Disease Control and Prevention) as an unexpected increase in the number of disease cases in a specific geographical area;
 they say that an outbreak is defined in the same way but for a more limited geographic area (see the `CDC website`_).
