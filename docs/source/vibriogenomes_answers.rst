@@ -49,5 +49,5 @@ I will be grateful if you will send me (Avril Coghlan) corrections or suggestion
 Acknowledgements
 ----------------
 
-Contributors to this course: Avril Coghlan, Matt Dorman, Ismail Bashir, Anne Bishop, Jolynne Mokaya, Nisha Singh, Nick Thomson. 
+Contributors to this course: Avril Coghlan, Matt Dorman, Ismail Bashir, Anne Bishop, Amber Barton, Stephanie McGimpsey, Jolynne Mokaya, Nisha Singh, Nick Thomson. 
 
