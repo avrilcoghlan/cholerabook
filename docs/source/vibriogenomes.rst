@@ -182,7 +182,7 @@ known as the **'7PET'** lineage (Figure 6).
 What do we mean when we say 7PET causes **'epidemic cholera'**?
 The word 'epidemic' is defined by the CDC (Centers for Disease Control and Prevention) as an unexpected increase in the number of disease cases in a specific geographical area;
 they say that an outbreak is defined in the same way but for a more limited geographic area (see the `CDC website`_).
-Here, when we say 7PET causes **'epidemic cholera'** or is **'epidemic-causing'** or an **'epidemic lineage'*** or a '**pandemic lineage**', 
+Here, when we say 7PET causes **'epidemic cholera'** or is **'epidemic-causing'** or an **'epidemic lineage'***, 
 we mean that 7PET can cause a very large increase in the number
 of cases of diarrhoeal illness caused by *V. cholerae* in a particular town/city/region over a relatively short period of time. 
 
