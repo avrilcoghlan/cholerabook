@@ -150,8 +150,8 @@ particular characteristics (e.g. colouring, size), and be quite different in tho
 .. _The poultry of the world. Portraits of all known valuable breeds of fowl: https://commons.wikimedia.org/wiki/File:Poultry_of_the_world.jpg
 
 Similar to breeds of chicken, there can be many **lineages** within a particular bacterial species.
-For a particular bacterial species, the isolates of one lineage are more similar to each other genetically, and shared
-a more recent common ancestor with each other, compared to isolates of a different lineage. Isolates of the same lineage
+For a particular bacterial species, two isolates of one lineage are more similar to each other genetically, and share
+a more recent common ancestor with each other, compared to two isolates of different lineages. Isolates of the same lineage
 tend to share particular characteristics (e.g. ecological niche, metabolism, pathogenic potential). 
 Note that some people refer to bacterial lineages as 'strains', but we prefer here to use the term 'lineages', 
 because the term 'strain' is also commonly used to refer to a single bacterial isolate that has been cultured over time in a laboratory.
