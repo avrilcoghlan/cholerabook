@@ -246,7 +246,9 @@ The species *V. cholerae* is distributed globally and, as mentioned above, it is
 .. figure:: LineageDistributions.png
   :width: 1050
 
-  Figure 7. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the non-epidemic lineage MX-2, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database. The number of genomes for the 7PET lineage is far greater than that for MX-2, probably reflecting the fact that 7PET has caused a far greater number of outbreaks and far larger outbreaks than MX-2, which has led to much more sequencing of the 7PET lineage from the stool of sick people. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image attribution: this image by `Avril Coghlan`_, based on a screenshot from the `Pathogenwatch website`_, is licensed under `CC BY 4.0`_.
+  Figure 7. The global distribution of the bacterium *V. cholerae*, for two of the many different lineages of *V. cholerae*, (a) the non-epidemic lineage MX-2, and (b) the current pandemic lineage (7PET lineage). The numbers in purple circles indicate the number of *V. cholerae* isolates collected in each country, whose whole genomes have been included in the `Vibriowatch`_ database (the *V. cholerae* part of Pathogenwatch). The number of genomes for the 7PET lineage is far greater than that for MX-2, probably reflecting the fact that 7PET has caused a far greater number of outbreaks and far larger outbreaks than MX-2, which has led to much more sequencing of the 7PET lineage from the stool of sick people. Genomes were assigned to lineages using a software called `PopPUNK`_, which we will discuss later in this course. Image attribution: this image by `Avril Coghlan`_, based on a screenshot from the `Pathogenwatch website`_, is licensed under `CC BY 4.0`_.
+
+.. _Pathogenwatch: https://pathogen.watch/
 
 .. _Pathogenwatch website: https://pathogen.watch/
 
