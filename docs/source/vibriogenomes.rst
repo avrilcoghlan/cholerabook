@@ -214,7 +214,7 @@ we will be discussing the *V. cholerae* genome and WGS in module 1.4.
 In addition to the epidemic-causing 7PET lineage, there are also many **non-epidemic lineages** of *V. cholerae* found around the world that do not cause epidemic
 cholera, but sometimes cause small outbreaks of mild diarrhoea. An example is lineage MX-2 (this is actually part of the lineage named 'L3b' in Figure 6). 
 The vast majority of the non-epidemic lineages of *V. cholerae* do not produce cholera toxin, but isolates of some
-non-epidemic lineages, including some isolates of MX-2, have the genes (*ctxA* and *ctxB*, which we mentioned above) encoding the cholera toxin
+non-epidemic lineages, including some isolates of MX-2, have the genes encoding the cholera toxin (genes *ctxA* and *ctxB*, which we mentioned above)
 and so are predicted to produce cholera toxin (`Domman et al 2017`_).
 
 Over time, some lineages of *V. cholerae* have been named as they have been identified, but so far there is not a
