@@ -413,17 +413,31 @@ do evolve to be become far more infectious and/or far more virulent (e.g. , `Hao
 Cholera Vaccines
 ----------------
 
-Currently there are three oral cholera vaccines (OCVs) that are pre-qualified by the WHO for vaccinating against the 7PET lineage of *V. cholerae*:
-Dukoral®, Shanchol™, and Euvichol® (`WHO 2017`_).
+Currently there are three **oral cholera vaccines** (OCVs) that are pre-qualified by the WHO: Dukoral®, Shanchol™, and Euvichol® (`WHO 2017`_). 
+These are complementary to other key cholera control measures such as 
+improving access to clean potable water, adequate sanitation and promotion of good water, sanitation and hygiene (WASH) practices (`WHO 2017`_).
+These vaccines all require two doses for full protection. Shanchol™ and Euvichol® are the vaccines available for mass vaccination campaigns 
+through the Global OCV Stockpile, which is supported by `Gavi`_,  the Vaccine Alliance (see `the WHO website`_). 
+Shanchol™ and Euvichol® are basically the same vaccine produced by two different manufacturers (see `the WHO website`_).. 
+Two doses of Shanchol™ and Euvichol® protect against cholera for 3 years, while a single dose provides protection for a shorter period (see `the WHO website`_, `WHO 2017`_). 
+In the last few years there has unfortunately been a global shortage of cholera vaccine, so the global stockpile of OCV must be very carefully managed.
 
 .. _WHO 2017: https://iris.who.int/bitstream/handle/10665/258763/WER9234.pdf?sequence=1
+
+.. _Gavi: https://www.gavi.org/
+
+.. _the WHO website: https://www.who.int/teams/immunization-vaccines-and-biologicals/diseases/cholera
 
 .. image:: Activity.png
   :width: 1050
 
 * Watch this `interview in 2021 with Dr Firdausi Qadri, a leading cholera researcher who works in the International Centre for Diarrhoeal Disease and Research, Bangladesh (ICDDR,B)`_  (24 minutes). 
 
+* Watch this `talk by Dr Tedros Adhanom Ghebreyesus of the WHO, on cholera vaccination and the global shortage of OCV`_ (2 minutes). 
+
 .. _interview in 2021 with Dr Firdausi Qadri, a leading cholera researcher who works in the International Centre for Diarrhoeal Disease and Research, Bangladesh (ICDDR,B): https://www.youtube.com/watch?v=AmuXQzZW58M
+
+.. _talk by Dr Tedros Adhanom Ghebreyesus of the WHO, on cholera vaccination and the global shortage of OCV: https://www.youtube.com/watch?v=F1mbjfclMkA
 
 Brief Summary
 -------------
