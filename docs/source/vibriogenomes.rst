@@ -363,6 +363,11 @@ Indeed, compared to cholera outbreaks/epidemics caused by 7PET, outbreaks caused
 *V. cholerae* lineages are far smaller and in general cause relatively milder diarrhoeal illness (`Morris 1990`_, `Morris 2003`_).
 In contrast, the cholera epidemic in Yemen that began in 2016 (and is still continuing) caused
 approximately 2.5 million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`Ng et al 2020`_, `WHO 2020`_; Figure 10).
+Furthermore, during huge cholera epidemics such as that in Yemen, and in Latin America in the early 1990s, the vast majority of cholera cases
+have been found to be due to 7PET, and a relatively small minority (e.g. 8% in Yemen; `Lassalle et al 2023`_) were due to non-epidemic lineages 
+(Figure 10; `Domman et al 2017`_, `Lassalle et al 2023`_). 
+It is likely that during such huge epidemics caused by 7PET such as that in Yemen, increased surveillance of diarrhoeal cases leads to 
+some cases caused by non-epidemic lineages also being detected.
 
 .. _Morris 1990: https://pubmed.ncbi.nlm.nih.gov/2286218/
 
@@ -371,6 +376,8 @@ approximately 2.5 million suspected cholera cases and appproximately 4000 deaths
 .. _WHO 2020: https://applications.emro.who.int/docs/WHOEMCSR314E-eng.pdf
 
 .. _Ng et al 2020: https://pubmed.ncbi.nlm.nih.gov/32752599/
+
+.. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
 .. figure:: YemenCholera2.png
   :width: 800
