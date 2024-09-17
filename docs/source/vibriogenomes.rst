@@ -389,7 +389,7 @@ Due to its high virulence (ability to cause acute watery diarrhoea) and epidemic
 posing a particular risk in locations with humanitarian disasters in which sanitation and healthcare systems are disrupted (as occurred in Haiti and Yemen). 
 In contrast, non-epidemic lineages of *V. cholerae* cause relatively much smaller outbreaks.
 Therefore our focus in this course will be primarily on 7PET, and not the non-epidemic lineages of *V. cholerae*. 
-However, the non-epidemic lineages are of local public health concern in regions in which they cause relatively frequent isolated clinical cases or 
+However, the non-epidemic lineages are of local public health concern in regions in which they are observed to relatively frequently cause isolated clinical cases or 
 even outbreaks, e.g. beside the Gulf of Mexico in the USA (`Haley et al 2014`_), beside the Austrian lakes (`Lepuschitz et al 2019`_), or L3b/L9 cases
 in China (`Hao et al 2023`_). Furthermore, some epidemiologists are monitoring the non-epidemic lineages of *V. cholerae*, in case at some point in future they 
 do evolve to be become far more infectious and/or far more virulent (e.g. , `Hao et al 2023`_, `Smith et al 2021`_).
