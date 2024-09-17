@@ -355,10 +355,9 @@ Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal ill
 
 .. _The distribution of Vibrio cholerae isolates in different lineages in Hangzhou, China from 2000 to 2018: https://www.sciencedirect.com/science/article/pii/S1567134823000394?via%3Dihub
 
-Note that L3b and L9 are alternative names for the lineages labelled MX-2 and ELA-3, respectively, in the tree in Figure 12 above
+Note that L3b and L9 are alternative names for the lineages labelled MX-2 and ELA-3, respectively, shown in Figure 6 above
 (strictly speaking, MX-2 is a part of L3b and ELA-3 is a part of L9). Don't worry about remembering the names of these non-epidemic
-lineages; the key point here is that non-epidemic lineages of *V. cholerae* exist, but are of relatively minor public health importance
-compared to 7PET. 
+lineages; the key point here is that non-epidemic lineages of *V. cholerae* exist, but cause far smaller outbreaks compared to 7PET.
 
 Indeed, compared to cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L9 and other non-epidemic
 *V. cholerae* lineages are far smaller and in general cause relatively milder diarrhoeal illness (`Morris 1990`_, `Morris 2003`_).
