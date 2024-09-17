@@ -359,7 +359,7 @@ Note that L3b and L9 are alternative names for the lineages labelled MX-2 and EL
 (strictly speaking, MX-2 is a part of L3b and ELA-3 is a part of L9). Don't worry about remembering the names of these non-epidemic
 lineages; the key point here is that non-epidemic lineages of *V. cholerae* exist, but cause far smaller outbreaks compared to 7PET.
 
-Indeed, compared to cholera outbreaks/epidemics caused by 7PET, outbreaks of L3b/L9 and other non-epidemic
+Indeed, compared to cholera outbreaks/epidemics caused by 7PET, outbreaks caused by L3b/L9 and other non-epidemic
 *V. cholerae* lineages are far smaller and in general cause relatively milder diarrhoeal illness (`Morris 1990`_, `Morris 2003`_).
 In contrast, the cholera epidemic in Yemen that began in 2016 (and is still continuing) caused
 approximately 2.5 million suspected cholera cases and appproximately 4000 deaths from 2016-2020 (`Ng et al 2020`_, `WHO 2020`_; Figure 10).
