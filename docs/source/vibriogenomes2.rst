@@ -41,8 +41,8 @@ O1, O2, O3, ... O210 (`Murase et al 2022`_). To determine whether a particular *
 relatively rapid laboratory test, to see if the *V. cholerae* cells will agglutinate in O1 antisera (containing anti-O1-antigen antibodies) (`CDC 1994`_); while to determine whether a
 *V. cholerae* isolate belongs to the O2 serogroup, one must test for agglutination in O2 antisera (containing anti-O2-antigen antibodies). In other words, the serogroup
 is a laboratory phenotype that reflects the surface structure of the O-antigen. 
-Antiserium raised against the *V. cholerae* O1 antigen, or *V. cholerae* O139 antigen, usually raised in rabbits,
-are commercially available and can be used in slide agglutinationtests (`Kaper et al 1995`_). 
+Antisera raised against the *V. cholerae* O1 antigen, or *V. cholerae* O139 antigen, usually raised in rabbits,
+are commercially available and can be used in slide agglutination tests (`Kaper et al 1995`_). 
 
 .. _Murase et al 2022: https://pubmed.ncbi.nlm.nih.gov/35930328/
 
