@@ -400,7 +400,7 @@ do evolve to be become far more infectious and/or far more virulent (e.g. , `Hao
 
 .. _Lepuschitz et al 2019: https://pubmed.ncbi.nlm.nih.gov/31781080/
 
-.._ Haley et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699521/
+.. _Haley et al 2014: https://pubmed.ncbi.nlm.nih.gov/24699521/
 
 Cholera Vaccines
 ----------------
