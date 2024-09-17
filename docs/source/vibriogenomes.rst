@@ -224,7 +224,7 @@ Over time, some lineages of *V. cholerae* have been named as they have been iden
 standard naming system for *V. cholerae* lineages. Some lineages were named after the geographical
 location where they were originally isolated, e.g. the MX-2 lineage was originally isolated in Mexico (`Domman et al 2017`_) and the Sudan
 lineage was originally isolated in Sudan (`Dorman & Thomson 2023`_) but in fact neither are restricted to those countries (`Dorman & Thomson 2023`_; Figure 7 below).
-Similarly, the ELA-5 lineage was first isolated in Latin America (its name derives from 'Endemic Latin American'). On the other hand, some lineages such
+Similarly, the ELA-5 lineage was first isolated in Latin America (its name derives from 'Endemic Latin American'; `Domman et al 2017`_). On the other hand, some lineages such
 as 7PET and Classical are named after a phenotypic characteristic of those lineages called the biotype, which we will discuss in Module 1.2.
 Note that, confusingly, in some cases there are alternative names for the same lineage given by different authors; `Mutreja et al 2011`_ assigned
 L-numbers (e.g. L1, L2, L3, etc.) to lineages, while `Domman et al 2017`_ assigned names such as MX-1, MX-2 and ELA-5. We have
