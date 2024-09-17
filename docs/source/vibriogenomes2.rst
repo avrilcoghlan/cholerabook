@@ -96,9 +96,9 @@ and so the new biotype of *V. cholerae* was named the '**El Tor biotype**', to d
 described as having the '**Classical biotype**'. 
 These biotypes are based on a particular set of laboratory tests (about four
 or five laboratory tests, depending on the version of the protocol), which test things like susceptibility to infection by particular bacteriophages,
-susceptibility to a particular antibiotic, presence of a particular biochemical pathway, and effect on red blood cells (Figure 2; `Cvjetanovic & Barua 1972`_, `CDC 1994`_, `Dorman 2020`_).
+susceptibility to a particular antibiotic, presence of a particular biochemical pathway, and effect on red blood cells (Figure 2; `Cvjetanovic & Barua 1972`_, `CDC 1994`_, `Kaper et al 1995`_, `Dorman 2020`_).
 Isolates of the 7PET lineage have the El Tor biotype, and in fact the name '7PET' stands for '7th pandemic El Tor'.
-In contrast, Classical lineage isolates have the Classical biotype.
+In contrast, Classical lineage isolates (almost always) have the Classical biotype (`Kaper et al 1995`_).
 
 .. _Hu et al 2016: https://pubmed.ncbi.nlm.nih.gov/27849586/
 
@@ -109,6 +109,8 @@ In contrast, Classical lineage isolates have the Classical biotype.
 .. _Chastel 2007: https://www.biusante.parisdescartes.fr/sfhm/hsm/HSMx2007x041x001/HSMx2007x041x001x0071.pdf
 
 .. _Cvjetanovic & Barua 1972: https://pubmed.ncbi.nlm.nih.gov/4561957/
+
+.. _Kaper et al 1995: https://pubmed.ncbi.nlm.nih.gov/7704895/
 
 .. figure:: Biotype.png
   :width: 600
