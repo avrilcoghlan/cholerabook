@@ -419,7 +419,7 @@ improving access to clean potable water, adequate sanitation and promotion of go
 These vaccines all require two doses for full protection. Shanchol™ and Euvichol® are the vaccines available for mass vaccination campaigns 
 through the Global OCV Stockpile, which is supported by `Gavi`_,  the Vaccine Alliance (see the `WHO website`_). 
 Shanchol™ and Euvichol® are basically the same vaccine produced by two different manufacturers (see the `WHO website`_). 
-Two doses of Shanchol™ and Euvichol® provide protection for 3 years, while a single dose provides protection for a shorter period (see `the WHO website`_, `WHO 2017`_). 
+Two doses of Shanchol™ and Euvichol® provide protection for 3 years, while a single dose provides protection for a shorter period (see the `WHO website`_, `WHO 2017`_). 
 In the last few years there has unfortunately been a global shortage of cholera vaccine, so the global stockpile of OCV must be very carefully managed.
 
 .. _WHO 2017: https://iris.who.int/bitstream/handle/10665/258763/WER9234.pdf?sequence=1
