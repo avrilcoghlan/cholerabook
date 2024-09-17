@@ -385,7 +385,8 @@ approximately 2.5 million suspected cholera cases and appproximately 4000 deaths
 
 .. _Lassalle et al 2023: https://pubmed.ncbi.nlm.nih.gov/37770747/
 
-Due to its high virulence (ability to cause acute watery diarrhoea) and epidemic-causing/pandemic-causing potential, the 7PET lineage is of major global public health concern,
+Due to its high virulence (ability to cause acute watery diarrhoea by producing cholera toxin) and 
+epidemic-causing/pandemic-causing nature, the 7PET lineage is of major global public health concern,
 posing a particularly high risk in locations with humanitarian disasters in which sanitation and healthcare systems are disrupted (as occurred in Haiti and Yemen). 
 In contrast, non-epidemic lineages of *V. cholerae* cause relatively much smaller outbreaks and are not epidemic-causing/pandemic-causing.
 Therefore our focus in this course will be primarily on 7PET, and not the non-epidemic lineages of *V. cholerae*. 
