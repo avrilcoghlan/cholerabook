@@ -413,7 +413,10 @@ do evolve to be become far more infectious and/or far more virulent (e.g. , `Hao
 Cholera Vaccines
 ----------------
 
-Need to add material here.
+Currently there are three oral cholera vaccines (OCVs) that are pre-qualified by the WHO for vaccinating against the 7PET lineage of *V. cholerae*:
+Dukoral®, Shanchol™, and Euvichol® (`WHO 2017`_).
+
+.. _WHO 2017: https://iris.who.int/bitstream/handle/10665/258763/WER9234.pdf?sequence=1
 
 .. image:: Activity.png
   :width: 1050
