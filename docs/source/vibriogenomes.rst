@@ -446,6 +446,15 @@ In the last few years there has unfortunately been a global shortage of cholera 
 
 .. _article by Dr Jan Holmgren, who developed the world’s first effective oral cholera vaccine, on the latest developments in cholera vaccines: https://wellcome.org/news/how-vaccines-and-research-can-help-prevent-cholera-outbreaks
 
+Now answer these questions:
+
+* Q4. Bla
+* Q5. Bla
+
+You can see the answers on the `Answers page for Module 1`_.
+
+.. _Answers page for Module 1: https://cholerabook.readthedocs.io/en/latest/vibriogenomes_answers.html
+
 Brief Summary
 -------------
 
