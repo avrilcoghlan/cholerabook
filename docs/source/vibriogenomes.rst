@@ -434,22 +434,23 @@ In the last few years there has unfortunately been a global shortage of cholera 
 .. image:: Activity.png
   :width: 1050
 
-* Watch this `interview in 2021 with Dr Firdausi Qadri, a leading cholera researcher who works in the International Centre for Diarrhoeal Disease and Research, Bangladesh (ICDDR,B)`_  (24 minutes). 
+* Watch this `interview in 2021 during the COVID-19 pandemic with Dr Firdausi Qadri, a leading cholera researcher who works in the International Centre for Diarrhoeal Disease and Research, Bangladesh (ICDDR,B)`_, interviewed by medical doctor and scientist Dr Shamim Sinnar (24 minutes). 
 
-* Watch this `talk by Dr Tedros Adhanom Ghebreyesus, Director General of the World Health Organization, on cholera vaccination and the global shortage of OCV`_ (2 minutes). 
+* Watch this `talk in 2022 by Dr Tedros Adhanom Ghebreyesus, Director General of the World Health Organization, on cholera vaccination and the global shortage of OCV`_ (2 minutes). 
 
-* Read or listen to this `article by Dr Jan Holmgren, who developed the world’s first effective oral cholera vaccine, on the latest developments in cholera vaccines`_. 
+* Read or listen to this `article written in 2024 by Dr Jan Holmgren, who developed the world’s first effective oral cholera vaccine, on the latest developments in cholera vaccines`_. 
 
-.. _interview in 2021 with Dr Firdausi Qadri, a leading cholera researcher who works in the International Centre for Diarrhoeal Disease and Research, Bangladesh (ICDDR,B): https://www.youtube.com/watch?v=AmuXQzZW58M
+.. _interview in 2021 during the COVID-19 pandemic with Dr Firdausi Qadri, a leading cholera researcher who works in the International Centre for Diarrhoeal Disease and Research, Bangladesh (ICDDR,B): https://www.youtube.com/watch?v=AmuXQzZW58M
 
-.. _talk by Dr Tedros Adhanom Ghebreyesus, Director General of the World Health Organization, on cholera vaccination and the global shortage of OCV: https://www.youtube.com/watch?v=F1mbjfclMkA
+.. _talk in 2022 by Dr Tedros Adhanom Ghebreyesus, Director General of the World Health Organization, on cholera vaccination and the global shortage of OCV: https://www.youtube.com/watch?v=F1mbjfclMkA
 
-.. _article by Dr Jan Holmgren, who developed the world’s first effective oral cholera vaccine, on the latest developments in cholera vaccines: https://wellcome.org/news/how-vaccines-and-research-can-help-prevent-cholera-outbreaks
+.. _article written in 2024 by Dr Jan Holmgren, who developed the world’s first effective oral cholera vaccine, on the latest developments in cholera vaccines: https://wellcome.org/news/how-vaccines-and-research-can-help-prevent-cholera-outbreaks
 
 Now answer these questions:
 
-* Q4. Bla
-* Q5. Bla
+* Q4. If you suffer severe cholera, how long are you protected for (ie., protection from natural infection, rather than vaccination)? 
+* Q5. What is the efficacy of the current oral cholera vaccines? 
+* Q6. What are the names of two second-generation oral cholera vaccines that have recently been launched? 
 
 You can see the answers on the `Answers page for Module 1`_.
 
