@@ -261,8 +261,8 @@ The species *V. cholerae* is distributed globally and, as mentioned above, it is
 .. _Avril Coghlan: https://www.linkedin.com/in/avril-coghlan-4409545/?originalSubdomain=uk
 
 The non-epidemic lineages of *V. cholerae* such as MX-2 (see above) are often found in brackish water or in saltwater (e.g. in coastal regions or estuaries) in association with shellfish 
-such as crabs, oysters and shrimp (Figure 6 above; Figure 8; `Morris 1990`_; `Morris 2003`_; `Lutz et al 2013`_). However, non-epidemic lineages of *V. cholerae* have not only been found in
-brackish water or saltwater; non-epidemic lineages of *V. cholerae* have also been found in freshwater in inland rivers or freshwater lakes (Figure 6 above; `Morris 1990`_; `Lepuschitz et al 2019`_). 
+such as crabs, oysters and shrimp (Figure 6 above, Figure 8, `Morris 1990`_, `Morris 2003`_, `Lutz et al 2013`_). However, non-epidemic lineages of *V. cholerae* have not only been found in
+brackish water or saltwater; non-epidemic lineages of *V. cholerae* have also been found in freshwater in inland rivers or freshwater lakes (Figure 6 above, `Morris 1990`_, `Lepuschitz et al 2019`_). 
 
 .. _Domman et al 2017: https://pubmed.ncbi.nlm.nih.gov/29123068/
 
@@ -286,12 +286,12 @@ brackish water or saltwater; non-epidemic lineages of *V. cholerae* have also be
 .. _CC BY 3.0: https://creativecommons.org/licenses/by/3.0/
 
 Because non-epidemic *V. cholerae* are often associated with shellfish such as crabs, oysters and shrimp, in many coastal regions around the world, 
-occasional small outbreaks of mild diarrhoeal illness are caused by eating shellfish that contains non-epidemic *V. cholerae* (`Morris 1990`_; `Morris 2003`_). 
+occasional small outbreaks of mild diarrhoeal illness are caused by eating shellfish that contains non-epidemic *V. cholerae* (`Morris 1990`_, `Morris 2003`_). 
 However, non-epidemic lineages *V. cholerae* are also found in freshwater lakes and rivers, and indeed some human infections 
-have been linked to exposure to river or lake water containing non-epidemic *V. cholerae* (`Morris 1990`_; `Lepuschitz et al 2019`_).
+have been linked to exposure to river or lake water containing non-epidemic *V. cholerae* (`Morris 1990`_, `Lepuschitz et al 2019`_).
 As well as causing mild diarrhoeal illness, non-epidemic lineages of *V. cholerae* have also been isolated 
 from a variety of extraintestinal infections, including wounds, ear, sputum,
-urine, and cerebrospinal fluid (`Morris 1990`_; `Kaper et al 1995`_, `Morris 2003`_, `Lepuschitz et al 2019`_).
+urine, and cerebrospinal fluid (`Morris 1990`_, `Kaper et al 1995`_, `Morris 2003`_, `Lepuschitz et al 2019`_).
 
 .. _Morris 2003: https://pubmed.ncbi.nlm.nih.gov/12856219/
 
@@ -321,7 +321,7 @@ Diarrhoeal Illness Caused by Epidemic and Non-epidemic Lineages of *V. cholerae*
 
 Globally the 7PET lineage has caused a far greater number of outbreaks and far larger outbreaks than non-epidemic lineages of *V. cholerae*. 
 The 7PET lineage, which has caused the current cholera pandemic, and the Classical lineage, which caused a cholera pandemic in the early 1900s but is now thought
-to be extinct or almost extinct (`Ramamurthy et al 2019`_; Figure 6), are the only known epidemic lineages of *V. cholerae*.
+to be extinct or almost extinct (`Ramamurthy et al 2019`_, Figure 6), are the only known epidemic lineages of *V. cholerae*.
 The many other lineages of *V. cholerae* that we know about are not epidemic-causing, although they occasionally cause relatively small outbreaks of diarrhoeal illness in
 tens or (at most) a hundred or so people (`Morris 1990`_). In contrast, 7PET is the only current *V. cholerae* lineage
 that causes large epidemics or pandemics of many thousands of cases, or even millions of 
@@ -336,8 +336,8 @@ cases as seen in the Yemen cholera epidemic that began in 2016 and continues to 
 .. _Ramamurthy et al 2019: https://pubmed.ncbi.nlm.nih.gov/31396501/
 
 Of the non-epidemic *V. cholerae* lineages, the two lineages that have caused the most cases of diarrhoeal illness
-since 2000 are thought to be lineages 'L3b' and 'L9' (Figure 6; `Hao et al 2023`_). For example, these two non-epidemic lineages
-have caused several hundred cases of diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_; Figure 9).
+since 2000 are thought to be lineages 'L3b' and 'L9' (Figure 6, `Hao et al 2023`_). For example, these two non-epidemic lineages
+have caused several hundred cases of diarrhoeal illness in Hangzhou, China between 2001 and 2018 (`Hao et al 2023`_, Figure 9).
 Lineage L3b has also been linked to relatively small outbreaks of diarrhoeal illness in South Africa (`Smith et al 2021`_).
 
 .. _Hao et al 2023: https://pubmed.ncbi.nlm.nih.gov/37146742/
@@ -400,7 +400,7 @@ Therefore our focus in this course will be primarily on 7PET, and not the non-ep
 However, the non-epidemic lineages are of local public health concern in regions in which they are observed to relatively frequently cause isolated clinical cases or 
 even outbreaks, e.g. beside the Gulf of Mexico in the USA (`Haley et al 2014`_), beside the Austrian lakes (`Lepuschitz et al 2019`_), or outbreaks caused
 by the L3b/L9 lineages in China (`Hao et al 2023`_). Furthermore, some epidemiologists are monitoring the non-epidemic lineages of *V. cholerae*, in case at some point in future they 
-do evolve to be become far more infectious and/or far more virulent (e.g. , `Hao et al 2023`_, `Smith et al 2021`_).
+do evolve to be become far more infectious and/or far more virulent (e.g. `Hao et al 2023`_, `Smith et al 2021`_).
 
 .. _Hao et al 2023: https://pubmed.ncbi.nlm.nih.gov/37146742/
 
