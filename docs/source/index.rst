@@ -9,7 +9,12 @@ This course includes all you want to know about sequencing and analyses of *V. c
 
 The course includes both theoretical material and bioinformatics teachings.
 
-Theoretical material on topics relevant to *V. cholerae* genomics includes:
+The course will teach how to carry out bioinformatics analyses using `Vibriowatch`_, as well as other bioinformatics tools.
+If you already have cholera genomic data to analyse, and want to get going quickly, you may also be interested in our `Vibriowatch`_ tutorial.
+
+.. _Vibriowatch: https://vibriowatch.readthedocs.io
+
+Theoretical material in this course on topics relevant to *V. cholerae* genomics includes:
 
 * The disease cholera and its epidemiology.
 * The species *Vibrio cholerae*, and its geographic distribution. 
