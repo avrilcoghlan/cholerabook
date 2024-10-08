@@ -171,7 +171,7 @@ The N16961 laboratory strain belongs to the 7PET lineage of *V. cholerae*.
 been named, and are shown in Figure 6. There is only one lineage of *V. cholerae* which causes epidemic cholera at present, which is
 known as the **'7PET'** lineage (Figure 6). 
 
-.. figure:: LineagesCartoon.png
+.. figure:: LineagesCartoonV2.png
   :width: 550
 
   Figure 6. Some known lineages of *V. cholerae* that have been named. The current pandemic lineage of *V. cholerae* is the 7PET lineage, which has caused all the major outbreaks and epidemics of cholera since the 1960s. While this figure shows some named lineages of *V. cholerae*, is likely that there are many more lineages of *V. cholerae* that have not yet been named (`Domman et al 2017`_). *Vibrio paracholerae* was originally thought to be a very diverged lineage of *V. cholerae*, but has recently been proposed to be a separate, closely related, species (`Islam et al 2021`_). Image attribution: this image by `Avril Coghlan`_ is licensed under `CC BY 4.0`_.
